@@ -1,0 +1,50 @@
+{
+  "id": "band.logo-marquee",
+  "category": "proof",
+  "purpose": "Scrolling/static row of real partner logos with an optional label.",
+  "measuredFrom": "src/components/bands/index.jsx:125-163 (LogoMarquee)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "label": {
+        "type": "string",
+        "maxWords": 8
+      },
+      "items": {
+        "type": "array",
+        "minItems": 3,
+        "maxItems": 20,
+        "items": {
+          "type": "object",
+          "properties": {
+            "assetRole": {
+              "const": "third-party-logo"
+            },
+            "alt": {
+              "type": "string",
+              "maxWords": 6
+            }
+          },
+          "required": [
+            "assetRole",
+            "alt"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "label",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 2
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

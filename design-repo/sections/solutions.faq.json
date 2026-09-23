@@ -1,0 +1,51 @@
+{
+  "id": "solutions.faq",
+  "category": "content",
+  "purpose": "Vertical-specific FAQ accordion.",
+  "measuredFrom": "src/components/solutions/index.jsx:434-454 (Faq)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "items": {
+        "type": "array",
+        "minItems": 3,
+        "maxItems": 16,
+        "items": {
+          "type": "object",
+          "properties": {
+            "q": {
+              "type": "string",
+              "maxWords": 20
+            },
+            "a": {
+              "type": "string",
+              "maxWords": 120
+            }
+          },
+          "required": [
+            "q",
+            "a"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "heading",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

@@ -1,0 +1,43 @@
+{
+  "repositoryId": "heidi-clone-design-repo",
+  "repositoryVersion": "1.0.0",
+  "pageSpecVersion": "1.0.0",
+  "versionFieldNote": "allowlistVersion is machine-enforced -- extraction/verify_all.py fails the run if tokens/llm/component-allowlist.json's own allowlistVersion drifts from this field. repositoryVersion and pageSpecVersion are documentation-only, hand-maintained markers with nothing automatically checking them.",
+  "status": "design-review-pending",
+  "productionApproved": false,
+  "sourceProject": {
+    "name": "Heidi Health clone (React/Vite rebuild)",
+    "note": "A React 18.3.1 + Vite 5.4 + Tailwind 3.4 + react-router-dom 6.30 clone of the real, live commercial site heidihealth.com. The ORIGINAL live site runs Next.js (App Router) -- this clone deliberately rebuilds in Vite, it does not use Next.js. See CLONE_SPEC.md line 5 for the original framework observation and package.json for this project's real stack."
+  },
+  "defaultTheme": "light",
+  "schemaValidatedThemes": ["light"],
+  "allowlistVersion": "1.0.0",
+  "counts": {
+    "tokens": 18,
+    "primitives": 7,
+    "components": 6,
+    "sections": 80,
+    "templates": 26,
+    "routes": 40
+  },
+  "countsNote": "Recomputed from disk by extraction/verify_all.py's check_manifest_counts() on every run -- not hand-bumped. A scratch-copy test that injects a wrong count here is included in this build's verification pass.",
+  "entryPoints": [
+    "README.md",
+    "CHANGELOG.md",
+    "registry.manifest.json",
+    "tokens/llm/component-allowlist.json",
+    "tokens/llm/token-catalog.json",
+    "tokens/llm/token-policy.json",
+    "tokens/llm/asset-roles.json",
+    "templates/templates.json",
+    "compatibility/graph.json",
+    "schema/pagespec.schema.json",
+    "schema/example.pagespec.json",
+    "schema/semantic_validate.py",
+    "schema/tests/adversarial_test.py",
+    "extraction/measured-values.json",
+    "extraction/verify_all.py"
+  ],
+  "entryPointsNote": "Every path above is inside this design-repo/ folder -- no '../' paths to the Heidi app's own src/ or CLONE_SPEC.md. Those are real, valuable evidence sources during the build, but they live outside this package; their citations are captured in extraction/measured-values.json instead, which degrades gracefully (a warning, not a failure) when no sibling source tree is present in a standalone copy.",
+  "complianceNote": "Heidi Health is a real, live commercial healthcare company. See tokens/llm/asset-roles.json for the closed assetRole enum and its per-role AI-generation (may-generate-new / must-reuse-exact / must-not-fabricate) and licensing guidance -- real Heidi Health logos, real customer/clinician photos, real proprietary product screenshots, and real third-party compliance badges must never be reproduced or fabricated by a generator using this design-repo."
+}

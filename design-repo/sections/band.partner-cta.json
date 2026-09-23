@@ -1,0 +1,50 @@
+{
+  "id": "band.partner-cta",
+  "category": "conversion",
+  "purpose": "Small fixed-copy conversion strip ('Start practicing with a partner').",
+  "measuredFrom": "src/components/bands/index.jsx:401-424 (PartnerCta)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "sub": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "title",
+      "sub",
+      "cta"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

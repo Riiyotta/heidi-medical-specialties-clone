@@ -1,0 +1,2073 @@
+[
+ {
+  "i": 0,
+  "box": {
+   "w": 1440,
+   "h": 890
+  },
+  "secBox": {
+   "x": 80,
+   "y": 48,
+   "w": 1280,
+   "h": 762
+  },
+  "secCls": "flex w-full max-w-container-lg flex-col items-center gap-8",
+  "texts": [
+   {
+    "tag": "span",
+    "t": "Dictate",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 685,
+     "y": 48,
+     "w": 71,
+     "h": 28
+    }
+   },
+   {
+    "tag": "h1",
+    "t": "Write 3x faster, anywhere you work",
+    "html": "Write <em>3x faster</em>, <br>anywhere you work",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 513,
+     "y": 92,
+     "w": 414,
+     "h": 106
+    }
+   },
+   {
+    "tag": "em",
+    "t": "3x faster",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 700,
+     "y": 89,
+     "w": 157,
+     "h": 58
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Hold one key and speak. Heidi writes finished clinical text",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 492,
+     "y": 216,
+     "w": 457,
+     "h": 21
+    }
+   },
+   {
+    "tag": "span",
+    "t": "in your record, inbox, or any form.",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 585,
+     "y": 241,
+     "w": 270,
+     "h": 21
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Try Dictate",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 665,
+     "y": 296,
+     "w": 110,
+     "h": 42
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Dictate",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 720,
+     "y": 590,
+     "w": 1,
+     "h": 1
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Try Dictate",
+    "href": "#download-section",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 665,
+     "y": 296,
+     "w": 110,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F30f7d4060f82ac2b0b5e35b2d3cecdf5fe393347-1280x440.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "Dictate background illustration",
+    "box": {
+     "x": 80,
+     "y": 370,
+     "w": 1280,
+     "h": 440
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/4d1e7a2a7a05660f66e9fc90ab4220fa54c522c3-768x440.svg",
+    "alt": "An animated description of Heidi Dictate",
+    "box": {
+     "x": 336,
+     "y": 370,
+     "w": 768,
+     "h": 440
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 0,
+     "y": 0,
+     "w": 1440,
+     "h": 890
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "0-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 370,
+     "w": 1280,
+     "h": 440
+    },
+    "r": "0px",
+    "file": "/assets/bands/dictate/v0-0.png"
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "box": {
+   "w": 1440,
+   "h": 400
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 240
+  },
+  "secCls": "flex w-full max-w-container-lg lg:w-fit flex-col items-center gap-6 rounded-2xl bg-accent px-5 md:p-3 py-section-md md:pt-4",
+  "texts": [],
+  "links": [],
+  "imgs": [
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 136,
+     "y": 116,
+     "w": 154,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 390,
+     "y": 116,
+     "w": 154,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 643,
+     "y": 116,
+     "w": 154,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 897,
+     "y": 116,
+     "w": 154,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 1150,
+     "y": 116,
+     "w": 154,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 136,
+     "y": 228,
+     "w": 154,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 390,
+     "y": 228,
+     "w": 154,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 643,
+     "y": 228,
+     "w": 154,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 897,
+     "y": 228,
+     "w": 154,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 1150,
+     "y": 228,
+     "w": 154,
+     "h": 60
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "16px 12px 12px",
+    "shadow": null,
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 1280,
+     "h": 240
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 92,
+     "y": 96,
+     "w": 242,
+     "h": 100
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 346,
+     "y": 96,
+     "w": 242,
+     "h": 100
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 599,
+     "y": 96,
+     "w": 242,
+     "h": 100
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 853,
+     "y": 96,
+     "w": 242,
+     "h": 100
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 1106,
+     "y": 96,
+     "w": 242,
+     "h": 100
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 92,
+     "y": 208,
+     "w": 242,
+     "h": 100
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 346,
+     "y": 208,
+     "w": 242,
+     "h": 100
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 599,
+     "y": 208,
+     "w": 242,
+     "h": 100
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 853,
+     "y": 208,
+     "w": 242,
+     "h": 100
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "20px 44px",
+    "shadow": null,
+    "box": {
+     "x": 1106,
+     "y": 208,
+     "w": 242,
+     "h": 100
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "1-0",
+    "tag": "div",
+    "box": {
+     "x": 92,
+     "y": 96,
+     "w": 1256,
+     "h": 212
+    },
+    "r": "24px",
+    "file": "/assets/bands/dictate/v1-0.png"
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "box": {
+   "w": 1440,
+   "h": 760
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 600
+  },
+  "secCls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Nothing to train before it works",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 641,
+     "h": 53
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Skip the setup, start dictating",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 239,
+     "w": 480,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "No voice profile, no warmup, no setup you'll later feel locked in by. Ready from your first visit, in 90+ languages.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 273,
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "You don't need to speak perfectly",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 384,
+     "w": 480,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Nobody should have to say the word \"comma\" out loud. Speak the way you'd speak to a colleague and Heidi punctuates, formats and cleans it up as you go.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 418,
+     "w": 480,
+     "h": 67
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "It gets better while you use it",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 551,
+     "w": 480,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Teach it a drug name once and it sticks. Same for your abbreviations, your shorthand, the colleagues you refer to. Right every time after that.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 585,
+     "w": 480,
+     "h": 67
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Skip the setup, start dictating No voice profile, no warmup, no setup you'll later feel locked in by. Ready from your first visit, in 90+ languages.",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 213,
+     "w": 584,
+     "h": 105
+    }
+   },
+   {
+    "t": "You don't need to speak perfectly Nobody should have to say the word \"comma\" out loud. Speak the way you'd speak to a colleague and Heidi punctuates, formats and cleans it up as you go.",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 358,
+     "w": 584,
+     "h": 127
+    }
+   },
+   {
+    "t": "It gets better while you use it Teach it a drug name once and it sticks. Same for your abbreviations, your shorthand, the colleagues you refer to. Right every time after that.",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 525,
+     "w": 584,
+     "h": 127
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "2-0",
+    "tag": "div",
+    "box": {
+     "x": 776,
+     "y": 213,
+     "w": 584,
+     "h": 467
+    },
+    "r": "0px",
+    "file": "/assets/bands/dictate/v2-0.png"
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "box": {
+   "w": 1440,
+   "h": 760
+  },
+  "secBox": null,
+  "secCls": null,
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Everywhere you'd otherwise be typing",
+    "ff": "exposure",
+    "fs": 40,
+    "lh": "44px",
+    "ls": "-2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 440,
+     "y": 336,
+     "w": 560,
+     "h": 88
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Search without spelling the drug name",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 589,
+     "y": 370,
+     "w": 284,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Amend a note you've already signed",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 596,
+     "y": 370,
+     "w": 270,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Complete a field in the record",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 622,
+     "y": 370,
+     "w": 219,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Fill in the form without typing it",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 617,
+     "y": 370,
+     "w": 228,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Add it to your to-do list",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 646,
+     "y": 370,
+     "w": 171,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Leave a note on tomorrow's booking",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 596,
+     "y": 370,
+     "w": 270,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Clear your inbox between patients",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 604,
+     "y": 370,
+     "w": 254,
+     "h": 20
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "search",
+    "box": {
+     "x": 567,
+     "y": 369,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "file-pen",
+    "box": {
+     "x": 574,
+     "y": 369,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "text-cursor-input",
+    "box": {
+     "x": 600,
+     "y": 369,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "clipboard-list",
+    "box": {
+     "x": 595,
+     "y": 369,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "list-todo",
+    "box": {
+     "x": 624,
+     "y": 369,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "calendar",
+    "box": {
+     "x": 574,
+     "y": 369,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "inbox",
+    "box": {
+     "x": 582,
+     "y": 369,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "3-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 1280,
+     "h": 600
+    },
+    "r": "0px",
+    "file": "/assets/bands/dictate/v3-0.png"
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "box": {
+   "w": 1440,
+   "h": 338
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 178
+  },
+  "secCls": "flex flex-col gap-section-md max-w-container-lg w-full items-start",
+  "texts": [
+   {
+    "tag": "h4",
+    "t": "“It saves so much time, and I'm already finding new places to use it. My EHR, to-do lists, emails, and messages.”",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 440,
+     "y": 80,
+     "w": 560,
+     "h": 115
+    }
+   },
+   {
+    "tag": "span",
+    "t": "and I'm already finding new places to use it. My EHR, to-do lists, emails, and messages.",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 468,
+     "y": 80,
+     "w": 516,
+     "h": 115
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Dr Kenneth Liu",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 673,
+     "y": 219,
+     "w": 94,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Periodontist",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 673,
+     "y": 239,
+     "w": 74,
+     "h": 20
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "4-0",
+    "tag": "div",
+    "box": {
+     "x": 440,
+     "y": 80,
+     "w": 560,
+     "h": 178
+    },
+    "r": "0px",
+    "file": "/assets/bands/dictate/v4-0.png"
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "box": {
+   "w": 1440,
+   "h": 1020
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 940
+  },
+  "secCls": "flex items-center justify-center w-full max-w-container-lg flex-col gap-section-sm",
+  "texts": [
+   {
+    "tag": "span",
+    "t": "Demo",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 688,
+     "y": 80,
+     "w": 64,
+     "h": 29
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Press, speak, done",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 533,
+     "y": 125,
+     "w": 373,
+     "h": 53
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Try Dictate",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 665,
+     "y": 210,
+     "w": 110,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Try Dictate",
+    "href": "#download-section",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 665,
+     "y": 210,
+     "w": 110,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "5-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 300,
+     "w": 1280,
+     "h": 720
+    },
+    "r": "24px",
+    "file": "/assets/bands/dictate/v5-0.png"
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "box": {
+   "w": 1440,
+   "h": 566
+  },
+  "secBox": {
+   "x": 80,
+   "y": 112,
+   "w": 1280,
+   "h": 406
+  },
+  "secCls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+  "texts": [
+   {
+    "tag": "h3",
+    "t": "What happens while you speak",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 112,
+     "w": 616,
+     "h": 106
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Clinical speech recognition",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 129,
+     "y": 337,
+     "w": 307,
+     "h": 69
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Your audio goes to a speech model trained on clinical language. Drug names and doses come are right the first time.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 129,
+     "y": 417,
+     "w": 307,
+     "h": 60
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Your context layer",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 566,
+     "y": 337,
+     "w": 307,
+     "h": 35
+    }
+   },
+   {
+    "tag": "p",
+    "t": "The transcript is matched against what Heidi already has: the app you're in and the specialty you work in.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 566,
+     "y": 383,
+     "w": 307,
+     "h": 60
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Clinical formatting",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1004,
+     "y": 337,
+     "w": 307,
+     "h": 35
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Punctuation, and the format the receiving application expects. Heidi works only from what you said.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1004,
+     "y": 383,
+     "w": 307,
+     "h": 60
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "32px",
+    "shadow": null,
+    "box": {
+     "x": 100,
+     "y": 309,
+     "w": 365,
+     "h": 198
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "32px",
+    "shadow": null,
+    "box": {
+     "x": 538,
+     "y": 309,
+     "w": 365,
+     "h": 198
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "32px",
+    "shadow": null,
+    "box": {
+     "x": 975,
+     "y": 309,
+     "w": 365,
+     "h": 198
+    }
+   }
+  ],
+  "visuals": []
+ },
+ {
+  "i": 7,
+  "box": {
+   "w": 1440,
+   "h": 640
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 480
+  },
+  "secCls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Try Dictate for free on MacOS",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 214,
+     "w": 600,
+     "h": 106
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Apple Silicon",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 352,
+     "w": 126,
+     "h": 42
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Intel Chip",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 218,
+     "y": 352,
+     "w": 99,
+     "h": 42
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Also available on Windows",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 406,
+     "w": 600,
+     "h": 20
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Windows",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 188,
+     "y": 406,
+     "w": 58,
+     "h": 20
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Apple Silicon",
+    "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/dmg-aarch64-dictate?channel=uk",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 352,
+     "w": 126,
+     "h": 42
+    }
+   },
+   {
+    "t": "Intel Chip",
+    "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/dmg-x86_64-dictate?channel=uk",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 218,
+     "y": 352,
+     "w": 99,
+     "h": 42
+    }
+   },
+   {
+    "t": "Windows",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 188,
+     "y": 406,
+     "w": 58,
+     "h": 20
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F78b50c26b3e3b120220a28e8375ced5076c69537-1188x952.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "Download for Mac illustration",
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(244, 231, 221)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "7-0",
+    "tag": "div",
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    },
+    "r": "0px",
+    "file": "/assets/bands/dictate/v7-0.png"
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "box": {
+   "w": 1440,
+   "h": 577
+  },
+  "secBox": {
+   "x": 80,
+   "y": 176,
+   "w": 1280,
+   "h": 225
+  },
+  "secCls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Start with the next thing you'd type",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 176,
+     "w": 768,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Dictate is free on Heidi Desktop.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 606,
+     "y": 304,
+     "w": 228,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Try Dictate",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 665,
+     "y": 358,
+     "w": 110,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Try Dictate",
+    "href": "#download-section",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 665,
+     "y": 358,
+     "w": 110,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fb491c655d2a81725f7ec337e3741ec60e06a4ca3-1280x440.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "Start with the next thing you'd type",
+    "box": {
+     "x": 0,
+     "y": 0,
+     "w": 1440,
+     "h": 577
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "oklab(0 0 0 / 0.2)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 0,
+     "y": 0,
+     "w": 1440,
+     "h": 577
+    }
+   },
+   {
+    "bg": "rgb(185, 207, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 0,
+     "y": -27,
+     "w": 299,
+     "h": 630
+    }
+   },
+   {
+    "bg": "rgb(185, 207, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 1141,
+     "y": -27,
+     "w": 299,
+     "h": 630
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "8-0",
+    "tag": "div",
+    "box": {
+     "x": 0,
+     "y": -27,
+     "w": 299,
+     "h": 630
+    },
+    "r": "0px",
+    "file": "/assets/bands/dictate/v8-0.png"
+   },
+   {
+    "id": "8-1",
+    "tag": "div",
+    "box": {
+     "x": 1141,
+     "y": -27,
+     "w": 299,
+     "h": 630
+    },
+    "r": "0px",
+    "file": "/assets/bands/dictate/v8-1.png"
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "box": {
+   "w": 1440,
+   "h": 857
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 697
+  },
+  "secCls": "gap-section-md max-w-container-lg w-full flex flex-col items-center",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Your questions answered",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 418,
+     "y": 80,
+     "w": 604,
+     "h": 56
+    }
+   },
+   {
+    "tag": "span",
+    "t": "What is Heidi Dictate?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 232,
+     "y": 240,
+     "w": 227,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi Dictate is a voice dictation tool built into the Heidi desktop app. Press a key, speak, release. Your words land wherever your cursor is: your EHR, a referral letter, Outlook, any application on your computer. Clinical vocabulary built in more than 90 languages, no training required.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 232,
+     "y": 294,
+     "w": 944,
+     "h": 67
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Does Dictate work on Mac and Windows?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 232,
+     "y": 417,
+     "w": 432,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Is Heidi Dictate the same as the other dictation features in Heidi?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 232,
+     "y": 503,
+     "w": 653,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "How is Heidi Dictate different from other dictation tools?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 232,
+     "y": 589,
+     "w": 577,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "How many languages does Dictate support?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 232,
+     "y": 675,
+     "w": 451,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Showing 5 of 11 questions",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 207,
+     "y": 215,
+     "w": 1,
+     "h": 1
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Show more",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 651,
+     "y": 749,
+     "w": 130,
+     "h": 32
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "What is Heidi Dictate?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 208,
+     "y": 216,
+     "w": 1024,
+     "h": 78
+    }
+   },
+   {
+    "t": "Does Dictate work on Mac and Windows?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 208,
+     "y": 393,
+     "w": 1024,
+     "h": 78
+    }
+   },
+   {
+    "t": "Is Heidi Dictate the same as the other dictation features in Heidi?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 208,
+     "y": 479,
+     "w": 1024,
+     "h": 78
+    }
+   },
+   {
+    "t": "How is Heidi Dictate different from other dictation tools?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 208,
+     "y": 565,
+     "w": 1024,
+     "h": 78
+    }
+   },
+   {
+    "t": "How many languages does Dictate support?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 208,
+     "y": 651,
+     "w": 1024,
+     "h": 78
+    }
+   },
+   {
+    "t": "Show more",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": "plus",
+    "iconBefore": false,
+    "box": {
+     "x": 651,
+     "y": 749,
+     "w": 130,
+     "h": 32
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "plus",
+    "box": {
+     "x": 749,
+     "y": 753,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 208,
+     "y": 216,
+     "w": 1024,
+     "h": 169
+    }
+   }
+  ],
+  "visuals": []
+ }
+]

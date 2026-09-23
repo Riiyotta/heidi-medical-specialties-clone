@@ -1,0 +1,482 @@
+{
+ "slug": "home",
+ "path": "/",
+ "url": "/en-gb",
+ "title": "Home",
+ "status": 200,
+ "meta": {
+  "title": "Heidi | Your AI Care Partner for Modern Clinical Practice",
+  "desc": "Heidi supports clinicians across every step of care—from documentation to evidence. Practical AI tools designed to save time, reduce… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex w-full max-w-container-lg flex-col items-center gap-8",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 774,
+   "innerH": 646,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Relief in every visit",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "The AI Care Partner for clinicians",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Book a demo",
+     "href": "/en-gb/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b491c655d2a81725f7ec337e3741ec60e06a4ca3-1280x440.jpg",
+     "alt": "Evidence background illustration",
+     "w": 1280,
+     "h": 440
+    },
+    {
+     "k": "a",
+     "t": "Look up",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    },
+    {
+     "k": "a",
+     "t": "Research",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    },
+    {
+     "k": "a",
+     "t": "Treat",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    },
+    {
+     "k": "a",
+     "t": "Explain",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    },
+    {
+     "k": "a",
+     "t": "Compare",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex w-full max-w-container-lg lg:w-fit flex-col items-center gap-6 rounded-2xl bg-accent px-5 md:p-3 py-section-md md:p",
+   "bg": "rgb(249, 244, 241)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 453,
+   "innerH": 293,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "​ 0 1 2 3 4 5 6 7 8 9 , 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 , 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 ​",
+     "fs": 18,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+     "alt": "CHCP",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+     "alt": "modality",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+     "alt": "NHS Dudley",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+     "alt": "NHS Hertfordshire Teaching Hospitals",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+     "alt": "NHS Walsall Healthcare",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+     "alt": "NHS WWL Teaching Hospitals",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+     "alt": "onecare",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+     "alt": "Portman dentex",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+     "alt": "Sue Ryder",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+     "alt": "Swiss Medical Network",
+     "w": 154,
+     "h": 60
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 240,
+   "innerH": 80,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "\"I go to lunch on time, I go home on time.\"",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Dr Theresa Colina, Family Practitioner, Tuggerah Family Doctors",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex w-full max-w-container-lg flex-col gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1685,
+   "innerH": 1493,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "From first visit to final follow-up.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Patient notes, handled.",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Let Heidi handle the note, codes, and every task that follows.",
+     "fs": 20,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Scribe",
+     "href": "/en-gb/scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "video",
+     "src": "https://cdn.sanity.io/files/fq1n4a7f/production/a0c30945329878e83b18b10eca2b9fac223c0910.mp4#t=0.001"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Your rounds, captured.",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "A clip-on mic that moves with you so your notes don't depend on a desk.",
+     "fs": 20,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Remote",
+     "href": "/en-gb/hardware",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "video",
+     "src": "https://cdn.sanity.io/files/fq1n4a7f/production/dd0a4e46452d4b1d90333336ee96b3a43885afc6.mp4#t=0.001"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Medical knowledge, informed.",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi has unlimited reference information on tap, just ask.",
+     "fs": 20,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Evidence",
+     "href": "/en-gb/evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/4dac64b21c84142c22ad14acd7c5c6bd2414153c-1260x960.png",
+     "alt": "Clinical guidance card recommends increasing fluoxetine to 40 mg after a partial response at six weeks.",
+     "w": 630,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-sm w-full max-w-container-lg lg:flex-row items-center lg:justify-between",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(40, 3, 15)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 772
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 772,
+   "innerH": 420,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Tackles every clinical task. Tailored to your workforce.",
+     "fs": 20,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Clinical coding & documentation integrity",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Inbound correspondence & document processing",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Telehealth",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Patient communications",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Letter workflow management",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "EPR integration",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Explore enterprise",
+     "href": "/en-gb/solutions/enterprise",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 278,
+   "innerH": 118,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "\"We see Heidi as a partner helping us deliver measurable transformation.\"",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Mark St. John, CIO, MaineGeneral Health",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": null,
+    "image": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F66e0555d30cc3421a20ea1ef3f3f35ab3ebddfc5-1250x560.png%3Ffit%3Dmax%26auto%3Dformat&w=1920&q=75",
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 504
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 600,
+   "innerH": 146,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/66e0555d30cc3421a20ea1ef3f3f35ab3ebddfc5-1250x560.png",
+     "alt": "blurred field background image",
+     "w": 1344,
+     "h": 504
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Discover real relief today.",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,581 @@
+{
+ "slug": "product-dictate",
+ "path": "/product/dictate",
+ "url": "/en-gb/product/dictate",
+ "title": "Dictate",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Dictate | Your Voice, Wherever Your Cursor Is On…",
+  "desc": "Your voice, wherever your cursor lands. The clinical day doesn't happen in one app. Dictate follows your cursor wherever you work, in 90… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex w-full max-w-container-lg flex-col items-center gap-8",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 890
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 890,
+   "innerH": 762,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Dictate",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Write 3x faster, anywhere you work",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Hold one key and speak. Heidi writes finished clinical text in your record, inbox, or any form.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Try Dictate",
+     "href": "#download-section",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/30f7d4060f82ac2b0b5e35b2d3cecdf5fe393347-1280x440.jpg",
+     "alt": "Dictate background illustration",
+     "w": 1280,
+     "h": 440
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/4d1e7a2a7a05660f66e9fc90ab4220fa54c522c3-768x440.svg",
+     "alt": "An animated description of Heidi Dictate",
+     "w": 768,
+     "h": 440
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex w-full max-w-container-lg lg:w-fit flex-col items-center gap-6 rounded-2xl bg-accent px-5 md:p-3 py-section-md md:p",
+   "bg": "rgb(249, 244, 241)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 400,
+   "innerH": 240,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+     "alt": "CHCP",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+     "alt": "modality",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+     "alt": "NHS Dudley",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+     "alt": "NHS Hertfordshire Teaching Hospitals",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+     "alt": "NHS Walsall Healthcare",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+     "alt": "NHS WWL Teaching Hospitals",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+     "alt": "onecare",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+     "alt": "Portman dentex",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+     "alt": "Sue Ryder",
+     "w": 154,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+     "alt": "Swiss Medical Network",
+     "w": 154,
+     "h": 60
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 760,
+   "innerH": 600,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Nothing to train before it works",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "video",
+     "src": "https://cdn.sanity.io/files/fq1n4a7f/production/020982fdeb835af612827ee8c4eae19f6bbba477.mp4#t=0.001"
+    },
+    {
+     "k": "a",
+     "t": "Skip the setup, start dictating No voice profile, no warmup, no setup you'll later feel locked in by. Ready from your first visit, in 90+ languages.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "You don't need to speak perfectly Nobody should have to say the word \"comma\" out loud. Speak the way you'd speak to a colleague and Heidi punctuates, formats and cleans it up as you go.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "It gets better while you use it Teach it a drug name once and it sticks. Same for your abbreviations, your shorthand, the colleagues you refer to. Right every time after that.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 760,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Everywhere you'd otherwise be typing",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Search without spelling the drug name",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Amend a note you've already signed",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Complete a field in the record",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Fill in the form without typing it",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Add it to your to-do list",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Leave a note on tomorrow's booking",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Clear your inbox between patients",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md max-w-container-lg w-full items-start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 338,
+   "innerH": 178,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 4,
+     "t": "“It saves so much time, and I'm already finding new places to use it. My EHR, to-do lists, emails, and messages.”",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Dr Kenneth Liu",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Periodontist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center justify-center w-full max-w-container-lg flex-col gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1020,
+   "innerH": 940,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Demo",
+     "fs": 18,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Press, speak, done",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 566,
+   "innerH": 406,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What happens while you speak",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Clinical speech recognition",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Your audio goes to a speech model trained on clinical language. Drug names and doses come are right the first time.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Your context layer",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "The transcript is matched against what Heidi already has: the app you're in and the specialty you work in.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Clinical formatting",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Punctuation, and the format the receiving application expects. Heidi works only from what you said.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": "download-section",
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Try Dictate for free on MacOS",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "Apple Silicon",
+     "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/dmg-aarch64-dictate?channel=uk",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Intel Chip",
+     "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/dmg-x86_64-dictate?channel=uk",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Windows",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/78b50c26b3e3b120220a28e8375ced5076c69537-1188x952.jpg",
+     "alt": "Download for Mac illustration",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "oklab(0 0 0 / 0.2)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 577
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 577,
+   "innerH": 225,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/b491c655d2a81725f7ec337e3741ec60e06a4ca3-1280x440.jpg",
+     "alt": "Start with the next thing you'd type",
+     "w": 1440,
+     "h": 577
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Start with the next thing you'd type",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Dictate is free on Heidi Desktop.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 857,
+   "innerH": 697,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Your questions answered",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What is Heidi Dictate?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi Dictate is a voice dictation tool built into the Heidi desktop app. Press a key, speak, release. Your words land wherever your cursor is: your EHR, a referral letter, Outlook, any application on your computer. Clinical vocabulary built in more than 90 languages, no training required.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Does Dictate work on Mac and Windows?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is Heidi Dictate the same as the other dictation features in Heidi?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How is Heidi Dictate different from other dictation tools?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How many languages does Dictate support?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 11 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Show more",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

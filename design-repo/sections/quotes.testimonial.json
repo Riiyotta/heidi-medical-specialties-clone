@@ -1,0 +1,52 @@
+{
+  "id": "quotes.testimonial",
+  "category": "proof",
+  "purpose": "Two or more pull-quotes from real named customers/clinicians.",
+  "measuredFrom": "src/components/sections/index.jsx:337-382 (Quotes)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 8,
+        "items": {
+          "type": "object",
+          "properties": {
+            "quote": {
+              "type": "string",
+              "maxWords": 60
+            },
+            "name": {
+              "type": "string",
+              "maxWords": 6
+            },
+            "role": {
+              "type": "string",
+              "maxWords": 10
+            }
+          },
+          "required": [
+            "quote",
+            "name"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 2
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [
+    "customer-photo"
+  ]
+}

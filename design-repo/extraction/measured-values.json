@@ -1,0 +1,46 @@
+{
+  "$description": "Citation ledger for evidence that lives OUTSIDE design-repo/ (the Heidi clone's own src/, tailwind.config.js, CLONE_SPEC.md, tools/). These paths are relative to the design-repo's PARENT directory during a build session and are not entryPoints (see registry.manifest.json entryPointsNote) -- extraction/verify_all.py's citation check resolves them when a sibling source tree is present and degrades to a warning, not a failure, when it is not (a standalone shipped copy of design-repo/).",
+  "primarySources": {
+    "tailwind.config.js": "Canonical resolved-token source -- what the app actually builds against. Colors, fontFamily, spacing, padding, borderRadius, boxShadow, fontSize all cited by path:line throughout tokens/00-foundation/*.json.",
+    "CLONE_SPEC.md": "43KB Playwright-measured build spec for /solutions/medical-specialties, citing real getComputedStyle/getBoundingClientRect measurements against the live heidihealth.com. Used for type scale, spacing/layout tokens, gradients, radius/shadow evidence, and the page-structure narrative behind the solutions.* section contracts and schema/example.pagespec.json's real copy.",
+    "src/data/routes.js": "The real, complete 40-route list (not 37 -- see note below) mapped 1:1 to templates/templates.json.",
+    "src/App.jsx": "Ground truth for the three-way routing split: 9 hand-built BUILT pages, 10 shared-SolutionsPage routes, 21 GeneratedPage routes.",
+    "src/lib/classify.js": "The real content-signature classifier GeneratedPage.jsx runs against src/data/pages/*.json to assign each generic section its type (hero/split/centered/pills/stats/quotes/faq/cards/logos/links/prose/cta/pricing/compare) -- used to derive the 16 generic-family templates by running classifyPage() against all 40 page JSON files and grouping identical output sequences.",
+    "src/components/sections/index.jsx": "14 generic section renderers, cited per-function for sections/hero.generic.json etc.",
+    "src/components/bands/index.jsx": "44 hand-built band renderers (1503 lines), cited per-function line range for sections/band.*.json.",
+    "src/components/solutions/index.jsx": "11 shared solutions-template renderers, cited per-function for sections/solutions.*.json.",
+    "src/pages/HomePage.jsx": "Home page's own 7-node render order (Hero, LogoPanel, QuoteBand x2, Bento, DarkBand, CtaBand) plus the 8 home.* section contracts, most of which take zero props (fixed content, not data-driven) -- see structural finding below.",
+    "src/pages/PricingPage.jsx": "Pricing page's own hero/tier-card/compare-table components.",
+    "src/data/faq-answers.json": "Real FAQ question/answer pairs, used for faq.list / solutions.faq / band.faq-band content examples and maxWords calibration.",
+    "src/data/buttons.json": "Real captured per-route button styles (bg/fg/radius/height), used for tokens/20-component/button.json variants.",
+    "src/data/solutions.json": "Real per-vertical content (day-with-heidi, testimonials, template-grid cards) for the 10 solutions verticals -- schema/example.pagespec.json's medical-specialties copy is quoted directly from this file.",
+    "src/index.css": "Reduced-motion CSS rule (lines ~148-154), the only real evidence for reducedMotionFallback behavior.",
+    "public/assets/**": "Real asset inventory (588 image files) backing tokens/llm/asset-roles.json's third-party-logo / customer-photo / proprietary-product-screenshot roles -- see structural/compliance finding below."
+  },
+  "structuralFindings": [
+    {
+      "finding": "The orchestrating brief for this build stated 37 real routes. src/data/routes.js actually contains 40 real route entries (counted via a direct regex extraction of every \"slug\" key, 2026-09-23). This design-repo is built against the real, current 40-route list, not the stale 37 figure -- templates/templates.json maps all 40 routes 1:1 with no gaps and no double-assignment (verified by extraction/verify_all.py's check_route_coverage()).",
+      "measuredFrom": "src/data/routes.js (regex count of \"slug\" keys)"
+    },
+    {
+      "finding": "src/data/pages/*.json contains 40 files, but 19 of them (the 9 BUILT-dict slugs plus the 10 real solutions.json verticals) are dead data as far as GeneratedPage.jsx is concerned -- App.jsx routes those 19 slugs to a hand-built page component or SolutionsPage before GeneratedPage ever runs, so their src/data/pages/<slug>.json content is never rendered by the generic renderer. Only 21 of the 40 files are live GeneratedPage input. This design-repo's generic-family templates are built from real classifyPage() output on all 40 files, but the templates/routes actually assigned only cover the 21 truly-generic routes -- the other 19 files were used as evidence for the section contracts where a hand-built page happens to also duplicate similar content, not as a route mapping.",
+      "measuredFrom": "src/App.jsx:24-73 (BUILT dict, SOLUTION_SLUGS check); src/pages/GeneratedPage.jsx:69-71 (pages lookup)"
+    },
+    {
+      "finding": "HomePage.jsx's own local sections (Hero, LogoPanel, Bento, RollingList, DarkBand, CtaBand) take ZERO props -- their real copy is hardcoded inline in the component file, unlike every band.* and solutions.* section which is genuinely data-driven. sections/home.*.json record this explicitly (empty content contract where the real component is not parameterized) rather than inventing a fake generator-editable schema for single-instance, hand-authored copy.",
+      "measuredFrom": "src/pages/HomePage.jsx:416-429 (HomePage() return); per-component grep at lines 102,161,174,233,279,348"
+    },
+    {
+      "finding": "public/assets/home/logo-0..9.svg and public/assets/pages/*emishealth*, *medicushealth*, *medioffice*, *emr-circle-logos* are REAL, named third-party EMR/partner companies' logos downloaded from the live site's own CDN, not placeholder/stock art. public/assets/icons/heidi-logo.svg is Heidi Health's own real trademark. These are wired to the third-party-logo and heidi-brand-mark assetRoles in tokens/llm/asset-roles.json with must-reuse-exact AI-generation guidance and explicit non-reproduction licensing language, per the compliance requirement for a real commercial healthcare company's design-repo.",
+      "measuredFrom": "public/assets/home/logo-0.svg..logo-9.svg; public/assets/pages/logo_medioffice-new_v07_ff_210-9pyqazg3.webp; public/assets/pages/emishealth_logo-3rv0avw9-e9vz1lyi.jpeg; public/assets/icons/heidi-logo.svg"
+    },
+    {
+      "finding": "src/data/pages/*.json testimonial quotes (quotes.testimonial, solutions.testimonials, band.quote-carousel content) attribute real named individuals (e.g. Alex Hwong-Ruey Leow, Consultant Gastroenterologist and Hepatologist; Romy Cohen, The Forbury Clinic) captured from the live site. These are real customer/clinician statements, not fabricated placeholder copy -- customer-photo assetRole guidance is must-not-fabricate accordingly.",
+      "measuredFrom": "src/data/solutions.json (medical-specialties.testimonials.items)"
+    },
+    {
+      "finding": "No dark-mode theme exists anywhere in the real source (no darkMode key in tailwind.config.js, no @media (prefers-color-scheme: dark) rule in src/index.css). tokens/themes/ contains a single light.json theme -- this is a deliberate scope reflection of the real app, not an incomplete build.",
+      "measuredFrom": "tailwind.config.js (no darkMode key); src/index.css (no dark-mode media query)"
+    }
+  ]
+}

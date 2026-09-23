@@ -1,0 +1,682 @@
+{
+ "slug": "safety",
+ "path": "/safety",
+ "url": "/en-gb/safety",
+ "title": "Safety & Compliance",
+ "status": 200,
+ "meta": {
+  "title": "Safety at Heidi",
+  "desc": "Discover Heidi’s robust data protection and compliance solutions for clinicians. Secure patient privacy with HIPAA, GDPR, and more.… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(185, 207, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 478
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 478,
+   "innerH": 126,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "This is your",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "safe space",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 379
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 475,
+   "innerH": 251,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "What does safety mean to us?",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi was built by clinicians for clinicians",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "We understand the privilege of handling sensitive personal information and we take it seriously. Supported by our world-class compliance team, we're at the forefront of data safety for AI scribes globally, ensuring your data remains secure. Whatever your specialty, we’ve made Heidi both safe and joyful to use. Here’s how.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 216,
+   "innerH": 56,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Your data is yours",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex max-w-container-lg w-full flex-col lg:grid lg:grid-cols-[1fr_2fr] gap-section-md items-start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 4755,
+   "innerH": 4595,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "What data does Heidi store?",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi only stores transcripts and notes, and that's it, for as long as you need them. As you speak, Heidi transcribes your words. No audio recordings are ever saved, ensuring there's no hidden playback.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 4,
+     "t": "As you speak, Heidi listens",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi captures your conversation in real time.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1141fb744ceb7dd299637724b8e8ffd784b74ce7-1668x1200.png",
+     "alt": "Illustration of medical voice messaging between a doctor and a patient.",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 4,
+     "t": "Transcript: Every detail, instantly transcribed",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi converts your words into text—accurate, structured, and ready for review.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5894db7734b288405b857e75be47673c49020042-1668x1200.png",
+     "alt": "Audio waveform connecting to a 'Note' card with text on a dark background.",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 4,
+     "t": "No audio is ever kept",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "As soon as Heidi transcribes, the audio disappears—poof!",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/58a38d4d9b425402d13585d2645a7283f62404f1-1668x1200.png",
+     "alt": "A white sound wave graphic fading out on a dark red background, with the text \"deleting...\" below.",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 4,
+     "t": "De-identification: Privacy first.",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi automatically removes identifiable details from your transcript and notes.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/e08accacbf0eb5e23d722531c1594b247f9fad39-1668x1200.png",
+     "alt": "A private note on a laptop screen, with a yellow crossed-out person icon above.",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 4,
+     "t": "Medical notes & documents: Ready in seconds.",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "From the transcript, Heidi generates structured notes and referral letters, and formats documentation based on what the clinician has already decided.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/99f9355ac9a1ac17b7dc3941362e62c3f7214ddc-1668x1200.png",
+     "alt": "Illustration of a form, referral letter and assessment displayed side by side",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 4,
+     "t": "Add context anytime.",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Need to refine or add details? Upload or type in extra context to make your notes more precise.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/52cd88a2dff628808259a6b046dd31409920372c-1668x1200.png",
+     "alt": "An interface showing a \"Context\" document with related \"Previous sessions\" and \"File attachments\" labels, and a PDF file.",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 4,
+     "t": "Delete anytime - you're in control.",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Once you've reviewed and transferred your notes to the EMR, you can delete everything - no record kept.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d6a62c46b4015d983babfe2e2977ba7e6aeb2960-1668x1200.png",
+     "alt": "An illustration showing an audio waveform, a transcript, and patient details for Brooklyn Simmons.",
+     "w": 712,
+     "h": 475
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 384
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 480,
+   "innerH": 256,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "But how do you make it sound like me?",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi doesn’t use any of your data to train our AI",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "We know every clinician has their own style and vision of the perfect note, and that's why our incredible Medical Knowledge team—skilled clinicians turned prompt engineers—create hundreds of templates based on your feedback. Need any tweaks? It's simple: just jump into your template, tell Heidi exactly what you want and where you want it, and she'll remember your changes—you're in charge.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 980
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 1076,
+   "innerH": 852,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Delete means delete. Forever.",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(185, 207, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 466
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 562,
+   "innerH": 210,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Everyone loves Heidi",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "“I love how passionate you are about data governance and security. We feel we’re in safe hands.”",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "– GP Compliance Partner",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 498,
+   "innerH": 338,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Every account matters. Free or paid, premium security is always included.",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "left"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1177,
+   "innerH": 1017,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi best practice - for your practice",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Empower your patients with consent",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "There are many ways to ask for consent, and we trust that you choose the one that works for you and your patients. To keep it top of mind, you can ask Heidi to remind you at the beginning of your session - just head to your settings.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Remember to check your notes",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Once your notes are generated, take time to review and add any more detail or context before transferring them to your Electronic Health Record (EHR) system.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Share access responsibly",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "To protect the confidentiality of your patients’ consults, please avoid sharing your account access. We've made our templates easy to share through our template library, and anyone can try Heidi for free. Curious about giving Heidi a go? Simply create a free account.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 744,
+   "innerH": 584,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Quick answers",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi Safety FAQs",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Can Heidi access my patient’s information?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Short answer, no. Before Heidi processes your session, we strip all data of personal identifiers (think ‘Jane Doe’ instead of the patient’s name), so it can’t be traced back. Your patient’s data remains protected and Heidi does not and will not contact your patients for any purposes.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Are audio recordings saved?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Where are Heidi’s servers storing my data?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How does Heidi mitigate data breaches?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How do you tackle ‘hallucinations’?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 6 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Show more",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 439
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 535,
+   "innerH": 311,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "You say you’re compliant. But how do you prove it?",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md max-w-container-lg w-full items-start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 878,
+   "innerH": 718,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Have any more questions?",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "We’re here to answer them",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md max-w-container-lg w-full",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 767,
+   "innerH": 607,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Hungry for more?",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Watch our Heidi Compliance series",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "Previous slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgba(0, 0, 0, 0)",
+     "r": "3.35544e+07px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Next slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "hero.generic",
+  "category": "hero",
+  "purpose": "Establish the page's single H1 identity and primary CTA above the fold.",
+  "measuredFrom": "src/components/sections/index.jsx:145-222 (Hero)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "eyebrow": {
+        "type": "string",
+        "maxWords": 8
+      },
+      "heading": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "body": {
+        "type": "string",
+        "maxWords": 45
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "visual": {
+        "type": "object",
+        "properties": {
+          "assetRole": {
+            "const": "illustrative-photo"
+          },
+          "alt": {
+            "type": "string",
+            "maxWords": 20
+          }
+        },
+        "required": [
+          "assetRole",
+          "alt"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "eyebrow",
+      "heading",
+      "body",
+      "cta",
+      "visual"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "onePerPage": true,
+    "mustBeFirst": true
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

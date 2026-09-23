@@ -1,0 +1,79 @@
+{
+  "id": "cards.grid",
+  "category": "content",
+  "purpose": "Grid of imaged cards (blog posts, customer stories, resource links, award entries).",
+  "measuredFrom": "src/components/sections/index.jsx:503-654 (Cards)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 24,
+        "items": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string",
+              "maxWords": 14
+            },
+            "body": {
+              "type": "string",
+              "maxWords": 30
+            },
+            "visual": {
+              "type": "object",
+              "properties": {
+                "assetRole": {
+                  "const": "editorial-thumbnail"
+                },
+                "alt": {
+                  "type": "string",
+                  "maxWords": 20
+                }
+              },
+              "required": [
+                "assetRole",
+                "alt"
+              ],
+              "additionalProperties": false
+            },
+            "href": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "title",
+            "visual"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "heading",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 6
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [
+    "editorial-thumbnail"
+  ],
+  "responsive": {
+    "mobile": "1 column",
+    "tablet": "2 columns (>=768px)",
+    "desktop": "3 columns (>=1024px)",
+    "measuredFrom": "CLONE_SPEC.md:101-108 (breakpoint table); tokens/30-layout/grid.json"
+  }
+}

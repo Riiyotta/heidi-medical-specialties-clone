@@ -1,0 +1,70 @@
+{
+  "id": "band.demo-video",
+  "category": "proof",
+  "purpose": "Embedded product-demo video with a pill label and CTA.",
+  "measuredFrom": "src/components/bands/index.jsx:859-882 (DemoVideo)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "pill": {
+        "type": "string",
+        "maxWords": 4
+      },
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "visual": {
+        "type": "object",
+        "properties": {
+          "assetRole": {
+            "const": "product-demo-video"
+          },
+          "alt": {
+            "type": "string",
+            "maxWords": 20
+          }
+        },
+        "required": [
+          "assetRole",
+          "alt"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "pill",
+      "title",
+      "cta",
+      "visual"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [
+    "product-demo-video"
+  ]
+}

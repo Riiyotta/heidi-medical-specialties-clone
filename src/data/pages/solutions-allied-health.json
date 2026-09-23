@@ -1,0 +1,803 @@
+{
+ "slug": "solutions-allied-health",
+ "path": "/solutions/allied-health",
+ "url": "/en-gb/solutions/allied-health",
+ "title": "Allied Health",
+ "status": 200,
+ "meta": {
+  "title": "Heidi the AI care partner for Allied Health",
+  "desc": "The AI Care Partner that fits your discipline, your funder, and wherever you work, so your evening is yours again. - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Heidi for allied health",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Allied health shows up anywhere, Heidi keeps up",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "The AI Care Partner that fits your discipline, your funder, and wherever you work, so your evening is yours again.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/69692ba9c5209060e511a9d196b17c7a4b5ebac2-1200x960.jpg",
+     "alt": "Patient explainer letter template with allied health profession filters and a Save button.",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 350,
+   "innerH": 190,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Built for your caseload",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Recommended for",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Occupational Therapist",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Speech Pathologist",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Podiatrist",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Exercise Physiologist",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Dietitian",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Physiotherapist",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Chiropractor",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Osteopath",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 608,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "No session left undocumented",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "NDIS reports, progress notes and insurer certificates created from a single session. Structured correctly, and ready to be reviewed and approved.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Scribe",
+     "href": "https://scribe.heidihealth.com/en/scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1830b0e8a599fbbbf3540f71bbe740dd10850397-1188x952.png",
+     "alt": "Heidi Transcript ",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 576,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Clinical calls, fully traceable",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "NDIS funding justifications, exercise protocols, wound care guidelines. Look up published guidance and references between sessions.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Evidence",
+     "href": "https://www.heidihealth.com/evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/da92a10518682c592e0f17d759d8ed934ed8f07c-1188x952.png",
+     "alt": "Ask heidi",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 608,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Clear capture, wherever the session is",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "School at 9am. Community health at 1pm. Private practice at 4pm. Documentation consistent across all of them, whether or not the Wi-Fi was.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Remote",
+     "href": "/en-gb/store/remote",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/636a0840f19250808f91a47467ad7be8c4b228ac-1200x960.jpg",
+     "alt": "Comms",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 441,
+   "innerH": 217,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "59 minutes",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Of capacity released per clinician, per day.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "97%",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Of clinicians rate Heidi's document quality as excellent.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "93%",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Less burnout.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 893,
+   "innerH": 669,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Your day with Heidi",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5819bb71f3e18ddc0faa91392a691125f82472ff-1200x1200.jpg",
+     "alt": "Doc generation",
+     "w": 536,
+     "h": 536
+    },
+    {
+     "k": "a",
+     "t": "The session ends, so does the note Your format, your discipline, no rewriting. The NDIS report that used to take an evening is done before you leave.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Mid-session question, cited answer",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Documentation that keeps up with you",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 706,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Built for allied health",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "No need to start from scratch. Pick a template from our community and easily tailor it to match your workflow and style.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Document SOAP Note (custom) zaynab shahid Pharmacist 38",
+     "href": "/en-gb/templates/soap-note-custom-a4418474",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Document",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "SOAP Note (custom)",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/country-united-kingdom.svg",
+     "alt": "United Kingdom",
+     "w": 34,
+     "h": 24
+    },
+    {
+     "k": "p",
+     "t": "zaynab shahid",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Pharmacist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "38",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Document IBCLC and Tongue Tie Practitioner Summary of care template Suzanne Barber Lactation Consultant 16",
+     "href": "/en-gb/templates/ibclc-and-tongue-tie-practitioner-summary-of-care-template-0fbcf3b6",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "IBCLC and Tongue Tie Practitioner Summary of care template",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Suzanne Barber",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Lactation Consultant",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "16",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Document OT Assessment Template David Bracher Pharmacist 32",
+     "href": "/en-gb/templates/ot-assessment-template-91a46e9e",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "OT Assessment Template",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "David Bracher",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "32",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Note Vertigo Kayla Baradel Audiologist 21",
+     "href": "/en-gb/templates/vertigo-8fd0e42b",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Note",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Vertigo",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Kayla Baradel",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Audiologist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "21",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Note IBCLC and frenulotomy Suzanne Barber Lactation Consultant 14",
+     "href": "/en-gb/templates/ibclc-and-frenulotomy-857aedc9",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "IBCLC and frenulotomy",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "14",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Note NHS GOS Sight Test Iain Mellis Optometrist 3",
+     "href": "/en-gb/templates/nhs-gos-sight-test-f2586406",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "NHS GOS Sight Test",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Iain Mellis",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Optometrist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-16 max-w-container-lg w-full",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 657,
+   "innerH": 497,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Hear from allied health specialists already using Heidi",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "Read customer stories",
+     "href": "https://www.heidihealth.com/customers",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "“All it takes is seeing two or three extra patients a month to cover the cost of my Heidi subscription. It's a no brainer.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Lachlan Fooks",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "APA Sports & Exercise Physio",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“The level of detail I’m getting from Heidi would have taken me an additional 6-7 hours to do manually.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Shanan Nelson",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Director and Senior Physiotherapist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“It really has helped keep my head above water when I’ve got a tidal wave of sessions and admin coming towards me.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Imogen Dean",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Speech Language Pathologist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Previous slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Next slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 673,
+   "innerH": 513,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How does Heidi work in allied health?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi listens to your session, generates a structured note in your format, and handles the downstream documents: NDIS reports, referral letters, insurer certificates. Each discipline gets its own template defaults, so a physio SOAP and an OT functional assessment each start in the right structure. No generic output to rewrite.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is my patient data safe?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Will the output match my note format?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "My clinic has multiple disciplines will Heidi work for everyone?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is using AI during a session ethical?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 5 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(251, 245, 130)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 544
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 130,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Your evening is yours again.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1589 @@
+[
+ {
+  "i": 0,
+  "box": {
+   "w": 1440,
+   "h": 640
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 480
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+  "texts": [
+   {
+    "tag": "span",
+    "t": "Coding",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 80,
+     "y": 154,
+     "w": 56,
+     "h": 24
+    }
+   },
+   {
+    "tag": "h1",
+    "t": "Let coding take care of itself",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 194,
+     "w": 600,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi suggests accurate, billable codes as you write so you can stay focused on care, not admin. We’ve just released ICD-10-AM and ICD-10-UK codes, now available to customers in Australia and the UK.",
+    "html": "Heidi suggests accurate, billable codes as you write so you can stay focused on care, not admin.<br>We’ve just released <strong>ICD-10-AM and ICD-10-UK codes</strong>, now available to customers in Australia and the UK.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 322,
+     "w": 600,
+     "h": 90
+    }
+   },
+   {
+    "tag": "strong",
+    "t": "ICD-10-AM and ICD-10-UK codes",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "700",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 222,
+     "y": 368,
+     "w": 245,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Join the waitlist for access",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 444,
+     "w": 222,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Join the waitlist for access",
+    "href": "/en-gb/medical-codes",
+    "tag": "a",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 444,
+     "w": 222,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F5516029a7153cd2059843d364f2ad9faa7682f5a-1188x952.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "a diagram of snomed ct and icd-10",
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 0,
+     "y": 0,
+     "w": 1440,
+     "h": 640
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "0-0",
+    "tag": "div",
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    },
+    "r": "0px",
+    "file": "/assets/bands/coding/v0-0.png"
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "box": {
+   "w": 1440,
+   "h": 333
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 173
+  },
+  "secCls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "You document care. Heidi keeps it billable.",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 80,
+     "w": 768,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi recommends the right codes as you document, with built-in billing relevance, one-click review, and no coding experience required.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 208,
+     "w": 768,
+     "h": 45
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 2,
+  "box": {
+   "w": 1440,
+   "h": 640
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 480
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Code accurately, no extra effort",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 196,
+     "w": 600,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi pulls in SNOMED and ICD codes as you document — no lookups or extra tabs — so your notes stay ready for billing and reporting.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 324,
+     "w": 600,
+     "h": 45
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 401,
+     "w": 131,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/onboarding",
+    "tag": "a",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 760,
+     "y": 401,
+     "w": 131,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F47aace2b6b0a45a2985ee1c724a250a77fa4fbcd-1200x960.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "an illustration of a document with the word coding at the top",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "2-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    },
+    "r": "0px",
+    "file": "/assets/bands/coding/v2-0.png"
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "box": {
+   "w": 1440,
+   "h": 640
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 480
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Catch what matters for billing",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 196,
+     "w": 600,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi flags billable codes and ranks them by relevance, helping reduce errors and missed revenue across clinicians, consults, and care teams.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 324,
+     "w": 600,
+     "h": 45
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 401,
+     "w": 131,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/onboarding",
+    "tag": "a",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 401,
+     "w": 131,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fecc92d62e0078e3ca1a7a00cc6f332034e820d66-1200x960.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "a stack of cards with low medium and high relevance",
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "3-0",
+    "tag": "div",
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    },
+    "r": "0px",
+    "file": "/assets/bands/coding/v3-0.png"
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "box": {
+   "w": 1440,
+   "h": 640
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 480
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Stay in control without extra steps",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 196,
+     "w": 600,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Confirm, adjust, or add codes directly in your note. On-screen cues show what’s coded and what’s left — all without leaving your flow.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 324,
+     "w": 600,
+     "h": 45
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 401,
+     "w": 131,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/onboarding",
+    "tag": "a",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 760,
+     "y": 401,
+     "w": 131,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fd5852ce21c60ad75829b30203872791aee09bd33-1200x960.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "an illustration of a custom note with high relevance and medium relevance",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "4-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    },
+    "r": "0px",
+    "file": "/assets/bands/coding/v4-0.png"
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "box": {
+   "w": 1440,
+   "h": 729
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 569
+  },
+  "secCls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+  "texts": [
+   {
+    "tag": "h3",
+    "t": "The codes you need, when you need them",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 80,
+     "w": 768,
+     "h": 112
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Get instant code suggestions",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 336,
+     "w": 405,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi surfaces codes linked to clinical context and mapped to your note.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 380,
+     "w": 405,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "See what matters for billing",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 517,
+     "y": 336,
+     "w": 405,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Codes are ranked by relevance and marked as billable, so you see exactly what counts.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 517,
+     "y": 380,
+     "w": 405,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Code in one click",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 955,
+     "y": 336,
+     "w": 405,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Add, confirm, or replace instantly. Status shows what’s done and what needs review.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 955,
+     "y": 380,
+     "w": 405,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Set coding your way",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 521,
+     "w": 405,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Turn suggestions on/off, choose codes, and apply local rules. Your preferences stay locked in.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 566,
+     "w": 405,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Search codes from where you’re writing",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 517,
+     "y": 521,
+     "w": 405,
+     "h": 77
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Find any SNOMED or ICD code right from your note. Add it on the spot — no switching apps, tabs, or context.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 517,
+     "y": 604,
+     "w": 405,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Track every code in one place",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 955,
+     "y": 521,
+     "w": 405,
+     "h": 77
+    }
+   },
+   {
+    "tag": "p",
+    "t": "See all codes from the consult with timestamps and context, so records are ready for claims or review.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 955,
+     "y": 604,
+     "w": 405,
+     "h": 45
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "code",
+    "box": {
+     "x": 80,
+     "y": 272,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "receipt-text",
+    "box": {
+     "x": 517,
+     "y": 272,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "mouse-pointer-click",
+    "box": {
+     "x": 955,
+     "y": 272,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "settings2",
+    "box": {
+     "x": 80,
+     "y": 457,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "search",
+    "box": {
+     "x": 517,
+     "y": 457,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "list",
+    "box": {
+     "x": 955,
+     "y": 457,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 6,
+  "box": {
+   "w": 1440,
+   "h": 697
+  },
+  "secBox": {
+   "x": 128,
+   "y": 176,
+   "w": 1184,
+   "h": 345
+  },
+  "secCls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+  "texts": [
+   {
+    "tag": "h3",
+    "t": "Chart by voice, wherever you care",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 176,
+     "w": 768,
+     "h": 112
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "For clinicians",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 128,
+     "y": 432,
+     "w": 373,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Build templates for the notes you write most, so you don’t have to start from scratch.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 128,
+     "y": 476,
+     "w": 373,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "For clinics",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 533,
+     "y": 432,
+     "w": 373,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Support high standards across the team, while making follow-up and admin easier.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 533,
+     "y": 476,
+     "w": 373,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "For hospitals",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 939,
+     "y": 432,
+     "w": 373,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Ensure complete, consistent records that reduce risk and support claims.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 939,
+     "y": 476,
+     "w": 373,
+     "h": 45
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "user-round",
+    "box": {
+     "x": 128,
+     "y": 368,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "users-round",
+    "box": {
+     "x": 533,
+     "y": 368,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 601
+    }
+   },
+   {
+    "bg": "rgb(246, 236, 228)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 96,
+     "w": 247,
+     "h": 505
+    }
+   },
+   {
+    "bg": "rgb(246, 236, 228)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 1145,
+     "y": 96,
+     "w": 247,
+     "h": 505
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "6-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 601
+    },
+    "r": "36px",
+    "file": "/assets/bands/coding/v6-0.png"
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "box": {
+   "w": 1440,
+   "h": 868
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 708
+  },
+  "secCls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Questions & answers",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 431,
+     "h": 53
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Everything you need to know about Heidi",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 149,
+     "w": 292,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "How does Heidi Coding help with insurance claims and audit prep?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 104,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi Coding streamlines the insurance claims process by suggesting the most relevant ICD-10 and SNOMED codes, reducing errors and ensuring accuracy. It supports audit preparation by generating well-organized, compliant documentation that aligns with billing codes, making it easier to submit claims and pass audits.",
+    "html": "Heidi Coding streamlines the insurance claims process by suggesting the most relevant ICD-10 and SNOMED codes, reducing errors and ensuring accuracy. It supports audit preparation by generating well-organized, compliant documentation that <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/en-gb/guides/streamline-your-notes\">aligns with billing codes</a>, making it easier to submit claims and pass audits.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 784,
+     "y": 188,
+     "w": 520,
+     "h": 112
+    }
+   },
+   {
+    "tag": "a",
+    "t": "aligns with billing codes",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(64, 118, 72)",
+    "ta": "start",
+    "box": {
+     "x": 1000,
+     "y": 256,
+     "w": 168,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "How does Heidi suggest ICD-10 or SNOMED codes?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 356,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "span",
+    "t": "How are coding suggestions tailored to my specialty and region?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 472,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Why are codes not automatically applied to notes?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 588,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "span",
+    "t": "How can I use Heidi Coding for consistent billing and regulatory compliance?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 704,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Showing 5 of 5 questions",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 759,
+     "y": 79,
+     "w": 1,
+     "h": 1
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "How does Heidi Coding help with insurance claims and audit prep?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 108
+    }
+   },
+   {
+    "t": "aligns with billing codes",
+    "href": "/en-gb/guides/streamline-your-notes",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(64, 118, 72)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1000,
+     "y": 256,
+     "w": 168,
+     "h": 20
+    }
+   },
+   {
+    "t": "How does Heidi suggest ICD-10 or SNOMED codes?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 332,
+     "w": 600,
+     "h": 108
+    }
+   },
+   {
+    "t": "How are coding suggestions tailored to my specialty and region?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 448,
+     "w": 600,
+     "h": 108
+    }
+   },
+   {
+    "t": "Why are codes not automatically applied to notes?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 564,
+     "w": 600,
+     "h": 108
+    }
+   },
+   {
+    "t": "How can I use Heidi Coding for consistent billing and regulatory compliance?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 680,
+     "w": 600,
+     "h": 108
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 244
+    }
+   }
+  ],
+  "visuals": []
+ },
+ {
+  "i": 8,
+  "box": {
+   "w": 1440,
+   "h": 538
+  },
+  "secBox": {
+   "x": 128,
+   "y": 176,
+   "w": 1184,
+   "h": 186
+  },
+  "secCls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Cut the rewrites and get to a complete note faster.",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 176,
+     "w": 768,
+     "h": 112
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Join the waitlist for access",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 609,
+     "y": 320,
+     "w": 222,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Join the waitlist for access",
+    "href": "/en-gb/medical-codes",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 609,
+     "y": 320,
+     "w": 222,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(251, 245, 130)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 442
+    }
+   },
+   {
+    "bg": "rgb(253, 250, 196)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": -367,
+     "w": 381,
+     "h": 1272
+    }
+   },
+   {
+    "bg": "rgb(253, 250, 196)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 1011,
+     "y": -367,
+     "w": 381,
+     "h": 1272
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "8-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 442
+    },
+    "r": "36px",
+    "file": "/assets/bands/coding/v8-0.png"
+   }
+  ]
+ }
+]

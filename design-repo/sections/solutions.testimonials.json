@@ -1,0 +1,75 @@
+{
+  "id": "solutions.testimonials",
+  "category": "proof",
+  "purpose": "Named clinician/customer testimonials for the vertical.",
+  "measuredFrom": "src/components/solutions/index.jsx:369-433 (Testimonials)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 12
+      },
+      "link": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 8,
+        "items": {
+          "type": "object",
+          "properties": {
+            "quote": {
+              "type": "string",
+              "maxWords": 60
+            },
+            "name": {
+              "type": "string",
+              "maxWords": 6
+            },
+            "role": {
+              "type": "string",
+              "maxWords": 10
+            }
+          },
+          "required": [
+            "quote",
+            "name"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "heading",
+      "link",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [
+    "customer-photo"
+  ]
+}

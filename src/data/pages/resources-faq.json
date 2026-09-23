@@ -1,0 +1,235 @@
+{
+ "slug": "resources-faq",
+ "path": "/resources/frequently-ask-questions",
+ "url": "/en-gb/resources/frequently-ask-questions",
+ "title": "FAQs",
+ "status": 200,
+ "meta": {
+  "title": "Heidi AI FAQs (Frequently Asked Questions)",
+  "desc": "Find answers to common questions about Heidi AI. Learn how our AI scribe works, pricing, compliance, and more for clinicians across all… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 720
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 720,
+   "innerH": 191,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Frequently asked questions",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Does Heidi work offline? Is it HIPAA compliant? What languages are supported? Find answers to common questions about Heidi's AI medical scribe platform.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Contact support",
+     "href": "/en-gb/contact",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1323,
+   "innerH": 1163,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is Heidi Australian Privacy Principles (APP) compliant?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Yes, fully. Your patients' information stays right here in Australia, protected by the robust framework of Aussie privacy laws. We take zero-tolerance approach to third-party access. Your consultations are yours, and the audio used for generating patient notes? Disappears right after your notes are done – never stored permanently.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How long does a safety plan take to complete?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is a safety plan the same as a treatment plan?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Where can I find free safety plan templates?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How can I view older entries I filled through Dictate?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How can OB-GYN dictation support clinicians in sensitive conversations?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How secure is Heidi Dictate?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Can OB-GYNs use Dictate with Scribe?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is it worth it to get a standalone tool for dictation?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Can I make my own treatment plan template?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How often should a treatment plan template be updated?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What are the four elements of a treatment plan template?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 12 of 24 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Show more",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 481
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 577,
+   "innerH": 225,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Real adoption drives real transformation",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Join thousands of teams worldwide who've made Heidi part of their daily practice",
+     "fs": 16,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

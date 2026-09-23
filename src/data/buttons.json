@@ -1,0 +1,3491 @@
+{
+ "home": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Book a demo",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Look up",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Research",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Treat",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Explain",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Compare",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Evidence",
+   "href": null,
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Scribe",
+   "href": "/en-gb/scribe",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Remote",
+   "href": "/en-gb/hardware",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Evidence",
+   "href": "/en-gb/evidence",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Explore enterprise",
+   "href": "/en-gb/solutions/enterprise",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Book a demo",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  }
+ ],
+ "pricing": [
+  {
+   "t": "GBP (£)",
+   "href": null,
+   "bg": "rgb(255, 255, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "12px",
+   "h": 47,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/register",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Try 14 days free",
+   "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRO_TRIAL_YEARLY\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Try 14 days free",
+   "href": "https://scribe.heidihealth.com/register#paymentChosen=\"CLINICIAN_TRIAL_YEARLY\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Talk to us",
+   "href": "/en-GB/contact-sales",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Learn more",
+   "href": "/en-GB/solutions/medical-trainees",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/register",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": null,
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Try 14 days free",
+   "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRO_TRIAL\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Try 14 days free",
+   "href": null,
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Try 14 days free",
+   "href": "https://scribe.heidihealth.com/register#paymentChosen=\"CLINICIAN_TRIAL\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Try 14 days free",
+   "href": null,
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Talk to us",
+   "href": "/en-GB/contact-sales",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Talk to us",
+   "href": null,
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Speak to Heidi team",
+   "href": "/en-gb/contact",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "contact": [
+  {
+   "t": "Visit help centre",
+   "href": "https://support.heidihealth.com/",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Contact sales",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Visit help centre",
+   "href": "https://support.heidihealth.com/",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "scribe": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Chat with us",
+   "href": "/en-gb/contact",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Structured, ready to review",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Nothing gets missed",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Fits your systems and standards",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "/en-gb/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Remote",
+   "href": "/en-gb/hardware",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "36px",
+   "h": 57,
+   "icon": 24,
+   "iconColor": "rgb(251, 245, 130)"
+  }
+ ],
+ "evidence": [
+  {
+   "t": "Look up",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Research",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Treat",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Explain",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Compare",
+   "href": null,
+   "bg": "rgb(252, 250, 248)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(244, 231, 221)",
+   "r": "8px",
+   "h": 34,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Chat with us",
+   "href": "/en-gb/contact",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "CPD that logs itself",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "It drafts the documentation",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore pricing",
+   "href": "/en-gb/pricing",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "/en-gb/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Remote",
+   "href": "/en-gb/hardware",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "36px",
+   "h": 57,
+   "icon": 24,
+   "iconColor": "rgb(251, 245, 130)"
+  }
+ ],
+ "hardware": [
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Skip",
+   "href": null,
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 36,
+   "icon": 16,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Learn More",
+   "href": "/en-gb/customers/how-heidi-remote-moves-with-dr-paul-hacker",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "View Our Privacy Policy",
+   "href": "/en-gb/legal/privacy-policy",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Download Quickstart Guide",
+   "href": null,
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Download User Manual",
+   "href": null,
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  }
+ ],
+ "product-dictate": [
+  {
+   "t": "Try Dictate",
+   "href": "#download-section",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Try Dictate",
+   "href": "#download-section",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Apple Silicon",
+   "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/dmg-aarch64-dictate?channel=uk",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Try Dictate",
+   "href": "#download-section",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "product-coding": [
+  {
+   "t": "Join the waitlist for access",
+   "href": "/en-gb/medical-codes",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Join the waitlist for access",
+   "href": "/en-gb/medical-codes",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "download": [
+  {
+   "t": "Apple Silicon",
+   "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/dmg-aarch64?channel=uk",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Get it on Google Play",
+   "href": "https://play.google.com/store/apps/details?id=com.heidihealth.scribe",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Get it on the App Store",
+   "href": "https://apps.apple.com/app/heidi-ai-clinical-scribe/id6504471106",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": ".EXE",
+   "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/nsis-x86_64?channel=uk",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Explore integrations",
+   "href": "/en-gb/integrations",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "progress-notes": [
+  {
+   "t": "Heidi Progress Notes Heidi Team 7 September 2026 • 7 min read Read full article",
+   "href": "/en-gb/progress-notes/august-2026",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Read full article",
+   "href": null,
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Heidi Progress Notes Heidi Team 5 August 2026 • 6 min read • Listen Read full article",
+   "href": "/en-gb/progress-notes/july-2026",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Heidi Progress Notes Heidi Team 1 July 2026 • 8 min read • Listen Read full article",
+   "href": "/en-gb/progress-notes/june-2026",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Heidi Progress Notes Heidi Team 3 June 2026 • 5 min read • Listen Read full article",
+   "href": "/en-gb/progress-notes/may-2026",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Heidi Progress Notes: Version history, flexibility with Forms and shared Sessions Heidi Team 30 April 2026 • 10 min read • Listen Read full article",
+   "href": "/en-gb/progress-notes/april-2026",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Heidi Progress Notes: Heidi Remote, Integrations and Team Collaboration Heidi Team 31 March 2026 • 6 min read • Listen Read full article",
+   "href": "/en-gb/progress-notes/heidi-updates-march-2026",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Heidi Progress Notes - Evidence, Comms, and more customisations Heidi Team 25 February 2026 • 6 min read • Listen Read full article",
+   "href": "/en-gb/progress-notes/heidi-updates-evidence-comms-and-more-customisations",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Load more articles",
+   "href": null,
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "solutions-enterprise": [
+  {
+   "t": "Contact sales",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Contact sales",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Contact sales",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Contact sales",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Turn documentation time into patient time",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Scale one platform across each department",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Visit Trust Centre",
+   "href": "https://trust.heidihealth.com/",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "See full story",
+   "href": "/en-gb/blog/beth-israel-lahey-health-partners-with-heidi",
+   "bg": "rgb(185, 207, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "See full story",
+   "href": "/en-gb/blog/modality-partnership-teams-up-with-ai-medical-scribe-heidi-health-in-largest-clinical-rollout-of-ambient-ai",
+   "bg": "rgb(185, 207, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "See full story",
+   "href": "/en-gb/mainegeneral-adoption-of-ai-scribe",
+   "bg": "rgb(185, 207, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "See full story",
+   "href": "/en-gb/customers/my-emergency-doctor",
+   "bg": "rgb(185, 207, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "See full story",
+   "href": "/en-gb/customers/tamaki-health",
+   "bg": "rgb(185, 207, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "See full story",
+   "href": "/en-gb/customers/indiana-health-group-ihg",
+   "bg": "rgb(185, 207, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Contact sales",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "solutions-primary-care": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "/en-gb/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "/en-gb/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Dictate",
+   "href": "/en-gb/product/dictate",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Focus remains on your patient",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get answers without breaking flow",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Templates",
+   "href": "https://www.heidihealth.com/templates",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read customer stories",
+   "href": "/en-gb/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-medical-specialties": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "https://scribe.heidihealth.com/en/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "https://www.heidihealth.com/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Explore Dictate",
+   "href": "/en-gb/product/dictate",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Evidence mid-session, no tab avalanche",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "From the rooms to the ward, nothing lost",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read customer stories",
+   "href": "https://www.heidihealth.com/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-nurses": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "/en-gb/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "/en-gb/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Care plans that move with your shift",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Verify without leaving the bedside",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Templates",
+   "href": "https://www.heidihealth.com/templates",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read customer stories",
+   "href": "/en-gb/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-mental-health": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "https://scribe.heidihealth.com/en/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "https://www.heidihealth.com/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Stay in the room",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get answers without breaking flow",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Build your note, your way",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read customer stories",
+   "href": "https://www.heidihealth.com/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-allied-health": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "https://scribe.heidihealth.com/en/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "https://www.heidihealth.com/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Mid-session question, cited answer",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Documentation that keeps up with you",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read customer stories",
+   "href": "https://www.heidihealth.com/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-dentists": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "https://scribe.heidihealth.com/en/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "https://www.heidihealth.com/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get the medical-history answered, mid-chair",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Make the note match how you actually chart",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-aged-care": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "https://scribe.heidihealth.com/en/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "https://www.heidihealth.com/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Answers you can act on",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Documentation at the point of care",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read customer stories",
+   "href": "https://www.heidihealth.com/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Templates",
+   "href": "https://www.heidihealth.com/templates",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-veterinarians": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "/en-gb/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "/en-gb/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "/en-gb/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Focus stays on the pet and the owner",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Answers without leaving the exam table",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read customer stories",
+   "href": "/en-gb/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-medical-trainees": [
+  {
+   "t": "Claim your free Clinician Plan",
+   "href": "https://www.heidihealth.com/trainee/sign-up",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read case studies",
+   "href": "/en-gb/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Claim your free Clinician Plan",
+   "href": "https://www.heidihealth.com/trainee/sign-up",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-surgeons": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "/en-gb/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "/en-gb/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Explore Dictate",
+   "href": "/en-gb/product/dictate",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Cited answers grounded in clinical evidence",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read customer stories",
+   "href": "/en-gb/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "solutions-emergency-medicine": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "https://scribe.heidihealth.com/en/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Remote",
+   "href": "/en-gb/store/remote",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "/en-gb/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "The answer before you'd find the tab",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Every bay, every handover",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Templates",
+   "href": "https://www.heidihealth.com/templates",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Read customer stories",
+   "href": "https://www.heidihealth.com/customers",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "integrations": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "View details",
+   "href": "/en-gb/epic-integration",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "View details",
+   "href": "/en-gb/oracle-cerner-integration",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "All",
+   "href": null,
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "United Kingdom",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(117, 87, 96)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "12px",
+   "h": 40,
+   "icon": 16,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "ANZ",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "United States",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Canada",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Germany",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Singapore",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Altera Use Integration Launch Heidi from inside Altera with the patient already in context, then write the finished note back to the chart for review and sign-off.",
+   "href": "/en-gb/integrations/altera",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "CareStack Use Integration Capture AI-powered notes in CareStack with Heidi, then insert them directly into your letters or patient records – all within your existing workflow.",
+   "href": "/en-gb/integrations/carestack",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Cliniko Use Integration Seamlessly sync your schedule and push AI-generated notes straight into Cliniko using Heidi's integration.",
+   "href": "/en-gb/integrations/cliniko",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "EMIS Use Integration Connect Heidi to EMIS to sync your patient schedule, map customised note sections to EMIS sections, and push completed documentation, clinical codes, and observations from Heidi to EMIS in one click.",
+   "href": "/en-gb/integrations/emis",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Halaxy Use Integration Heidi Health seamlessly integrates in your Halaxy clinical notes to automatically transcribe your clinical note content and other documentation.",
+   "href": "/en-gb/integrations/halaxy",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Medicus Use Integration Use Heidi inside Medicus to write the note during the visit, then file it to the patient record in one click.",
+   "href": "/en-gb/integrations/medicus",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "MediOffice Use Integration Use Heidi directly inside MediOffice to record consultations, generate clinical notes, and insert them into patient records — all within your existing workflow.",
+   "href": "/en-gb/integrations/medioffice",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "MidexPRO Use Integration Use Heidi inside MidexPRO to document consultations in real time and eliminate after-hours admin",
+   "href": "/en-gb/integrations/midexpro",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Nookal Use Integration Heidi integrates seamlessly with Nookal, letting you push AI-generated clinical notes directly into your client’s file with one click.",
+   "href": "/en-gb/integrations/nookal",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Salesforce Use Integration Connect Heidi to a Salesforce clinical record. Heidi transcribes the visit, builds the note, and writes documentation back to the patient record mapped to your own data model.",
+   "href": "/en-gb/integrations/salesforce",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Semble Use Integration Heidi integrates directly into your Semble clinical notes, allowing you to record consults, generate high-quality notes, and insert them into your letters — all within your existing workflow.",
+   "href": "/en-gb/integrations/semble",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "TM3 Use Integration Use Heidi inside TM3 to write assessment, progress and discharge notes while the appointment is still happening.",
+   "href": "/en-gb/integrations/tm3",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "WriteUpp Use Integration Heidi’ AI technology integrates with WriteUpp, so clinicians can create high-quality notes in real time. That means fewer clicks, less admin, and more time to focus on patient care.",
+   "href": "/en-gb/integrations/writeupp",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "16px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Partner with us",
+   "href": "/en-gb/partners",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "oracle-cerner-integration": [
+  {
+   "t": "Talk to our team",
+   "href": "https://www.heidihealth.com/contact-sales?integration=oracle-cerner",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Contact sales",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Contact us",
+   "href": "https://www.heidihealth.com/contact-sales?integration=oracle-cerner",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Talk to our team",
+   "href": "https://www.heidihealth.com/contact-sales?integration=oracle-cerner",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Talk to our team",
+   "href": "https://www.heidihealth.com/contact-sales?integration=oracle-cerner",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Talk to our team",
+   "href": "https://www.heidihealth.com/contact-sales?integration=oracle-cerner",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Talk to our team",
+   "href": "https://www.heidihealth.com/contact-sales?integration=oracle-cerner",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "See more integrations",
+   "href": "/en-gb/integrations",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "epic-integration": [
+  {
+   "t": "Talk to us",
+   "href": "https://www.heidihealth.com/contact-sales?integration=epic",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Visit the Epic Showroom",
+   "href": "https://showroom.epic.com/Listing?id=2832",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Talk to us",
+   "href": "https://www.heidihealth.com/contact-sales?integration=epic",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Talk to us",
+   "href": "https://www.heidihealth.com/contact-sales?integration=epic",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Talk to us",
+   "href": "https://www.heidihealth.com/contact-sales?integration=epic",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Talk to us",
+   "href": "https://www.heidihealth.com/contact-sales?integration=epic",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Talk to us",
+   "href": "https://www.heidihealth.com/contact-sales?integration=epic",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "See more integrations",
+   "href": "/en-gb/integrations",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "partners": [
+  {
+   "t": "Contact us",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Contact us",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "impact": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Book a demo",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Book a demo",
+   "href": "/en-gb/contact-sales",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "blog": [
+  {
+   "t": "Introducing: Relief, on repeat Dr. Thomas Kelly MD 7 July 2026 • 3 min read Read full article",
+   "href": "/en-gb/blog/introducing-relief-on-repeat",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Read full article",
+   "href": null,
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "All",
+   "href": null,
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Media",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Templates",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Integrations",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Resources",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Committed to Canadian Clinicians: Free Heidi Pro for Primary Care Maureen Green 17 September 2026 • 2 min read Read full article",
+   "href": "/en-gb/blog/committed-to-canadian-clinicians-free-heidi-pro",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Resources What is an Electronic Medical Record (EMR) System? LJ Acallar 16 September 2026 • 9 min read Read full article",
+   "href": "/en-gb/blog/emr-system",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Resources Level of Evidence: A Definitive Guide for Clinicians Lorraine Quintana 8 September 2026 • 8 min read Read full article",
+   "href": "/en-gb/blog/level-of-evidence",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Resources What Is Voice Dictation? How It Works Across Devices Lorraine Quintana 4 September 2026 • 8 min read • Listen Read full article",
+   "href": "/en-gb/blog/voice-dictation",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Guides Six Domains of Healthcare Quality: Examples and Application Nikki Zurbano 3 September 2026 • 10 min read Read full article",
+   "href": "/en-gb/blog/six-domains-of-healthcare-quality",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Resources Dragon Medical One Alternative: Comparison and Review 2026 Lorraine Quintana 1 September 2026 • 9 min read Read full article",
+   "href": "/en-gb/blog/dragon-medical-one-alternative",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Media Heidi rolls out across Metro South Health: Our largest public health partnership in Australia Heidi Team 31 August 2026 • 3 min read Read full article",
+   "href": "/en-gb/blog/heidi-rolls-out-across-metro-south-health",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Guides Best Practices for Ambient Clinical Documentation Nikki Zurbano 28 August 2026 • 8 min read Read full article",
+   "href": "/en-gb/blog/ambient-clinical-documentation",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Load more articles",
+   "href": null,
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "tools": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Load more tools",
+   "href": null,
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Explore Scribe",
+   "href": "/en-gb/scribe",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Dictate",
+   "href": "/en-gb/product/dictate",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Evidence",
+   "href": "/en-gb/evidence",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Explore Remote",
+   "href": "/en-gb/hardware",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "customers": [
+  {
+   "t": "Driving 1,000km a week and still home for the kids: How Heidi gave a rural pharmacist her evenings back Heidi Team 24 June 2026 • 7 min read Read full article",
+   "href": "/en-gb/customers/how-heidi-gave-a-rural-pharmacist-her-evenings-back",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Read full article",
+   "href": null,
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Specialties",
+   "href": null,
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 38,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Preventative & Holistic Medicine",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Allied Health",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Pediatrics",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "Pharmacy",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgba(0, 0, 0, 0)",
+   "r": "12px",
+   "h": 40,
+   "icon": 0,
+   "iconColor": "rgb(117, 87, 96)"
+  },
+  {
+   "t": "An hour and a half back, every day: Heidi at MATTER Heidi Team 25 August 2026 • 9 min read • Listen Read full article",
+   "href": "/en-gb/customers/an-hour-and-a-half-back-every-day-heidi-at-matter",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "One to two hours back, every single day: how Old Machar Medical Practice changed the shape of its working day Giulia Pedrazzini 19 August 2026 • 3 min read • Listen Read full article",
+   "href": "/en-gb/customers/old-machar-medical-practice-changed-the-shape-of-its-working-day",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "From efficiency to better care: Amazing Hearing's experience with Heidi Heidi Team 7 August 2026 • 6 min read • Listen Read full article",
+   "href": "/en-gb/customers/amazing-hearings-experience-with-heidi",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Dr Annie Liau Fui Vun Consultant Paediatrician \"A lifesaver\": How Heidi transforms complex developmental sessions Heidi Team 6 August 2026 • 5 min read • Listen Read full article",
+   "href": "/en-gb/customers/how-heidi-transforms-complex-developmental-sessions",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "How Heidi Powers a New Kind of Physiotherapy Practice at PHYX in Hong Kong Heidi Team 22 July 2026 • 10 min read • Listen Read full article",
+   "href": "/en-gb/customers/how-heidi-powers-phyx-in-hong-kong",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Customer Stories Case Study: Walsall Healthcare NHS Trust Heidi Team 21 July 2026 • 2 min read • Listen Read full article",
+   "href": "/en-gb/customers/case-study-walsall-healthcare-nhs-trust",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Load more articles",
+   "href": null,
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "templates": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(251, 245, 130)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Most Popular",
+   "href": null,
+   "bg": "rgb(255, 255, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "12px",
+   "h": 47,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "All Locations",
+   "href": null,
+   "bg": "rgb(255, 255, 255)",
+   "fg": "rgba(0, 0, 0, 0.5)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "12px",
+   "h": 46,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "All Specialties",
+   "href": null,
+   "bg": "rgb(255, 255, 255)",
+   "fg": "rgba(0, 0, 0, 0.5)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "12px",
+   "h": 46,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "All Categories",
+   "href": null,
+   "bg": "rgb(255, 255, 255)",
+   "fg": "rgba(0, 0, 0, 0.5)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "12px",
+   "h": 46,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "1",
+   "href": null,
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 36,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "resource-centre": [
+  {
+   "t": "Contact us",
+   "href": "/en-gb/contact",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 52,
+   "icon": 28,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "podcast": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "safety": [],
+ "resources-faq": [
+  {
+   "t": "Contact support",
+   "href": "/en-gb/contact",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "resources-patients": [
+  {
+   "t": "When a question comes up",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Between visits",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  }
+ ],
+ "resources-evaluation-framework": [
+  {
+   "t": "Download as PDF",
+   "href": null,
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Download as PDF",
+   "href": null,
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  }
+ ],
+ "careers": [
+  {
+   "t": "See open roles",
+   "href": "#open-positions",
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(249, 244, 241)"
+  },
+  {
+   "t": "Location",
+   "href": null,
+   "bg": "rgb(255, 255, 255)",
+   "fg": "rgba(0, 0, 0, 0.5)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "12px",
+   "h": 47,
+   "icon": 24,
+   "iconColor": "rgba(0, 0, 0, 0.5)"
+  },
+  {
+   "t": "Department",
+   "href": null,
+   "bg": "rgb(255, 255, 255)",
+   "fg": "rgba(0, 0, 0, 0.5)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "12px",
+   "h": 47,
+   "icon": 24,
+   "iconColor": "rgba(0, 0, 0, 0.5)"
+  }
+ ],
+ "about-us-media": [
+  {
+   "t": "Media Heidi rolls out across Metro South Health: Our largest public health partnership in Australia Heidi Team 31 August 2026 • 3 min read Read full article",
+   "href": "/en-gb/blog/heidi-rolls-out-across-metro-south-health",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Media Heidi and QHR Technologies integrate AI documentation into Accuro EMR to help return time to Canadian clinicians Heidi Team 16 June 2026 • 5 min read • Listen Read full article",
+   "href": "/en-gb/blog/qhr-technologies-integrate",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Media The Royal Children’s Hospital deploys Heidi so paediatricians can focus on patients, not paperwork Heidi Team 3 June 2026 • 6 min read • Listen Read full article",
+   "href": "/en-gb/blog/the-royal-childrens-hospital-deploys-heidi",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Media Building the AI Care Partner for Every Clinician Dr. Thomas Kelly MD 31 October 2025 • 3 min read Read full article",
+   "href": "/en-gb/blog/ai-care-partner-for-every-clinician",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Media Vim and Heidi Health Partner to Accelerate Innovation at the Point of Care Heidi Team 15 October 2025 • 5 min read Read full article",
+   "href": "/en-gb/blog/vim-and-heidi-health",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 24,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Media Heidi Secures $65 Million USD in Series B Funding to Accelerate Building an AI Care Partner for Every Clinician Heidi Team 5 October 2025 • 6 min read • Listen Read full article",
+   "href": "/en-gb/blog/heidi-series-b",
+   "bg": "oklch(0.922 0 0)",
+   "fg": "oklch(0.708 0 0)",
+   "bd": null,
+   "r": "3.35544e+07px",
+   "h": 48,
+   "icon": 14,
+   "iconColor": "rgb(64, 118, 72)"
+  },
+  {
+   "t": "Load more articles",
+   "href": null,
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  },
+  {
+   "t": "Contact us",
+   "href": "mailto:media@heidihealth.com",
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 22,
+   "iconColor": "rgb(40, 3, 15)"
+  }
+ ],
+ "about-us-awards": [
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "HTN Now Awards 2025/26",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "The General Practice Awards",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "2026 Best in Tech Awards",
+   "href": null,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "bd": "rgb(240, 223, 209)",
+   "r": "0px",
+   "h": 56,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Visit media room",
+   "href": "/en-gb/about-us/media",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  },
+  {
+   "t": "Get Heidi free",
+   "href": "https://scribe.heidihealth.com/onboarding",
+   "bg": "rgb(25, 75, 34)",
+   "fg": "rgb(249, 244, 241)",
+   "bd": null,
+   "r": "12px",
+   "h": 42,
+   "icon": 0,
+   "iconColor": null
+  }
+ ]
+}

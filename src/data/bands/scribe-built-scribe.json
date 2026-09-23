@@ -1,0 +1,108 @@
+{
+ "logos": [
+  {
+   "alt": "CHCP",
+   "src": "/assets/bands/scribe/488397936e8d436d3540873203df5365d495cfe3-156x60.svg"
+  },
+  {
+   "alt": "modality",
+   "src": "/assets/bands/scribe/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg"
+  },
+  {
+   "alt": "NHS Dudley",
+   "src": "/assets/bands/scribe/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg"
+  },
+  {
+   "alt": "NHS Hertfordshire Teaching Hospitals",
+   "src": "/assets/bands/scribe/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg"
+  },
+  {
+   "alt": "NHS Walsall Healthcare",
+   "src": "/assets/bands/scribe/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg"
+  },
+  {
+   "alt": "NHS WWL Teaching Hospitals",
+   "src": "/assets/bands/scribe/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg"
+  },
+  {
+   "alt": "onecare",
+   "src": "/assets/bands/scribe/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg"
+  },
+  {
+   "alt": "Portman dentex",
+   "src": "/assets/bands/scribe/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg"
+  },
+  {
+   "alt": "Sue Ryder",
+   "src": "/assets/bands/scribe/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg"
+  },
+  {
+   "alt": "Swiss Medical Network",
+   "src": "/assets/bands/scribe/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg"
+  }
+ ],
+ "tabs": [
+  {
+   "title": "Document the way you practice",
+   "body": "Heidi captures the encounter as it happens and writes notes that sound like you, not a generic template.",
+   "img": "/assets/bands/scribe/tabs-0.png"
+  },
+  {
+   "title": "Structured, ready to review",
+   "body": "Speech becomes organised documentation using clinician-designed templates or your own.",
+   "img": "/assets/bands/scribe/tabs-1.png"
+  },
+  {
+   "title": "Nothing gets missed",
+   "body": "Orders, follow-ups, and decisions are recognised as you speak, so tasks don’t rely on memory or manual tracking.",
+   "img": "/assets/bands/scribe/tabs-2.png"
+  },
+  {
+   "title": "Fits your systems and standards",
+   "body": "Notes align with regional clinical and billing requirements and flow back into your EMR, complete and structured.",
+   "img": "/assets/bands/scribe/tabs-3.png"
+  }
+ ],
+ "practice": [
+  {
+   "label": "General Practice",
+   "img": "/assets/bands/scribe/practice-0.png"
+  },
+  {
+   "label": "Physicians",
+   "img": "/assets/bands/scribe/practice-1.png"
+  },
+  {
+   "label": "Surgeons",
+   "img": "/assets/bands/scribe/practice-2.png"
+  },
+  {
+   "label": "Critical Care",
+   "img": "/assets/bands/scribe/practice-3.png"
+  },
+  {
+   "label": "Mental Health",
+   "img": "/assets/bands/scribe/practice-4.png"
+  },
+  {
+   "label": "Residental Care",
+   "img": "/assets/bands/scribe/practice-5.png"
+  },
+  {
+   "label": "Allied Health",
+   "img": "/assets/bands/scribe/practice-6.png"
+  },
+  {
+   "label": "Nurses",
+   "img": "/assets/bands/scribe/practice-7.png"
+  },
+  {
+   "label": "Veterinarians",
+   "img": "/assets/bands/scribe/practice-8.png"
+  },
+  {
+   "label": "Trainees",
+   "img": "/assets/bands/scribe/practice-9.png"
+  }
+ ]
+}

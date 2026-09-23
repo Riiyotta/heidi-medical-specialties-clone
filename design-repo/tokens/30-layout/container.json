@@ -1,0 +1,6 @@
+{
+  "$description": "Layout container widths.",
+  "measuredFrom": "CLONE_SPEC.md:92-96",
+  "outer": { "maxWidth": "container-xl", "value": "1920px" },
+  "inner": { "maxWidth": "container-lg", "value": "1280px" }
+}

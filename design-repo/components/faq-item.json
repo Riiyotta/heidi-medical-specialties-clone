@@ -1,0 +1,7 @@
+{
+  "id": "faq-item",
+  "category": "component",
+  "purpose": "Single collapsible question/answer row, the unit inside faq.list / solutions.faq / band.faq-band.",
+  "measuredFrom": "src/components/sections/index.jsx:383-484 (FaqList, Faq); src/data/faq-answers.json",
+  "props": { "q": { "type": "string", "maxWords": 20 }, "a": { "type": "string", "maxWords": 120 } }
+}

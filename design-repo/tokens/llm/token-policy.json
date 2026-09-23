@@ -1,0 +1,14 @@
+{
+  "$description": "What's machine-enforced vs. convention-only when an AI generates a PageSpec.",
+  "resolutionOrder": ["foundation", "themeMode", "semanticAlias", "componentToken", "permittedLocalOverride", "responsiveOverride"],
+  "rawValueRestrictions": {
+    "color": "forbidden -- must reference a tokens/10-semantic/color.json role id",
+    "fontSize": "forbidden -- must reference a tokens/00-foundation/typography.json scale id",
+    "fontWeight": "forbidden -- weight is fixed per typography scale entry, not independently settable",
+    "fontFamily": "forbidden -- must be 'sans' or 'serif' per tokens/00-foundation/typography.json",
+    "elevation": "forbidden -- must reference a tokens/00-foundation/elevation.json shadow id"
+  },
+  "overrides": {
+    "note": "PageSpec instances in this design-repo carry no per-instance style/token-override field at all (see schema/pagespec.schema.json) -- styling is fully owned by the section/component contracts a node references, not by the generated instance. This section records that gap explicitly per MASTER-GUIDE.md 3.21 rather than inventing a field just to have something to validate."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$description": "Rhythm/adjacency rules JSON Schema can't express. Every rule's prose here must stay in agreement with its matching check in schema/semantic_validate.py -- both are re-verified in extraction/verify_all.py's drift tests.",
+  "rules": [
+    {
+      "id": "ONE_HERO_PER_PAGE",
+      "severity": "error",
+      "description": "A page may declare at most one hero-category node (hero.generic, solutions.hero, band.product-hero, band.split-hero, band.pill-hero, band.edge-hero, band.video-hero, home.hero, pricing.hero-audience, band.video-intro when used as a template's first node).",
+      "exception": "The 'podcast' template has no hero node at all (its live page opens on a promoted h1 inside a prose block, per src/lib/classify.js ensureH1()) -- podcast is exempt from requiring a hero, not from the at-most-one rule."
+    },
+    {
+      "id": "NO_ADJACENT_SAME_SECTION",
+      "severity": "warn",
+      "description": "The same section id should not appear as two immediately-consecutive nodes, keyed on (section, variant) so a legitimate repeat with a different variant (e.g. home.quote-band variant='quote-1' then other nodes then variant='quote-2', or solutions-enterprise's two band.logo-marquee variants) does not false-positive.",
+      "exception": "home template's two home.quote-band nodes and solutions-enterprise's two band.logo-marquee nodes are NOT adjacent to each other (other nodes sit between them) and carry distinct variant tags -- both pass this rule as written."
+    },
+    {
+      "id": "NO_CONSECUTIVE_SCROLL_STAGES",
+      "severity": "warn",
+      "description": "band.quote-carousel and band.timeline (both scroll/step-driven) should not sit as two consecutive nodes in the same template -- none currently do."
+    },
+    {
+      "id": "CTA_BAND_MUST_BE_LAST",
+      "severity": "error",
+      "description": "Any node whose section contract sets constraints.mustBeLast=true (cta.band, solutions.cta-band, home.cta-band, band.pattern-cta when used as a template's closing node, band.green-band on solutions-medical-trainees) must be the final node in that template's nodes array.",
+      "exception": "solutions-enterprise and solutions-medical-trainees both close on band.green-band, not a *.cta-band id -- band.green-band's own contract does not set mustBeLast, so this rule does not apply to those two templates; they are correctly excluded, not exceptions to a violated rule."
+    },
+    {
+      "id": "FAQ_AT_MOST_ONCE",
+      "severity": "error",
+      "description": "faq.list / solutions.faq / band.faq-band together must appear at most once per template (onePerPage on each contract)."
+    },
+    {
+      "id": "MOTION_BUDGET",
+      "severity": "warn",
+      "description": "A template should not declare more than 3 distinct non-fade motion patterns (carousel/marquee/tabs) to keep scroll performance predictable; purely informational for a generator, not currently violated by any of the 26 templates."
+    }
+  ]
+}

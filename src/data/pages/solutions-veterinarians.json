@@ -1,0 +1,811 @@
+{
+ "slug": "solutions-veterinarians",
+ "path": "/solutions/veterinarians",
+ "url": "/en-gb/solutions/veterinarians",
+ "title": "Veterinarians",
+ "status": 200,
+ "meta": {
+  "title": "Heidi for Veterinarians | Heidi",
+  "desc": "Capture every detail using Heidi, trusted by veterinarians globally. Try the best AI veterinary scribe for free today. - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Heidi for veterinarians",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Build bonds with pet and owner",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "From a midnight GDV to a routine TPLO, Heidi listens to patient interactions, handles documentation and keeps pet owners connected between appointments. The keyboard disappears. The connection stays.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/8079bc8d75ceece2b92b9f6fdb6967eab62adcff-1745x1396.jpg",
+     "alt": "Note",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 369,
+   "innerH": 209,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Built for the full range of veterinary",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "From solo mobile vets to multi-clinic groups, interns to board-certified specialists, Heidi adapts to your voice and works across the systems you already use.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Recommended for",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Emergency & Critical Care Vet",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Specialist Vet",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "GP Vet",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Vet Nurse",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 608,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Double the patients, half the notes",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi listens to a visit and generates a structured note ready before your next patient walks in. SOAP notes, discharge summaries, custom templates and more, tuned to any species. No typing while you're trying to keep a nervous pet still.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Scribe",
+     "href": "/en-gb/scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/df795d08bfefd54818f6557c2cebedd4edd75f89-1200x960.png",
+     "alt": "Heidi Transcript ",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 576,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Species relevant information mid session",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi Evidence gives you a fast, species-relevant answer in session, without stepping away from the patient. Cited, verifiable and tailored to veterinary medicine.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Evidence",
+     "href": "/en-gb/evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0052b8b989616f86ae41526b72a8f503a4945e89-1188x952.png",
+     "alt": "Ask heidi",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 608,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Hands-free capture",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi Remote goes where you go. A clip-on mic that follows you anywhere, surgical suite, emergency bay or farm call.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/636a0840f19250808f91a47467ad7be8c4b228ac-1200x960.jpg",
+     "alt": "Remote",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 537,
+   "innerH": 313,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Time back, pressure off",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "~1 hour",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "of capacity recovered per vet, per day.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "3–4 hours",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "less overtime per week.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "83%",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "reduction in burnout.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 954,
+   "innerH": 730,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Your day with Heidi",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi listens to your patient interactions, gives you clinical answers without switching tabs, and handles the routine contact your practice fields every day.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3a797a8df6ea5e0323694766d02697a259552778-1200x1200.png",
+     "alt": "Context",
+     "w": 536,
+     "h": 536
+    },
+    {
+     "k": "a",
+     "t": "Ready before the first patient walks in Review your patient list in Heidi and check the context you need before each visit. The breed, the allergies, the last procedure, the owner's concerns: all in front of you before the door opens.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Focus stays on the pet and the owner",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Answers without leaving the exam table",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center justify-center w-full max-w-container-lg flex-col gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1054,
+   "innerH": 894,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi for Vets",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "How Greencross vets use Heidi to bring back time for connection",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 774
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 774,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Templates",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Every veterinary template you need, shaped by you",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Start with a template from the community or create your own from scratch. Templates tuned to any species and vet workflow. The note that comes out sounds like you wrote it, because you shaped every part of it.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Note Vet Medical Consult Christopher Probert Veterinarian 45",
+     "href": "/en-gb/templates/vet-medical-consult-83e6b316",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Note",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Vet Medical Consult",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/country-united-kingdom.svg",
+     "alt": "United Kingdom",
+     "w": 34,
+     "h": 24
+    },
+    {
+     "k": "p",
+     "t": "Christopher Probert",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Veterinarian",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "45",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Note Vet SOAP Note Gabor Nemes Veterinarian 13",
+     "href": "/en-gb/templates/vet-soap-note-e96f5b0d",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Vet SOAP Note",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Gabor Nemes",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "13",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Note Vet Intake Note Warren De Melo Veterinarian 7",
+     "href": "/en-gb/templates/initial-consultationintake-custom-fcb29665",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Vet Intake Note",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Warren De Melo",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Note Recheck Appointment Referral Letter Ruby Shorrock Veterinarian 4",
+     "href": "/en-gb/templates/ruby-recheck-appointment-referral-letter-a4c89d7f",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Recheck Appointment Referral Letter",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Ruby Shorrock",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Note Initial Appointment Referral Letter Ruby Shorrock Veterinarian 4",
+     "href": "/en-gb/templates/ruby-initial-appointment-referral-letter-31d79dfc",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Initial Appointment Referral Letter",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Note Comprehensive Veterinary Consultation Note Kaitla Wildblood Veterinarian 5",
+     "href": "/en-gb/templates/comprehensive-veterinary-consultation-note-25e90c7f",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Comprehensive Veterinary Consultation Note",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Kaitla Wildblood",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-16 max-w-container-lg w-full",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 687,
+   "innerH": 527,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Hear from veterinarians already using Heidi",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "Read customer stories",
+     "href": "/en-gb/customers",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "“Imagine having a super-intelligent, really fast-writing scribe that follows you around the clinic and just writes down everything you say and organises it perfectly into a medical record.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Dr. Charles Kuntz",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Veterinarian Specialist Surgeon",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“If Heidi disappeared, I’d spend a lot more time on writing records and not in front of patients and helping them.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Dr Luke Johnston",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Head of Department (Small Animal Medicine) at Greencross Vet Hospital at the University of Melbourne",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“Heidi gives us more time together and that’s what this profession is all about.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Dr. Cara Roic",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Veterinarian Director",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Previous slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Next slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 857,
+   "innerH": 697,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "FAQs for Vets",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How do I get started with Heidi for veterinary practice?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Sign up for a free account",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "this guide",
+     "href": "https://support.heidihealth.com/collections/8147742-getting-started-with-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is Heidi easy to use?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What is the future of AI in veterinary care?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How accurate is Heidi for veterinary medicine?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What makes Heidi well-suited for veterinary work?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 7 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Show more",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(251, 245, 130)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 544
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 186,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Connection grows by being present",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "$description": "Component-scoped overrides for the card family (template cards, testimonial cards, customer-logo cards).",
+  "measuredFrom": "CLONE_SPEC.md:110-124",
+  "variants": {
+    "grid-card": { "background": "surface.card", "border": "border.default", "radius": "card", "shadow": "xs (hover only)" },
+    "testimonial-card": { "background": "surface.card", "radius": "testimonial", "shadow": "testimonial-md" }
+  }
+}

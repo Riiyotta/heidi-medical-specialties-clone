@@ -1,0 +1,746 @@
+{
+ "slug": "solutions-nurses",
+ "path": "/solutions/nurses",
+ "url": "/en-gb/solutions/nurses",
+ "title": "Nursing",
+ "status": 200,
+ "meta": {
+  "title": "Heidi for Nurses | Heidi",
+  "desc": "Capture every detail using Heidi, trusted by nurses globally. - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Heidi for nurses",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Reclaim time for care only you can give",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi is built for how nurses actually work. It listens across your shift, structures your progress notes, builds your handover, and lets you look up cited reference material between patients.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1250187f8c175716c660dd7054b795b52e1c2544-1745x1396.jpg",
+     "alt": "Nursing",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 342,
+   "innerH": 182,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "For the people who keep everything running",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Recommended for:",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Nurse Practitioner",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Mental Health Nurse",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Palliative Care Nurse",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Registered Community Nurse",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "A&E Emergency Nurse",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 608,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Document across the shift, not after it",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Hands-free voice capture for progress notes, vitals, and updates even in busy or noisy wards. Documentation done before you clock out.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Scribe",
+     "href": "/en-gb/scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ea601736e8129bf9f3593870b7b213e2ebd8ed62-1188x952.png",
+     "alt": "Nursing docs",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 576,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Answers at the bedside, with the sources to back them",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Evidence allows you to access clinical answers anywhere, anytime. Use Evidence in the ward, the corridor, or on a kitchen table during a home visit.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Evidence",
+     "href": "/en-gb/evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3ef8617964e61dcb585346dbccb762dbe0fdbc33-1188x952.png",
+     "alt": "Ask heidi",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 560,
+   "innerH": 336,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "More time for the care you trained to give",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "98%",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Of nurses save documentation time every shift.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "45 minutes",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Average minutes saved per shift.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "1 in 2",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Nurses finish on time more often.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 954,
+   "innerH": 730,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Your day with Heidi",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi listens to your patient interactions, gives you clinical answers without switching tabs, and handles the routine contact your practice fields every day.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/2e08571f7a5155255c2c4196b131761b786ebd05-1188x1200.png",
+     "alt": "Context",
+     "w": 536,
+     "h": 536
+    },
+    {
+     "k": "a",
+     "t": "Every patient, every note, one shift Capture observations during or after rounds and generate a clean nursing progress note or shift summary fast, consistent, and still make time to connect with patients.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Care plans that move with your shift",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Verify without leaving the bedside",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center justify-center w-full max-w-container-lg flex-col gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1054,
+   "innerH": 894,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi for Nurses",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "How nurses cut documentation time with Heidi",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 845,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Nursing templates",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Every nursing template you need, made yours",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "No need to start from scratch. Pick a template from our community and easily tailor it to match your workflow and style.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Templates",
+     "href": "https://www.heidihealth.com/templates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Document Medical Template Anonymous Nurse 12",
+     "href": "/en-gb/templates/medical-template-a5541b15",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Document",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Medical Template",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/country-united-kingdom.svg",
+     "alt": "United Kingdom",
+     "w": 34,
+     "h": 24
+    },
+    {
+     "k": "p",
+     "t": "Anonymous",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Nurse",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "12",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Document Home Visit Sarah Hughes Specialised Nurse 7",
+     "href": "/en-gb/templates/mssn-home-visit-a04d30f8",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Home Visit",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Sarah Hughes",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Specialised Nurse",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Document MS Annual Review Document Sarah Hughes Specialised Nurse 3",
+     "href": "/en-gb/templates/mssn-ms-annual-review-document-31a5c0ad",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "MS Annual Review Document",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Document Disease Modifying Therapy Initiation Sarah Hughes Specialised Nurse 0",
+     "href": "/en-gb/templates/mssn-disease-modifying-therapy-initiation-3ede7688",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Disease Modifying Therapy Initiation",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Document Symptom Management Plan Sarah Hughes Specialised Nurse 1",
+     "href": "/en-gb/templates/mssn-symptom-management-plan-997165b4",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Symptom Management Plan",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Document MS Clinic Sarah Hughes Specialised Nurse 1",
+     "href": "/en-gb/templates/mssn-ms-clinic-1bee9504",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "MS Clinic",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-16 max-w-container-lg w-full",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 706,
+   "innerH": 546,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Hear from nurses already using Heidi",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "Read customer stories",
+     "href": "/en-gb/customers",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "“I can have engaging conversations with my patients instead of typing through the whole visit. The eye to eye contact really helps me connect with my patients.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Shelley Reed",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "APRN-Family Nurse Practitioner at Landmark Family Health USA",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“Heidi allows me to be present and engaged and helps makes my notes better without any concern of replacing the human element. I don't feel like it steps on my toes at all.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Corey Dickinson",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Family Nurse Practitioner",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“If Heidi didn’t exist, I’d probably be spending hours more on administrative tasks. It’s been a peace of mind knowing that it’s taken care of.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Emmah Madondo",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Mental Health Nurse non-medical prescriber at Northamptonshire Healthcare Foundation Trust",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Previous slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Next slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 857,
+   "innerH": 697,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "FAQs",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How does Heidi work for nurses?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi is an AI care partner built for how nurses actually work. Scribe listens across your shift and turns spoken observations into structured progress notes, SBAR handovers, and care plans. Evidence gives you cited clinical answers at the bedside. This reduces the documentation load so you stay with your patients.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is Heidi safe to use?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How accurate is Heidi in nursing workflows?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is it easy to use Heidi?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How can I get started with Heidi?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 10 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Show more",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(251, 245, 130)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 544
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 186,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Better care starts with looking up from the screen",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  }
+ ]
+}

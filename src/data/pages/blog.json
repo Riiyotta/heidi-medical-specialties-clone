@@ -1,0 +1,3661 @@
+{
+ "slug": "blog",
+ "path": "/blog",
+ "url": "/en-gb/blog",
+ "title": "Blog",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Blog - AI and Healthcare Insights | Australia",
+  "desc": "Discover AI and healthcare insights on the Heidi Blog. Stay updated on trends, innovations & the future of medicine in Australia & beyond. - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md w-full max-w-container-lg",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 859
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 859,
+   "innerH": 571,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Explore Healthcare Innovations",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b827139721eef7ff0aa731af5986ef357968929e-2776x1620.png",
+     "alt": "Article placeholder image",
+     "w": 616,
+     "h": 347
+    },
+    {
+     "k": "a",
+     "t": "Introducing: Relief, on repeat Dr. Thomas Kelly MD 7 July 2026 • 3 min read Read full article",
+     "href": "/en-gb/blog/introducing-relief-on-repeat",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Introducing: Relief, on repeat",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1244533a03bb4b59547840e880d0c9af21de7020-801x1000.png",
+     "alt": "Dr. Tom Kelly from Heidi AI",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Dr. Thomas Kelly MD",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "7 July 2026 • 3 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Read full article",
+     "href": null,
+     "bg": "rgb(25, 75, 34)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1935,
+   "innerH": 1775,
+   "blocks": [
+    {
+     "k": "a",
+     "t": "All",
+     "href": null,
+     "bg": "rgb(40, 3, 15)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Media",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Templates",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Integrations",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Resources",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Resources Safety Plan Template with Examples Moira Cayabyab 22 September 2026 • 7 min read Read full article",
+     "href": "/en-gb/blog/safety-plan-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/safety-plan-template-with-examples",
+     "alt": "Safety Plan Template with Examples",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "p",
+     "t": "Resources",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Safety Plan Template with Examples",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Moira Cayabyab",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "22 September 2026 • 7 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Committed to Canadian Clinicians: Free Heidi Pro for Primary Care Maureen Green 17 September 2026 • 2 min read Read full article",
+     "href": "/en-gb/blog/committed-to-canadian-clinicians-free-heidi-pro",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/dcad73e417c4794fa70b4457fa9091e1a9dceb95-1200x675.jpg",
+     "alt": "Heidi logo next to Canadian flag.",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Committed to Canadian Clinicians: Free Heidi Pro for Primary Care",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/fcada0123605059fef4a34a8050b3054c0250be5-2000x3000.jpg",
+     "alt": "Portrait of Maureen Green smiling against a neutral background",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Maureen Green",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "17 September 2026 • 2 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Resources What is an Electronic Medical Record (EMR) System? LJ Acallar 16 September 2026 • 9 min read Read full article",
+     "href": "/en-gb/blog/emr-system",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/emr-system",
+     "alt": "What is an Electronic Medical Record (EMR) System?",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "What is an Electronic Medical Record (EMR) System?",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f0e269f1bf471b5de96839994daf561d96db54d0-1500x2100.png",
+     "alt": "LJ Acallar",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "LJ Acallar",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "16 September 2026 • 9 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Resources Level of Evidence: A Definitive Guide for Clinicians Lorraine Quintana 8 September 2026 • 8 min read Read full article",
+     "href": "/en-gb/blog/level-of-evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/level-of-evidence",
+     "alt": "Level of Evidence: A Definitive Guide for Clinicians ",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Level of Evidence: A Definitive Guide for Clinicians",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/7a7307d56d1eb29abc1485c17657aeffa0f14377-914x1280.jpg",
+     "alt": "Article placeholder image",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Lorraine Quintana",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "8 September 2026 • 8 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Resources What Is Voice Dictation? How It Works Across Devices Lorraine Quintana 4 September 2026 • 8 min read • Listen Read full article",
+     "href": "/en-gb/blog/voice-dictation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/voice-dictation",
+     "alt": "What Is Voice Dictation? How It Works Across Devices",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "What Is Voice Dictation? How It Works Across Devices",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "4 September 2026 • 8 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "• Listen",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Guides Six Domains of Healthcare Quality: Examples and Application Nikki Zurbano 3 September 2026 • 10 min read Read full article",
+     "href": "/en-gb/blog/six-domains-of-healthcare-quality",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/six-domains-of-healthcare-quality",
+     "alt": "Six Domains of Healthcare Quality: Examples and Application",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "p",
+     "t": "Guides",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Six Domains of Healthcare Quality: Examples and Application",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/bdace844710225213bab9af80bfe5e2f49893be4-1500x2100.png",
+     "alt": "Nikki Zurbano - Clinical Writer at Heidi",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Nikki Zurbano",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "3 September 2026 • 10 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Resources Dragon Medical One Alternative: Comparison and Review 2026 Lorraine Quintana 1 September 2026 • 9 min read Read full article",
+     "href": "/en-gb/blog/dragon-medical-one-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/dragon-medical-one-alternative",
+     "alt": "Dragon Medical One Alternative: Comparison and Review 2026 ",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Dragon Medical One Alternative: Comparison and Review 2026",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "1 September 2026 • 9 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Media Heidi rolls out across Metro South Health: Our largest public health partnership in Australia Heidi Team 31 August 2026 • 3 min read Read full article",
+     "href": "/en-gb/blog/heidi-rolls-out-across-metro-south-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/03b86df56bbac31972c3d747bc9afed0b5ba1105-1200x675.png",
+     "alt": "Heidi Metro South Partnership",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "p",
+     "t": "Media",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Heidi rolls out across Metro South Health: Our largest public health partnership in Australia",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0ff1a7418688909fed89f90d11032271ded4dc92-122x121.png",
+     "alt": "Heidi Logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Heidi Team",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "31 August 2026 • 3 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Guides Best Practices for Ambient Clinical Documentation Nikki Zurbano 28 August 2026 • 8 min read Read full article",
+     "href": "/en-gb/blog/ambient-clinical-documentation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/image",
+     "alt": "Fallback illustration",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Best Practices for Ambient Clinical Documentation",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "28 August 2026 • 8 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Load more articles",
+     "href": null,
+     "bg": "rgb(249, 244, 241)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Safety Plan Template with Examples",
+     "href": "/en-gb/blog/safety-plan-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Committed to Canadian Clinicians: Free Heidi Pro for Primary Care",
+     "href": "/en-gb/blog/committed-to-canadian-clinicians-free-heidi-pro",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What is an Electronic Medical Record (EMR) System?",
+     "href": "/en-gb/blog/emr-system",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Level of Evidence: A Definitive Guide for Clinicians",
+     "href": "/en-gb/blog/level-of-evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What Is Voice Dictation? How It Works Across Devices",
+     "href": "/en-gb/blog/voice-dictation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Six Domains of Healthcare Quality: Examples and Application",
+     "href": "/en-gb/blog/six-domains-of-healthcare-quality",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Dragon Medical One Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/dragon-medical-one-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi rolls out across Metro South Health: Our largest public health partnership in Australia",
+     "href": "/en-gb/blog/heidi-rolls-out-across-metro-south-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Practices for Ambient Clinical Documentation",
+     "href": "/en-gb/blog/ambient-clinical-documentation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Dictation for Doctors: Comparing Devices and Apps",
+     "href": "/en-gb/blog/dictation-for-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Ambient Dictation in Healthcare: What It Is and How It Works",
+     "href": "/en-gb/blog/ambient-dictation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Speech Dictation vs Other Clinical Documentation Methods",
+     "href": "/en-gb/blog/speech-dictation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Dictation Software: How It Works in Healthcare",
+     "href": "/en-gb/blog/medical-dictation-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "EHR Systems: Examples and Benefits in Healthcare",
+     "href": "/en-gb/blog/ehr-system",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "EMR Charting: Examples and Templates",
+     "href": "/en-gb/blog/emr-charting-examples-templates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Data Mapping In Healthcare with Examples",
+     "href": "/en-gb/blog/data-mapping-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "From a 16-week wait to a 4-week wait: Sport for Confidence's story with Heidi",
+     "href": "/en-gb/blog/sport-for-confidences-story",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Admission Note Template with Examples",
+     "href": "/en-gb/blog/admission-note-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Athenahealth Integration: How Does It Work?",
+     "href": "/en-gb/blog/athenahealth-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Semble Integration: How Does It Work?",
+     "href": "/en-gb/blog/semble-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Top AI Scribe Software to Reduce After-Hours Charting 2026",
+     "href": "/en-gb/blog/ai-scribe-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What is Medical Transcription? Guide for Clinicians",
+     "href": "/en-gb/blog/medical-transcription",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Automation: Guide with Examples",
+     "href": "/en-gb/blog/healthcare-automation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "After Visit Summary Template with Examples",
+     "href": "/en-gb/blog/after-visit-summary-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Transcription: The Value of Accuracy and Trust",
+     "href": "/en-gb/blog/ai-medical-transcription",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Nursing Documentation: Examples, Tips, and Tools",
+     "href": "/en-gb/blog/nursing-documentation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What is Medical Dictation? A Workflow Guide",
+     "href": "/en-gb/blog/medical-dictation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare KPIs: Definition, Examples, and How to Track",
+     "href": "/en-gb/blog/healthcare-kpis",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Spokenly Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/spokenly-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Wispr Flow Alternative: Comparison and Review",
+     "href": "/en-gb/blog/wispr-flow-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Responsible AI in Healthcare",
+     "href": "/en-gb/blog/responsible-ai-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "OpenEvidence Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/openevidence-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Patient Statement in Medical Billing: A Complete Guide",
+     "href": "/en-gb/blog/patient-statement",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Willow Voice Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/willow-voice-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "UK Pressure points: How the clinical workforce is finding relief through AI",
+     "href": "/en-gb/blog/pressure-points-2026-uk",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What Is Evidence-Based Practice (EBP)? A Clinician’s Guide",
+     "href": "/en-gb/blog/evidence-based-practice",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "5 Ways to Improve Patient Safety: A Clinician’s Guide",
+     "href": "/en-gb/blog/improve-patient-safety",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Patient Safety: A Practical Guide for Clinicians",
+     "href": "/en-gb/blog/patient-safety",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Denial Management in Healthcare: What It Is and Best Practices",
+     "href": "/en-gb/blog/denial-management",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "VIDAL: Heidi Evidence Partner",
+     "href": "/en-gb/blog/vidal-partner",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Understanding CPD Points: A Guide for Clinicians",
+     "href": "/en-gb/blog/cpd-points",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Informed Consent in Healthcare and Heidi",
+     "href": "/en-gb/blog/informed-consent-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Mental State Examination (MSE) Template with Examples",
+     "href": "/en-gb/blog/mental-state-examination-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Progress Note Template with Examples",
+     "href": "/en-gb/blog/progress-note-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Hierarchy of Evidence: What It Means in Clinical Practice",
+     "href": "/en-gb/blog/hierarchy-of-evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare LLM: A Complete Guide for Clinicians",
+     "href": "/en-gb/blog/healthcare-llm",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinicians Are Adopting AI to Solve the Documentation Crisis, New Global Survey Finds",
+     "href": "/en-gb/blog/clinicians-are-adopting-ai-to-solve-the-documentation-crisis",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "NHS launches largest ever AI clinical documentation procurement covering 70,000 Midlands clinicians",
+     "href": "/en-gb/blog/nhs-launches-largest-ever-ai-scribe-procurement",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Patient Collections in Healthcare: What It Is and Best Practices",
+     "href": "/en-gb/blog/patient-collections",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Quality in Clinical Practice",
+     "href": "/en-gb/blog/healthcare-quality",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Payment Posting in Medical Billing: A Guide",
+     "href": "/en-gb/blog/payment-posting",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Audit: What It Is and How It Works",
+     "href": "/en-gb/blog/clinical-audit",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Data Explained: Types, Sources, and Uses",
+     "href": "/en-gb/blog/healthcare-data",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Ensuring Healthcare Safety With Best Practices",
+     "href": "/en-gb/blog/healthcare-safety",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Research: A Guide For Clinicians",
+     "href": "/en-gb/blog/ai-medical-research",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Bias in Healthcare",
+     "href": "/en-gb/blog/ai-bias-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Practice Guidelines",
+     "href": "/en-gb/blog/clinical-practice-guidelines",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Evidence Synthesis in Healthcare: A Clinician’s Guide to AI",
+     "href": "/en-gb/blog/evidence-synthesis",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Introducing: Relief, on repeat",
+     "href": "/en-gb/blog/introducing-relief-on-repeat",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Growth of AI in Healthcare: What's Actually Changing in the Clinic",
+     "href": "/en-gb/blog/growth-of-ai-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Continuous Professional Development in Healthcare: A Guide for Clinicians",
+     "href": "/en-gb/blog/continuing-professional-development",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Quality Improvement in Healthcare",
+     "href": "/en-gb/blog/quality-improvement-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Introducing Dictate: Voice-to-Text, Wherever You Work",
+     "href": "/en-gb/blog/introducing-dictate-anywhere",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Reasoning: Types and Practical Examples",
+     "href": "/en-gb/blog/clinical-reasoning",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Governance in Healthcare",
+     "href": "/en-gb/blog/ai-governance-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi and QHR Technologies integrate AI documentation into Accuro EMR to help return time to Canadian clinicians",
+     "href": "/en-gb/blog/qhr-technologies-integrate",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Fine-tuning a clinical AI model to frontier parity",
+     "href": "/en-gb/blog/clinical-ai-model-fine-tuning",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Intelligence in Healthcare: Everything You Need to Know",
+     "href": "/en-gb/blog/clinical-intelligence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Biopsychosocial Assessment Template with Examples",
+     "href": "/en-gb/blog/biopsychosocial-assessment-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Hallucinations in Healthcare: Definition and Best Practices",
+     "href": "/en-gb/blog/ai-hallucination-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The Royal Children’s Hospital deploys Heidi so paediatricians can focus on patients, not paperwork",
+     "href": "/en-gb/blog/the-royal-childrens-hospital-deploys-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Commure AI: Comparison and Review 2026",
+     "href": "/en-gb/blog/commure-ai-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Nabla Copilot: Alternative, Review and Pricing 2026",
+     "href": "/en-gb/blog/nabla-copilot-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Abridge AI Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/abridge-ai-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi AI Reviews 2026: Features and Capabilities",
+     "href": "/en-gb/blog/reviews",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "DeepScribe AI Alternative: Pricing and Reviews 2026",
+     "href": "/en-gb/blog/deepscribe-ai-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Claim Scrubbing: Examples, Software, and Best Practices",
+     "href": "/en-gb/blog/claim-scrubbing",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Ambience Healthcare: Features and Comparison Reviews 2026",
+     "href": "/en-gb/blog/ambience-healthcare-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Patient Registration Form: PDF Examples",
+     "href": "/en-gb/blog/patient-registration-form",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Dental Software in 2026: Updated Guide",
+     "href": "/en-gb/blog/best-dental-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Nuance DAX Copilot Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/nuance-dax-copilot-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Tortus AI Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/tortus-ai-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Pocket AI Recorder Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/pocket-ai-recorder-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Sully AI Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/sully-ai-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Plaud Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/plaud-alternatives",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Freed AI Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/freed-ai-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Downcoding: Causes, Examples, and Prevention Strategies",
+     "href": "/en-gb/blog/downcoding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Suki AI Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/suki-ai-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Pressure points: How the clinical workforce is finding relief through AI",
+     "href": "/en-gb/blog/pressure-points-2026-report",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Reclaiming Clinical Time: Heidi’s 2025 UK Impact Report",
+     "href": "/en-gb/blog/impact-report",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Navigating Upcoding Risks: A Guide to Ethical AI Documentation",
+     "href": "/en-gb/blog/upcoding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Treatment Plan Template with Examples",
+     "href": "/en-gb/blog/treatment-plan-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Expands Epic Integration to Mobile with Haiku Support",
+     "href": "/en-gb/blog/heidi-epic-integration-hyperspace-haiku",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Boya Notra Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/boya-notra-alternative",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The era of the clinician builder is here",
+     "href": "/en-gb/blog/the-era-of-the-clinician-builder-is-here",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "ai-voice-system-software",
+     "href": "/en-gb/blog/ai-voice-system-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Automation Bias in Healthcare and Heidi",
+     "href": "/en-gb/blog/automation-bias-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Letter of Medical Necessity: Template with Examples",
+     "href": "/en-gb/blog/letter-of-medical-necessity",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Health Information Exchange (HIE) Examples",
+     "href": "/en-gb/blog/health-information-exchange",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinicians' Ultimate Guide to Value-Based Healthcare",
+     "href": "/en-gb/blog/value-based-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Eligibility and Benefits Verification: Guidelines and Examples",
+     "href": "/en-gb/blog/eligibility-and-benefits-verification",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Telehealth Billing: Codes, Examples, and Best Practices",
+     "href": "/en-gb/blog/telehealth-billing",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "EHR Implementation: Steps, Challenges, and Plan",
+     "href": "/en-gb/blog/ehr-implementation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "EHR Interoperability: Standards, Challenges, and Benefits",
+     "href": "/en-gb/blog/ehr-interoperability",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Patient Scheduling: A Quick Guide for Care Teams",
+     "href": "/en-gb/blog/patient-scheduling",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Charge Capture: Types and Solutions",
+     "href": "/en-gb/blog/charge-capture",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Philips SpeechMike Ambient Alternative: Comparison and Review 2026",
+     "href": "/en-gb/blog/philips-speechmike-ambient-alternatives",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Claim: Definition, Types and Examples",
+     "href": "/en-gb/blog/medical-claim",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Patient Education: Best Practices and Examples",
+     "href": "/en-gb/blog/patient-education",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "EHR Integration: Challenges, Strategy, and Best Practices",
+     "href": "/en-gb/blog/ehr-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "PortmanDentex signs two year partnership with Heidi to bring clinical AI into dental practices across the UK & Ireland",
+     "href": "/en-gb/blog/portmandentex-signs-two-year-partnership-with-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "EMR Integration: Data, System, and Platforms",
+     "href": "/en-gb/blog/emr-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best AI Receptionist in Healthcare",
+     "href": "/en-gb/blog/best-ai-receptionist-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Capacity Planning: Management and Modern Solutions",
+     "href": "/en-gb/blog/healthcare-capacity-planning",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Data Processing and Encryption at Heidi",
+     "href": "/en-gb/blog/healthcare-data-processing-encryption",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Cybersecurity in the Age of AI",
+     "href": "/en-gb/blog/healthcare-cybersecurity",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Automated Patient Appointment Reminder System",
+     "href": "/en-gb/blog/automated-patient-appointment",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Voice AI for HIPAA-Compliant Workflows",
+     "href": "/en-gb/blog/best-voice-ai-hipaa-workflows",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Patient Scheduling: How Does It Work?",
+     "href": "/en-gb/blog/ai-patient-scheduling",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Triage for Patient Calls Example",
+     "href": "/en-gb/blog/ai-triage-for-patient-calls",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Office Answering Service",
+     "href": "/en-gb/blog/ai-medical-office-answering-service",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Answering Service for Doctors",
+     "href": "/en-gb/blog/ai-answering-service-for-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Front Desk for Clinics Example",
+     "href": "/en-gb/blog/ai-front-desk-for-clinics",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Virtual Medical Receptionist: How Does It Work?",
+     "href": "/en-gb/blog/virtual-medical-receptionist",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Call Center Software",
+     "href": "/en-gb/blog/healthcare-call-center-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Dental Receptionist",
+     "href": "/en-gb/blog/ai-dental-receptionist",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Automated Patient Intake Software",
+     "href": "/en-gb/blog/automated-patient-intake-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Voice Agent for Healthcare Example",
+     "href": "/en-gb/blog/ai-voice-agent-for-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Practices for Healthcare Revenue Cycle Optimization",
+     "href": "/en-gb/blog/revenue-cycle-optimization",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Doctors are not databases. So why are we treating them like they are?",
+     "href": "/en-gb/blog/doctors-are-not-databases-so-why-are-we-treating-them-like-they-are",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Phone Assistant for Healthcare",
+     "href": "/en-gb/blog/ai-phone-assistant",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Launches First Hardware Designed For Reliable Audio Capture in Every Clinical Setting",
+     "href": "/en-gb/blog/heidi-launches-hardware",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Strategies for Optimizing Follow-Up Care",
+     "href": "/en-gb/blog/follow-up-care",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinicians' Guide to Healthcare Revenue Cycle Management",
+     "href": "/en-gb/blog/healthcare-revenue-cycle-management",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi Cut ASR Costs 64% and Latency 75% with NVIDIA Nemotron Open ASR",
+     "href": "/en-gb/blog/how-heidi-improved-asr-nvidia-nemotron",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Workflow Solutions: Market Trends Shaping Healthcare",
+     "href": "/en-gb/blog/clinical-workflow-solutions-market-trends",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What Is Healthcare Workflow Automation?",
+     "href": "/en-gb/blog/healthcare-workflow-automation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Patient Confidentiality: A Guide for Everyday Clinical Work",
+     "href": "/en-gb/blog/patient-confidentiality",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Streamlining Patient Onboarding: A Guide for Clinicians",
+     "href": "/en-gb/blog/patient-onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The BMJ Group: Heidi Evidence Partner [UK]",
+     "href": "/en-gb/blog/bmj-group-partner",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Shaping The Future of Healthcare Revenue Cycle Management",
+     "href": "/en-gb/blog/future-of-healthcare-revenue-cycle-management",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Workflow: Optimization Strategies and Care Examples",
+     "href": "/en-gb/blog/clinical-workflow",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi Evidence builds Confidence in Everyday Clinical Decisions",
+     "href": "/en-gb/blog/how-heidi-evidence-builds-confidence-in-everyday-clinical-decisions",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free AI Tools for Healthcare 2026",
+     "href": "/en-gb/blog/free-ai-tools-for-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Digital Medical Scribe Solutions 2026",
+     "href": "/en-gb/blog/medical-scribes-solutions",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best AI Note-Taking Tools for Doctors 2026",
+     "href": "/en-gb/blog/ai-note-taking-tools",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best AI Documentation Tools to Save Clinical Time 2026",
+     "href": "/en-gb/blog/best-ai-documentation-tools",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Top AI Vendors in Healthcare 2026",
+     "href": "/en-gb/blog/top-healthcare-ai-vendors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best AI Tools for Automating Medical Note-Taking 2026",
+     "href": "/en-gb/blog/best-ai-tool-medical-note-taking",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Top Healthcare Automation Software for Reducing Admin Tasks",
+     "href": "/en-gb/blog/healthcare-automation-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Modern Solutions for Medical Record Keeping 2026",
+     "href": "/en-gb/blog/medical-record-keeping",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best AI Clinical Documentation Tools",
+     "href": "/en-gb/blog/ai-clinical-documentation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Launches Evidence and Acquires AutoMedica to Accelerate Its AI Care Partner Platform",
+     "href": "/en-gb/blog/heidi-launches-evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "OPCS Codes: Everything You Need to Know",
+     "href": "/en-gb/blog/opcs-codes",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Types of Healthcare Automation Solutions",
+     "href": "/en-gb/blog/healthcare-automation-solutions",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Cloud-Based EHR: Solutions and Options",
+     "href": "/en-gb/blog/cloud-based-ehr",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Digital Transformation in Healthcare: Benefits and Examples",
+     "href": "/en-gb/blog/digital-transformation-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Automated Claims Processing: Software, Benefits, and Examples",
+     "href": "/en-gb/blog/automated-claims-processing",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "SNOMED Codes: Guide for Healthcare Providers",
+     "href": "/en-gb/blog/snomed-codes",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Vital Signs Template with Examples",
+     "href": "/en-gb/blog/vital-signs-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Medical Practice Management Software 2026 [Updated]",
+     "href": "/en-gb/blog/best-medical-practice-management-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Types of Change Management Models in Healthcare",
+     "href": "/en-gb/blog/change-management-models-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi: The World’s First ISO 42001-Certified AI Scribe",
+     "href": "/en-gb/blog/iso-42001-certification",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Physician Burnout: Statistics, Causes, and Signs",
+     "href": "/en-gb/blog/physician-burnout",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Documentation Improvement with Examples",
+     "href": "/en-gb/blog/clinical-documentation-improvement",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Physical Exam Template with Examples",
+     "href": "/en-gb/blog/physical-exam-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Health Insurance Claim Form: Example PDF",
+     "href": "/en-gb/blog/health-insurance-claim-form",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Clearance Form: PDF Examples",
+     "href": "/en-gb/blog/medical-clearance-form",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "NDIS Application Form: PDF Examples",
+     "href": "/en-gb/blog/ndis-application-form",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Continuity of Care: Examples and Best Practices",
+     "href": "/en-gb/blog/continuity-of-care",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Dental Practice Management Software: Features & Examples",
+     "href": "/en-gb/blog/dental-practice-management-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Data Storage and Retention at Heidi",
+     "href": "/en-gb/blog/healthcare-data-storage-and-retention",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "NHS Letter Templates with Examples",
+     "href": "/en-gb/blog/nhs-letter-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Notes Template with Example",
+     "href": "/en-gb/blog/clinical-notes-template-with-example",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Chart Template with Examples",
+     "href": "/en-gb/blog/medical-chart-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Medical Transcription Software 2026 [Updated]",
+     "href": "/en-gb/blog/best-medical-transcription-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Transcription Services: How Much Do They Cost?",
+     "href": "/en-gb/blog/medical-transcription-services",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Charting Software: Systems, Programs, and Types",
+     "href": "/en-gb/blog/medical-charting-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Medical Dictation App for Mac, iPhone, and More",
+     "href": "/en-gb/blog/best-medical-dictation-app",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Scribing: Everything You Need to Know",
+     "href": "/en-gb/blog/medical-scribing",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Transcriptionist: Is the Role Worth It?",
+     "href": "/en-gb/blog/medical-transcriptionist",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Voice Recognition Software: How-to Guide",
+     "href": "/en-gb/blog/medical-voice-recognition-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Innovation: Definition with Examples",
+     "href": "/en-gb/blog/healthcare-innovation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What is Ambient Voice Technology? Latest UK Guide - Heidi",
+     "href": "/en-gb/blog/ambient-ai",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Top AI Healthcare Companies and Startups",
+     "href": "/en-gb/blog/ai-healthcare-companies",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI in Healthcare: Examples that Transform Care",
+     "href": "/en-gb/blog/ai-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Scribes: Everything You Need to Know",
+     "href": "/en-gb/blog/ai-medical-scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Scribe Adoption: Implementation Guide",
+     "href": "/en-gb/blog/ai-medical-scribe-adoption",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Scribe Benefits: 5 Proven Ways Clinicians Save Time",
+     "href": "/en-gb/blog/ai-medical-scribe-benefits",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Scribe Future Trends that Drive Automation and Performance",
+     "href": "/en-gb/blog/ai-medical-scribe-future-trends",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Scribe Impact: How Does it Affect Healthcare?",
+     "href": "/en-gb/blog/ai-medical-scribe-impact",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Scribe: Legal Implications and Regulatory Considerations",
+     "href": "/en-gb/blog/ai-medical-scribe-legal-implications",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What is Ambient AI? Ultimate Guide for Clinicians",
+     "href": "/en-gb/blog/ambient-ai",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Ambient Intelligence: Examples & Benefits in Healthcare",
+     "href": "/en-gb/blog/ambient-intelligence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Ambient Listening: AI Technology in Healthcare",
+     "href": "/en-gb/blog/ambient-listening",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Benefits of AI in Healthcare: Pros for Clinicians",
+     "href": "/en-gb/blog/benefits-of-ai-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Case Note Templates with Examples",
+     "href": "/en-gb/blog/case-note-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Chiropractic SOAP Notes: Examples and Templates",
+     "href": "/en-gb/blog/chiropractic-soap-notes",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Conversational AI in Healthcare Guide with Examples",
+     "href": "/en-gb/blog/conversational-ai-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Discharge Summary Template with Examples",
+     "href": "/en-gb/blog/discharge-summary-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Doctor’s Note Template with Examples",
+     "href": "/en-gb/blog/doctors-note-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Emergency Room Doctors Note with Examples",
+     "href": "/en-gb/blog/emergency-room-doctors-note-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The Future of AI in Healthcare: An Outlook",
+     "href": "/en-gb/blog/future-of-ai-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "GP Management Plan Template with Examples",
+     "href": "/en-gb/blog/gp-management-plan-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Is AI Used in Healthcare? A Practical Guide for Clinicians",
+     "href": "/en-gb/blog/how-is-ai-used-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "History of Present Illness (HPI) Template with Examples",
+     "href": "/en-gb/blog/hpi-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Consent Form with Examples",
+     "href": "/en-gb/blog/medical-consent-form-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical History Template with Examples",
+     "href": "/en-gb/blog/medical-history-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Meeting Minutes Template with Examples",
+     "href": "/en-gb/blog/medical-meeting-minutes-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Referral Letter Template with Examples",
+     "href": "/en-gb/blog/medical-referral-letter-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What is Medical Transcription Software? How It Works",
+     "href": "/en-gb/blog/medical-transcription-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Mental Health Assessment Template with Examples",
+     "href": "/en-gb/blog/mental-health-assessment-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Nursing Notes Template with Examples",
+     "href": "/en-gb/blog/nursing-notes-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Operative Note Template with Examples",
+     "href": "/en-gb/blog/operative-note-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Patient Intake Form with Examples",
+     "href": "/en-gb/blog/patient-intake-form-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Session Notes Template with Examples",
+     "href": "/en-gb/blog/session-notes-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "SOAP Note Template with Examples",
+     "href": "/en-gb/blog/soap-note-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Team Care Arrangement with Examples",
+     "href": "/en-gb/blog/team-care-arrangement",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Therapy Notes Template with Examples",
+     "href": "/en-gb/blog/therapy-notes-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Trauma Assessment (Trauma Primary and Secondary Survey)",
+     "href": "/en-gb/blog/trauma-assessment",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Virtual Medical Scribes: Everything You Need to Know",
+     "href": "/en-gb/blog/virtual-medical-scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medication List Template with Examples",
+     "href": "/en-gb/blog/medication-list-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "ADOS Assessment Template with Examples",
+     "href": "/en-gb/blog/ados-assessment-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "ADHD Assessment Form Template with Examples",
+     "href": "/en-gb/blog/adhd-assessment-form-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Attending Physician Statement with Examples",
+     "href": "/en-gb/blog/attending-physician-statement",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "BIRP Notes Template with Examples [Customizable]",
+     "href": "/en-gb/blog/birp-notes-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "DAP Notes Template with Examples [Customizable]",
+     "href": "/en-gb/blog/dap-notes-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Dental Notes Template with Examples",
+     "href": "/en-gb/blog/dental-notes-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Diagnosis Letter Template with Examples",
+     "href": "/en-gb/blog/diagnosis-letter",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Home Health Documentation Templates with Examples",
+     "href": "/en-gb/blog/home-health-documentation-templates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Hospice Documentation Template with Examples",
+     "href": "/en-gb/blog/hospice-documentation-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "ICU Note Templates with Examples",
+     "href": "/en-gb/blog/icu-note-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Billing and Coding Template with Examples",
+     "href": "/en-gb/blog/medical-billing-and-coding-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Certificate Template with Examples",
+     "href": "/en-gb/blog/medical-certificate-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Release Form Template with Examples",
+     "href": "/en-gb/blog/medical-release-form",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Palliative Care Plan Template with Examples",
+     "href": "/en-gb/blog/palliative-care-plan-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "RBT Session Notes Template with Examples",
+     "href": "/en-gb/blog/rbt-session-notes-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Surgical Notes with Templates and Examples",
+     "href": "/en-gb/blog/surgical-notes-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "ABA Session Notes Template with Examples",
+     "href": "/en-gb/blog/aba-session-notes-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "ADIME Note Template with Examples",
+     "href": "/en-gb/blog/adime-note-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi AI is an ICO-Registered AVT Company",
+     "href": "/en-gb/blog/ico-registration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare Data Sovereignty and Heidi",
+     "href": "/en-gb/blog/healthcare-data-sovereignty",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare AI Governance Framework and Heidi",
+     "href": "/en-gb/blog/healthcare-ai-framework",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi AI is a Cyber Essentials-Certified Ambient AI Scribe",
+     "href": "/en-gb/blog/cyber-essentials-certification",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What Is Information Blocking in Healthcare?",
+     "href": "/en-gb/blog/information-blocking",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What are HL7 Standards in Healthcare?",
+     "href": "/en-gb/blog/hl7-standards",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "FHIR Standards: Overview with Examples",
+     "href": "/en-gb/blog/fhir-standards",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi AI is an NHS-Compliant Ambient AI Scribe",
+     "href": "/en-gb/blog/nhs-compliance",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Biocanic Integration: How Does It Work?",
+     "href": "/en-gb/blog/biocanic-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi AI is a SOC 2 Type 2-Certified Clinical AI Company",
+     "href": "/en-gb/blog/soc-2-type-2-certification",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Zedmed Integration: How Does It Work?",
+     "href": "/en-gb/blog/zedmed-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medication Reconciliation Form: Example PDF",
+     "href": "/en-gb/blog/medication-reconciliation-form",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi AI is a GDPR-Compliant Ambient AI Scribe",
+     "href": "/en-gb/blog/gdpr-compliance",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi AI is an ISO 27001-Certified Clinical AI Company",
+     "href": "/en-gb/blog/iso-27001-certification",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Change Management in Healthcare: Strategies and Examples",
+     "href": "/en-gb/blog/change-management-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Practice Management Software: Key Features and Uses",
+     "href": "/en-gb/blog/medical-practice-management-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "MediOffice Integration: How Does It Work?",
+     "href": "/en-gb/blog/medioffice-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi partners with Cabrini Health to streamline emergency care",
+     "href": "/en-gb/blog/cabrini-press-release",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Nookal Integration: How Does It Work?",
+     "href": "/en-gb/blog/nookal-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Billing Software: How Does It Work?",
+     "href": "/en-gb/blog/ai-medical-billing-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Launches in Singapore",
+     "href": "/en-gb/blog/singapore-launch",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Assistant: Benefits for Physicians and Patients",
+     "href": "/en-gb/blog/ai-medical-assistant",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Launches in Hong Kong",
+     "href": "/en-gb/blog/hong-kong-launch",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Document Automation for Healthcare: Best Process",
+     "href": "/en-gb/blog/document-automation-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Gentu Integration: How Does It Work?",
+     "href": "/en-gb/blog/gentu-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Automation in Healthcare: Features and Examples",
+     "href": "/en-gb/blog/ai-automation-in-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI in Nursing: Examples and Benefits",
+     "href": "/en-gb/blog/ai-in-nursing",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "A nurse’s guide to faster, smarter shift notes with Heidi",
+     "href": "/en-gb/blog/a-nurses-guide-to-faster-smarter-shift-notes-with-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Coding: Definition and Examples",
+     "href": "/en-gb/blog/ai-medical-coding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Coding Software, Solutions, and Tools",
+     "href": "/en-gb/blog/ai-medical-coding-software",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Billing: How Does It Work?",
+     "href": "/en-gb/blog/ai-medical-billing",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What is Medical Charting? Definition & Best Practices",
+     "href": "/en-gb/blog/medical-charting",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Building the AI Care Partner for Every Clinician",
+     "href": "/en-gb/blog/ai-care-partner-for-every-clinician",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Charting Best Practices",
+     "href": "/en-gb/blog/ai-medical-charting",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Scribing Services: Are They Worth It?",
+     "href": "/en-gb/blog/medical-scribing-services",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Vim and Heidi Health Partner to Accelerate Innovation at the Point of Care",
+     "href": "/en-gb/blog/vim-and-heidi-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Secures $65 Million USD in Series B Funding to Accelerate Building an AI Care Partner for Every Clinician",
+     "href": "/en-gb/blog/heidi-series-b",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Health Recognized as Quarterfinalist in the 2025 Digital Health Hub Foundation: Digital Health Awards",
+     "href": "/en-gb/blog/digital-health-awards",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "OneCare Vermont and Heidi Health Partner to Reduce Administrative Burden for Primary Care Practices Across Vermont",
+     "href": "/en-gb/blog/onecare-vermont-and-heidi-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "KLAS Research Spotlight Report: Heidi Health Earns High Scores for Reducing Clinician Documentation Burden",
+     "href": "/en-gb/blog/klas-research-spotlight-heidi-health-2025",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Capture the complete story with Context",
+     "href": "/en-gb/blog/capture-the-complete-story-with-context",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "A trainee’s guide to consultant-level clinical documentation",
+     "href": "/en-gb/blog/consultant-level-clinical-documentation-trainee-guide",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Notes that sound like you: Introducing Personalisation and smarter Templates",
+     "href": "/en-gb/blog/heidi-adapts-to-you",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi partners with Magentus to deliver specialists ambient AI scribing in Gentu",
+     "href": "/en-gb/blog/heidi-partners-with-magentus-to-deliver-ai-scribing-in-gentu",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Ambient Scribe: Technology Guide for Clinicians",
+     "href": "/en-gb/blog/ambient-scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi CEO Named to Becker’s Health IT & Revenue Cycle Up-and-Comers List",
+     "href": "/en-gb/blog/beckers-health-it-revenue-cycle-up-and-comers",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "What is Ambient Voice Technology? Guide with Examples",
+     "href": "/en-gb/blog/ambient-voice-technology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Making healthcare more human: What we’re building at Heidi with Google Cloud",
+     "href": "/en-gb/blog/google-cloud-summit",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Beyond scribe: Four new features to streamline every patient visit",
+     "href": "/en-gb/blog/beyond-scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Medical Scribe Cost: Is It Worth the Price?",
+     "href": "/en-gb/blog/ai-medical-scribe-cost",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi trialed at Cambridge Memorial Hospital",
+     "href": "/en-gb/blog/heidi-trialed-at-cambridge-memorial-hospital",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi and the NHS 10-Year Plan: A Shared Vision for the Future of UK Healthcare",
+     "href": "/en-gb/blog/heidi-and-the-nhs-10-year-plan",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinicians Reclaim Over 500 Hours Weekly with Heidi",
+     "href": "/en-gb/blog/clinicians-reclaim-over-500-hours-weekly-with-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Health’s AI tool halves the time GPs spend on paperwork",
+     "href": "/en-gb/blog/ai-tool-halves-time-gps-spend-on-paperwork",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Shexie Integration: How Does It Work?",
+     "href": "/en-gb/blog/shexie-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "TODAY Show: How Heidi is Giving Clinicians Their Time Back",
+     "href": "/en-gb/blog/heidi-giving-clinicians-their-time-back",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "PracticeQ Integration: How Does It Work?",
+     "href": "/en-gb/blog/practiceq-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "CareStack Integration: How Does It Work?",
+     "href": "/en-gb/blog/carestack-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Practice Integration: How Does It Work?",
+     "href": "/en-gb/blog/best-practice-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "End-of-Life Care Plan Template with Examples",
+     "href": "/en-gb/blog/end-of-life-care-plan-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "MidexPRO Integration: How Does It Work?",
+     "href": "/en-gb/blog/midexpro-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Cliniko Integration: How Does It Work?",
+     "href": "/en-gb/blog/cliniko-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Gives Physicians Time Back for What Truly Matters",
+     "href": "/en-gb/blog/heidi-gives-physicians-time-back-for-what-truly-matters",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Health Brings Next-Generation Ambient AI to Primary Care Settings",
+     "href": "/en-gb/blog/next-generation-ambient-ai-to-primary-care",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "UK clinicians using Heidi satisfy NHS guidance",
+     "href": "/en-gb/blog/uk-clinicians-using-heidi-satisfy-nhs-guidance",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "MediRecords Integration: How Does It Work?",
+     "href": "/en-gb/blog/medirecords-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Smart Scribe: MedicalDirector Integration with Heidi Health",
+     "href": "/en-gb/blog/medicaldirector-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "EMS Report Template with Examples",
+     "href": "/en-gb/blog/ems-report-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Occupational Therapy SOAP Note Template with Examples",
+     "href": "/en-gb/blog/occupational-therapy-soap-notes-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Geriatric Assessment Template with Examples",
+     "href": "/en-gb/blog/geriatric-assessment-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "This Physio from Queensland, Australia, Writes Notes While Providing Hands-On Treatment, Using Heidi’s SOAP Template - with Heidi, she eliminated after-hours work and achieved work-life balance she never thought possible.",
+     "href": "/en-gb/blog/untitled",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Halaxy Integration: How Does It Work?",
+     "href": "/en-gb/blog/halaxy-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The heart of care: How Jean Bishop Frailty Centre is using AI to give time back to patients",
+     "href": "/en-gb/blog/jean-bishop-frailty-centre-bbc",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Making healthcare more human: What we’re building at Heidi with Google Cloud",
+     "href": "/en-gb/blog/test2",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "New NHS guidance on AI scribes: What it means for you",
+     "href": "/en-gb/blog/nhs-guidance-on-ai-scribes",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Head-to-Toe Assessment Template with Examples",
+     "href": "/en-gb/blog/head-to-toe-assessment-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Review of Systems Template with Examples",
+     "href": "/en-gb/blog/review-of-systems-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "ProCare and Heidi Health partner to ease GP workload and boost patient care",
+     "href": "/en-gb/blog/procare-and-heidi-partnership",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Medical Report Template with Examples",
+     "href": "/en-gb/blog/medical-report-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "EMDR Note Template with Examples",
+     "href": "/en-gb/blog/emdr-note-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "SBAR Template with Examples",
+     "href": "/en-gb/blog/sbar-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Transforming healthcare delivery: How AI is empowering clinicians and enhancing patient care",
+     "href": "/en-gb/blog/how-ai-is-empowering-clinicians-and-enhancing-patient-care",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Chronic Care Management Template with Examples",
+     "href": "/en-gb/blog/chronic-care-management-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "New Zealand's Hendrix Health joins forces with Heidi Health AI medical scribe",
+     "href": "/en-gb/blog/hendrix-health-joins-forces-with-heidi-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Nursing Care Plan Template with Examples",
+     "href": "/en-gb/blog/nursing-care-plan-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Making the Best AI Medical Scribe Free: AI Healthcare is for Everyone - Making the Best AI Medical Scribe Free for Every Clinician",
+     "href": "/en-gb/blog/untitled",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Health secures USD $16.6M in funding to free up clinicians to focus on patient care",
+     "href": "/en-gb/blog/heidi-health-secures-usd-16-6m-in-funding-to-free-up-clinicians-to-focus-on-patient-care",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Smart Intermediate Intranet",
+     "href": "/en-gb/blog/smart-intermediate-intranet",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "GPRA and Heidi Health partner to enhance AI-driven support for GPs across Australia",
+     "href": "/en-gb/blog/gpra-and-heidi-health-partner-to-enhance-ai-driven-support-for-gps-across-australia",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Modality Partnership teams up with AI medical scribe Heidi Health in largest clinical rollout of ambient AI‍",
+     "href": "/en-gb/blog/modality-partnership-teams-up-with-ai-medical-scribe-heidi-health-in-largest-clinical-rollout-of-ambient-ai",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Physiotherapy Assessment with Examples",
+     "href": "/en-gb/blog/physiotherapy-assessment-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The Best AI Medical Scribe in 2024 - The Best AI Medical Scribe in 2024",
+     "href": "/en-gb/blog/untitled",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The AI Scribe is the Future of Medical Documentation: Reducing Clinicians' Workloads - AI Scribes: Future of Documentation to Save Clinicians' Time",
+     "href": "/en-gb/blog/untitled",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi compliance lightning FAQs",
+     "href": "/en-gb/blog/heidi-compliance-lightning-faqs",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Using AI Medical Scribes safely",
+     "href": "/en-gb/blog/using-ai-medical-scribes-safely",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "From Bletchley Park to AI-Driven Healthcare: A Personal Journey Through Innovation",
+     "href": "/en-gb/blog/from-bletchley-park-to-ai-driven-healthcare-a-personal-journey-through-innovation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "MediRecords teams with Heidi Health for smarter clinical notes",
+     "href": "/en-gb/blog/medirecords-teams-with-heidi-health-for-smarter-clinical-notes",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Health Welcomes Seasoned U.S. Healthcare Executive as New Chief Medical Officer",
+     "href": "/en-gb/blog/heidi-health-welcomes-seasoned-us-healthcare-executive-as-new-chief-medical-officer",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Boring? Think Again. Your Compliance Roadmap Could Be Your Biggest Differentiator",
+     "href": "/en-gb/blog/compliance-roadmap-as-differentiator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Generate Perfect SOAP Notes for Any Condition with Heidi's AI",
+     "href": "/en-gb/blog/ai-soap-note-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi vs Freed AI: Why clinicians choose Heidi",
+     "href": "/en-gb/blog/heidi-vs-freed-ai-why-clinicians-choose-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Sink or swim: Good governance in the era of AI",
+     "href": "/en-gb/blog/sink-or-swim-good-governance-in-the-era-of-ai",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi is APP Compliant!",
+     "href": "/en-gb/blog/heidi-is-app-compliant",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 504
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 600,
+   "innerH": 230,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Say hello to your AI medical scribe",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Smarter notes, better care",
+     "fs": 20,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

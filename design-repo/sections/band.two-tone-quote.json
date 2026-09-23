@@ -1,0 +1,42 @@
+{
+  "id": "band.two-tone-quote",
+  "category": "proof",
+  "purpose": "Two-tone (bold lead-in + regular rest) pull-quote.",
+  "measuredFrom": "src/components/bands/index.jsx:843-858 (TwoToneQuote)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "lead": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "rest": {
+        "type": "string",
+        "maxWords": 40
+      },
+      "name": {
+        "type": "string",
+        "maxWords": 6
+      },
+      "role": {
+        "type": "string",
+        "maxWords": 10
+      }
+    },
+    "required": [
+      "lead",
+      "rest",
+      "name",
+      "role"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 2
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

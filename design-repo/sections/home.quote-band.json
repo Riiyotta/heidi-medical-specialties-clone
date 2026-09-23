@@ -1,0 +1,37 @@
+{
+  "id": "home.quote-band",
+  "category": "proof",
+  "purpose": "Single named pull-quote band. Content is fully data-driven via real props.",
+  "measuredFrom": "src/pages/HomePage.jsx:197-218 (QuoteBand)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "quote": {
+        "type": "string",
+        "maxWords": 40
+      },
+      "by": {
+        "type": "string",
+        "maxWords": 6
+      },
+      "org": {
+        "type": "string",
+        "maxWords": 10
+      }
+    },
+    "required": [
+      "quote",
+      "by",
+      "org"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

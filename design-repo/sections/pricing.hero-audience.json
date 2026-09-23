@@ -1,0 +1,33 @@
+{
+  "id": "pricing.hero-audience",
+  "category": "hero",
+  "purpose": "Pricing page's own hero with an audience segmented-toggle (individual/team).",
+  "measuredFrom": "src/pages/PricingPage.jsx:190-235 (Hero)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "body": {
+        "type": "string",
+        "maxWords": 30
+      }
+    },
+    "required": [
+      "heading",
+      "body"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "onePerPage": true,
+    "mustBeFirst": true
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

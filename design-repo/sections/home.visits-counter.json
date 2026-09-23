@@ -1,0 +1,27 @@
+{
+  "id": "home.visits-counter",
+  "category": "proof",
+  "purpose": "Live-updating counter of clinician visits documented; fixed presentation, no content props. Content is fully data-driven via real props.",
+  "measuredFrom": "src/pages/HomePage.jsx:161-173 (VisitsCounter)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "label": {
+        "type": "string",
+        "maxWords": 10
+      }
+    },
+    "required": [
+      "label"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "onePerPage": true
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

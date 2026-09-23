@@ -1,0 +1,201 @@
+{
+ "slug": "resource-centre",
+ "path": "/resource-centre",
+ "url": "/en-gb/resource-centre",
+ "title": "Explainers",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Resource Center",
+  "desc": "Explore the Heidi Resource Center, wher clinicians can access patient explainers, consent forms, and other clinic assets. Download them… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(185, 207, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 600
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 600,
+   "innerH": 122,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Resource Centre",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Explore our resources designed for clinicians and patients to discover the benefits of Heidi and learn about our robust data security measures.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 394,
+   "innerH": 202,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Downloadable assets",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "a",
+     "t": "Patient explainer A printable sheet that explains what Heidi is to patients and how their data is stored.",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2F3f1cc6f85d2149063efe3d824fa2cd928de63e2c.zip&filename=Patient%20Explainers.zip",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Patient consent forms An optional form to collect consent from your patients before using Heidi with them.",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2Febab8fa8a180ce7c3535250547f2bb735857c37f.zip&filename=Heidi%20Patient%20Consent%20Forms%20.zip",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinic assets A variety of essential resources to support your clinic.",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2Fce3dffde9850999576d4806c1da1980012071117.zip&filename=clinic_assets.zip",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 413,
+   "innerH": 221,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Resource links",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "a",
+     "t": "FAQs Any common questions asked by patients.",
+     "href": "/en-gb/resources/frequently-ask-questions",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Trust Centre Offers an accessible, public security portal for documentation and communication.",
+     "href": "https://trust.heidihealth.com",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "WCAG Accessibility See how Heidi covers content to be more accessible, according to WCAG.",
+     "href": "https://www.w3.org/WAI/standards-guidelines/",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Brand kit Here you'll find logos, colors, fonts, and guidelines to Heidi's brand identity.",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2Fe36552c00cfead943cf046f2fdbd69c78ff5ab5f.zip&filename=Heidi_brand_kit.zip",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 437
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 533,
+   "innerH": 181,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Still have a question?",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Feel free to reach out to our support team.",
+     "fs": 18,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "a",
+     "t": "Contact us",
+     "href": "/en-gb/contact",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

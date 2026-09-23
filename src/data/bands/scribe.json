@@ -1,0 +1,2106 @@
+[
+ {
+  "i": 0,
+  "box": {
+   "w": 1440,
+   "h": 736
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 576
+  },
+  "secCls": "flex flex-col items-center max-w-container-lg w-full gap-10",
+  "texts": [
+   {
+    "tag": "span",
+    "t": "Scribe",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(246, 236, 228)",
+    "ta": "center",
+    "box": {
+     "x": 651,
+     "y": 80,
+     "w": 137,
+     "h": 54
+    }
+   },
+   {
+    "tag": "h1",
+    "t": "Capture care in your own words",
+    "ff": "exposure",
+    "fs": 72,
+    "lh": "72px",
+    "ls": "-3.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 158,
+     "w": 768,
+     "h": 144
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Structured documentation, generated in your natural clinical language.",
+    "ff": "inter",
+    "fs": 20,
+    "lh": "28px",
+    "ls": "-0.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 409,
+     "y": 326,
+     "w": 623,
+     "h": 28
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 578,
+     "y": 614,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Chat with us",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "start",
+    "box": {
+     "x": 741,
+     "y": 614,
+     "w": 121,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/onboarding",
+    "tag": "a",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 578,
+     "y": 614,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "t": "Chat with us",
+    "href": "/en-gb/contact",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 741,
+     "y": 614,
+     "w": 121,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "0-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 394,
+     "w": 1280,
+     "h": 180
+    },
+    "r": "0px",
+    "file": "/assets/bands/scribe/v0-0.png"
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "box": {
+   "w": 1440,
+   "h": 192
+  },
+  "secBox": null,
+  "secCls": null,
+  "texts": [],
+  "links": [],
+  "imgs": [
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 1461,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 1624,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 1787,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 1951,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 2114,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 2277,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 2440,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 2603,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 2767,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 2930,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 3093,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 3256,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 3419,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 3582,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 3746,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 3909,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 4072,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 4235,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 4398,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 4562,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 4725,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 4888,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 5051,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 5214,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 5378,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 5541,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 5704,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 5867,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 6030,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 6193,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 6357,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": -7,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 156,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 319,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 482,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 646,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 809,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 972,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 1135,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 1298,
+     "y": 80,
+     "w": 83,
+     "h": 32
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 2,
+  "box": {
+   "w": 1440,
+   "h": 1052
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 892
+  },
+  "secCls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Vanquish the paperwork with Heidi",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 768,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Clinicians are buried in needless admin. It’s time to finally be in charge of your day",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 208,
+     "w": 651,
+     "h": 25
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 265,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Document the way you practice",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 414,
+     "w": 480,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi captures the encounter as it happens and writes notes that sound like you, not a generic template.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 448,
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Structured, ready to review",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 558,
+     "w": 480,
+     "h": 30
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Nothing gets missed",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 654,
+     "w": 480,
+     "h": 30
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Fits your systems and standards",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 750,
+     "w": 480,
+     "h": 30
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/onboarding",
+    "tag": "a",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 265,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "t": "Document the way you practice Heidi captures the encounter as it happens and writes notes that sound like you, not a generic template.",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 388,
+     "w": 584,
+     "h": 105
+    }
+   },
+   {
+    "t": "Structured, ready to review",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 532,
+     "w": 584,
+     "h": 56
+    }
+   },
+   {
+    "t": "Nothing gets missed",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 628,
+     "w": 584,
+     "h": 56
+    }
+   },
+   {
+    "t": "Fits your systems and standards",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 724,
+     "w": 584,
+     "h": 56
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F6f29656501bb8436d23b4653c4ed83bc67f5597d-1200x1200.png%3Ffit%3Dmax%26auto%3Dformat&w=1920&q=75",
+    "alt": "alt text",
+    "box": {
+     "x": 776,
+     "y": 388,
+     "w": 584,
+     "h": 584
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "2-0",
+    "tag": "div",
+    "box": {
+     "x": 776,
+     "y": 388,
+     "w": 584,
+     "h": 584
+    },
+    "r": "0px",
+    "file": "/assets/bands/scribe/v2-0.png"
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "box": {
+   "w": 1440,
+   "h": 1005
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 845
+  },
+  "secCls": "flex flex-col lg:flex-row items-center gap-14 bg-accent px-global py-section-md md:p-global md:rounded-3xl lg:gap-20 w-full max-w-container-lg",
+  "texts": [
+   {
+    "tag": "span",
+    "t": "In practice",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 144,
+     "y": 144,
+     "w": 108,
+     "h": 25
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Every clinician, every specialty, every setting.",
+    "html": "<em>Every</em> clinician, every specialty, every setting.",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 144,
+     "y": 193,
+     "w": 429,
+     "h": 168
+    }
+   },
+   {
+    "tag": "em",
+    "t": "Every",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 144,
+     "y": 187,
+     "w": 133,
+     "h": 67
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Explore templates",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 136,
+     "y": 397,
+     "w": 177,
+     "h": 32
+    }
+   },
+   {
+    "tag": "p",
+    "t": "General Practice",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 148,
+     "y": 590,
+     "w": 118,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Physicians",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "left",
+    "box": {
+     "x": 148,
+     "y": 630,
+     "w": 76,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Surgeons",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "left",
+    "box": {
+     "x": 148,
+     "y": 670,
+     "w": 68,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Critical Care",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "left",
+    "box": {
+     "x": 148,
+     "y": 710,
+     "w": 87,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Mental Health",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "left",
+    "box": {
+     "x": 148,
+     "y": 750,
+     "w": 99,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Residental Care",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "left",
+    "box": {
+     "x": 338,
+     "y": 590,
+     "w": 112,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Allied Health",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "left",
+    "box": {
+     "x": 338,
+     "y": 630,
+     "w": 89,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Nurses",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "left",
+    "box": {
+     "x": 338,
+     "y": 670,
+     "w": 51,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Veterinarians",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "left",
+    "box": {
+     "x": 338,
+     "y": 710,
+     "w": 93,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Trainees",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "left",
+    "box": {
+     "x": 338,
+     "y": 750,
+     "w": 61,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Previous slide",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 160,
+     "y": 845,
+     "w": 1,
+     "h": 1
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Next slide",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 204,
+     "y": 845,
+     "w": 1,
+     "h": 1
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Explore templates",
+    "href": "https://www.heidihealth.com/templates",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 144,
+     "y": 401,
+     "w": 169,
+     "h": 24
+    }
+   },
+   {
+    "t": "General Practice",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 116,
+     "y": 589,
+     "w": 150,
+     "h": 24
+    }
+   },
+   {
+    "t": "Physicians",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 116,
+     "y": 629,
+     "w": 150,
+     "h": 24
+    }
+   },
+   {
+    "t": "Surgeons",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 116,
+     "y": 669,
+     "w": 150,
+     "h": 24
+    }
+   },
+   {
+    "t": "Critical Care",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 116,
+     "y": 709,
+     "w": 150,
+     "h": 24
+    }
+   },
+   {
+    "t": "Mental Health",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 116,
+     "y": 749,
+     "w": 150,
+     "h": 24
+    }
+   },
+   {
+    "t": "Residental Care",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 306,
+     "y": 589,
+     "w": 144,
+     "h": 24
+    }
+   },
+   {
+    "t": "Allied Health",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 306,
+     "y": 629,
+     "w": 144,
+     "h": 24
+    }
+   },
+   {
+    "t": "Nurses",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 306,
+     "y": 669,
+     "w": 144,
+     "h": 24
+    }
+   },
+   {
+    "t": "Veterinarians",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 306,
+     "y": 709,
+     "w": 144,
+     "h": 24
+    }
+   },
+   {
+    "t": "Trainees",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": "svg",
+    "iconBefore": true,
+    "box": {
+     "x": 306,
+     "y": 749,
+     "w": 144,
+     "h": 24
+    }
+   },
+   {
+    "t": "Previous slide",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": null,
+    "r": "3.35544e+07px",
+    "pad": "0px",
+    "icon": "arrow-left",
+    "iconBefore": true,
+    "box": {
+     "x": 144,
+     "y": 829,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "t": "Next slide",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": null,
+    "r": "3.35544e+07px",
+    "pad": "0px",
+    "icon": "arrow-right",
+    "iconBefore": true,
+    "box": {
+     "x": 188,
+     "y": 829,
+     "w": 32,
+     "h": 32
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fcfe315ba9e2371e486bb88a97c8b797ba332f167-1258x1236.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "A digital GP consultation note for a 14-month-old male newly diagnosed with Type 1 Diabetes, detailing management challenges and patient history.",
+    "box": {
+     "x": 653,
+     "y": 187,
+     "w": 643,
+     "h": 632
+    }
+   }
+  ],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 281,
+     "y": 401,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "arrow-left",
+    "box": {
+     "x": 148,
+     "y": 833,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 192,
+     "y": 833,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "64px",
+    "shadow": null,
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 1280,
+     "h": 845
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "3-0",
+    "tag": "div",
+    "box": {
+     "x": 116,
+     "y": 589,
+     "w": 333,
+     "h": 184
+    },
+    "r": "0px",
+    "file": "/assets/bands/scribe/v3-0.png"
+   },
+   {
+    "id": "3-1",
+    "tag": "div",
+    "box": {
+     "x": 653,
+     "y": 187,
+     "w": 643,
+     "h": 632
+    },
+    "r": "0px",
+    "file": "/assets/bands/scribe/v3-1.png"
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "box": {
+   "w": 1440,
+   "h": 826
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 666
+  },
+  "secCls": "flex w-full max-w-container-lg flex-col items-center gap-20 overflow-hidden",
+  "texts": [
+   {
+    "tag": "span",
+    "t": "Working with Heidi",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 629,
+     "y": 80,
+     "w": 182,
+     "h": 25
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Make your next shift your best shift.",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 293,
+     "y": 145,
+     "w": 853,
+     "h": 56
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 655,
+     "y": 318,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Before the consult",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 576,
+     "w": 280,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Review history, notes, and results in one place, sync schedules, and walk in prepared with key findings.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 630,
+     "w": 280,
+     "h": 67
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "During the consult",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 580,
+     "y": 624,
+     "w": 280,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Transcribe visits in 110+ languages, structure notes your way, and instantly generate referrals and handouts.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 580,
+     "y": 678,
+     "w": 280,
+     "h": 67
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "After the consult",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1056,
+     "y": 552,
+     "w": 280,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Send everything to your EHR in one click, auto-apply codes and tasks, and finish your day on time without backlog.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1056,
+     "y": 606,
+     "w": 280,
+     "h": 90
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/onboarding",
+    "tag": "a",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 655,
+     "y": 318,
+     "w": 131,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/assets/Before-the-consult-icon.svg",
+    "alt": "",
+    "box": {
+     "x": 110,
+     "y": 494,
+     "w": 28,
+     "h": 28
+    }
+   },
+   {
+    "src": "https://www.heidihealth.com/assets/During-the-consult-icon.svg",
+    "alt": "",
+    "box": {
+     "x": 586,
+     "y": 542,
+     "w": 28,
+     "h": 28
+    }
+   },
+   {
+    "src": "https://www.heidihealth.com/assets/After-the-consult-icon.svg",
+    "alt": "",
+    "box": {
+     "x": 1062,
+     "y": 470,
+     "w": 28,
+     "h": 28
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 5,
+  "box": {
+   "w": 1440,
+   "h": 1053
+  },
+  "secBox": {
+   "x": 128,
+   "y": 176,
+   "w": 1184,
+   "h": 701
+  },
+  "secCls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Extend care beyond the note",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 376,
+     "y": 176,
+     "w": 688,
+     "h": 56
+    }
+   },
+   {
+    "tag": "p",
+    "t": "See how Evidence and Remote support decisions and patient care after the visit.",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 399,
+     "y": 248,
+     "w": 641,
+     "h": 25
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Heidi Evidence",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 144,
+     "y": 691,
+     "w": 422,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Independent, unlimited evidence right where care happens.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 144,
+     "y": 736,
+     "w": 422,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Explore Evidence",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 144,
+     "y": 835,
+     "w": 156,
+     "h": 42
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Heidi Remote",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 752,
+     "y": 691,
+     "w": 544,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Wards, theaters, rural clinics, noisy EDs. Heidi Remote is a 21-gram wearable mic, fully offline, with on-device encryption. Documentation no longer depends on a desk or a quiet room.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 752,
+     "y": 736,
+     "w": 544,
+     "h": 67
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Explore Remote",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 752,
+     "y": 835,
+     "w": 145,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Explore Evidence",
+    "href": "/en-gb/evidence",
+    "tag": "a",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 144,
+     "y": 835,
+     "w": 156,
+     "h": 42
+    }
+   },
+   {
+    "t": "Explore Remote",
+    "href": "/en-gb/hardware",
+    "tag": "a",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 752,
+     "y": 835,
+     "w": 145,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F733c1e85a72842a2aafdd93cab81ff537cb85d6d-1248x702.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "alt image",
+    "box": {
+     "x": 144,
+     "y": 353,
+     "w": 544,
+     "h": 306
+    }
+   },
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fb862275644d533813c8d36ad855a9625a7e031cf-1280x720.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "alt image",
+    "box": {
+     "x": 752,
+     "y": 353,
+     "w": 544,
+     "h": 306
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 957
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "5-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 957
+    },
+    "r": "36px",
+    "file": "/assets/bands/scribe/v5-0.png"
+   },
+   {
+    "id": "5-1",
+    "tag": "div",
+    "box": {
+     "x": 144,
+     "y": 353,
+     "w": 544,
+     "h": 306
+    },
+    "r": "0px",
+    "file": "/assets/bands/scribe/v5-1.png"
+   },
+   {
+    "id": "5-2",
+    "tag": "div",
+    "box": {
+     "x": 752,
+     "y": 353,
+     "w": 544,
+     "h": 306
+    },
+    "r": "0px",
+    "file": "/assets/bands/scribe/v5-2.png"
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "box": {
+   "w": 1440,
+   "h": 780
+  },
+  "secBox": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 780
+  },
+  "secCls": "flex flex-col items-center w-full mx-auto max-w-[1920px] sm:p-8",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Start practicing with a partner",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 363,
+     "y": 260,
+     "w": 714,
+     "h": 56
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Care is better with Heidi",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 556,
+     "y": 340,
+     "w": 328,
+     "h": 38
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 630,
+     "y": 434,
+     "w": 180,
+     "h": 57
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/onboarding",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "36px",
+    "pad": "16px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 630,
+     "y": 434,
+     "w": 180,
+     "h": 57
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(251, 245, 130)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 32,
+     "y": 32,
+     "w": 1376,
+     "h": 716
+    }
+   }
+  ],
+  "visuals": []
+ }
+]

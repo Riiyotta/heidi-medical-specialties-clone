@@ -1,0 +1,426 @@
+{
+ "slug": "resources-patients",
+ "path": "/resources/patients",
+ "url": "/en-gb/resources/patients",
+ "title": "Patient Experience",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Patient Experience",
+  "desc": "Heidi is an AI care partner that works in the background, capturing notes, tasks, and follow-ups as you talk, allowing your clinician to… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1186,
+   "innerH": 1026,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Patients",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "The care experience you deserve",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "When your clinician uses Heidi, your appointment feels personal and fully focused on you.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/360bbcc28c5178a8f789e053d73df2687bd45e60-3277x1728.jpg",
+     "alt": "Patient",
+     "w": 1280,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "When appointments feel more human",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "In the room, your clinician is often balancing listening, examining, and writing notes. Heidi helps with that, so they can give you the attention you deserve.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Heidi is an AI care partner that works in the background, capturing notes, tasks, and follow-ups as you talk. This allows your clinician to stay present and respond without distraction, while remaining in control of every decision and next step.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "You may not see Heidi at work, but you’ll feel the difference in how your clinician cares for you.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/7b2f6b8e1a48f62a827de8c0f095e070f7fe969e-1920x1536.jpg",
+     "alt": "A hand holding a stethoscope",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 398,
+   "innerH": 238,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Why Heidi was built",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "“When I was practicing, I could feel how much my attention was being pulled toward screens and paperwork. I started Heidi so patients get their clinician’s full attention.”",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Dr. Tom Kelly CEO & Co-Founder",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 877,
+   "innerH": 717,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "How Heidi supports your care",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c5c0f6d829cbc84efa2b13e40170bbd0832b864d-1200x1200.jpg",
+     "alt": "Transcribe",
+     "w": 584,
+     "h": 584
+    },
+    {
+     "k": "a",
+     "t": "During your appointment You can speak freely without worrying anything will be missed, as the important details of your visit are captured and carried forward for your care team.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(33, 18, 23)"
+    },
+    {
+     "k": "a",
+     "t": "When a question comes up",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Between visits",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex max-w-container-lg w-full flex-col lg:grid lg:grid-cols-[1fr_2fr] gap-section-md items-start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1202,
+   "innerH": 1042,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "The difference with Heidi",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Small moments make a big difference to how your care feels.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "With Heidi",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Your clinician looks at you while you speak, listening without distraction.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Without Heidi",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "You share something personal while they’re focused on typing.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "You get clear instructions and guidance based on your consultation.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "You leave with a generic handout that doesn’t quite answer your questions.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Referrals, tests, and follow-ups are ready quickly so your care moves forward.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "You might wait days for referrals, scans or blood tests to be sent.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Your history and notes carry forward, so you don’t have to start from the beginning each time.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "You often find yourself repeating the same details at every appointment.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Next steps are clearly recorded before you leave the room.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "You walk out realizing you don't know what's happening next.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "You know what happens next and when.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "You might leave unsure about when you’ll hear back or what to do now.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 854
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 854,
+   "innerH": 694,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Your experience, safely supported.",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Consent comes first",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Your clinic will let you know if they plan to use Heidi and ask for your permission before it is used during your appointment.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Your care is led by your clinician",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "All decisions about your diagnosis, treatment, and next steps are made by your clinician.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Conversations are not stored",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi uses the information needed to help your clinician during your appointment and doesn’t store any audio.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Information is private and protected",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Your consultation details are kept private, never sold, and never used to train our systems.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Based on trusted medical knowledge",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi gives your clinician access to trusted medical guidance from independent sources.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md max-w-container-lg w-full items-start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 764,
+   "innerH": 604,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Experienced an appointment supported by Heidi?",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Tell us what stood out to you and how Heidi helped.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  }
+ ]
+}

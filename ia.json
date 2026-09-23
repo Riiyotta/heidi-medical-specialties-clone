@@ -1,0 +1,1144 @@
+{
+  "$comment": "Built from direct inspection of the running React app: src/App.jsx's route table (src/data/routes.js, 40 routes), each hand-built page component's JSX, SolutionsPage.jsx's buildBands() logic, and src/lib/classify.js run live against every src/data/pages/*.json file to get each GeneratedPage route's real classified section sequence. Not derived from a sitemap or external crawl.",
+  "meta": {
+    "source": "Local React clone of heidihealth.com (en-gb) at /Users/riyaghosh/V2 cloned/Heidi",
+    "status": "measured-from-source",
+    "totalRoutes": 40,
+    "totalTemplates": 27,
+    "generatedBy": "ia-builder skill, manual structural read of src/App.jsx + src/pages/*.jsx + src/lib/classify.js run against src/data/pages/*.json"
+  },
+  "categories": {
+    "SHELL": "Chrome present on every route: announcement bar, primary nav, footer, and the fixed download-app drawer.",
+    "HERO": "Page-opening header block \u2014 h1, lead copy, primary CTA(s), optional hero visual.",
+    "PROOF": "Social proof: partner/client logos, testimonials/pull-quotes, stat callouts.",
+    "FEATURE": "Product/capability explanation modules \u2014 image+copy splits, tabbed panels, video intros.",
+    "CONTENT": "Substantive body or listing content \u2014 prose, card grids, link directories, chip strips, centered copy blocks.",
+    "COMMERCE": "Pricing tiers and plan-comparison content.",
+    "CONVERSION": "FAQ accordions and closing calls-to-action."
+  },
+  "sections": {
+    "shell.announcement-bar": {
+      "category": "SHELL",
+      "description": "Slim top banner above the nav carrying a rotating promo/announcement message.",
+      "scope": "Present identically on all 40 routes.",
+      "implementedBy": "src/components/AnnouncementBar.jsx"
+    },
+    "shell.nav": {
+      "category": "SHELL",
+      "description": "Primary navigation: logo, mega-menu triggers, search, and 'Get Heidi free' CTA.",
+      "scope": "Present identically on all 40 routes.",
+      "implementedBy": "src/components/Nav.jsx"
+    },
+    "shell.footer": {
+      "category": "SHELL",
+      "description": "Site footer: link columns, legal links, social icons.",
+      "scope": "Present identically on all 40 routes.",
+      "implementedBy": "src/components/Footer.jsx"
+    },
+    "shell.download-drawer": {
+      "category": "SHELL",
+      "description": "Fixed bottom-of-viewport drawer/tab prompting the desktop app download.",
+      "scope": "Present identically on all 40 routes.",
+      "implementedBy": "src/components/DownloadDrawer.jsx"
+    },
+    "generic.hero": {
+      "category": "HERO",
+      "description": "Classified hero block: the section carrying the page's one <h1>.",
+      "scope": "Opens every route rendered by GeneratedPage (21 routes), except podcast which opens on a promoted h2 (classified as generic.prose instead).",
+      "implementedBy": "src/components/sections/index.jsx > Hero"
+    },
+    "generic.logos": {
+      "category": "PROOF",
+      "description": "Partner/client logo strip: 4+ short, wide wordmark images with no heading.",
+      "scope": "Appears on 3 GeneratedPage routes: home (dead data path \u2014 real home page is hand-built), impact (x2), product-dictate (dead data path).",
+      "implementedBy": "src/components/sections/index.jsx > Logos"
+    },
+    "generic.faq": {
+      "category": "CONVERSION",
+      "description": "FAQ accordion: a 'FAQs' heading or 3+ inter-font h3 questions.",
+      "scope": "Appears on 8 GeneratedPage routes: templates, resources-faq, hardware(dead), integrations, epic n/a, partners, safety, product-coding(dead), product-dictate(dead), impact, resources-evaluation-framework.",
+      "implementedBy": "src/components/sections/index.jsx > Faq"
+    },
+    "generic.stats": {
+      "category": "PROOF",
+      "description": "Stat band: 2+ short numeric h3s (percentages/counts) each with a caption, no imagery.",
+      "scope": "Appears on about-us-awards, about-us-media, careers, epic-integration, oracle-cerner-integration, impact(x2), resources-evaluation-framework(x3).",
+      "implementedBy": "src/components/sections/index.jsx > Stats"
+    },
+    "generic.quotes": {
+      "category": "PROOF",
+      "description": "Testimonial block: 2+ quotation-marked pull-quote paragraphs.",
+      "scope": "Appears on about-us-awards and impact.",
+      "implementedBy": "src/components/sections/index.jsx > Quotes"
+    },
+    "generic.cta": {
+      "category": "CONVERSION",
+      "description": "Closing CTA band: last section on the page, centred heading, no imagery.",
+      "scope": "Closes most GeneratedPage routes (blog, progress-notes, customers, partners, integrations, templates, resources-faq, safety-adjacent pages, about-us-awards, about-us-media).",
+      "implementedBy": "src/components/sections/index.jsx > Cta"
+    },
+    "generic.split": {
+      "category": "FEATURE",
+      "description": "Feature row: one heading, one image, short body, up to 2 CTAs; alternates image-left/right down the page.",
+      "scope": "The most-reused generic section \u2014 appears on download, tools, home(dead), impact, integrations, epic-integration(x5), oracle-cerner-integration(x5), resources-patients(x2), resources-evaluation-framework(x3).",
+      "implementedBy": "src/components/sections/index.jsx > Split"
+    },
+    "generic.cards": {
+      "category": "CONTENT",
+      "description": "Card grid: 3+ images, or 3+ links each paired with an image.",
+      "scope": "Appears on blog, progress-notes, customers, careers(x2), about-us-media(x4), about-us-awards(x2), integrations, download, tools.",
+      "implementedBy": "src/components/sections/index.jsx > Cards"
+    },
+    "generic.pills": {
+      "category": "CONTENT",
+      "description": "'Recommended for' pill strip: 4+ short paragraphs under a heading, no imagery, no links.",
+      "scope": "Appears once, on careers.",
+      "implementedBy": "src/components/sections/index.jsx > Pills"
+    },
+    "generic.links": {
+      "category": "CONTENT",
+      "description": "Link directory: 4+ links, no imagery \u2014 used for index/listing pages.",
+      "scope": "Appears on resource-centre and careers.",
+      "implementedBy": "src/components/sections/index.jsx > Links"
+    },
+    "generic.centered": {
+      "category": "CONTENT",
+      "description": "Centred copy block: no imagery, at most one heading.",
+      "scope": "The second most-reused generic section \u2014 appears on about-us-awards, careers, contact(x6), epic-integration, oracle-cerner-integration, partners(x2), resource-centre, resources-patients(x3), resources-evaluation-framework(x4), safety(x8).",
+      "implementedBy": "src/components/sections/index.jsx > Centered"
+    },
+    "generic.prose": {
+      "category": "CONTENT",
+      "description": "Fallback long-form text block for content that doesn't match a more specific pattern.",
+      "scope": "Appears on about-us-awards, customers, epic-integration(x2), oracle-cerner-integration(x2), evidence(dead), home(dead), impact, integrations(x2), partners(x2), podcast (opens the page \u2014 its first block lacks an h1), safety, scribe(dead), resources-evaluation-framework(x6).",
+      "implementedBy": "src/components/sections/index.jsx > Prose"
+    },
+    "solutions.hero": {
+      "category": "HERO",
+      "description": "Solution-vertical hero: eyebrow, h1, body, primary CTA, and a per-vertical hero visual from solutions.json.",
+      "scope": "Opens all 10 SolutionsPage routes.",
+      "implementedBy": "src/components/solutions/index.jsx > Hero"
+    },
+    "solutions.specialty-strip": {
+      "category": "CONTENT",
+      "description": "'Recommended for' chip strip naming the roles/settings this vertical targets.",
+      "scope": "Present on 8 of 10 solution verticals (all except dentists' and primary-care's/veterinarians' variants that open differently \u2014 exact set varies per classifyPage run; see extraction citations).",
+      "implementedBy": "src/components/solutions/index.jsx > SpecialtyStrip"
+    },
+    "solutions.feature-row": {
+      "category": "FEATURE",
+      "description": "Image+copy feature row, alternating image-left/right; pulled from solutions.json's featureVisuals map.",
+      "scope": "The most-reused solutions section \u2014 appears 2-5 times on every one of the 10 solution verticals.",
+      "implementedBy": "src/components/solutions/index.jsx > FeatureRow"
+    },
+    "solutions.stats-band": {
+      "category": "PROOF",
+      "description": "Stat card row for the vertical, sourced from solutions.json's stats block.",
+      "scope": "Present on all 10 solution verticals.",
+      "implementedBy": "src/components/solutions/index.jsx > StatsBand"
+    },
+    "solutions.day-with-heidi": {
+      "category": "FEATURE",
+      "description": "'Your day with Heidi' walkthrough \u2014 a heading matched by regex plus itemised steps from solutions.json's day block.",
+      "scope": "Present on verticals whose solutions.json entry defines a day block; not present on every vertical's rendered sequence (structural walk depends on the live page having that band).",
+      "implementedBy": "src/components/solutions/index.jsx > DayWithHeidi"
+    },
+    "solutions.template-grid": {
+      "category": "CONTENT",
+      "description": "Grid of Heidi note templates relevant to the vertical, sourced from solutions.json's templateGrid block.",
+      "scope": "Present on verticals whose solutions.json entry defines a templateGrid block (all 10 define it).",
+      "implementedBy": "src/components/solutions/index.jsx > TemplateGrid"
+    },
+    "solutions.template-practice": {
+      "category": "CONTENT",
+      "description": "Practice-area template showcase, matched by heading against solutions.json's templates block.",
+      "scope": "Present only on primary-care, aged-care and emergency-medicine (the 3 verticals whose solutions.json entry defines a templates key).",
+      "implementedBy": "src/components/solutions/index.jsx > TemplatePractice"
+    },
+    "solutions.video-band": {
+      "category": "FEATURE",
+      "description": "Embedded product-demo video for the vertical, sourced from solutions.json's video block.",
+      "scope": "Present on verticals whose solutions.json entry defines a video block (all 10 define it).",
+      "implementedBy": "src/components/solutions/index.jsx > VideoBand"
+    },
+    "solutions.testimonials": {
+      "category": "PROOF",
+      "description": "'Hear from...' testimonial carousel, matched by heading regex against solutions.json's testimonials block.",
+      "scope": "Present on 9 of 10 verticals (all except dentists, whose classified sequence has no quotes-type section).",
+      "implementedBy": "src/components/solutions/index.jsx > Testimonials"
+    },
+    "solutions.faq": {
+      "category": "CONVERSION",
+      "description": "FAQ accordion for the vertical, sourced from faq-answers.json keyed by `solutions-<slug>`.",
+      "scope": "Present on all 10 solution verticals.",
+      "implementedBy": "src/components/solutions/index.jsx > Faq"
+    },
+    "solutions.cta-band": {
+      "category": "CONVERSION",
+      "description": "Closing CTA band: a lone heading with at most one button, no imagery.",
+      "scope": "Closes 9 of 10 solution verticals (all except dentists, whose last classified section is an faq).",
+      "implementedBy": "src/components/solutions/index.jsx > CtaBand"
+    },
+    "band.product-hero": {
+      "category": "HERO",
+      "description": "Product-page hero: badge label, h1, lead, buttons, and a screenshot/mock visual.",
+      "scope": "Opens scribe and evidence.",
+      "implementedBy": "src/components/bands/index.jsx > ProductHero"
+    },
+    "band.logo-marquee": {
+      "category": "PROOF",
+      "description": "Scrolling/marquee row of client or partner logos.",
+      "scope": "Used on scribe, evidence, pricing, enterprise (twice, with different logo sets), and trainees.",
+      "implementedBy": "src/components/bands/index.jsx > LogoMarquee"
+    },
+    "band.tabs-split": {
+      "category": "FEATURE",
+      "description": "Tabbed feature panel: a tab list with a synced image/detail pane.",
+      "scope": "Used on scribe, evidence, and product-dictate.",
+      "implementedBy": "src/components/bands/index.jsx > TabsSplit"
+    },
+    "band.product-cards-panel": {
+      "category": "FEATURE",
+      "description": "Card grid summarising related Heidi products.",
+      "scope": "Used on scribe and evidence.",
+      "implementedBy": "src/components/bands/index.jsx > ProductCardsPanel"
+    },
+    "band.partner-cta": {
+      "category": "CONVERSION",
+      "description": "Closing CTA band styled for the product pages.",
+      "scope": "Closes scribe and evidence.",
+      "implementedBy": "src/components/bands/index.jsx > PartnerCta"
+    },
+    "band.faq-band": {
+      "category": "CONVERSION",
+      "description": "FAQ accordion, sourced from faq-answers.json keyed by route slug.",
+      "scope": "Used on product-coding, product-dictate, hardware, pricing, solutions-enterprise, and solutions-medical-trainees.",
+      "implementedBy": "src/components/bands/index.jsx > FaqBand"
+    },
+    "band.pattern-cta": {
+      "category": "CONVERSION",
+      "description": "Closing CTA band with a patterned-SVG background panel.",
+      "scope": "Closes product-coding, hardware, and pricing.",
+      "implementedBy": "src/components/bands/index.jsx > PatternCta"
+    },
+    "band.feature-split": {
+      "category": "FEATURE",
+      "description": "Image+copy feature row, alternating image-left/right.",
+      "scope": "Used 3 times each on product-coding and solutions-medical-trainees.",
+      "implementedBy": "src/components/bands/index.jsx > FeatureSplit"
+    },
+    "band.green-band": {
+      "category": "CONVERSION",
+      "description": "Full-bleed forest-green closing band.",
+      "scope": "Closes solutions-enterprise and solutions-medical-trainees.",
+      "implementedBy": "src/components/bands/index.jsx > GreenBand"
+    },
+    "band.statement": {
+      "category": "CONTENT",
+      "description": "Short centred statement block: heading + one line of lead copy.",
+      "scope": "Used on product-coding and solutions-medical-trainees.",
+      "implementedBy": "src/components/bands/index.jsx > Statement"
+    },
+    "band.practice-panel": {
+      "category": "CONTENT",
+      "description": "'Every clinician, every specialty' practice-area showcase.",
+      "scope": "Used once, on scribe.",
+      "implementedBy": "src/components/bands/index.jsx > PracticePanel"
+    },
+    "band.timeline": {
+      "category": "FEATURE",
+      "description": "Step-by-step shift-timeline illustration with a closing CTA.",
+      "scope": "Used once, on scribe.",
+      "implementedBy": "src/components/bands/index.jsx > Timeline"
+    },
+    "band.center-showcase": {
+      "category": "FEATURE",
+      "description": "Centred heading/lead over a single large product screenshot.",
+      "scope": "Used once, on evidence.",
+      "implementedBy": "src/components/bands/index.jsx > CenterShowcase"
+    },
+    "band.panel-feature": {
+      "category": "FEATURE",
+      "description": "Single feature panel: heading, body, CTA, and a side visual.",
+      "scope": "Used once, on evidence.",
+      "implementedBy": "src/components/bands/index.jsx > PanelFeature"
+    },
+    "band.quote-block": {
+      "category": "PROOF",
+      "description": "Single named pull-quote with eyebrow.",
+      "scope": "Used once, on evidence.",
+      "implementedBy": "src/components/bands/index.jsx > QuoteBlock"
+    },
+    "band.split-hero": {
+      "category": "HERO",
+      "description": "Sand-toned split hero: eyebrow, h1, body, CTA beside a product visual.",
+      "scope": "Used once, on product-coding.",
+      "implementedBy": "src/components/bands/index.jsx > SplitHero"
+    },
+    "band.icon-grid": {
+      "category": "FEATURE",
+      "description": "Icon+label grid summarising capabilities.",
+      "scope": "Used once, on product-coding.",
+      "implementedBy": "src/components/bands/index.jsx > IconGrid"
+    },
+    "band.icon-columns-panel": {
+      "category": "FEATURE",
+      "description": "Multi-column icon panel with a heading.",
+      "scope": "Used once, on product-coding.",
+      "implementedBy": "src/components/bands/index.jsx > IconColumnsPanel"
+    },
+    "band.pill-hero": {
+      "category": "HERO",
+      "description": "Pill-labelled hero: badge, h1, lead, CTA, hero visual.",
+      "scope": "Used once, on product-dictate.",
+      "implementedBy": "src/components/bands/index.jsx > PillHero"
+    },
+    "band.shot-panel": {
+      "category": "PROOF",
+      "description": "Full-width trust-logo screenshot strip.",
+      "scope": "Used once, on product-dictate.",
+      "implementedBy": "src/components/bands/index.jsx > ShotPanel"
+    },
+    "band.chip-field": {
+      "category": "CONTENT",
+      "description": "Heading over a field of chip labels on an image background.",
+      "scope": "Used once, on product-dictate.",
+      "implementedBy": "src/components/bands/index.jsx > ChipField"
+    },
+    "band.two-tone-quote": {
+      "category": "PROOF",
+      "description": "Single pull-quote rendered in two contrasting text weights/tones.",
+      "scope": "Used once, on product-dictate.",
+      "implementedBy": "src/components/bands/index.jsx > TwoToneQuote"
+    },
+    "band.demo-video": {
+      "category": "FEATURE",
+      "description": "Embedded product-demo video with a pill label and CTA.",
+      "scope": "Used once, on product-dictate.",
+      "implementedBy": "src/components/bands/index.jsx > DemoVideo"
+    },
+    "band.card-trio": {
+      "category": "CONTENT",
+      "description": "Row of 3 feature cards with heading+body.",
+      "scope": "Used once, on product-dictate.",
+      "implementedBy": "src/components/bands/index.jsx > CardTrio"
+    },
+    "band.download-split": {
+      "category": "CONVERSION",
+      "description": "Platform-specific download CTA split (e.g. macOS/Windows), anchored via #download-section.",
+      "scope": "Used once, on product-dictate.",
+      "implementedBy": "src/components/bands/index.jsx > DownloadSplit"
+    },
+    "band.image-cta": {
+      "category": "CONVERSION",
+      "description": "Closing CTA band with a supporting image.",
+      "scope": "Used once, on product-dictate.",
+      "implementedBy": "src/components/bands/index.jsx > ImageCta"
+    },
+    "band.video-hero": {
+      "category": "HERO",
+      "description": "Background-video hero with a price callout and CTA.",
+      "scope": "Used once, on hardware.",
+      "implementedBy": "src/components/bands/index.jsx > VideoHero"
+    },
+    "band.image-trio": {
+      "category": "FEATURE",
+      "description": "Row of 3 product-photo cards with heading+lead and a shared CTA.",
+      "scope": "Used once, on hardware.",
+      "implementedBy": "src/components/bands/index.jsx > ImageTrio"
+    },
+    "band.icon-card-trio": {
+      "category": "FEATURE",
+      "description": "Row of 3 icon+copy cards with a shared CTA.",
+      "scope": "Used once, on hardware.",
+      "implementedBy": "src/components/bands/index.jsx > IconCardTrio"
+    },
+    "band.video-intro": {
+      "category": "FEATURE",
+      "description": "Heading+lead introducing an embedded demo video.",
+      "scope": "Used once, on hardware.",
+      "implementedBy": "src/components/bands/index.jsx > VideoIntro"
+    },
+    "band.story-quote": {
+      "category": "PROOF",
+      "description": "Named customer-story pull-quote with a 'Learn more' link.",
+      "scope": "Used once, on hardware.",
+      "implementedBy": "src/components/bands/index.jsx > StoryQuote"
+    },
+    "band.compliance-panel": {
+      "category": "CONTENT",
+      "description": "Regulatory/compliance copy block with certification badges.",
+      "scope": "Used once, on hardware.",
+      "implementedBy": "src/components/bands/index.jsx > CompliancePanel"
+    },
+    "band.diagram-band": {
+      "category": "FEATURE",
+      "description": "Illustrative diagram band (device/workflow schematic).",
+      "scope": "Used once, on hardware.",
+      "implementedBy": "src/components/bands/index.jsx > DiagramBand"
+    },
+    "band.edge-hero": {
+      "category": "HERO",
+      "description": "Enterprise hero: eyebrow, h1, lead, sales CTA.",
+      "scope": "Used once, on solutions-enterprise.",
+      "implementedBy": "src/components/bands/index.jsx > EdgeHero"
+    },
+    "band.stats-panel": {
+      "category": "PROOF",
+      "description": "Stat row with icon, value, label and note per stat.",
+      "scope": "Used once, on solutions-enterprise.",
+      "implementedBy": "src/components/bands/index.jsx > StatsPanel"
+    },
+    "band.org-cards": {
+      "category": "CONTENT",
+      "description": "Organisation-type card row (health systems, hospitals, group practices).",
+      "scope": "Used once, on solutions-enterprise.",
+      "implementedBy": "src/components/bands/index.jsx > OrgCards"
+    },
+    "band.dark-quote": {
+      "category": "PROOF",
+      "description": "Single pull-quote on a dark full-bleed background.",
+      "scope": "Used once, on solutions-enterprise.",
+      "implementedBy": "src/components/bands/index.jsx > DarkQuote"
+    },
+    "band.video-split": {
+      "category": "FEATURE",
+      "description": "Embedded video beside heading/body/CTA.",
+      "scope": "Used once, on solutions-enterprise.",
+      "implementedBy": "src/components/bands/index.jsx > VideoSplit"
+    },
+    "band.panel-tabs": {
+      "category": "FEATURE",
+      "description": "Tabbed panel variant used on the enterprise page.",
+      "scope": "Used once, on solutions-enterprise.",
+      "implementedBy": "src/components/bands/index.jsx > PanelTabs"
+    },
+    "band.image-grid": {
+      "category": "CONTENT",
+      "description": "Grid of client/logo images.",
+      "scope": "Used once, on solutions-enterprise.",
+      "implementedBy": "src/components/bands/index.jsx > ImageGrid"
+    },
+    "band.case-studies": {
+      "category": "PROOF",
+      "description": "Named customer case-study cards with links.",
+      "scope": "Used once, on solutions-enterprise.",
+      "implementedBy": "src/components/bands/index.jsx > CaseStudies"
+    },
+    "band.quote-carousel": {
+      "category": "PROOF",
+      "description": "Auto-advancing carousel of pull-quotes.",
+      "scope": "Used once, on solutions-medical-trainees.",
+      "implementedBy": "src/components/bands/index.jsx > QuoteCarousel"
+    },
+    "band.tools-panel": {
+      "category": "FEATURE",
+      "description": "Panel summarising available tools/utilities.",
+      "scope": "Used once, on solutions-medical-trainees.",
+      "implementedBy": "src/components/bands/index.jsx > ToolsPanel"
+    },
+    "home.hero": {
+      "category": "HERO",
+      "description": "Home hero: italic 'Relief' h1, sub-copy, 2 CTAs, and a tabbed Evidence/Scribe/Dictate product-visual panel.",
+      "scope": "Used once, on home.",
+      "implementedBy": "src/pages/HomePage.jsx > Hero"
+    },
+    "home.logo-panel": {
+      "category": "PROOF",
+      "description": "Rounded panel: a live patient-visits counter over a 5-logo client grid.",
+      "scope": "Used once, on home.",
+      "implementedBy": "src/pages/HomePage.jsx > LogoPanel"
+    },
+    "home.quote-band": {
+      "category": "PROOF",
+      "description": "Centred single pull-quote with attribution.",
+      "scope": "Used twice on home, with two different quotes.",
+      "implementedBy": "src/pages/HomePage.jsx > QuoteBand"
+    },
+    "home.bento": {
+      "category": "FEATURE",
+      "description": "Bento-grid feature showcase: one wide card + two stacked cards, each image+copy.",
+      "scope": "Used once, on home.",
+      "implementedBy": "src/pages/HomePage.jsx > Bento"
+    },
+    "home.dark-band": {
+      "category": "FEATURE",
+      "description": "Full-bleed dark band with an auto-rolling list of clinical tasks and an enterprise CTA.",
+      "scope": "Used once, on home.",
+      "implementedBy": "src/pages/HomePage.jsx > DarkBand"
+    },
+    "home.cta-band": {
+      "category": "CONVERSION",
+      "description": "Closing CTA band over a sky-image panel with patterned yellow side masks.",
+      "scope": "Used once, on home.",
+      "implementedBy": "src/pages/HomePage.jsx > CtaBand"
+    },
+    "pricing.hero": {
+      "category": "HERO",
+      "description": "Pricing hero with an individuals/teams audience toggle.",
+      "scope": "Used once, on pricing.",
+      "implementedBy": "src/pages/PricingPage.jsx > Hero"
+    },
+    "pricing.compare-table": {
+      "category": "COMMERCE",
+      "description": "Live plan-comparison matrix, audience-toggle-aware.",
+      "scope": "Used once, on pricing.",
+      "implementedBy": "src/pages/PricingPage.jsx > CompareTable"
+    },
+    "trainees.hero": {
+      "category": "HERO",
+      "description": "Centred trainee hero: h1, bold lead line, single claim CTA \u2014 markup written inline rather than via a shared Hero component.",
+      "scope": "Used once, on solutions-medical-trainees.",
+      "implementedBy": "src/pages/TraineesPage.jsx (inline)"
+    },
+    "trainees.template-showcase": {
+      "category": "CONTENT",
+      "description": "Full-width product screenshot of trainee note templates.",
+      "scope": "Used once, on solutions-medical-trainees.",
+      "implementedBy": "src/pages/TraineesPage.jsx (inline)"
+    }
+  },
+  "templates": [
+    {
+      "id": "template.home",
+      "name": "Home",
+      "routeCount": 1,
+      "routes": [
+        "/"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "home.hero",
+        "home.logo-panel",
+        "home.quote-band",
+        "home.bento",
+        "home.dark-band",
+        "home.quote-band",
+        "home.cta-band",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.product-scribe",
+      "name": "Product \u2014 Scribe",
+      "routeCount": 1,
+      "routes": [
+        "/scribe"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "band.product-hero",
+        "band.logo-marquee",
+        "band.tabs-split",
+        "band.practice-panel",
+        "band.timeline",
+        "band.product-cards-panel",
+        "band.partner-cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.product-evidence",
+      "name": "Product \u2014 Evidence",
+      "routeCount": 1,
+      "routes": [
+        "/evidence"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "band.product-hero",
+        "band.logo-marquee",
+        "band.center-showcase",
+        "band.tabs-split",
+        "band.panel-feature",
+        "band.quote-block",
+        "band.product-cards-panel",
+        "band.partner-cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.product-coding",
+      "name": "Product \u2014 Coding",
+      "routeCount": 1,
+      "routes": [
+        "/product/coding"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "band.split-hero",
+        "band.statement",
+        "band.feature-split",
+        "band.feature-split",
+        "band.feature-split",
+        "band.icon-grid",
+        "band.icon-columns-panel",
+        "band.faq-band",
+        "band.pattern-cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.product-dictate",
+      "name": "Product \u2014 Dictate",
+      "routeCount": 1,
+      "routes": [
+        "/product/dictate"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "band.pill-hero",
+        "band.shot-panel",
+        "band.tabs-split",
+        "band.chip-field",
+        "band.two-tone-quote",
+        "band.demo-video",
+        "band.card-trio",
+        "band.download-split",
+        "band.image-cta",
+        "band.faq-band",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.hardware",
+      "name": "Hardware (Remote)",
+      "routeCount": 1,
+      "routes": [
+        "/hardware"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "band.video-hero",
+        "band.image-trio",
+        "band.icon-card-trio",
+        "band.video-intro",
+        "band.story-quote",
+        "band.compliance-panel",
+        "band.diagram-band",
+        "band.faq-band",
+        "band.pattern-cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.pricing",
+      "name": "Pricing",
+      "routeCount": 1,
+      "routes": [
+        "/pricing"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "pricing.hero",
+        "band.logo-marquee",
+        "pricing.compare-table",
+        "band.faq-band",
+        "band.pattern-cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.solutions-enterprise",
+      "name": "Solutions \u2014 Enterprise",
+      "routeCount": 1,
+      "routes": [
+        "/solutions/enterprise"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "band.edge-hero",
+        "band.logo-marquee",
+        "band.stats-panel",
+        "band.org-cards",
+        "band.logo-marquee",
+        "band.dark-quote",
+        "band.video-split",
+        "band.panel-tabs",
+        "band.image-grid",
+        "band.case-studies",
+        "band.faq-band",
+        "band.green-band",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.solutions-trainees",
+      "name": "Solutions \u2014 Medical Trainees",
+      "routeCount": 1,
+      "routes": [
+        "/solutions/medical-trainees"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "trainees.hero",
+        "trainees.template-showcase",
+        "band.logo-marquee",
+        "band.statement",
+        "band.feature-split",
+        "band.feature-split",
+        "band.feature-split",
+        "band.tools-panel",
+        "band.quote-carousel",
+        "band.faq-band",
+        "band.green-band",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.solutions-vertical",
+      "name": "Solutions \u2014 vertical (shared)",
+      "routeCount": 10,
+      "routes": [
+        "/solutions/primary-care",
+        "/solutions/medical-specialties",
+        "/solutions/nurses",
+        "/solutions/mental-health",
+        "/solutions/allied-health",
+        "/solutions/dentists",
+        "/solutions/aged-care",
+        "/solutions/veterinarians",
+        "/solutions/surgeons",
+        "/solutions/emergency-medicine"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "solutions.hero",
+        "solutions.specialty-strip",
+        "solutions.feature-row",
+        "solutions.feature-row",
+        "solutions.feature-row",
+        "solutions.stats-band",
+        "solutions.day-with-heidi",
+        "solutions.template-grid",
+        "solutions.template-practice",
+        "solutions.video-band",
+        "solutions.testimonials",
+        "solutions.faq",
+        "solutions.cta-band",
+        "shell.footer",
+        "shell.download-drawer"
+      ],
+      "note": "One shared React component (SolutionsPage.jsx) renders all 10 routes; the exact per-route section subset/order varies (not every vertical carries every optional band \u2014 see extraction/measured-values equivalent citations). This lists the template's full possible section set."
+    },
+    {
+      "id": "template.generic-index-cards",
+      "name": "Generic \u2014 index with cards",
+      "routeCount": 2,
+      "routes": [
+        "/blog",
+        "/progress-notes"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.cards",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-faq-minimal",
+      "name": "Generic \u2014 FAQ minimal",
+      "routeCount": 2,
+      "routes": [
+        "/templates",
+        "/resources/frequently-ask-questions"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.faq",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-cards-split",
+      "name": "Generic \u2014 cards + split",
+      "routeCount": 2,
+      "routes": [
+        "/tools",
+        "/download"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.cards",
+        "generic.split",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-integration-detail",
+      "name": "Generic \u2014 integration detail",
+      "routeCount": 2,
+      "routes": [
+        "/epic-integration",
+        "/oracle-cerner-integration"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.prose",
+        "generic.stats",
+        "generic.prose",
+        "generic.split",
+        "generic.split",
+        "generic.split",
+        "generic.split",
+        "generic.split",
+        "generic.centered",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-podcast",
+      "name": "Podcast index",
+      "routeCount": 1,
+      "routes": [
+        "/podcast"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.prose",
+        "generic.cards",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ],
+      "note": "Opens on a promoted h2, not an h1 \u2014 classifies as generic.prose rather than generic.hero."
+    },
+    {
+      "id": "template.generic-customers",
+      "name": "Customer stories index",
+      "routeCount": 1,
+      "routes": [
+        "/customers"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.prose",
+        "generic.cards",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-resource-centre",
+      "name": "Resource centre index",
+      "routeCount": 1,
+      "routes": [
+        "/resource-centre"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.centered",
+        "generic.links",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-contact",
+      "name": "Contact",
+      "routeCount": 1,
+      "routes": [
+        "/contact"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.centered",
+        "generic.centered",
+        "generic.centered",
+        "generic.centered",
+        "generic.centered",
+        "generic.centered",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-careers",
+      "name": "Careers",
+      "routeCount": 1,
+      "routes": [
+        "/careers"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.centered",
+        "generic.stats",
+        "generic.pills",
+        "generic.prose",
+        "generic.cards",
+        "generic.cards",
+        "generic.prose",
+        "generic.links",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-safety",
+      "name": "Safety & Compliance",
+      "routeCount": 1,
+      "routes": [
+        "/safety"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.centered",
+        "generic.centered",
+        "generic.cards",
+        "generic.centered",
+        "generic.centered",
+        "generic.centered",
+        "generic.centered",
+        "generic.prose",
+        "generic.faq",
+        "generic.centered",
+        "generic.centered",
+        "generic.centered",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-about-awards",
+      "name": "About us \u2014 Awards",
+      "routeCount": 1,
+      "routes": [
+        "/about-us/awards"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.centered",
+        "generic.cards",
+        "generic.cards",
+        "generic.stats",
+        "generic.prose",
+        "generic.quotes",
+        "generic.faq",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-about-media",
+      "name": "About us \u2014 Media",
+      "routeCount": 1,
+      "routes": [
+        "/about-us/media"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.stats",
+        "generic.cards",
+        "generic.cards",
+        "generic.cards",
+        "generic.cards",
+        "generic.centered",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-impact",
+      "name": "Impact",
+      "routeCount": 1,
+      "routes": [
+        "/impact"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.stats",
+        "generic.logos",
+        "generic.stats",
+        "generic.centered",
+        "generic.prose",
+        "generic.logos",
+        "generic.quotes",
+        "generic.faq",
+        "generic.split",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-partners",
+      "name": "Partners",
+      "routeCount": 1,
+      "routes": [
+        "/partners"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.centered",
+        "generic.prose",
+        "generic.centered",
+        "generic.prose",
+        "generic.faq",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-integrations",
+      "name": "Integrations index",
+      "routeCount": 1,
+      "routes": [
+        "/integrations"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.prose",
+        "generic.cards",
+        "generic.prose",
+        "generic.split",
+        "generic.faq",
+        "generic.cta",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-resources-patients",
+      "name": "Resources \u2014 Patient experience",
+      "routeCount": 1,
+      "routes": [
+        "/resources/patients"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.split",
+        "generic.centered",
+        "generic.split",
+        "generic.centered",
+        "generic.prose",
+        "generic.centered",
+        "shell.footer",
+        "shell.download-drawer"
+      ]
+    },
+    {
+      "id": "template.generic-resources-evaluation",
+      "name": "Resources \u2014 Evaluation framework",
+      "routeCount": 1,
+      "routes": [
+        "/resources/evaluation-framework"
+      ],
+      "chrome": "full",
+      "sections": [
+        "shell.announcement-bar",
+        "shell.nav",
+        "generic.hero",
+        "generic.centered",
+        "generic.prose",
+        "generic.split",
+        "generic.prose",
+        "generic.prose",
+        "generic.prose",
+        "generic.stats",
+        "generic.split",
+        "generic.prose",
+        "generic.prose",
+        "generic.split",
+        "generic.prose",
+        "generic.stats",
+        "generic.centered",
+        "generic.split",
+        "generic.centered",
+        "generic.stats",
+        "generic.centered",
+        "generic.faq",
+        "shell.footer",
+        "shell.download-drawer"
+      ],
+      "note": "By far the longest page shape (20 body sections) \u2014 a long-form evaluation article rather than a typical marketing page."
+    }
+  ]
+}

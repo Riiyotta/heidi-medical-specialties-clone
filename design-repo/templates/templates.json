@@ -1,0 +1,1338 @@
+{
+  "$description": "One entry per distinct real page shape observed across the 40 real routes in src/data/routes.js. routes[] maps every route slug 1:1 to exactly one template -- no gaps, no double-assignment (checked in extraction/verify_all.py).",
+  "templates": [
+    {
+      "id": "home",
+      "family": "hand-built",
+      "measuredFrom": "src/pages/HomePage.jsx:420-429 (HomePage() return)",
+      "routes": [
+        "home"
+      ],
+      "nodes": [
+        {
+          "section": "home.hero",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "home.logo-panel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "home.quote-band",
+          "required": true,
+          "repeatable": true,
+          "variant": "quote-1"
+        },
+        {
+          "section": "home.bento",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "home.dark-band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "home.quote-band",
+          "required": true,
+          "repeatable": true,
+          "variant": "quote-2"
+        },
+        {
+          "section": "home.cta-band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "scribe",
+      "family": "hand-built",
+      "measuredFrom": "src/pages/ScribePage.jsx (return order)",
+      "routes": [
+        "scribe"
+      ],
+      "nodes": [
+        {
+          "section": "band.product-hero",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.logo-marquee",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.tabs-split",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.practice-panel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.timeline",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.product-cards-panel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.partner-cta",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "family": "hand-built",
+      "measuredFrom": "src/pages/EvidencePage.jsx (return order)",
+      "routes": [
+        "evidence"
+      ],
+      "nodes": [
+        {
+          "section": "band.product-hero",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.ask-bar",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.logo-marquee",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.center-showcase",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.tabs-split",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.panel-feature",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.quote-block",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.product-cards-panel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.partner-cta",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "product-coding",
+      "family": "hand-built",
+      "measuredFrom": "src/pages/CodingPage.jsx (return order)",
+      "routes": [
+        "product-coding"
+      ],
+      "nodes": [
+        {
+          "section": "band.split-hero",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.statement",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.feature-split",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.icon-grid",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.icon-columns-panel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.faq-band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.pattern-cta",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "product-dictate",
+      "family": "hand-built",
+      "measuredFrom": "src/pages/DictatePage.jsx (return order)",
+      "routes": [
+        "product-dictate"
+      ],
+      "nodes": [
+        {
+          "section": "band.pill-hero",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.shot-panel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.tabs-split",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.chip-field",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.two-tone-quote",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.demo-video",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.card-trio",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.download-split",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.image-cta",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.faq-band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "family": "hand-built",
+      "measuredFrom": "src/pages/HardwarePage.jsx (return order)",
+      "routes": [
+        "hardware"
+      ],
+      "nodes": [
+        {
+          "section": "band.video-hero",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.image-trio",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.icon-card-trio",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.video-intro",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.story-quote",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.compliance-panel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.diagram-band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.faq-band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.pattern-cta",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "family": "hand-built",
+      "measuredFrom": "src/pages/PricingPage.jsx (return order)",
+      "routes": [
+        "pricing"
+      ],
+      "nodes": [
+        {
+          "section": "pricing.hero-audience",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.logo-marquee",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "pricing.tier-cards",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "pricing.compare-table",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.faq-band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.pattern-cta",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "solutions-enterprise",
+      "family": "hand-built",
+      "measuredFrom": "src/pages/EnterprisePage.jsx (return order)",
+      "routes": [
+        "solutions-enterprise"
+      ],
+      "nodes": [
+        {
+          "section": "band.edge-hero",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.logo-marquee",
+          "required": true,
+          "repeatable": true,
+          "variant": "top"
+        },
+        {
+          "section": "band.stats-panel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.org-cards",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.logo-marquee",
+          "required": true,
+          "repeatable": true,
+          "variant": "mid"
+        },
+        {
+          "section": "band.dark-quote",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.video-split",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.panel-tabs",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.image-grid",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.case-studies",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.faq-band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.green-band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "solutions-medical-trainees",
+      "family": "hand-built",
+      "measuredFrom": "src/pages/TraineesPage.jsx:33-45 (return order)",
+      "routes": [
+        "solutions-medical-trainees"
+      ],
+      "nodes": [
+        {
+          "section": "band.video-intro",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.logo-marquee",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.statement",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.feature-split",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.tools-panel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.quote-carousel",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.faq-band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "band.green-band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "solutions-shared",
+      "family": "solutions",
+      "measuredFrom": "src/pages/SolutionsPage.jsx:1-129; src/data/solutions.json",
+      "routes": [
+        "solutions-primary-care",
+        "solutions-medical-specialties",
+        "solutions-nurses",
+        "solutions-mental-health",
+        "solutions-allied-health",
+        "solutions-dentists",
+        "solutions-aged-care",
+        "solutions-veterinarians",
+        "solutions-surgeons",
+        "solutions-emergency-medicine"
+      ],
+      "nodes": [
+        {
+          "section": "solutions.hero",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "solutions.specialty-strip",
+          "required": false,
+          "repeatable": false
+        },
+        {
+          "section": "solutions.feature-row",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "solutions.stats-band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "solutions.day-with-heidi",
+          "required": false,
+          "repeatable": false
+        },
+        {
+          "section": "solutions.template-grid",
+          "required": false,
+          "repeatable": false
+        },
+        {
+          "section": "solutions.template-practice",
+          "required": false,
+          "repeatable": false
+        },
+        {
+          "section": "solutions.video-band",
+          "required": false,
+          "repeatable": false
+        },
+        {
+          "section": "solutions.testimonials",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "solutions.faq",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "solutions.cta-band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "content-index",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for blog, customers, progress-notes",
+      "routes": [
+        "blog",
+        "customers",
+        "progress-notes"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "resource-split",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for download, tools",
+      "routes": [
+        "download",
+        "tools"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "faq-simple",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for templates, resources-faq",
+      "routes": [
+        "templates",
+        "resources-faq"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "faq.list",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "integration-detail",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for epic-integration, oracle-cerner-integration",
+      "routes": [
+        "epic-integration",
+        "oracle-cerner-integration"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "stats.band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "awards-index",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for about-us-awards",
+      "routes": [
+        "about-us-awards"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "stats.band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "quotes.testimonial",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "faq.list",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "media-index",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for about-us-media",
+      "routes": [
+        "about-us-media"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "stats.band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "careers",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for careers",
+      "routes": [
+        "careers"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "stats.band",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "pills.strip",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "links.list",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for contact",
+      "routes": [
+        "contact"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "impact",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for impact",
+      "routes": [
+        "impact"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "stats.band",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "logos.strip",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "stats.band",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "logos.strip",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "quotes.testimonial",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "faq.list",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "integrations-index",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for integrations",
+      "routes": [
+        "integrations"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "faq.list",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "partners",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for partners",
+      "routes": [
+        "partners"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "faq.list",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "podcast",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for podcast",
+      "routes": [
+        "podcast"
+      ],
+      "nodes": [
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "resource-centre-index",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for resource-centre",
+      "routes": [
+        "resource-centre"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "links.list",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "evaluation-guide",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for resources-evaluation-framework",
+      "routes": [
+        "resources-evaluation-framework"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "stats.band",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "stats.band",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "stats.band",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "faq.list",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "patient-resources",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for resources-patients",
+      "routes": [
+        "resources-patients"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "split.feature",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        }
+      ]
+    },
+    {
+      "id": "safety-compliance",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for safety",
+      "routes": [
+        "safety"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "prose.block",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "faq.list",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        },
+        {
+          "section": "centered.prose",
+          "required": true,
+          "repeatable": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "stat-block",
+  "category": "component",
+  "purpose": "Single value+caption stat, composed N-up inside stats.band / solutions.stats-band.",
+  "measuredFrom": "src/components/sections/index.jsx:312-336 (Stats); src/components/solutions/index.jsx:107-138 (StatsBand)",
+  "props": { "value": { "type": "string", "maxWords": 4 }, "caption": { "type": "string", "maxWords": 12 } }
+}

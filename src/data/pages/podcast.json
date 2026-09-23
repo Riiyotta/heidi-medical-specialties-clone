@@ -1,0 +1,612 @@
+{
+ "slug": "podcast",
+ "path": "/podcast",
+ "url": "/en-gb/podcast",
+ "title": "Podcast",
+ "status": 200,
+ "meta": {
+  "title": "Podcast",
+  "desc": "Learn more about Podcast - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 962,
+   "innerH": 802,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi Podcast",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Conversations with clinicians shaping the future of healthcare",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "AI, Accountability & the Future of Doctors: Will AI Replace Doctors? | Care Beyond Barriers Ep.6 Join the leaders of Heidi as they unpack critical global healthcare issues and trends, and discuss how technological advances are shaping the future of care across the world for the better. Listen to podcast",
+     "href": "/en-gb/podcast/ai-accountability-and-the-future-of-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/dd9fe944bf8205248c4bf86e42c56a7d5112bf3f-1920x1080.jpg",
+     "alt": "Care Beyond Barriers Ep.6",
+     "w": 592,
+     "h": 333
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "AI, Accountability & the Future of Doctors: Will AI Replace Doctors? | Care Beyond Barriers Ep.6",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Join the leaders of Heidi as they unpack critical global healthcare issues and trends, and discuss how technological advances are shaping the future of care across the world for the better.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Listen to podcast",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "AI and the Reality of Healthcare Innovation With Carl Byers | Dr Tom Meets Ep.6 A series of intimate chats between Heidi co-founder Dr. Tom Kelly, Christina Farr and global leaders in the health and tech industries. Exploring how they think, decide and live with responsibility while on the cusp of rapid change. Listen to podcast",
+     "href": "/en-gb/podcast/ai-and-the-reality-of-healthcare-with-carl-byers-dr-tom-meets-ep6",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/17eb860c634e116d8433264c12fd65201139274e-1920x1080.jpg",
+     "alt": "Doctor Tom Meets Ep.6",
+     "w": 592,
+     "h": 333
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "AI and the Reality of Healthcare Innovation With Carl Byers | Dr Tom Meets Ep.6",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "A series of intimate chats between Heidi co-founder Dr. Tom Kelly, Christina Farr and global leaders in the health and tech industries. Exploring how they think, decide and live with responsibility while on the cusp of rapid change.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex w-full max-w-container-lg flex-col items-center justify-center gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(255, 255, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 2555
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 2651,
+   "innerH": 2427,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Previous episodes",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "a",
+     "t": "AI and the Reality of Healthcare Innovation With Carl Byers | Dr Tom Meets Ep.6 From the “failure of imagination” phase of AI to the reality of investor expectations, Carl Byers shares how he evaluates companies in a market where capital is no longer free and technology is increasingly commoditised. 30 June 2026 Go to episode",
+     "href": "/en-gb/podcast/ai-and-the-reality-of-healthcare-with-carl-byers-dr-tom-meets-ep6",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "From the “failure of imagination” phase of AI to the reality of investor expectations, Carl Byers shares how he evaluates companies in a market where capital is no longer free and technology is increasingly commoditised.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "30 June 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Go to episode",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI, Accountability & the Future of Doctors: Will AI Replace Doctors? | Care Beyond Barriers Ep.6 The question of whether AI will replace doctors has moved from provocation to genuine possibility. The panel examines which parts of medicine are most exposed to automation, why diagnostic specialties may shift first, and what remains irreducibly human: accountability, judgment under uncertainty, and the delivery of difficult truths. 26 May 2026 Go to episode",
+     "href": "/en-gb/podcast/ai-accountability-and-the-future-of-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "The question of whether AI will replace doctors has moved from provocation to genuine possibility. The panel examines which parts of medicine are most exposed to automation, why diagnostic specialties may shift first, and what remains irreducibly human: accountability, judgment under uncertainty, and the delivery of difficult truths.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "26 May 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "AI, Longevity & the Rise of Generative Health with Daniel Kraft | Dr Tom Meets Ep.3 Daniel Kraft frames AI as a super-convergence moment where genomics, multimodal data and intelligent agents are beginning to connect. The conversation spans longevity hype, embryo screening ethics, full-body MRI risks, and a new model of continuous, personalized, insight-driven care where clinicians are augmented to focus on judgment and human connection. 19 May 2026 Go to episode",
+     "href": "/en-gb/podcast/ai-longevity-and-the-rise-of-generative-health-with-daniel-kraft",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/8dcc0df5b6a65296dc0135a7597db64114bf40a1-1920x1080.jpg",
+     "alt": "Dr Tom Meets Ep.3",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "AI, Longevity & the Rise of Generative Health with Daniel Kraft | Dr Tom Meets Ep.3",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Daniel Kraft frames AI as a super-convergence moment where genomics, multimodal data and intelligent agents are beginning to connect. The conversation spans longevity hype, embryo screening ethics, full-body MRI risks, and a new model of continuous, personalized, insight-driven care where clinicians are augmented to focus on judgment and human connection.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "19 May 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Healthcare as Social Infrastructure: Loneliness, Prevention & the Future of Medicine | Care Beyond Barriers Ep.5 Healthcare is increasingly absorbing the fallout of social collapse, from loneliness to food insecurity. The panel examines why eight-minute consultations can't solve structural problems, how social prescribing and GLP-1s represent different bets on prevention, and whether AI companionship and neighbourhood care models can begin to carry some of the load. 12 May 2026 Go to episode",
+     "href": "/en-gb/podcast/healthcare-as-social-infrastructure",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/738f758b7210e81c54a1c8d0096c5669757f66a3-1920x1080.jpg",
+     "alt": "Care Beyond Barriers Ep.5",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Healthcare as Social Infrastructure: Loneliness, Prevention & the Future of Medicine | Care Beyond Barriers Ep.5",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Healthcare is increasingly absorbing the fallout of social collapse, from loneliness to food insecurity. The panel examines why eight-minute consultations can't solve structural problems, how social prescribing and GLP-1s represent different bets on prevention, and whether AI companionship and neighbourhood care models can begin to carry some of the load.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "12 May 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Rebuilding American Healthcare with Stephen Klasko | Dr Tom Meets Ep.2 Stephen Klasko has run one of the largest academic health systems in the US and tried to change it from the inside. He argues the American healthcare system needs structural reinvention, not incremental reform, and makes the case for a 9/11-style commission to confront its failures head-on. 5 May 2026 Go to episode",
+     "href": "/en-gb/podcast/rebuilding-american-healthcare-with-stephen-klasko",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/117f2a3702698f783c3c88eb0edff0f8fb53890d-1920x1080.jpg",
+     "alt": "Dr Tom Meets Ep.2",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Rebuilding American Healthcare with Stephen Klasko | Dr Tom Meets Ep.2",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Stephen Klasko has run one of the largest academic health systems in the US and tried to change it from the inside. He argues the American healthcare system needs structural reinvention, not incremental reform, and makes the case for a 9/11-style commission to confront its failures head-on.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "5 May 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Trust, Medical Error & the Future of Clinical Care | Care Beyond Barriers Ep.4 Trust in healthcare has fractured across patients, clinicians and institutions. The panel examines where that erosion began, how it shows up in misdiagnosis and time-poor consultations, and whether a clinician-AI partnership can help rebuild it by extending time, improving accuracy and shifting medicine toward genuine shared understanding. 28 April 2026 Go to episode",
+     "href": "/en-gb/podcast/trust-medical-error-and-the-future-of-clinical-care",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/11a19db5a5ac94550adcb8afbc5a3d3b7da029cb-1920x1080.jpg",
+     "alt": "Care Beyond Barriers Ep.4",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Trust, Medical Error & the Future of Clinical Care | Care Beyond Barriers Ep.4",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Trust in healthcare has fractured across patients, clinicians and institutions. The panel examines where that erosion began, how it shows up in misdiagnosis and time-poor consultations, and whether a clinician-AI partnership can help rebuild it by extending time, improving accuracy and shifting medicine toward genuine shared understanding.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "28 April 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "The Rise of the Clinician Founder with Rebecca Mitchell | Dr Tom Meets Ep.1 Clinicians are increasingly leaving traditional medicine to become founders and investors. Rebecca Mitchell unpacks the mindset behind this shift and why frontline clinical insight is reshaping how healthcare companies are built and funded. 21 April 2026 Go to episode",
+     "href": "/en-gb/podcast/the-rise-of-the-clinician-founder-with-rebecca-mitchell",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/7923ebbd135b2361e8068da8c28c98a04403a7e0-1920x1080.jpg",
+     "alt": "The Rise of the Clinician Founder with Rebecca Mitchell | Dr Tom Meets Ep.1",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "The Rise of the Clinician Founder with Rebecca Mitchell | Dr Tom Meets Ep.1",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Clinicians are increasingly leaving traditional medicine to become founders and investors. Rebecca Mitchell unpacks the mindset behind this shift and why frontline clinical insight is reshaping how healthcare companies are built and funded.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "21 April 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Regulation, Incentives & the Systems Driving Modern Healthcare | Care Beyond Barriers Ep.3 Regulation is losing the race to innovation. The panel examines how 20-year approval and reimbursement cycles distort what gets built, how the blurring line between wellness and medicine creates accountability gaps, and whether AI ultimately bends the cost curve or just reshapes where the waste goes. 14 April 2026 Go to episode",
+     "href": "/en-gb/podcast/regulation-incentives-the-systems-driving-modern-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/00a0548527c1b4dcd95d4d23edcc12531d89a537-1920x1080.jpg",
+     "alt": "Regulation, Incentives & the Systems Driving Modern Healthcare | Care Beyond Barriers Ep.3",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Regulation, Incentives & the Systems Driving Modern Healthcare | Care Beyond Barriers Ep.3",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Regulation is losing the race to innovation. The panel examines how 20-year approval and reimbursement cycles distort what gets built, how the blurring line between wellness and medicine creates accountability gaps, and whether AI ultimately bends the cost curve or just reshapes where the waste goes.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "14 April 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Capacity Collapse: Can AI Save Modern Medicine? | Care Beyond Barriers Ep.2 Healthcare systems are failing under capacity strain that more doctors alone can't fix. The panel examines why workforce expansion hits structural limits, and how task shifting, asynchronous care, and AI-enabled pathways could reshape access without destabilising an already fragile system. 1 April 2026 Go to episode",
+     "href": "/en-gb/podcast/capacity-collapse-can-ai-save-modern-medicine",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/9fb91f4ee8f32654196bc5348d07bb518fbafed8-1920x1080.jpg",
+     "alt": "Capacity Collapse: Can AI Save Modern Medicine? | Care Beyond Barriers Ep.2",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Capacity Collapse: Can AI Save Modern Medicine? | Care Beyond Barriers Ep.2",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Healthcare systems are failing under capacity strain that more doctors alone can't fix. The panel examines why workforce expansion hits structural limits, and how task shifting, asynchronous care, and AI-enabled pathways could reshape access without destabilising an already fragile system.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "1 April 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "The Current State of the Healthcare System | Care Beyond Barriers Ep.1 Healthcare systems globally are buckling under clinician burnout, rising chronic disease, and a widening supply gap. The panel unpacks how the doctor's role has shifted and whether AI can responsibly ease the burden without crossing ethical lines. 3 March 2026 Go to episode",
+     "href": "/en-gb/podcast/the-current-state-of-the-healthcare-system",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/7756473da94d288edd03ef63857e0f71898f73d9-1920x1080.jpg",
+     "alt": "The Current State of the Healthcare System | Care Beyond Barriers Ep.1",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "The Current State of the Healthcare System | Care Beyond Barriers Ep.1",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Healthcare systems globally are buckling under clinician burnout, rising chronic disease, and a widening supply gap. The panel unpacks how the doctor's role has shifted and whether AI can responsibly ease the burden without crossing ethical lines.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "3 March 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "AI and the Reality of Healthcare Innovation With Carl Byers | Dr Tom Meets Ep.6",
+     "href": "/en-gb/podcast/ai-and-the-reality-of-healthcare-with-carl-byers-dr-tom-meets-ep6",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI, Accountability & the Future of Doctors: Will AI Replace Doctors? | Care Beyond Barriers Ep.6",
+     "href": "/en-gb/podcast/ai-accountability-and-the-future-of-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI, Longevity & the Rise of Generative Health with Daniel Kraft | Dr Tom Meets Ep.3",
+     "href": "/en-gb/podcast/ai-longevity-and-the-rise-of-generative-health-with-daniel-kraft",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Healthcare as Social Infrastructure: Loneliness, Prevention & the Future of Medicine | Care Beyond Barriers Ep.5",
+     "href": "/en-gb/podcast/healthcare-as-social-infrastructure",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Rebuilding American Healthcare with Stephen Klasko | Dr Tom Meets Ep.2",
+     "href": "/en-gb/podcast/rebuilding-american-healthcare-with-stephen-klasko",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Trust, Medical Error & the Future of Clinical Care | Care Beyond Barriers Ep.4",
+     "href": "/en-gb/podcast/trust-medical-error-and-the-future-of-clinical-care",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The Rise of the Clinician Founder with Rebecca Mitchell | Dr Tom Meets Ep.1",
+     "href": "/en-gb/podcast/the-rise-of-the-clinician-founder-with-rebecca-mitchell",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Regulation, Incentives & the Systems Driving Modern Healthcare | Care Beyond Barriers Ep.3",
+     "href": "/en-gb/podcast/regulation-incentives-the-systems-driving-modern-healthcare",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Capacity Collapse: Can AI Save Modern Medicine? | Care Beyond Barriers Ep.2",
+     "href": "/en-gb/podcast/capacity-collapse-can-ai-save-modern-medicine",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The Current State of the Healthcare System | Care Beyond Barriers Ep.1",
+     "href": "/en-gb/podcast/the-current-state-of-the-healthcare-system",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 486
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 582,
+   "innerH": 230,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Say hello to your AI Care Partner",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Care is better with Heidi",
+     "fs": 20,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

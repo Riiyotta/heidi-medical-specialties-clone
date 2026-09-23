@@ -1,0 +1,9 @@
+{
+  "$description": "Component-scoped token overrides for buttons, grounded in src/data/buttons.json real captured button styles and src/components/bands/index.jsx Button().",
+  "measuredFrom": "src/data/buttons.json:1-22; src/components/bands/index.jsx:43-67",
+  "variants": {
+    "primary-yellow": { "background": "surface.brand", "text": "text.primary", "radius": "button", "shadow": "btn-primary", "typography": "button.pill" },
+    "dark": { "background": "surface.dark", "text": "text.oninvert", "radius": "button", "typography": "button.pill" },
+    "outline": { "background": "transparent", "text": "text.primary", "border": "border.default", "radius": "button", "typography": "button.outline" }
+  }
+}

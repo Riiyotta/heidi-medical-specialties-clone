@@ -1,0 +1,55 @@
+{
+  "id": "band.product-cards-panel",
+  "category": "content",
+  "purpose": "Panel of product feature cards (light or dark tone).",
+  "measuredFrom": "src/components/bands/index.jsx:366-400 (ProductCardsPanel)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "lead": {
+        "type": "string",
+        "maxWords": 30
+      },
+      "cards": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 6,
+        "items": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string",
+              "maxWords": 10
+            },
+            "body": {
+              "type": "string",
+              "maxWords": 30
+            }
+          },
+          "required": [
+            "title"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "title",
+      "lead",
+      "cards"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 2
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

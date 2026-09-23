@@ -1,0 +1,55 @@
+{
+  "id": "solutions.day-with-heidi",
+  "category": "content",
+  "purpose": "'A day with Heidi' step-through narrative for the vertical.",
+  "measuredFrom": "src/components/solutions/index.jsx:139-225 (DayWithHeidi)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "intro": {
+        "type": "string",
+        "maxWords": 40
+      },
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 8,
+        "items": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string",
+              "maxWords": 10
+            },
+            "body": {
+              "type": "string",
+              "maxWords": 40
+            }
+          },
+          "required": [
+            "title"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "heading",
+      "intro",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

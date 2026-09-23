@@ -1,0 +1,473 @@
+{
+ "slug": "evidence",
+ "path": "/evidence",
+ "url": "/en-gb/evidence",
+ "title": "Evidence",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Evidence | Unlimited Free Clinical Answers.",
+  "desc": "Get unlimited, citation-backed answers to your clinical questions, completely free. No login required. - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center gap-10 max-w-container-lg w-full",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 690,
+   "innerH": 530,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Evidence",
+     "fs": 24,
+     "c": "rgb(246, 236, 228)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "The right call for every patient",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi answers from your guidelines, scores, and drafts what comes next.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Look up",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    },
+    {
+     "k": "a",
+     "t": "Research",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    },
+    {
+     "k": "a",
+     "t": "Treat",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    },
+    {
+     "k": "a",
+     "t": "Explain",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    },
+    {
+     "k": "a",
+     "t": "Compare",
+     "href": null,
+     "bg": "rgb(252, 250, 248)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": "rgb(244, 231, 221)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Chat with us",
+     "href": "/en-gb/contact",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 265,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/fe563e2fc361497aaebf86fb2a3e2bd26a79187b-499x140.png",
+     "alt": "Vidal Group",
+     "w": 114,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c701bd98ed731e34f43ad758d33c6f4d17a23ed2-541x140.png",
+     "alt": "EmGuidance",
+     "w": 124,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f7130c0685715eda9dfdb80b12b94f7ff937c52c-553x140.png",
+     "alt": "MIMS",
+     "w": 126,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/8476e339a5f0ad814687dc5bcf89fbd71d3feedc-591x140.png",
+     "alt": "BMJ Group",
+     "w": 135,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d2f6cd9e8f8e9788e8d5fb4d4ae2a965ed337653-815x140.png",
+     "alt": "HealthPathways",
+     "w": 186,
+     "h": 32
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1028,
+   "innerH": 868,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Every answer, back to the source",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Open the citation behind any answer and read the source yourself. Every answer is traceable, so you can verify it before you act.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ff3449d5d276754bc7bec915c3dcdc020e87364c-2560x1146.png",
+     "alt": "Alt text",
+     "w": 1280,
+     "h": 573
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 880,
+   "innerH": 720,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "It doesn't stop at the answer",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/de48003b9313e211851c49d755d65807fb900e15-1264x1264.jpg",
+     "alt": "alt text",
+     "w": 584,
+     "h": 584
+    },
+    {
+     "k": "a",
+     "t": "Run the score, see the working Validated calculators run the score and show their working, so results stay consistent, inspectable, and ready to act on.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "CPD that logs itself",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "It drafts the documentation",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 698
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 794,
+   "innerH": 442,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Choose the sources that shape your answers",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Set which sources Heidi prioritises for you, or standardise them across your team, so everyone works from consistent guidance while keeping their own judgement.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore pricing",
+     "href": "/en-gb/pricing",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d63faeab18cf48b2a4354f5aa356259818927ec2-1226x920.jpg",
+     "alt": "alt text",
+     "w": 524,
+     "h": 420
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 430,
+   "innerH": 206,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Evidence you can see. Decisions you can trust.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "“It saves time and increases my confidence in treatment plans.”",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Dr John Duncan",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Family Practitioner, Lahinch and Burren Medical Practice",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(255, 255, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 982
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 1078,
+   "innerH": 726,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Every part of care, connected",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "From conversations to clinical questions and follow-ups, Heidi brings the full clinical day into one AI Care Partner.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/e0d59bea7cafa896f37bd2787f85db32838afb60-1248x702.png",
+     "alt": "alt image",
+     "w": 490,
+     "h": 275
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Heidi Scribe",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Capture the encounter as it happens, adapting to your specialty, setting and style to create structured notes before the patient leaves.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Scribe",
+     "href": "/en-gb/scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b862275644d533813c8d36ad855a9625a7e031cf-1280x720.jpg",
+     "alt": "alt image",
+     "w": 490,
+     "h": 275
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Heidi Remote",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Wards, theaters, rural clinics, noisy EDs. Heidi Remote is a 21-gram wearable mic, fully offline, with on-device encryption. Documentation no longer depends on a desk or a quiet room.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Remote",
+     "href": "/en-gb/hardware",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center w-full mx-auto max-w-[1920px] sm:p-8",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 780,
+   "innerH": 780,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Start practicing with a partner",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Care is better with Heidi",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

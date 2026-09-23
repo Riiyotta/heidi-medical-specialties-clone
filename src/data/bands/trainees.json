@@ -1,0 +1,2769 @@
+[
+ {
+  "i": 0,
+  "box": {
+   "w": 1440,
+   "h": 385
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 225
+  },
+  "secCls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+  "texts": [
+   {
+    "tag": "h1",
+    "t": "You are the future of care. Heidi is here to back you.",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 414,
+     "y": 80,
+     "w": 612,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Full access to the Heidi Clinician plan. Free for students and trainees in medicine, nursing and allied health.",
+    "html": "<strong>Full access to the Heidi Clinician plan. </strong>Free for students and trainees in medicine, nursing and allied health.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 340,
+     "y": 208,
+     "w": 760,
+     "h": 22
+    }
+   },
+   {
+    "tag": "strong",
+    "t": "Full access to the Heidi Clinician plan.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "700",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 340,
+     "y": 209,
+     "w": 277,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Claim your free Clinician Plan",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 599,
+     "y": 262,
+     "w": 241,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Claim your free Clinician Plan",
+    "href": "https://www.heidihealth.com/trainee/sign-up",
+    "tag": "a",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 599,
+     "y": 262,
+     "w": 241,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 1,
+  "box": {
+   "w": 1440,
+   "h": 890
+  },
+  "secBox": null,
+  "secCls": null,
+  "texts": [],
+  "links": [],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F02ee1782cd5d9b8a99386fabd126f183a04b9439-2086x1174.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "a handover note for a patient named robert p. 59m",
+    "box": {
+     "x": 128,
+     "y": 112,
+     "w": 1184,
+     "h": 666
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 794
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "1-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 794
+    },
+    "r": "36px",
+    "file": "/assets/bands/trainees/v1-0.png"
+   },
+   {
+    "id": "1-1",
+    "tag": "div",
+    "box": {
+     "x": 128,
+     "y": 112,
+     "w": 1184,
+     "h": 666
+    },
+    "r": "0px",
+    "file": "/assets/bands/trainees/v1-1.png"
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "box": {
+   "w": 1440,
+   "h": 232
+  },
+  "secBox": null,
+  "secCls": null,
+  "texts": [],
+  "links": [],
+  "imgs": [
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 1471,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 1738,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 2005,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 2272,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 2539,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 2806,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 3074,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 3341,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 3608,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 3875,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 4142,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 4410,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 4677,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 4944,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 5211,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 5478,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 5746,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 6013,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 6280,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 6547,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 6814,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 7081,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 7349,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 7616,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 7883,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 8150,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 8417,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 8685,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 8952,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 9219,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 9486,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 9753,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 10021,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 10288,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": -132,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 135,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 402,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 669,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 937,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 1204,
+     "y": 80,
+     "w": 187,
+     "h": 72
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 3,
+  "box": {
+   "w": 1440,
+   "h": 282
+  },
+  "secBox": null,
+  "secCls": null,
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "You chose medicine, not admin",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 345,
+     "y": 80,
+     "w": 749,
+     "h": 56
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 4,
+  "box": {
+   "w": 1440,
+   "h": 640
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 480
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Efficient documentation, better habits",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 218,
+     "w": 600,
+     "h": 112
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F4e8ce6317e8937cd0f1a3a48de610de9b5ad473d-1226x920.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "a soap note with subjective , objective , assessment , and plan .",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "4-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    },
+    "r": "0px",
+    "file": "/assets/bands/trainees/v4-0.png"
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "box": {
+   "w": 1440,
+   "h": 640
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 480
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "The same tool consultants trust, yours free",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 203,
+     "w": 600,
+     "h": 168
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fc3cb3b90abce3294dba4cfddb1803c659e5e4ac0-1227x920.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "a phone with a microphone and a soap note on it .",
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "5-0",
+    "tag": "div",
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    },
+    "r": "0px",
+    "file": "/assets/bands/trainees/v5-0.png"
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "box": {
+   "w": 1440,
+   "h": 640
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 480
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Make care sustainable",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 259,
+     "w": 525,
+     "h": 56
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F7daefd914519b971345f4e8f3226f4ab0bd1cea7-1229x920.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "a referral letter , patient explainer , soap , transcript , and assessments are shown in a diagram .",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "6-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 600,
+     "h": 480
+    },
+    "r": "0px",
+    "file": "/assets/bands/trainees/v6-0.png"
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "box": {
+   "w": 1440,
+   "h": 676
+  },
+  "secBox": {
+   "x": 128,
+   "y": 112,
+   "w": 1184,
+   "h": 452
+  },
+  "secCls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+  "texts": [
+   {
+    "tag": "h3",
+    "t": "Clinician tools, trainee-ready",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 383,
+     "y": 112,
+     "w": 675,
+     "h": 56
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Chart like a consultant",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 160,
+     "y": 382,
+     "w": 309,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Master hands-free documentation across wards and clinics while others are still typing.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 160,
+     "y": 427,
+     "w": 309,
+     "h": 67
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Turn every note into a lesson",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 565,
+     "y": 382,
+     "w": 309,
+     "h": 77
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Trainee templates don’t just structure notes. They highlight what experienced clinicians look for, teaching as you work.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 565,
+     "y": 465,
+     "w": 309,
+     "h": 67
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "See the whole patient picture",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 971,
+     "y": 382,
+     "w": 309,
+     "h": 77
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Pull in labs, imaging, and notes into a single view. Learn to see the whole picture, not fragments.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 971,
+     "y": 465,
+     "w": 309,
+     "h": 67
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "notebook-pen",
+    "box": {
+     "x": 160,
+     "y": 318,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "book-open-text",
+    "box": {
+     "x": 565,
+     "y": 318,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "circle-user-round",
+    "box": {
+     "x": 971,
+     "y": 318,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(185, 207, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 580
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "32px",
+    "shadow": null,
+    "box": {
+     "x": 128,
+     "y": 286,
+     "w": 373,
+     "h": 278
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "32px",
+    "shadow": null,
+    "box": {
+     "x": 533,
+     "y": 286,
+     "w": 373,
+     "h": 278
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "32px",
+    "shadow": null,
+    "box": {
+     "x": 939,
+     "y": 286,
+     "w": 373,
+     "h": 278
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "7-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 580
+    },
+    "r": "36px",
+    "file": "/assets/bands/trainees/v7-0.png"
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "box": {
+   "w": 1440,
+   "h": 821
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 661
+  },
+  "secCls": "flex flex-col gap-16 max-w-container-lg w-full",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Tomorrow’s leaders are already using Heidi",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 632,
+     "h": 112
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Read case studies",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "left",
+    "box": {
+     "x": 1167,
+     "y": 150,
+     "w": 193,
+     "h": 42
+    }
+   },
+   {
+    "tag": "h6",
+    "t": "“Allows me to get home earlier!”",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 129,
+     "y": 293,
+     "w": 327,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi found me at a time when I was feeling that noting was interfering with my desire to be fully present for clients. It truly captures the work I do with clients and allows me to get home earlier while meeting professional noting standards.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 129,
+     "y": 335,
+     "w": 486,
+     "h": 90
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Lisa Terwilliger",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 189,
+     "y": 457,
+     "w": 95,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Therapist",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 189,
+     "y": 477,
+     "w": 59,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h6",
+    "t": "“It has completely changed my workflow for the better.”",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 721,
+     "y": 293,
+     "w": 486,
+     "h": 60
+    }
+   },
+   {
+    "tag": "p",
+    "t": "I'm an audiologist and have been using Heidi for writing chart notes for about 3 weeks. I can spend more time listening to my patients without using my energy trying to write down or remember every detail as I go. I am still working on getting the perfect templates for me, but it's been a really helpful and fun addition to my workday.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 721,
+     "y": 365,
+     "w": 486,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Amanda Levy",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 781,
+     "y": 509,
+     "w": 87,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Audiologist",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 781,
+     "y": 529,
+     "w": 69,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h6",
+    "t": "“Excellent Support & Great Value!”",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1313,
+     "y": 293,
+     "w": 354,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "During a demo, I requested a template be created for use with my facility so that I could test the strength and validity of the software. Within a few minutes, the template was fully functional and performed flawlessly. Heidi Health is now my go to AI Medical Scribe software. Great product and phenomenal support!",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1313,
+     "y": 335,
+     "w": 486,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Christopher Rodriguez",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1373,
+     "y": 479,
+     "w": 144,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Family Nurse Practitioner",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1373,
+     "y": 499,
+     "w": 156,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h6",
+    "t": "“It is intuitive and does not take a huge learning curve”",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1905,
+     "y": 293,
+     "w": 486,
+     "h": 60
+    }
+   },
+   {
+    "tag": "p",
+    "t": "I'm always seeking ways to be more effective and more efficient so that my patients can get \"all of me\" during a visit. Heidi is the biggest move in this direction I have made and wholeheartedly recommend it. It is intuitive and does not take a huge learning curve. It allows me to be present and engaged and helps makes my notes better without any concern of replacing the human element. You still have to ask good questions and have solid medical knowledge and I don't feel like it steps on my toes at all.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1905,
+     "y": 365,
+     "w": 486,
+     "h": 179
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Corey Dickinson",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1965,
+     "y": 577,
+     "w": 104,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Family Nurse Practitioner",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1965,
+     "y": 596,
+     "w": 156,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h6",
+    "t": "“I cannot praise Heidi enough!”",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 2497,
+     "y": 293,
+     "w": 318,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "I have tried several transcription systems because I always wrote long notes and spent hours after work doing it. It is the best and most affordable software and a game-changing tool.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 2497,
+     "y": 335,
+     "w": 486,
+     "h": 67
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Daniela Vanousova",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 2557,
+     "y": 435,
+     "w": 122,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Dermatologist",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 2557,
+     "y": 454,
+     "w": 87,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h6",
+    "t": "“This has COMPLETELY changed my workflow.”",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 3089,
+     "y": 293,
+     "w": 486,
+     "h": 60
+    }
+   },
+   {
+    "tag": "p",
+    "t": "I do clinic notes, telephone notes, operative notes. I also use it for inpatient consultations and inpatient rounding. Custom templates change the game. UI/Ux is great. I'm in love.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 3089,
+     "y": 365,
+     "w": 486,
+     "h": 67
+    }
+   },
+   {
+    "tag": "p",
+    "t": "David Canes",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 3149,
+     "y": 465,
+     "w": 80,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Urologist",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 3149,
+     "y": 484,
+     "w": 56,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h6",
+    "t": "“I am keeping Heidi as my go to for my office clinical notes”",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 3681,
+     "y": 293,
+     "w": 486,
+     "h": 60
+    }
+   },
+   {
+    "tag": "p",
+    "t": "As a surgeon, I need products that work. The rest out there are toys.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 3681,
+     "y": 365,
+     "w": 482,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Dr. Lawrence Kosova, DPM",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 3741,
+     "y": 420,
+     "w": 172,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Podiatrist at Family Podiatry Center",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 3741,
+     "y": 439,
+     "w": 218,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h6",
+    "t": "“I am impressed by the accuracy and efficiency”",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 4273,
+     "y": 293,
+     "w": 486,
+     "h": 60
+    }
+   },
+   {
+    "tag": "p",
+    "t": "As a very busy Family Physician with plenty of notes to write, Heidi has been a Game Changer. It has literally replaced human beings by doing what they were doing at a fraction of the price and with greater precision!",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 4273,
+     "y": 365,
+     "w": 486,
+     "h": 90
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Kalaki Clarke",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 4333,
+     "y": 487,
+     "w": 83,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Family Physician",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 4333,
+     "y": 507,
+     "w": 103,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h6",
+    "t": "“This has revolutionized my practice”",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 4865,
+     "y": 293,
+     "w": 381,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Stunned at how this has revolutionized my practice. Charting is efficient, patients feel more engaged since I’m not always turning to the computer.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 4865,
+     "y": 335,
+     "w": 454,
+     "h": 67
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Menaka Pai",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 4925,
+     "y": 435,
+     "w": 74,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Hematologist",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 4925,
+     "y": 454,
+     "w": 82,
+     "h": 20
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Previous slide",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 1300,
+     "y": 725,
+     "w": 1,
+     "h": 1
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Next slide",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 1344,
+     "y": 725,
+     "w": 1,
+     "h": 1
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Read case studies",
+    "href": "/en-gb/customers",
+    "tag": "a",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 1167,
+     "y": 150,
+     "w": 193,
+     "h": 42
+    }
+   },
+   {
+    "t": "Previous slide",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": null,
+    "r": "3.35544e+07px",
+    "pad": "0px",
+    "icon": "arrow-left",
+    "iconBefore": true,
+    "box": {
+     "x": 1284,
+     "y": 709,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "t": "Next slide",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": null,
+    "r": "3.35544e+07px",
+    "pad": "0px",
+    "icon": "arrow-right",
+    "iconBefore": true,
+    "box": {
+     "x": 1328,
+     "y": 709,
+     "w": 32,
+     "h": 32
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3b14048b14c0c714682ec7bdd980a38e03924e17-192x193.png?fit=max&auto=format",
+    "alt": "Lisa Terwillinger",
+    "box": {
+     "x": 129,
+     "y": 453,
+     "w": 48,
+     "h": 48
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/84255dc1f755f5bbb0f7236c81244fdedd180da8-512x768.png?rect=0,7,480,545&fit=max&auto=format",
+    "alt": "Smiling woman with long, wavy brown-blonde hair wearing a yellow sweater against a yellow background.",
+    "box": {
+     "x": 721,
+     "y": 505,
+     "w": 48,
+     "h": 48
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/47c6b24132afaf6ef38322b5184ed1b3370d8186-320x320.jpg?fit=max&auto=format",
+    "alt": "A smiling man with a beard wearing a dark suit and white shirt.",
+    "box": {
+     "x": 1313,
+     "y": 475,
+     "w": 48,
+     "h": 48
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/2c402ff6f683196e30663e031d734084c42bc60e-270x270.jpg?fit=max&auto=format",
+    "alt": "Smiling blonde woman in a white lab coat.",
+    "box": {
+     "x": 1905,
+     "y": 572,
+     "w": 48,
+     "h": 48
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/430205d4650e649d3d903297cd9b9ed13310d163-200x267.jpg?fit=max&auto=format",
+    "alt": "Smiling woman with short blonde hair wearing a white shirt.",
+    "box": {
+     "x": 2497,
+     "y": 430,
+     "w": 48,
+     "h": 48
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a197b3426d901319935cf3a98f4563a1471f25b0-400x400.jpg?fit=max&auto=format",
+    "alt": "Article placeholder image",
+    "box": {
+     "x": 3089,
+     "y": 460,
+     "w": 48,
+     "h": 48
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/5ceae8bb8397075ba09cb3d7d5e3e86648245970-1317x1317.webp",
+    "alt": "Headshot of a smiling man with glasses, wearing a blue shirt and black blazer.",
+    "box": {
+     "x": 3681,
+     "y": 415,
+     "w": 48,
+     "h": 48
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/d0ec245e56c2cb35603e686bd064af46e64d5f49-308x300.png?fit=max&auto=format",
+    "alt": "Article placeholder image",
+    "box": {
+     "x": 4273,
+     "y": 483,
+     "w": 48,
+     "h": 48
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/eb31f8d25a2e81b23d1c14f7a0687f776b2bf919-400x400.jpg?fit=max&auto=format",
+    "alt": "Menaka Pai",
+    "box": {
+     "x": 4865,
+     "y": 430,
+     "w": 48,
+     "h": 48
+    }
+   }
+  ],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 1322,
+     "y": 160,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "arrow-left",
+    "box": {
+     "x": 1288,
+     "y": 713,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 1332,
+     "y": 713,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "36px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 92,
+     "y": 256,
+     "w": 560,
+     "h": 282
+    }
+   },
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "36px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 684,
+     "y": 256,
+     "w": 560,
+     "h": 334
+    }
+   },
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "36px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 1276,
+     "y": 256,
+     "w": 560,
+     "h": 304
+    }
+   },
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "36px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 1868,
+     "y": 256,
+     "w": 560,
+     "h": 401
+    }
+   },
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "36px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 2460,
+     "y": 256,
+     "w": 560,
+     "h": 259
+    }
+   },
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "36px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 3052,
+     "y": 256,
+     "w": 560,
+     "h": 289
+    }
+   },
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "36px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 3644,
+     "y": 256,
+     "w": 560,
+     "h": 244
+    }
+   },
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "36px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 4236,
+     "y": 256,
+     "w": 560,
+     "h": 312
+    }
+   },
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "36px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 4828,
+     "y": 256,
+     "w": 528,
+     "h": 259
+    }
+   }
+  ],
+  "visuals": []
+ },
+ {
+  "i": 9,
+  "box": {
+   "w": 1440,
+   "h": 1058
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 898
+  },
+  "secCls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "AI Scribe for Medical Trainees",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 600,
+     "h": 106
+    }
+   },
+   {
+    "tag": "span",
+    "t": "What is an AI scribe for medical trainees?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 104,
+     "w": 421,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "An AI scribe for medical trainees is a software tool that utilizes artificial intelligence to streamline and automate key tasks medical students, interns, residents, and registrars undertake when producing clinical documentation. The core purpose of an AI scribe is to automatically generate clinical notes from patient encounters. However, additional features medical trainees may benefit from include specialty-specific note templates, automated document generation (referral letters, medical reports, meeting minutes), and the ability to rapidly summarize patient history. A well-designed AI scribe for medical trainees, like Heidi, minimizes administrative burden while enhancing learning opportunities. This is achieved by providing junior doctors with gold-standard note templates, facilitating more hands-on experience by reducing documentation time, and minimizing the admin-related stress and pressure that negatively impact trainee well-being.",
+    "html": "An AI scribe for medical trainees is a software tool that utilizes artificial intelligence to streamline and automate key tasks medical students, interns, residents, and registrars undertake when producing clinical documentation. The core purpose of an AI scribe is to automatically generate <a href=\"/en-gb/blog/clinical-notes-template-with-example\">clinical notes</a> from patient encounters. However, additional features medical trainees may benefit from include specialty-specific note templates, automated document generation (<a href=\"/en-gb/blog/medical-referral-letter-template-with-examples\">referral letters</a>, <a href=\"/en-gb/blog/medical-report-template\">medical reports</a>, <a href=\"/en-gb/blog/medical-meeting-minutes-template\">meeting minutes</a>), and the ability to rapidly summarize <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/en-gb/blog/medical-history-template-with-exmaples\">patient history</a>. A well-designed AI scribe for medical trainees, like Heidi, minimizes administrative burden while enhancing learning opportunities. This is achieved by providing junior doctors with gold-standard note templates, facilitating more hands-on experience by reducing documentation time, and minimizing the admin-related stress and pressure that negatively impact trainee well-being.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 784,
+     "y": 158,
+     "w": 520,
+     "h": 314
+    }
+   },
+   {
+    "tag": "a",
+    "t": "clinical notes",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(64, 118, 72)",
+    "ta": "start",
+    "box": {
+     "x": 852,
+     "y": 249,
+     "w": 92,
+     "h": 20
+    }
+   },
+   {
+    "tag": "a",
+    "t": "referral letters",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(64, 118, 72)",
+    "ta": "start",
+    "box": {
+     "x": 1139,
+     "y": 293,
+     "w": 99,
+     "h": 20
+    }
+   },
+   {
+    "tag": "a",
+    "t": "medical reports",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(64, 118, 72)",
+    "ta": "start",
+    "box": {
+     "x": 784,
+     "y": 293,
+     "w": 518,
+     "h": 42
+    }
+   },
+   {
+    "tag": "a",
+    "t": "meeting minutes",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(64, 118, 72)",
+    "ta": "start",
+    "box": {
+     "x": 843,
+     "y": 316,
+     "w": 118,
+     "h": 20
+    }
+   },
+   {
+    "tag": "a",
+    "t": "patient history",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(64, 118, 72)",
+    "ta": "start",
+    "box": {
+     "x": 784,
+     "y": 316,
+     "w": 495,
+     "h": 42
+    }
+   },
+   {
+    "tag": "span",
+    "t": "How does Heidi work as an AI medical scribe for junior doctors?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 528,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Why is Heidi the best AI scribe for medical trainees?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 644,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "span",
+    "t": "How accurate is Heidi’s AI for trainee doctors?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 760,
+     "w": 468,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Is it easy for residents and registrars to use Heidi as an AI medical scribe?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 846,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Showing 5 of 7 questions",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 759,
+     "y": 79,
+     "w": 1,
+     "h": 1
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Show more",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 991,
+     "y": 950,
+     "w": 130,
+     "h": 32
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "What is an AI scribe for medical trainees?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 78
+    }
+   },
+   {
+    "t": "clinical notes",
+    "href": "/en-gb/blog/clinical-notes-template-with-example",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(64, 118, 72)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 852,
+     "y": 249,
+     "w": 92,
+     "h": 20
+    }
+   },
+   {
+    "t": "referral letters",
+    "href": "/en-gb/blog/medical-referral-letter-template-with-examples",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(64, 118, 72)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1139,
+     "y": 293,
+     "w": 99,
+     "h": 20
+    }
+   },
+   {
+    "t": "medical reports",
+    "href": "/en-gb/blog/medical-report-template",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(64, 118, 72)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 784,
+     "y": 293,
+     "w": 518,
+     "h": 42
+    }
+   },
+   {
+    "t": "meeting minutes",
+    "href": "/en-gb/blog/medical-meeting-minutes-template",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(64, 118, 72)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 843,
+     "y": 316,
+     "w": 118,
+     "h": 20
+    }
+   },
+   {
+    "t": "patient history",
+    "href": "/en-gb/blog/medical-history-template-with-exmaples",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(64, 118, 72)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 784,
+     "y": 316,
+     "w": 495,
+     "h": 42
+    }
+   },
+   {
+    "t": "How does Heidi work as an AI medical scribe for junior doctors?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 504,
+     "w": 600,
+     "h": 108
+    }
+   },
+   {
+    "t": "Why is Heidi the best AI scribe for medical trainees?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 620,
+     "w": 600,
+     "h": 108
+    }
+   },
+   {
+    "t": "How accurate is Heidi’s AI for trainee doctors?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 736,
+     "w": 600,
+     "h": 78
+    }
+   },
+   {
+    "t": "Is it easy for residents and registrars to use Heidi as an AI medical scribe?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 822,
+     "w": 600,
+     "h": 108
+    }
+   },
+   {
+    "t": "Show more",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": "plus",
+    "iconBefore": false,
+    "box": {
+     "x": 991,
+     "y": 950,
+     "w": 130,
+     "h": 32
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "plus",
+    "box": {
+     "x": 1089,
+     "y": 954,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 416
+    }
+   }
+  ],
+  "visuals": []
+ },
+ {
+  "i": 10,
+  "box": {
+   "w": 1440,
+   "h": 577
+  },
+  "secBox": {
+   "x": 128,
+   "y": 176,
+   "w": 1184,
+   "h": 225
+  },
+  "secCls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "We’re investing in you, so you can invest in your patients",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 176,
+     "w": 768,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Reclaim your time. Protect your energy. Grow into the doctor you set out to be.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 443,
+     "y": 304,
+     "w": 555,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Claim your free Clinician Plan",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 599,
+     "y": 358,
+     "w": 241,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Claim your free Clinician Plan",
+    "href": "https://www.heidihealth.com/trainee/sign-up",
+    "tag": "a",
+    "bg": "rgb(249, 244, 241)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 599,
+     "y": 358,
+     "w": 241,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(25, 75, 34)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 481
+    }
+   },
+   {
+    "bg": "rgb(43, 100, 51)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": -347,
+     "w": 381,
+     "h": 1272
+    }
+   },
+   {
+    "bg": "rgb(43, 100, 51)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 1011,
+     "y": -347,
+     "w": 381,
+     "h": 1272
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "10-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 481
+    },
+    "r": "36px",
+    "file": "/assets/bands/trainees/v10-0.png"
+   }
+  ]
+ }
+]

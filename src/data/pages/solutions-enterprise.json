@@ -1,0 +1,1096 @@
+{
+ "slug": "solutions-enterprise",
+ "path": "/solutions/enterprise",
+ "url": "/en-gb/solutions/enterprise",
+ "title": "Enterprise",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Enterprise - Adapts to every provider, adopted by…",
+  "desc": "Ready to reduce admin and scale clinical documentation across your organization? Heidi's AI Care Partner supports enterprise healthcare… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 452
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 452,
+   "innerH": 292,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Enterprise",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Adapts to every provider, adopted by every department",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "When AI works how providers think, transformation just happens, turning documentation burden into a capacity multiplier.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Contact sales",
+     "href": "/en-gb/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 329,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/b7bda642f08d6dd0f8543350f90b826460530e2c-534x400.png",
+     "alt": "Wilmington Health logo",
+     "w": 128,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/512777dd51455ae92ee2a9b405dcf3b312af28bc-534x400.png",
+     "alt": "Cambridge Memorial Hospital logo",
+     "w": 128,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/bddefec393779ee4f5e065fe806b339ae48dbefb-534x400.png",
+     "alt": "Jane Pauley Community Health Center logo",
+     "w": 128,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/2c1418104d6d2efefb28c4c2a6459d5f51462096-534x400.png",
+     "alt": "Sensible Care logo",
+     "w": 128,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5a1d958ff45a596e37c756f70318660e767281ac-534x400.png",
+     "alt": "Strive Health logo",
+     "w": 128,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b7ed4a3679f0fd340a34cd52fdae9956884104ef-534x400.png",
+     "alt": "New Brunswick Media Society logo",
+     "w": 128,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/4473a9348048d6ecca8f58dd9f3dca2d95cccc65-534x400.png",
+     "alt": "DMC Primary care logo",
+     "w": 128,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0b804f631af53b2c64b1bdb63f77cc8b398866b9-156x60.svg",
+     "alt": "Airrosti logo",
+     "w": 250,
+     "h": 96
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "@container flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 635,
+   "innerH": 475,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Real impact, at enterprise scale",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "See Heidi's impact across health systems already running at this scale, numbers you can bring straight into a business case.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "62.9M",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Hours",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "saved by clinicians since launch",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "61.7%",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Activation Rate (Enterprise)",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Reliable service you can count on",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "200+",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Specialties Supported",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Always here when you need us",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 800,
+   "innerH": 640,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Built for organizations like yours",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Health systems, hospitals, and large group practices, each with different structures, one platform.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Health systems",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Multi-site networks, IDNs, and public health services, one parent org over many hospitals and departments.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "One platform across every department, with shared templates, org-wide analytics and enterprise admin built in.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Hospitals",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Single-site or independent hospitals, including larger community hospitals.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Heidi earns 60-80% adoption because clinicians choose it, cutting documentation time and burnout.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Large group practices",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Multi-specialty or high-volume groups with centralised procurement and IT review.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Consistent documentation across providers, plus automated referrals, coding and prior auth.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 305,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/32c6ae37170988a19ea5a8e5b994adb730c03f38-101x44.svg",
+     "alt": "HIPAA Compliant",
+     "w": 165,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/6b45e944523e47b3ca4daf7050546436ea93b3b4-101x44.svg",
+     "alt": "SOC 2 Compliant",
+     "w": 165,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3cc92d71f0445f557837746be54706de2b32a3a1-101x44.svg",
+     "alt": "RGPD Compliant",
+     "w": 165,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d675e67018431951574b5c53738f7a99baf92ed6-101x44.svg",
+     "alt": "Cyber Essentials Certified",
+     "w": 165,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/8ce95f13cf5f41316580cc4a77d19c59e9fa2b8c-101x44.svg",
+     "alt": "APP Compliant",
+     "w": 165,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c65063ed54ba38aefbac13909aa8932eefaaaa5e-101x44.svg",
+     "alt": "NZ Info Privacy Principles",
+     "w": 165,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/7ae7ff0ada8b30ff92886ccda1bc5aab6a190b22-170x73.png",
+     "alt": "ISO 42001 Certified",
+     "w": 168,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f682bc9f7dd9d03bfb8ad0a35e15066a2183e065-172x72.png",
+     "alt": "UK Conformity Assessed",
+     "w": 172,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/bf9f0ff1a93439418fe92e904b3ce72f4881bdb4-170x73.png",
+     "alt": "27001 Certified",
+     "w": 168,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3ce1f88ccf4bd9c61ba4d763ca73f2feb75d6fe5-101x44.svg",
+     "alt": "TX-RAMP Compliant",
+     "w": 165,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/da71c01f8e757d6765cdc7a6c89f6c7c56af1e24-101x44.svg",
+     "alt": "PIPEDA Compliant",
+     "w": 165,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/44254080345c53803ffc771eb3a61d28fff0ad20-101x44.svg",
+     "alt": "NHS Compliant",
+     "w": 165,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/91bd041cf512bc193c19d62cf7c3aecc260e388c-100x44.svg",
+     "alt": "PDPA Compliant",
+     "w": 164,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/17899505c1fcac971df38648f96b872534d1a7ff-100x44.svg",
+     "alt": "PDPO Compliant",
+     "w": 180,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/01af07fa814434814772fb4003ead10454ddd59a-124x50.svg",
+     "alt": "POPIA Compliant",
+     "w": 180,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/90c31387b4b3bf7713f847b5857795f2807b42b3-124x50.svg",
+     "alt": "T.G.V Certification",
+     "w": 180,
+     "h": 72
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(40, 3, 15)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 388
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 484,
+   "innerH": 132,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "“The future of healthcare isn't about replacing doctors. It's about removing barriers that limit access to quality care.”",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 498
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 498,
+   "innerH": 338,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Health System Buyers Guide with Dr. Thomas Kelly",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "See how Heidi works across your health system, contact our sales team to get started.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 957,
+   "innerH": 733,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Built for your whole team",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Every department works differently. Heidi adapts to how your team actually works, from the ED to psychiatry, without forcing anyone to change how they practice.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f707c481056a80581b8818c41ba2081f0f571230-1800x1800.png",
+     "alt": "ask heidi",
+     "w": 536,
+     "h": 536
+    },
+    {
+     "k": "a",
+     "t": "Stop losing providers to burnout Heidi adapts to how providers actually work, they speak naturally during care, get structured clinical notes instantly, with zero cleanup after. When tools help instead of adding steps, top talent stays focused on patients, not admin tasks.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Turn documentation time into patient time",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Scale one platform across each department",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1014,
+   "innerH": 854,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Built for the reality of complex care",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/161ae5c6a474bfedf7e37105a5e90378b0b07efc-1227x921.png",
+     "alt": "a set of four icons with logos for iso 27001 , soc , gdpr , and iso 9001 .",
+     "w": 238,
+     "h": 134
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Globally certified",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f13692a523bce4da800dc2396bd929d330aa4344-1188x952.png",
+     "alt": "ask heidi",
+     "w": 238,
+     "h": 134
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Instant answers",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a173fcfda718683c8ba214dbb78a01b853acc5d9-1188x952.png",
+     "alt": "a cell phone with a microphone icon on them .",
+     "w": 238,
+     "h": 134
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Works on any device",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/45fde9787199ed8a0e4dac897f5ce418198230b9-1242x933.png",
+     "alt": "the flags of different countries are arranged in a row on a white background .",
+     "w": 238,
+     "h": 134
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Local data processing",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/9a63c9659e67be98f95e2e83bfa018f5333de3cd-1188x952.png",
+     "alt": "multilingual",
+     "w": 238,
+     "h": 134
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "110+ languages",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/dfcf0c2388b18c391018381c786b62a54b17b390-1227x921.png",
+     "alt": "a computer monitor with a password icon on it .",
+     "w": 238,
+     "h": 134
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Seamless authentication",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/e76a1d4df2848560dd57343c7080f59efd4a398f-1226x921.png",
+     "alt": "this user will have the following permissions : assistant , administrator , team settings .",
+     "w": 238,
+     "h": 134
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Centralised administration",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/cff8b8f60898ff7116465e33332b77a7fc908b6f-1200x960.png",
+     "alt": "emr integration",
+     "w": 238,
+     "h": 134
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Enterprise integrations",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Visit Trust Centre",
+     "href": "https://trust.heidihealth.com/",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 1304
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 1304,
+   "innerH": 1208,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Real teams, real results with Heidi",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Three care teams in three very different settings, from a 50-clinic primary care network to a fully virtual hospital, all seeing the same shift in how their clinicians work.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5345275c3adcb4e96b58ab26dd15976722da61d2-1920x1080.png",
+     "alt": "Beth Israel Lahey Health and Heidi",
+     "w": 336,
+     "h": 189
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Beth Israel Lahey Health",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "89% note satisfaction, 74% less after-hours admin. 6,000+ providers across 14 hospitals and 175 primary care practices in the USA",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "See full story",
+     "href": "/en-gb/blog/beth-israel-lahey-health-partners-with-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/362f0acf637d140129ea0a4f7c56d35c6946f528-1200x675.jpg",
+     "alt": "heidi and modality",
+     "w": 336,
+     "h": 189
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Modality Partnership",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "360+ GPs, largest ambient AI rollout in UK primary care. NHS's largest GP super-partnership with 53 sites, benefiting almost half a million patients nationwide.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "See full story",
+     "href": "/en-gb/blog/modality-partnership-teams-up-with-ai-medical-scribe-heidi-health-in-largest-clinical-rollout-of-ambient-ai",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/df1e15cf9751e6df54b36d9c2abdfd8e09749e6b-1920x1080.png",
+     "alt": "MaineGeneral Health and Heidi Partnership",
+     "w": 336,
+     "h": 189
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "MaineGeneral Health",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "98% adoption, 89% would recommend to a colleague. One of the largest health systems in Maine, USA",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "See full story",
+     "href": "/en-gb/mainegeneral-adoption-of-ai-scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b2c8ba4cf38461c107a424c82898ce0c159231bf-1200x675.jpg",
+     "alt": "why choose heidi scribe",
+     "w": 336,
+     "h": 189
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "My Emergency Doctor",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "77% adoption in 3 weeks, up to 2 hours saved per consult. 120+ clinician virtual hospital in Australia on the Enterprise plan.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "See full story",
+     "href": "/en-gb/customers/my-emergency-doctor",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f16599c0218f89c5540c454f080bcd38f92a86f6-1200x675.jpg",
+     "alt": "why choose heidi evidence",
+     "w": 336,
+     "h": 189
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Tamaki Health",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "70% less charting time, 91% clinician activation in the first month. New Zealand's largest independent primary healthcare group with 50+ clinics and 400+ clinicians.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "See full story",
+     "href": "/en-gb/customers/tamaki-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/6e734c51a40db1fdb7ae77bc3d7ad10bd17baad6-1920x1080.png",
+     "alt": "Beth Israel Lahey Health / BILH",
+     "w": 336,
+     "h": 189
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Indiana Health Group",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "120,000 minutes of documentation time saved in 5 months. 60-provider multi-specialty behavioral health practice in Indiana, USA",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "See full story",
+     "href": "/en-gb/customers/indiana-health-group-ihg",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 873,
+   "innerH": 713,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "FAQs about Heidi for Enterprise",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Can Heidi be used in complex healthcare organizations?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "primary care",
+     "href": "/en-gb/solutions/family-medicine-specialist",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "psychiatry",
+     "href": "/en-gb/solutions/behavioral-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "emergency medicine",
+     "href": "/en-gb/solutions/medical-specialties",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "dentistry",
+     "href": "/en-gb/solutions/dentists",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Hawse Health",
+     "href": "/en-gb/customers/hawse-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi’s personalization",
+     "href": "/en-gb/product/customisation",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "SOAP notes",
+     "href": "/en-gb/blog/soap-note-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How effective is Heidi at scaling across large clinical teams?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What measurable time savings can healthcare organizations expect from Heidi?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How is Heidi implemented in large health systems and hospital trusts?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How can we measure the benefits of adopting Heidi in our healthcare organization?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 5 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 385
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 385,
+   "innerH": 225,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Real adoption drives real transformation",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Join thousands of teams worldwide who've made Heidi part of their daily practice",
+     "fs": 16,
+     "c": "rgb(249, 244, 241)"
+    }
+   ]
+  }
+ ]
+}

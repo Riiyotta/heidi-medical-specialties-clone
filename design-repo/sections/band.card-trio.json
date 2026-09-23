@@ -1,0 +1,55 @@
+{
+  "id": "band.card-trio",
+  "category": "content",
+  "purpose": "Three-up feature card row.",
+  "measuredFrom": "src/components/bands/index.jsx:883-903 (CardTrio)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "cards": {
+        "type": "array",
+        "minItems": 3,
+        "maxItems": 3,
+        "items": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string",
+              "maxWords": 10
+            },
+            "body": {
+              "type": "string",
+              "maxWords": 25
+            }
+          },
+          "required": [
+            "title"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "title",
+      "cards"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 2
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [],
+  "responsive": {
+    "mobile": "1 column",
+    "desktop": "3 columns, fixed (>=1024px)",
+    "measuredFrom": "CLONE_SPEC.md:101-108 (breakpoint table); tokens/30-layout/grid.json"
+  }
+}

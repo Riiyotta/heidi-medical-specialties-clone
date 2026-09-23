@@ -1,0 +1,47 @@
+{
+  "id": "solutions.specialty-strip",
+  "category": "content",
+  "purpose": "'Recommended for' pill strip of related specialty chips.",
+  "measuredFrom": "src/components/solutions/index.jsx:50-78 (SpecialtyStrip)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "sub": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "label": {
+        "type": "string",
+        "maxWords": 6
+      },
+      "chips": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 10,
+        "items": {
+          "type": "string",
+          "maxWords": 4
+        }
+      }
+    },
+    "required": [
+      "heading",
+      "sub",
+      "label",
+      "chips"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

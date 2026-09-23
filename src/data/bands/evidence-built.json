@@ -1,0 +1,46 @@
+{
+ "logos": [
+  {
+   "alt": "Vidal Group",
+   "src": "/assets/bands/evidence/fe563e2fc361497aaebf86fb2a3e2bd26a79187b-499x140.png",
+   "w": 114
+  },
+  {
+   "alt": "EmGuidance",
+   "src": "/assets/bands/evidence/c701bd98ed731e34f43ad758d33c6f4d17a23ed2-541x140.png",
+   "w": 124
+  },
+  {
+   "alt": "MIMS",
+   "src": "/assets/bands/evidence/f7130c0685715eda9dfdb80b12b94f7ff937c52c-553x140.png",
+   "w": 126
+  },
+  {
+   "alt": "BMJ Group",
+   "src": "/assets/bands/evidence/8476e339a5f0ad814687dc5bcf89fbd71d3feedc-591x140.png",
+   "w": 135
+  },
+  {
+   "alt": "HealthPathways",
+   "src": "/assets/bands/evidence/d2f6cd9e8f8e9788e8d5fb4d4ae2a965ed337653-815x140.png",
+   "w": 186
+  }
+ ],
+ "tabs": [
+  {
+   "title": "Run the score, see the working",
+   "body": "Validated calculators run the score and show their working, so results stay consistent, inspectable, and ready to act on.",
+   "img": "/assets/bands/evidence/tabs-0.png"
+  },
+  {
+   "title": "CPD that logs itself",
+   "body": "Heidi tracks your evidence use for reflection and CPD automatically. No extra admin.",
+   "img": "/assets/bands/evidence/tabs-1.png"
+  },
+  {
+   "title": "It drafts the documentation",
+   "body": "Heidi turns the answer into documentation, ready to share as a patient explainer, PDF, or email. You review and approve.",
+   "img": "/assets/bands/evidence/tabs-2.png"
+  }
+ ]
+}

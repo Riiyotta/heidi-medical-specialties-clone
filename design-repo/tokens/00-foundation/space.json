@@ -1,0 +1,23 @@
+{
+  "$description": "Real spacing tokens: page gutter, container widths, section vertical rhythm, grid gaps.",
+  "measuredFrom": "tailwind.config.js:37-46; CLONE_SPEC.md:92-108",
+  "gutter": {
+    "global": { "value": "64px", "usage": "page-edge horizontal padding, desktop/tablet >=768px", "measuredFrom": "tailwind.config.js:39" },
+    "global-mobile": { "value": "20px", "usage": "page-edge horizontal padding, mobile <768px", "measuredFrom": "tailwind.config.js:40" }
+  },
+  "container": {
+    "container-xl": { "value": "1920px", "usage": "outer page max-width cap", "measuredFrom": "tailwind.config.js:37" },
+    "container-lg": { "value": "1280px", "usage": "inner content column max-width", "measuredFrom": "tailwind.config.js:38" }
+  },
+  "sectionPadding": {
+    "section-md": { "value": "80px", "usage": "standard section vertical padding (top/bottom)", "measuredFrom": "tailwind.config.js:43" },
+    "section-lg-inset-y": { "value": "176px", "usage": "closing CTA band vertical padding, desktop", "measuredFrom": "tailwind.config.js:44" },
+    "section-lg-inset-x": { "value": "128px", "usage": "closing CTA band horizontal padding, desktop", "measuredFrom": "tailwind.config.js:45" }
+  },
+  "gap": {
+    "section-md": { "value": "80px", "usage": "vertical gap between a section heading block and its content", "measuredFrom": "tailwind.config.js:47" },
+    "card-grid": { "value": "16px", "usage": "card grid gap", "measuredFrom": "CLONE_SPEC.md:100" },
+    "testimonial-card": { "value": "32px", "usage": "testimonial card-to-card gap", "measuredFrom": "CLONE_SPEC.md:100" },
+    "testimonial-track": { "value": "64px", "usage": "testimonial track outer gap", "measuredFrom": "CLONE_SPEC.md:100" }
+  }
+}

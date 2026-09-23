@@ -1,0 +1,22 @@
+{
+  "$description": "The only real theme this clone ships: a single light mode resolving every semantic token to a real foundation value. No dark-mode theme exists in the source app (no next-themes/media-query dark variant found in src/index.css or tailwind.config.js) -- this is a deliberate scope note, not an omission.",
+  "measuredFrom": "tailwind.config.js (single theme.extend block, no darkMode key); src/index.css (no @media (prefers-color-scheme: dark) rule)",
+  "id": "light",
+  "resolved": {
+    "surface.page": "#FCFAF8",
+    "surface.card": "#FFFFFF",
+    "surface.brand": "#FBF582",
+    "surface.dark": "#28030F",
+    "surface.invert": "#F9F4F1",
+    "text.primary": "#28030F",
+    "text.secondary": "#755760",
+    "text.oninvert": "#F9F4F1",
+    "border.default": "#F0DFD1",
+    "icon.accent": "#588F60",
+    "icon.accentStroke": "#407648",
+    "badge.verified": "#3C6DDD",
+    "badge.verifiedTick": "#F9F4F1",
+    "brand.forest": "#194B22",
+    "brand.forestPressed": "#0F3416"
+  }
+}

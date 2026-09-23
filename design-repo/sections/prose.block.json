@@ -1,0 +1,32 @@
+{
+  "id": "prose.block",
+  "category": "content",
+  "purpose": "Fallback long-form paragraph block for content that doesn't classify into a more specific type.",
+  "measuredFrom": "src/components/sections/index.jsx:762-793 (Prose)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "body": {
+        "type": "string",
+        "maxWords": 150
+      }
+    },
+    "required": [
+      "heading",
+      "body"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 8
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pills.strip",
+  "category": "content",
+  "purpose": "Wrapped row of short label pills (e.g. 'Recommended for' specialty tags).",
+  "measuredFrom": "src/components/sections/index.jsx:280-311 (Pills)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "items": {
+        "type": "array",
+        "minItems": 3,
+        "maxItems": 12,
+        "items": {
+          "type": "string",
+          "maxWords": 4
+        }
+      }
+    },
+    "required": [
+      "heading",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 2
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

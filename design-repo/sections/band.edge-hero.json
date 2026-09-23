@@ -1,0 +1,56 @@
+{
+  "id": "band.edge-hero",
+  "category": "hero",
+  "purpose": "Enterprise/edge-positioned hero, eyebrow+title+lead, no visual.",
+  "measuredFrom": "src/components/bands/index.jsx:1195-1221 (EdgeHero)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "eyebrow": {
+        "type": "string",
+        "maxWords": 6
+      },
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "lead": {
+        "type": "string",
+        "maxWords": 45
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "eyebrow",
+      "title",
+      "lead",
+      "cta"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "onePerPage": true,
+    "mustBeFirst": true
+  },
+  "motion": {
+    "pattern": "heroFadeIn",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

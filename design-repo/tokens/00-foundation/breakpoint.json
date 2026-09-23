@@ -1,0 +1,9 @@
+{
+  "$description": "Tailwind default breakpoints, confirmed empirically against real layout shifts on the live site.",
+  "measuredFrom": "CLONE_SPEC.md:101-108",
+  "breakpoints": [
+    { "id": "sm", "value": "640px", "note": "not load-bearing for major layout shifts", "measuredFrom": "CLONE_SPEC.md:103" },
+    { "id": "md", "value": "768px", "note": "card/testimonial grids go 1->2 columns; horizontal nav still hidden", "measuredFrom": "CLONE_SPEC.md:104" },
+    { "id": "lg", "value": "1024px", "note": "horizontal nav appears, hamburger disappears; card grids go 2->3 columns; split rows go stacked->side-by-side", "measuredFrom": "CLONE_SPEC.md:105-106" }
+  ]
+}

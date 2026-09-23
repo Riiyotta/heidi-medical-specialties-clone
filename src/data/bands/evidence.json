@@ -1,0 +1,1626 @@
+[
+ {
+  "i": 0,
+  "box": {
+   "w": 1440,
+   "h": 690
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 530
+  },
+  "secCls": "flex flex-col items-center gap-10 max-w-container-lg w-full",
+  "texts": [
+   {
+    "tag": "span",
+    "t": "Evidence",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(246, 236, 228)",
+    "ta": "center",
+    "box": {
+     "x": 637,
+     "y": 80,
+     "w": 165,
+     "h": 54
+    }
+   },
+   {
+    "tag": "h1",
+    "t": "The right call for every patient",
+    "html": "The right call for <em>every</em> patient",
+    "ff": "exposure",
+    "fs": 72,
+    "lh": "72px",
+    "ls": "-3.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 158,
+     "w": 768,
+     "h": 144
+    }
+   },
+   {
+    "tag": "em",
+    "t": "every",
+    "ff": "exposure",
+    "fs": 72,
+    "lh": "72px",
+    "ls": "-3.6px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 578,
+     "y": 223,
+     "w": 159,
+     "h": 86
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi answers from your guidelines, scores, and drafts what comes next.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 462,
+     "y": 326,
+     "w": 516,
+     "h": 22
+    }
+   },
+   {
+    "tag": "label",
+    "t": "Evidence input field",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 335,
+     "y": 387,
+     "w": 1,
+     "h": 1
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Look up",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 457,
+     "y": 478,
+     "w": 99,
+     "h": 34
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Research",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 566,
+     "y": 478,
+     "w": 107,
+     "h": 34
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Treat",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 683,
+     "y": 478,
+     "w": 80,
+     "h": 34
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Explain",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 773,
+     "y": 478,
+     "w": 93,
+     "h": 34
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Compare",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 877,
+     "y": 478,
+     "w": 106,
+     "h": 34
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 578,
+     "y": 568,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Chat with us",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "start",
+    "box": {
+     "x": 741,
+     "y": 568,
+     "w": 121,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Look up",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(252, 250, 248)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": "1px rgb(244, 231, 221)",
+    "r": "8px",
+    "pad": "6px 12px",
+    "icon": "search",
+    "iconBefore": true,
+    "box": {
+     "x": 457,
+     "y": 478,
+     "w": 99,
+     "h": 34
+    }
+   },
+   {
+    "t": "Research",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(252, 250, 248)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": "1px rgb(244, 231, 221)",
+    "r": "8px",
+    "pad": "6px 12px",
+    "icon": "stethoscope",
+    "iconBefore": true,
+    "box": {
+     "x": 566,
+     "y": 478,
+     "w": 107,
+     "h": 34
+    }
+   },
+   {
+    "t": "Treat",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(252, 250, 248)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": "1px rgb(244, 231, 221)",
+    "r": "8px",
+    "pad": "6px 12px",
+    "icon": "pill",
+    "iconBefore": true,
+    "box": {
+     "x": 683,
+     "y": 478,
+     "w": 80,
+     "h": 34
+    }
+   },
+   {
+    "t": "Explain",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(252, 250, 248)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": "1px rgb(244, 231, 221)",
+    "r": "8px",
+    "pad": "6px 12px",
+    "icon": "message-square-text",
+    "iconBefore": true,
+    "box": {
+     "x": 773,
+     "y": 478,
+     "w": 93,
+     "h": 34
+    }
+   },
+   {
+    "t": "Compare",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(252, 250, 248)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": "1px rgb(244, 231, 221)",
+    "r": "8px",
+    "pad": "6px 12px",
+    "icon": "arrow-left-right",
+    "iconBefore": true,
+    "box": {
+     "x": 877,
+     "y": 478,
+     "w": 106,
+     "h": 34
+    }
+   },
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+    "tag": "a",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 578,
+     "y": 568,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "t": "Chat with us",
+    "href": "/en-gb/contact",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 741,
+     "y": 568,
+     "w": 121,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "arrow-up",
+    "box": {
+     "x": 1067,
+     "y": 413,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "search",
+    "box": {
+     "x": 470,
+     "y": 487,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "stethoscope",
+    "box": {
+     "x": 579,
+     "y": 487,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "pill",
+    "box": {
+     "x": 696,
+     "y": 487,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "message-square-text",
+    "box": {
+     "x": 786,
+     "y": 487,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "arrow-left-right",
+    "box": {
+     "x": 890,
+     "y": 487,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": "1px rgb(218, 191, 169)",
+    "r": "16px",
+    "pad": "16px 12px 16px 16px",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0",
+    "box": {
+     "x": 336,
+     "y": 388,
+     "w": 768,
+     "h": 66
+    }
+   }
+  ],
+  "visuals": []
+ },
+ {
+  "i": 1,
+  "box": {
+   "w": 1440,
+   "h": 265
+  },
+  "secBox": null,
+  "secCls": null,
+  "texts": [],
+  "links": [],
+  "imgs": [
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/fe563e2fc361497aaebf86fb2a3e2bd26a79187b-499x140.png",
+    "alt": "Vidal Group",
+    "box": {
+     "x": 662,
+     "y": 153,
+     "w": 114,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c701bd98ed731e34f43ad758d33c6f4d17a23ed2-541x140.png",
+    "alt": "EmGuidance",
+    "box": {
+     "x": 856,
+     "y": 153,
+     "w": 124,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/f7130c0685715eda9dfdb80b12b94f7ff937c52c-553x140.png",
+    "alt": "MIMS",
+    "box": {
+     "x": 1059,
+     "y": 153,
+     "w": 126,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/8476e339a5f0ad814687dc5bcf89fbd71d3feedc-591x140.png",
+    "alt": "BMJ Group",
+    "box": {
+     "x": 1266,
+     "y": 153,
+     "w": 135,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/d2f6cd9e8f8e9788e8d5fb4d4ae2a965ed337653-815x140.png",
+    "alt": "HealthPathways",
+    "box": {
+     "x": 1481,
+     "y": 153,
+     "w": 186,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/fe563e2fc361497aaebf86fb2a3e2bd26a79187b-499x140.png",
+    "alt": "Vidal Group",
+    "box": {
+     "x": 1747,
+     "y": 153,
+     "w": 114,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c701bd98ed731e34f43ad758d33c6f4d17a23ed2-541x140.png",
+    "alt": "EmGuidance",
+    "box": {
+     "x": 1941,
+     "y": 153,
+     "w": 124,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/f7130c0685715eda9dfdb80b12b94f7ff937c52c-553x140.png",
+    "alt": "MIMS",
+    "box": {
+     "x": 2145,
+     "y": 153,
+     "w": 126,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/8476e339a5f0ad814687dc5bcf89fbd71d3feedc-591x140.png",
+    "alt": "BMJ Group",
+    "box": {
+     "x": 2351,
+     "y": 153,
+     "w": 135,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/d2f6cd9e8f8e9788e8d5fb4d4ae2a965ed337653-815x140.png",
+    "alt": "HealthPathways",
+    "box": {
+     "x": 2566,
+     "y": 153,
+     "w": 186,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/fe563e2fc361497aaebf86fb2a3e2bd26a79187b-499x140.png",
+    "alt": "Vidal Group",
+    "box": {
+     "x": 2832,
+     "y": 153,
+     "w": 114,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c701bd98ed731e34f43ad758d33c6f4d17a23ed2-541x140.png",
+    "alt": "EmGuidance",
+    "box": {
+     "x": 3026,
+     "y": 153,
+     "w": 124,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/f7130c0685715eda9dfdb80b12b94f7ff937c52c-553x140.png",
+    "alt": "MIMS",
+    "box": {
+     "x": 3230,
+     "y": 153,
+     "w": 126,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/8476e339a5f0ad814687dc5bcf89fbd71d3feedc-591x140.png",
+    "alt": "BMJ Group",
+    "box": {
+     "x": 3437,
+     "y": 153,
+     "w": 135,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/d2f6cd9e8f8e9788e8d5fb4d4ae2a965ed337653-815x140.png",
+    "alt": "HealthPathways",
+    "box": {
+     "x": 3652,
+     "y": 153,
+     "w": 186,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/fe563e2fc361497aaebf86fb2a3e2bd26a79187b-499x140.png",
+    "alt": "Vidal Group",
+    "box": {
+     "x": 3918,
+     "y": 153,
+     "w": 114,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c701bd98ed731e34f43ad758d33c6f4d17a23ed2-541x140.png",
+    "alt": "EmGuidance",
+    "box": {
+     "x": 4112,
+     "y": 153,
+     "w": 124,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/f7130c0685715eda9dfdb80b12b94f7ff937c52c-553x140.png",
+    "alt": "MIMS",
+    "box": {
+     "x": -26,
+     "y": 153,
+     "w": 126,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/8476e339a5f0ad814687dc5bcf89fbd71d3feedc-591x140.png",
+    "alt": "BMJ Group",
+    "box": {
+     "x": 180,
+     "y": 153,
+     "w": 135,
+     "h": 32
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/d2f6cd9e8f8e9788e8d5fb4d4ae2a965ed337653-815x140.png",
+    "alt": "HealthPathways",
+    "box": {
+     "x": 395,
+     "y": 153,
+     "w": 186,
+     "h": 32
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 2,
+  "box": {
+   "w": 1440,
+   "h": 1028
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 868
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col gap-section-sm",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Every answer, back to the source",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 80,
+     "w": 768,
+     "h": 112
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Open the citation behind any answer and read the source yourself. Every answer is traceable, so you can verify it before you act.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 208,
+     "w": 768,
+     "h": 45
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 655,
+     "y": 285,
+     "w": 131,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+    "tag": "a",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 655,
+     "y": 285,
+     "w": 131,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fff3449d5d276754bc7bec915c3dcdc020e87364c-2560x1146.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "Alt text",
+    "box": {
+     "x": 80,
+     "y": 375,
+     "w": 1280,
+     "h": 573
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "2-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 375,
+     "w": 1280,
+     "h": 573
+    },
+    "r": "0px",
+    "file": "/assets/bands/evidence/v2-0.png"
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "box": {
+   "w": 1440,
+   "h": 880
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 720
+  },
+  "secCls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "It doesn't stop at the answer",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 660,
+     "h": 56
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Run the score, see the working",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 242,
+     "w": 480,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Validated calculators run the score and show their working, so results stay consistent, inspectable, and ready to act on.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 276,
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "CPD that logs itself",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 387,
+     "w": 480,
+     "h": 30
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "It drafts the documentation",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 483,
+     "w": 480,
+     "h": 30
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Run the score, see the working Validated calculators run the score and show their working, so results stay consistent, inspectable, and ready to act on.",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 216,
+     "w": 584,
+     "h": 105
+    }
+   },
+   {
+    "t": "CPD that logs itself",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 361,
+     "w": 584,
+     "h": 56
+    }
+   },
+   {
+    "t": "It drafts the documentation",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "2px rgb(240, 223, 209)",
+    "r": "0px",
+    "pad": "24px 0px 0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 80,
+     "y": 457,
+     "w": 584,
+     "h": 56
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fde48003b9313e211851c49d755d65807fb900e15-1264x1264.jpg%3Ffit%3Dmax%26auto%3Dformat&w=1920&q=75",
+    "alt": "alt text",
+    "box": {
+     "x": 776,
+     "y": 216,
+     "w": 584,
+     "h": 584
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "3-0",
+    "tag": "div",
+    "box": {
+     "x": 776,
+     "y": 216,
+     "w": 584,
+     "h": 584
+    },
+    "r": "0px",
+    "file": "/assets/bands/evidence/v3-0.png"
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "box": {
+   "w": 1440,
+   "h": 794
+  },
+  "secBox": {
+   "x": 128,
+   "y": 176,
+   "w": 1184,
+   "h": 442
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Choose the sources that shape your answers",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 265,
+     "w": 552,
+     "h": 106
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Set which sources Heidi prioritises for you, or standardise them across your team, so everyone works from consistent guidance while keeping their own judgement.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 387,
+     "w": 552,
+     "h": 67
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Explore pricing",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "left",
+    "box": {
+     "x": 760,
+     "y": 486,
+     "w": 170,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Explore pricing",
+    "href": "/en-gb/pricing",
+    "tag": "a",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 486,
+     "w": 170,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fd63faeab18cf48b2a4354f5aa356259818927ec2-1226x920.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "alt text",
+    "box": {
+     "x": 128,
+     "y": 176,
+     "w": 552,
+     "h": 442
+    }
+   }
+  ],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 892,
+     "y": 496,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 698
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "4-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 698
+    },
+    "r": "36px",
+    "file": "/assets/bands/evidence/v4-0.png"
+   },
+   {
+    "id": "4-1",
+    "tag": "div",
+    "box": {
+     "x": 128,
+     "y": 176,
+     "w": 552,
+     "h": 442
+    },
+    "r": "0px",
+    "file": "/assets/bands/evidence/v4-1.png"
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "box": {
+   "w": 1440,
+   "h": 430
+  },
+  "secBox": {
+   "x": 80,
+   "y": 112,
+   "w": 1280,
+   "h": 206
+  },
+  "secCls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+  "texts": [
+   {
+    "tag": "span",
+    "t": "Evidence you can see. Decisions you can trust.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 538,
+     "y": 112,
+     "w": 363,
+     "h": 24
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "“It saves time and increases my confidence in treatment plans.”",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 208,
+     "y": 152,
+     "w": 1024,
+     "h": 106
+    }
+   },
+   {
+    "tag": "strong",
+    "t": "Dr John Duncan",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "700",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 653,
+     "y": 276,
+     "w": 133,
+     "h": 21
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Family Practitioner, Lahinch and Burren Medical Practice",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 545,
+     "y": 299,
+     "w": 350,
+     "h": 20
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 6,
+  "box": {
+   "w": 1440,
+   "h": 1078
+  },
+  "secBox": {
+   "x": 128,
+   "y": 176,
+   "w": 1184,
+   "h": 726
+  },
+  "secCls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Every part of care, connected",
+    "html": "Every part of care, <em>connected</em>",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 382,
+     "y": 176,
+     "w": 676,
+     "h": 56
+    }
+   },
+   {
+    "tag": "em",
+    "t": "connected",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 833,
+     "y": 170,
+     "w": 225,
+     "h": 67
+    }
+   },
+   {
+    "tag": "p",
+    "t": "From conversations to clinical questions and follow-ups, Heidi brings the full clinical day into one AI Care Partner.",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 336,
+     "y": 248,
+     "w": 768,
+     "h": 50
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Heidi Scribe",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 144,
+     "y": 716,
+     "w": 544,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Capture the encounter as it happens, adapting to your specialty, setting and style to create structured notes before the patient leaves.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 144,
+     "y": 761,
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Explore Scribe",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 144,
+     "y": 860,
+     "w": 136,
+     "h": 42
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Heidi Remote",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 752,
+     "y": 716,
+     "w": 544,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Wards, theaters, rural clinics, noisy EDs. Heidi Remote is a 21-gram wearable mic, fully offline, with on-device encryption. Documentation no longer depends on a desk or a quiet room.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 752,
+     "y": 761,
+     "w": 544,
+     "h": 67
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Explore Remote",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 752,
+     "y": 860,
+     "w": 145,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Explore Scribe",
+    "href": "/en-gb/scribe",
+    "tag": "a",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 144,
+     "y": 860,
+     "w": 136,
+     "h": 42
+    }
+   },
+   {
+    "t": "Explore Remote",
+    "href": "/en-gb/hardware",
+    "tag": "a",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 752,
+     "y": 860,
+     "w": 145,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fe0d59bea7cafa896f37bd2787f85db32838afb60-1248x702.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "alt image",
+    "box": {
+     "x": 144,
+     "y": 378,
+     "w": 544,
+     "h": 306
+    }
+   },
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fb862275644d533813c8d36ad855a9625a7e031cf-1280x720.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "alt image",
+    "box": {
+     "x": 752,
+     "y": 378,
+     "w": 544,
+     "h": 306
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 982
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "6-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 982
+    },
+    "r": "36px",
+    "file": "/assets/bands/evidence/v6-0.png"
+   },
+   {
+    "id": "6-1",
+    "tag": "div",
+    "box": {
+     "x": 144,
+     "y": 378,
+     "w": 544,
+     "h": 306
+    },
+    "r": "0px",
+    "file": "/assets/bands/evidence/v6-1.png"
+   },
+   {
+    "id": "6-2",
+    "tag": "div",
+    "box": {
+     "x": 752,
+     "y": 378,
+     "w": 544,
+     "h": 306
+    },
+    "r": "0px",
+    "file": "/assets/bands/evidence/v6-2.png"
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "box": {
+   "w": 1440,
+   "h": 780
+  },
+  "secBox": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 780
+  },
+  "secCls": "flex flex-col items-center w-full mx-auto max-w-[1920px] sm:p-8",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Start practicing with a partner",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 363,
+     "y": 260,
+     "w": 714,
+     "h": 56
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Care is better with Heidi",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 556,
+     "y": 340,
+     "w": 328,
+     "h": 38
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 630,
+     "y": 434,
+     "w": 180,
+     "h": 57
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://registrar.scribe.heidihealth.com/register#paymentChosen=\"EVIDENCE_TRIAL\"",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "36px",
+    "pad": "16px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 630,
+     "y": 434,
+     "w": 180,
+     "h": 57
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(251, 245, 130)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 32,
+     "y": 32,
+     "w": 1376,
+     "h": 716
+    }
+   }
+  ],
+  "visuals": []
+ }
+]

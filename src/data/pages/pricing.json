@@ -1,0 +1,857 @@
+{
+ "slug": "pricing",
+ "path": "/pricing",
+ "url": "/en-gb/pricing",
+ "title": "Pricing",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Pricing | Free, Evidence, Clinician & Enterprise Plans",
+  "desc": "Start free, then choose what fits your practice. Upgrade to combined Scribe and Evidence, select Evidence on its own, or scale across… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-14 max-w-container-lg mx-auto w-full overflow-x-clip",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 283,
+     "h": 743
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 1089,
+   "innerH": 929,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "There's a Heidi that's right for you",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "a",
+     "t": "For Individuals",
+     "href": null,
+     "bg": "rgb(40, 3, 15)",
+     "c": "rgb(249, 244, 241)",
+     "r": "8px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "For Teams and Enterprise",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "8px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "GBP (£)",
+     "href": null,
+     "bg": "rgb(255, 255, 255)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Free",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Start with the basics. Stay focused on the patient.",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "£0",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/register",
+     "bg": "rgb(249, 244, 241)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Placeholder",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Free for everyone",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Unlimited AI documentation",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Unlimited clinical evidence with citations",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Global healthcare-grade security",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "See more",
+     "href": "#pricing-table",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Scribe Plus",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Document with more control. Finish with more time.",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "£45",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "per user / month",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Prices excludes GST.",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Billed",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Yearly",
+     "href": null,
+     "bg": "rgb(40, 3, 15)",
+     "c": "rgb(249, 244, 241)",
+     "r": "6px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Monthly",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "6px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Save £180",
+     "fs": 14,
+     "c": "rgb(22, 163, 74)"
+    },
+    {
+     "k": "a",
+     "t": "Try 14 days free",
+     "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRO_TRIAL_YEARLY\"",
+     "bg": "rgb(40, 3, 15)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Talk to us",
+     "href": "https://www.heidihealth.com/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Everything in Free, plus:",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Ask Heidi to edit or create your notes",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Advanced templates",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Patient & session linking",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Most Popular",
+     "fs": 12,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Clinician",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Document clearly. Think with confidence. Leave on time.",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "£55",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Excludes applicable sale taxes.",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Try 14 days free",
+     "href": "https://scribe.heidihealth.com/register#paymentChosen=\"CLINICIAN_TRIAL_YEARLY\"",
+     "bg": "rgb(40, 3, 15)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Talk to us",
+     "href": "/en-GB/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Everything in Scribe Plus, plus:",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Premium evidence sources and journals",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Personal evidence library",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Priority support",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Practice",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Consistency across documentation and clinical standards.",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "£65",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Billed annually. Excludes applicable sale taxes.",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Try 14 days free",
+     "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRACTICE_TRIAL_YEARLY\"",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Everything in Clinician, plus:",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Full Scribe functionality with team templates",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Document and session sharing",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Guided onboarding",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Trainees get Clinician, free",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Verify your student status. Get the same tool consultants trust, yours free.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Learn more",
+     "href": "/en-GB/solutions/medical-trainees",
+     "bg": "rgb(249, 244, 241)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 293,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+     "alt": "CHCP",
+     "w": 156,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+     "alt": "modality",
+     "w": 156,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+     "alt": "NHS Dudley",
+     "w": 156,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+     "alt": "NHS Hertfordshire Teaching Hospitals",
+     "w": 156,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+     "alt": "NHS Walsall Healthcare",
+     "w": 156,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+     "alt": "NHS WWL Teaching Hospitals",
+     "w": 156,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+     "alt": "onecare",
+     "w": 156,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+     "alt": "Portman dentex",
+     "w": 156,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+     "alt": "Sue Ryder",
+     "w": 156,
+     "h": 60
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+     "alt": "Swiss Medical Network",
+     "w": 156,
+     "h": 60
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": "pricing-table",
+   "cls": "hidden lg:flex flex-col gap-4 w-full max-w-container-lg",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 2538,
+   "innerH": 2378,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Compare our plans",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Try 14 days free",
+     "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRO_TRIAL\"",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Try 14 days free",
+     "href": "https://scribe.heidihealth.com/register#paymentChosen=\"CLINICIAN_TRIAL\"",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Try 14 days free",
+     "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRACTICE_TRIAL\"",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Scribe",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "8px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Unlimited transcription",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Standard templates",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Task management",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Ask Heidi",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Limited",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "Document & session sharing",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Coding",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Session status",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Free assistant users",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Team template sharing",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Template configuration 1:1",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Evidence",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "8px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Unlimited answers",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Transparent citations",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "CPD / CME tracking",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Preferred sources & journals",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Premium evidence sources",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Team evidence guidelines",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Org-wide evidence library",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Platform",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "8px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Flexible data retention",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Set for team",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "EHR integration add-on",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Centralized billing",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Team management & controls",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Dedicated customer success",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Single sign-on (SSO)",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Service availability",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Custom terms & hosting",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 654,
+   "innerH": 494,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Questions & answers",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Everything you need to know about Heidi.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Speak to Heidi team",
+     "href": "/en-gb/contact",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Can I cancel my Heidi subscription at any time?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "reach out to our support team",
+     "href": "/en-gb/contact",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is Heidi worth it?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "When should I upgrade to the Practice plan?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Why is there a free version of Heidi forever?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 4 of 4 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 425
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 521,
+   "innerH": 169,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "The inside scoop on Heidi",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "100s of 5-star testimonials",
+     "fs": 16,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

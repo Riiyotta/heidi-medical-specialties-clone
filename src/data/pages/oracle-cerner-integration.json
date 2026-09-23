@@ -1,0 +1,458 @@
+{
+ "slug": "oracle-cerner-integration",
+ "path": "/oracle-cerner-integration",
+ "url": "/en-gb/oracle-cerner-integration",
+ "title": "Cerner",
+ "status": 200,
+ "meta": {
+  "title": "Oracle Cerner Integration",
+  "desc": "Learn more about Oracle Cerner Integration - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 1175
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 1175,
+   "innerH": 1015,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "An AI Care Partner inside Oracle Cerner",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi integrates directly with Cerner Millennium to generate clinical documentation and write it back to the patient record without leaving your EHR.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Talk to our team",
+     "href": "https://www.heidihealth.com/contact-sales?integration=oracle-cerner",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/77bde38f8e042c96bdc63b73fafae54dc6c22d21-5120x2880.png",
+     "alt": "Image of the Cerner integration into the Heidi Platform",
+     "w": 1280,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(255, 255, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 208
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 304,
+   "innerH": 80,
+   "blocks": [
+    {
+     "k": "a",
+     "t": "Contact sales",
+     "href": "/en-gb/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/273123858050498629c681b86ec016c89d3cd7d0-1200x168.png",
+     "alt": "Oracle Cerner Logo",
+     "w": 568,
+     "h": 80
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md max-w-container-lg w-full lg:grid lg:grid-cols-2",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 498,
+   "innerH": 402,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Fits directly into Cerner workflows",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi launches with patient and encounter context already in place, so clinicians can start immediately within Cerner without an additional system or login, making it easy to scale across teams and departments.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "10 hours per clinician per week",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Saved on documentation, increasing productivity and eliminating copy-paste.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "65% adoption in the first month",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Achieved across clinical teams without workflow changes, additional systems, or logins.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "200+ specialties using Heidi",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Used across inpatient, outpatient, and emergency settings, including PowerChart and FirstNet.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 758,
+   "innerH": 598,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "How Heidi integrates with Cerner",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi captures documentation during the patient visit and writes it back to Cerner as drafts mapped to the existing fields.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Embedded in the patient chart",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Launched from the chart and encounter view, with patient and visit already in context.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Structured writeback to Cerner",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Notes are written to the correct fields in Cerner and saved as drafts for review and sign-off, without overwriting existing records.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Built on Cerner’s SMART on FHIR framework",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Provides secure authentication and controlled data access, so documentation flows through Cerner’s existing security and governance controls.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Within Cerner across care settings",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Used across inpatient, outpatient, and emergency workflows across PowerChart and FirstNet.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Contact us",
+     "href": "https://www.heidihealth.com/contact-sales?integration=oracle-cerner",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/45ec150620f7f4af05c084a9e225b1019b43e94d-3000x2400.jpg",
+     "alt": "Heidi integration with Cerner Powerchart and FirstNet",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Completed during the visit",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi syncs relevant patient context and captures the consultation in real time, so notes are ready for review immediately after the encounter.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/053a838fb893db977f7123ea7ebc5ec65570312f-3000x2400.jpg",
+     "alt": "Heidi integration with PowerChart in Cerner Oracle ",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Written to the correct Cerner fields",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Documentation maps back to MPage components in Cerner for review and sign-off, without additional documentation.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ffeb232b36ab11e9ba45732195192694bd4f363d-3000x2400.jpg",
+     "alt": "Heidi integration with Cerner sectional note writeback",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Works reliably in real clinical conditions",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Captures documentation accurately in real time, even with multiple speakers, background noise, and variable connectivity.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/340eef5ef490c140c3c04c6a3acaed3d92bb9165-3000x2400.jpg",
+     "alt": "Heidi transcribing AI notes for Cerner integration",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1175,
+   "innerH": 1015,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Roll out with control across your organization",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "IT and clinical leadership can pilot, monitor usage, and scale adoption within the health systems governance processes. Deployment uses standard SMART on FHIR steps and requires IT configuration and approval.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f1e727453ecdc63fcbc1f6e73c563e63476e8499-3840x2160.jpg",
+     "alt": "A diagram of how Heidi works with integrations, a process of 1. Discovery, 2. Build, 3. Testing & Validation, 4. Pilot & Go-live, 5 Post-launch support. ",
+     "w": 1216,
+     "h": 684
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 443,
+   "innerH": 283,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "See how Heidi connects to your system",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi integrates with Cerner, Epic, and other leading EHRs, practice management systems, and clinical platforms.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "See more integrations",
+     "href": "/en-gb/integrations",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "band.ask-bar",
+  "category": "content",
+  "purpose": "Interactive search/ask input shown under a product hero.",
+  "measuredFrom": "src/components/bands/index.jsx:457-488 (AskBar)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "placeholder": {
+        "type": "string",
+        "maxWords": 20
+      }
+    },
+    "required": [
+      "placeholder"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "heroFadeIn",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

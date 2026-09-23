@@ -1,0 +1,55 @@
+{
+  "id": "band.case-studies",
+  "category": "proof",
+  "purpose": "Grid of customer case-study cards with heading/lead.",
+  "measuredFrom": "src/components/bands/index.jsx:1362-1388 (CaseStudies)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "lead": {
+        "type": "string",
+        "maxWords": 30
+      },
+      "cases": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 8,
+        "items": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string",
+              "maxWords": 10
+            },
+            "body": {
+              "type": "string",
+              "maxWords": 25
+            }
+          },
+          "required": [
+            "title"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "title",
+      "lead",
+      "cases"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

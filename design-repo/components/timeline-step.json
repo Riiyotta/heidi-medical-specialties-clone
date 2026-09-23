@@ -1,0 +1,7 @@
+{
+  "id": "timeline-step",
+  "category": "component",
+  "purpose": "Single numbered step, composed N-up inside band.timeline / solutions.day-with-heidi.",
+  "measuredFrom": "src/components/bands/index.jsx:306-365 (Timeline)",
+  "props": { "title": { "type": "string", "maxWords": 10 }, "body": { "type": "string", "maxWords": 40 } }
+}

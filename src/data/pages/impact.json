@@ -1,0 +1,912 @@
+{
+ "slug": "impact",
+ "path": "/impact",
+ "url": "/en-gb/impact",
+ "title": "Impact",
+ "status": 200,
+ "meta": {
+  "title": "AI Care Partner Impact: Real Results for Clinicians - Heidi",
+  "desc": "Measurable impact, human results. See Heidi's AI Care Partner impact on clinicians' daily work, from documentation to patient care. Try… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg max-md:[&_span.text-primary]:text-inher",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": null,
+    "image": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F5888e6b4094dab2f3912f75468d8c0c6d4847052-2048x1337.jpg%3Ffit%3Dmax%26auto%3Dformat&w=2048&q=75",
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 640
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 370,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/5888e6b4094dab2f3912f75468d8c0c6d4847052-2048x1337.jpg",
+     "alt": "Homepage banner",
+     "w": 1440,
+     "h": 640
+    },
+    {
+     "k": "p",
+     "t": "Impact",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "The impact of an AI Care Partner in healthcare",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi is more than an AI scribe. We are building the capacity for a more human healthcare system. One hour, one clinician, one patient at a time.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Book a demo",
+     "href": "/en-gb/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 756,
+   "innerH": 596,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Impact at a glance",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi has supported over 60 million clinical hours globally.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "2.7M",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "patient visits each week",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "366M",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "clinical task created",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "62.9M",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "hours supported since launch",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "8.2 hours",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "average time supported across users (weekly)",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Over 200",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "specialties supported",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "164.6 Million",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "patient interactions over all time",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 329,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+     "alt": "CHCP",
+     "w": 250,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+     "alt": "modality",
+     "w": 250,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+     "alt": "NHS Dudley",
+     "w": 250,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+     "alt": "NHS Hertfordshire Teaching Hospitals",
+     "w": 250,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+     "alt": "NHS Walsall Healthcare",
+     "w": 250,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+     "alt": "NHS WWL Teaching Hospitals",
+     "w": 250,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+     "alt": "onecare",
+     "w": 250,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+     "alt": "Portman dentex",
+     "w": 250,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+     "alt": "Sue Ryder",
+     "w": 250,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+     "alt": "Swiss Medical Network",
+     "w": 250,
+     "h": 96
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 876
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 876,
+   "innerH": 716,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Measurable impact, human results",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi expands clinical capacity worldwide, protecting clinician wellbeing, improving patient outcomes, and helping health systems deliver care that lasts.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "8.2 hours supported each week",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Time to care again Heidi gives clinicians back the time to focus on care, not clicks. By automating admin, it restores the focus and wellbeing that frontline care depends on.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "90% of patients say yes to Heidi",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Better care, felt every day When clinicians have time, patients feel it. Heidi helps every interaction become calmer, safer, and more human.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "65%+ adoption in the first month",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Scalable efficiency, built on trust When clinicians have time, patients feel it. Heidi helps every interaction become calmer, safer, and more human.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center justify-center w-full max-w-container-lg flex-col lg:grid lg:grid-cols-2 gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 498,
+   "innerH": 338,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Watch how seven hours back per week looks like",
+     "fs": 18,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "One shift, Real Impact.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "A clinician, before and after Heidi. The same shift, a different day.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 869
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 869,
+   "innerH": 709,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Across Regions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi's impact, by region",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Real-world results from Heidi's 2025 Impact Reports across Australia, the UK, and Canada.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Australia",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "59 minutes of support for every clinician, every day 23.6 million hours of support given to clinicians overall. 98% of clinicians say they'd continue using Heidi, 87% report reduced overtime, and 99% of patients accept AI-assisted care.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Cabrini Health ED · 51% of visits · 31 min of support per note",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Read the full result",
+     "href": "/en-gb/blog/impact-report",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "United Kingdom",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "9.5 million hours of support since launch. Modality Partnership's GPs cut documentation time by 51%, after-hours admin dropped 61%, and documentation-related stress fell 58%.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "West Hertfordshire NHS Trust · note time cut from 6 min to 52 sec · 95% reported reduced burnout",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Canada",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "$2.51M in clinical time given back to care 225,098+ hours of support given to the workforce across five completed pilots.Canadian clinicians lose nearly 20 million hours a year to paperwork",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "333 clinicians · 13 min of support per visit · 100% would recommend Heidi",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 329,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/32c6ae37170988a19ea5a8e5b994adb730c03f38-101x44.svg",
+     "alt": "HIPAA Compliant",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/6b45e944523e47b3ca4daf7050546436ea93b3b4-101x44.svg",
+     "alt": "SOC 2 Compliant",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3cc92d71f0445f557837746be54706de2b32a3a1-101x44.svg",
+     "alt": "RGPD Compliant",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d675e67018431951574b5c53738f7a99baf92ed6-101x44.svg",
+     "alt": "Cyber Essentials Certified",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/8ce95f13cf5f41316580cc4a77d19c59e9fa2b8c-101x44.svg",
+     "alt": "APP Compliant",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c65063ed54ba38aefbac13909aa8932eefaaaa5e-101x44.svg",
+     "alt": "NZ Info Privacy Principles",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/7ae7ff0ada8b30ff92886ccda1bc5aab6a190b22-170x73.png",
+     "alt": "ISO 42001 Certified",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f682bc9f7dd9d03bfb8ad0a35e15066a2183e065-172x72.png",
+     "alt": "UK Conformity Assessed",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/bf9f0ff1a93439418fe92e904b3ce72f4881bdb4-170x73.png",
+     "alt": "27001 Certified",
+     "w": 224,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3ce1f88ccf4bd9c61ba4d763ca73f2feb75d6fe5-101x44.svg",
+     "alt": "TX-RAMP Compliant",
+     "w": 220,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/da71c01f8e757d6765cdc7a6c89f6c7c56af1e24-101x44.svg",
+     "alt": "PIPEDA Compliant",
+     "w": 220,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/44254080345c53803ffc771eb3a61d28fff0ad20-101x44.svg",
+     "alt": "NHS Compliant",
+     "w": 220,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/91bd041cf512bc193c19d62cf7c3aecc260e388c-100x44.svg",
+     "alt": "PDPA Compliant",
+     "w": 218,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/17899505c1fcac971df38648f96b872534d1a7ff-100x44.svg",
+     "alt": "PDPO Compliant",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/01af07fa814434814772fb4003ead10454ddd59a-124x50.svg",
+     "alt": "POPIA Compliant",
+     "w": 240,
+     "h": 96
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/90c31387b4b3bf7713f847b5857795f2807b42b3-124x50.svg",
+     "alt": "T.G.V Certification",
+     "w": 240,
+     "h": 96
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-16 max-w-container-lg w-full",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 757,
+   "innerH": 597,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Clinicians who experienced the impact",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "“I don't know what I would do without Heidi”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "I am not surprised that I am a big Heidi user - it has made such a difference in my life, and for the better. I don't know what I would do without Heidi! It's a very real asset. Thank you.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/9511e110af397208cae5bf292b8da0996af79407-800x800.webp",
+     "alt": "Mercia Van Zyl",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Mercia Van Zyl",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Palliative Care Nurse at Full Circle Palliative Care Services",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“I am keeping Heidi as my go to for my office clinical notes”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "As a surgeon, I need products that work. The rest out there are toys.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5ceae8bb8397075ba09cb3d7d5e3e86648245970-1317x1317.webp",
+     "alt": "Headshot of a smiling man with glasses, wearing a blue shirt and black blazer.",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Dr. Lawrence Kosova, DPM",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Podiatrist at Family Podiatry Center",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“Heidi is the best notetaker you’ve ever had. The notes were done within 24-48 hours—usually in just a few hours. That was unheard of before.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/986feea8e5bc432c8a1522435a334a8db1f75949-525x735.jpg",
+     "alt": "Chad Ritter",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Chad Ritter",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Director of Clinical Operations & Physical Therapist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“Heidi is an AI medical scribe that acts as an AI resident to help you write notes and other administrative tasks … Overall Heidi can make my GI business go smoother, faster, and most importantly, more efficiently.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Benjamin Schmidt, MD",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "“It really has been a huge help”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Heidi has saved my practice so much time in terms of me no longer needing to dictate and the staff not needing to type, which has further saved them from carpal tunnel syndrome! It is easy to use and helpful in generating referral or feedback letters and reports, which we then just need to edit. It really has been a huge help.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/110dffdc9a5fb95be09bcaad78542d97fd1abfa3-200x200.png",
+     "alt": "Dr Sanjay Ranchod, Specialist Maxillofacial and Oral Surgeon",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Dr Sanjay Ranchod",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Specialist Maxillofacial and Oral Surgeon at Maxillofacial & Oral Surgeon | Cape Town",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Previous slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Next slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 723
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 723,
+   "innerH": 563,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Questions clinicians ask",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Can an AI scribe make mistakes?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Yes, and every clinician using one should expect it. AI scribes can misinterpret what was said, add findings that were never stated, or occasionally miss context from a busy or noisy visit. With Heidi, that is why every note waits for you before it goes anywhere. You read it, change what needs changing, and sign off. The AI drafts. The call is always yours.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Do I need to tell my patients that Heidi is transcribing the visit?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Will an AI scribe replace the clinician?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What happens to the audio after Heidi transcribes the visit?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 4 of 4 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "oklab(0 0 0 / 0.2)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 504
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 600,
+   "innerH": 171,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/265f1ad543fb0fce20a211fa00ec6df362238f2f-600x480.jpg",
+     "alt": "blurred field background image",
+     "w": 1344,
+     "h": 504
+    },
+    {
+     "k": "p",
+     "t": "Your turn",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "See the impact for yourself",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  }
+ ]
+}

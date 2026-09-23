@@ -1,0 +1,19 @@
+{
+  "$description": "Curated view of what an AI generator may reference -- semantic token ids only, never raw hex/px values. This is not the whole token system, just the referenceable surface.",
+  "referenceable": {
+    "color": [
+      "surface.page", "surface.card", "surface.brand", "surface.dark", "surface.invert",
+      "text.primary", "text.secondary", "text.oninvert", "border.default",
+      "icon.accent", "icon.accentStroke", "badge.verified", "badge.verifiedTick",
+      "brand.forest", "brand.forestPressed", "skeleton.fillLight", "skeleton.fillMid", "skeleton.fillDark"
+    ],
+    "typography": [
+      "heading.hero", "heading.section", "heading.sectionLarge", "heading.card", "heading.faqQuestion",
+      "heading.quote", "body.default", "nav.link", "nav.small", "button.outline", "button.pill",
+      "meta.caption", "card.title", "card.author"
+    ],
+    "motion": ["hover.colorSwap", "hover.elevate", "reveal.fadeIn", "reveal.staggerChild", "carousel.translate"],
+    "space": ["gutter.global", "gutter.global-mobile", "container.container-xl", "container.container-lg", "sectionPadding.section-md", "sectionPadding.section-lg-inset-y", "sectionPadding.section-lg-inset-x"],
+    "radius": ["radii.full", "radii.card", "radii.testimonial", "radii.button", "radii.drawer-tab"]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "icon",
+  "category": "primitive",
+  "purpose": "lucide-react line icon, 16-32px, stroke-width 2.",
+  "measuredFrom": "CLONE_SPEC.md:127-134 (icon inventory)",
+  "props": { "name": { "type": "string" }, "size": { "type": "string", "enum": ["nav-mega-menu", "nav-search", "hamburger"] } }
+}

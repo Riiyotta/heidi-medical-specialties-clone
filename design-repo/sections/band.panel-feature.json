@@ -1,0 +1,77 @@
+{
+  "id": "band.panel-feature",
+  "category": "feature",
+  "purpose": "Single feature panel, title+body+cta+visual, reversible layout.",
+  "measuredFrom": "src/components/bands/index.jsx:489-511 (PanelFeature)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "body": {
+        "type": "string",
+        "maxWords": 45
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "visual": {
+        "type": "object",
+        "properties": {
+          "assetRole": {
+            "const": "illustrative-photo"
+          },
+          "alt": {
+            "type": "string",
+            "maxWords": 20
+          }
+        },
+        "required": [
+          "assetRole",
+          "alt"
+        ],
+        "additionalProperties": false
+      },
+      "reverse": {
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "title",
+      "body",
+      "cta",
+      "visual",
+      "reverse"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 6
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [],
+  "responsive": {
+    "mobile": "stacked",
+    "desktop": "side-by-side (>=1024px), reversible",
+    "measuredFrom": "CLONE_SPEC.md:101-108 (breakpoint table); tokens/30-layout/grid.json"
+  }
+}

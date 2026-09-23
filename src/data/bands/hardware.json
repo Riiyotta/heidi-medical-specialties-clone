@@ -1,0 +1,1899 @@
+[
+ {
+  "i": 0,
+  "box": {
+   "w": 1440,
+   "h": 810
+  },
+  "secBox": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 810
+  },
+  "secCls": "relative flex flex-col gap-6 lg:gap-0 mx-auto lg:aspect-video max-w-[1920px] overflow-hidden px-global xl:px-global-inset py-section-md",
+  "texts": [
+   {
+    "tag": "h1",
+    "t": "Capture every session. On the go.",
+    "html": "Capture every <br>session. <em>On the go.</em>",
+    "ff": "exposure",
+    "fs": 72,
+    "lh": "72px",
+    "ls": "-3.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "right",
+    "box": {
+     "x": 781,
+     "y": 261,
+     "w": 531,
+     "h": 144
+    }
+   },
+   {
+    "tag": "em",
+    "t": "On the go.",
+    "ff": "exposure",
+    "fs": 72,
+    "lh": "72px",
+    "ls": "-3.6px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "right",
+    "box": {
+     "x": 1032,
+     "y": 326,
+     "w": 280,
+     "h": 86
+    }
+   },
+   {
+    "tag": "p",
+    "t": "The first clip-on AI mic built for clinical documentation. Works hands-free and offline, when pulling out your phone isn't an option.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "right",
+    "box": {
+     "x": 781,
+     "y": 429,
+     "w": 531,
+     "h": 45
+    }
+   },
+   {
+    "tag": "p",
+    "t": "£209",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "right",
+    "box": {
+     "x": 1012,
+     "y": 516,
+     "w": 38,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "£156.75",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "right",
+    "box": {
+     "x": 1078,
+     "y": 516,
+     "w": 56,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Remote",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "right",
+    "box": {
+     "x": 1166,
+     "y": 506,
+     "w": 146,
+     "h": 42
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Skip",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 16,
+     "y": 758,
+     "w": 81,
+     "h": 36
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Remote",
+    "href": "/en-gb/store/remote",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 1166,
+     "y": 506,
+     "w": 146,
+     "h": 42
+    }
+   },
+   {
+    "t": "Skip",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(251, 245, 130)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "8px 16px",
+    "icon": "skip-forward",
+    "iconBefore": false,
+    "box": {
+     "x": 16,
+     "y": 758,
+     "w": 81,
+     "h": 36
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 1274,
+     "y": 516,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "skip-forward",
+    "box": {
+     "x": 65,
+     "y": 768,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 1,
+  "box": {
+   "w": 1440,
+   "h": 846
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 686
+  },
+  "secCls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Clip on. Then care.",
+    "html": "Clip on. Then <em>care.</em>",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 499,
+     "y": 80,
+     "w": 443,
+     "h": 56
+    }
+   },
+   {
+    "tag": "em",
+    "t": "care.",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 834,
+     "y": 74,
+     "w": 107,
+     "h": 67
+    }
+   },
+   {
+    "tag": "p",
+    "t": "The clip-on mic that lets you stay present with patients and catch up on notes later.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 426,
+     "y": 152,
+     "w": 587,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Remote",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 647,
+     "y": 206,
+     "w": 146,
+     "h": 42
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Captures every visit, every time",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 96,
+     "y": 641,
+     "w": 373,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Exam room, hallway, home visits and more. Remote captures every consult, wherever care happens. No more adjusting your workflow solely with your phone.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 96,
+     "y": 677,
+     "w": 373,
+     "h": 90
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Works all day, online and offline",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 533,
+     "y": 641,
+     "w": 373,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Pair once. Clip on. Press to start. Remote removes phone dependency, battery anxiety and setup friction, so you can stay present with your patient",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 533,
+     "y": 677,
+     "w": 373,
+     "h": 67
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Built to last your entire shift",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 971,
+     "y": 641,
+     "w": 373,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Wi-Fi drops. Phones lock. Batteries flat. Remote works online and offline, all day long, from morning ward rounds to the last consult of the day.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 971,
+     "y": 677,
+     "w": 373,
+     "h": 67
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Remote",
+    "href": "/en-gb/store/remote",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 647,
+     "y": 206,
+     "w": 146,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F15027bc4de39d065f05de3baf23d1a3a51a53f4c-811x608.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "Heidi remote held by a doctor",
+    "box": {
+     "x": 96,
+     "y": 329,
+     "w": 373,
+     "h": 280
+    }
+   },
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Ffc3550bb7b120545ff6146f45d59099cfb0aed6b-811x608.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "Heidi remote held by a doctor",
+    "box": {
+     "x": 533,
+     "y": 329,
+     "w": 373,
+     "h": 280
+    }
+   },
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fd18dded9d8ee7b25c9552ccbf57de68e0474b001-811x608.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "alt": "Heidi remote held by a doctor",
+    "box": {
+     "x": 971,
+     "y": 329,
+     "w": 373,
+     "h": 280
+    }
+   }
+  ],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 755,
+     "y": 217,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "1-0",
+    "tag": "div",
+    "box": {
+     "x": 96,
+     "y": 329,
+     "w": 373,
+     "h": 280
+    },
+    "r": "0px",
+    "file": "/assets/bands/hardware/v1-0.png"
+   },
+   {
+    "id": "1-1",
+    "tag": "div",
+    "box": {
+     "x": 533,
+     "y": 329,
+     "w": 373,
+     "h": 280
+    },
+    "r": "0px",
+    "file": "/assets/bands/hardware/v1-1.png"
+   },
+   {
+    "id": "1-2",
+    "tag": "div",
+    "box": {
+     "x": 971,
+     "y": 329,
+     "w": 373,
+     "h": 280
+    },
+    "r": "0px",
+    "file": "/assets/bands/hardware/v1-2.png"
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "box": {
+   "w": 1440,
+   "h": 666
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 506
+  },
+  "secCls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Remote is built for the way you work",
+    "html": "Remote is built for\n<em>the way you work</em>",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 502,
+     "y": 80,
+     "w": 435,
+     "h": 112
+    }
+   },
+   {
+    "tag": "em",
+    "t": "the way you work",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 529,
+     "y": 130,
+     "w": 383,
+     "h": 67
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Remote",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 647,
+     "y": 224,
+     "w": 146,
+     "h": 42
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Hospital Care",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 112,
+     "y": 442,
+     "w": 341,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "For surgeons, ED and ward-round teams. Clipped on at the start of rounds, stays on through all patients.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 112,
+     "y": 487,
+     "w": 341,
+     "h": 67
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Allied Health",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 549,
+     "y": 442,
+     "w": 341,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "For allied health specialists on-the-move. Hears every voice, in any room, capturing every conversation.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 549,
+     "y": 487,
+     "w": 341,
+     "h": 67
+    }
+   },
+   {
+    "tag": "h3",
+    "t": "Rural & Aged Care",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 987,
+     "y": 442,
+     "w": 341,
+     "h": 38
+    }
+   },
+   {
+    "tag": "p",
+    "t": "For clinicians on long shifts and home visits. All-day on a lanyard. Captures every visit, even when WiFi can’t.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 987,
+     "y": 487,
+     "w": 341,
+     "h": 67
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Remote",
+    "href": "/en-gb/store/remote",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 647,
+     "y": 224,
+     "w": 146,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 755,
+     "y": 234,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "hospital",
+    "box": {
+     "x": 112,
+     "y": 378,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "speech",
+    "box": {
+     "x": 549,
+     "y": 378,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "heart-handshake",
+    "box": {
+     "x": 987,
+     "y": 378,
+     "w": 48,
+     "h": 48
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "32px",
+    "shadow": null,
+    "box": {
+     "x": 80,
+     "y": 346,
+     "w": 405,
+     "h": 240
+    }
+   },
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "32px",
+    "shadow": null,
+    "box": {
+     "x": 517,
+     "y": 346,
+     "w": 405,
+     "h": 240
+    }
+   },
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "32px",
+    "shadow": null,
+    "box": {
+     "x": 955,
+     "y": 346,
+     "w": 405,
+     "h": 240
+    }
+   }
+  ],
+  "visuals": []
+ },
+ {
+  "i": 3,
+  "box": {
+   "w": 1440,
+   "h": 1074
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 914
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col gap-section-md",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "See Remote in action",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 506,
+     "y": 80,
+     "w": 428,
+     "h": 53
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Watch Dr. Ben Condon, Clinical Director and practising Emergency Doctor use Remote through a shift.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 527,
+     "y": 149,
+     "w": 386,
+     "h": 45
+    }
+   }
+  ],
+  "links": [],
+  "imgs": [],
+  "icons": [],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "3-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 274,
+     "w": 1280,
+     "h": 720
+    },
+    "r": "0px",
+    "file": "/assets/bands/hardware/v3-0.png"
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "box": {
+   "w": 1440,
+   "h": 534
+  },
+  "secBox": {
+   "x": 80,
+   "y": 112,
+   "w": 1280,
+   "h": 310
+  },
+  "secCls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+  "texts": [
+   {
+    "tag": "span",
+    "t": "Customer Story",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 659,
+     "y": 112,
+     "w": 122,
+     "h": 24
+    }
+   },
+   {
+    "tag": "em",
+    "t": "“Heidi Remote travels with me: to the patient's room, or to the table where we have important conversations with family. I can now just rely on Remote and not my phone.”",
+    "ff": "exposure",
+    "fs": 40,
+    "lh": "44px",
+    "ls": "-2px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 278,
+     "y": 150,
+     "w": 884,
+     "h": 136
+    }
+   },
+   {
+    "tag": "strong",
+    "t": "Dr Paul Hacker",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "700",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 659,
+     "y": 302,
+     "w": 122,
+     "h": 21
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Community Palliative Care Physician, Ottawa",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 561,
+     "y": 325,
+     "w": 317,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Learn More",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 663,
+     "y": 380,
+     "w": 115,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Learn More",
+    "href": "/en-gb/customers/how-heidi-remote-moves-with-dr-paul-hacker",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 663,
+     "y": 380,
+     "w": 115,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 0,
+     "y": 0,
+     "w": 1440,
+     "h": 534
+    }
+   }
+  ],
+  "visuals": []
+ },
+ {
+  "i": 5,
+  "box": {
+   "w": 1440,
+   "h": 715
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 555
+  },
+  "secCls": "flex flex-col gap-12 bg-accent p-6 md:p-9 rounded-3xl w-full max-w-container-lg",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Your duty of care, built in.",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 116,
+     "y": 116,
+     "w": 524,
+     "h": 53
+    }
+   },
+   {
+    "tag": "span",
+    "t": "View Our Privacy Policy",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "start",
+    "box": {
+     "x": 1091,
+     "y": 116,
+     "w": 233,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "View Our Privacy Policy",
+    "href": "/en-gb/legal/privacy-policy",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 1091,
+     "y": 116,
+     "w": 233,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [
+   {
+    "src": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2Fbf9f0ff1a93439418fe92e904b3ce72f4881bdb4-170x73.png&w=3840&q=75",
+    "alt": "27001 Certified",
+    "box": {
+     "x": 116,
+     "y": 539,
+     "w": 124,
+     "h": 70
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3cc92d71f0445f557837746be54706de2b32a3a1-101x44.svg",
+    "alt": "RGPD Compliant",
+    "box": {
+     "x": 271,
+     "y": 539,
+     "w": 124,
+     "h": 70
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/32c6ae37170988a19ea5a8e5b994adb730c03f38-101x44.svg",
+    "alt": "HIPAA Compliant",
+    "box": {
+     "x": 426,
+     "y": 539,
+     "w": 124,
+     "h": 70
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/da71c01f8e757d6765cdc7a6c89f6c7c56af1e24-101x44.svg",
+    "alt": "PIPEDA Compliant",
+    "box": {
+     "x": 581,
+     "y": 539,
+     "w": 124,
+     "h": 70
+    }
+   }
+  ],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 1286,
+     "y": 126,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "36px",
+    "shadow": null,
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 1280,
+     "h": 555
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "5-0",
+    "tag": "div",
+    "box": {
+     "x": 116,
+     "y": 193,
+     "w": 560,
+     "h": 308
+    },
+    "r": "0px",
+    "file": "/assets/bands/hardware/v5-0.png"
+   },
+   {
+    "id": "5-1",
+    "tag": "div",
+    "box": {
+     "x": 1091,
+     "y": 116,
+     "w": 233,
+     "h": 385
+    },
+    "r": "0px",
+    "file": "/assets/bands/hardware/v5-1.png"
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "box": {
+   "w": 1440,
+   "h": 1116
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 956
+  },
+  "secCls": "flex items-center w-full max-w-container-lg flex-col gap-section-sm",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Portable. Secured. Reliable.",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 447,
+     "y": 80,
+     "w": 547,
+     "h": 53
+    }
+   },
+   {
+    "tag": "p",
+    "t": "A purpose-built mic that records offline, syncs automatically and fits the way you already use Heidi.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 507,
+     "y": 149,
+     "w": 426,
+     "h": 45
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Remote",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 647,
+     "y": 226,
+     "w": 146,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Remote",
+    "href": "/en-gb/store/remote",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 647,
+     "y": 226,
+     "w": 146,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 755,
+     "y": 236,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [],
+  "visuals": [
+   {
+    "id": "6-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 316,
+     "w": 1280,
+     "h": 720
+    },
+    "r": "0px",
+    "file": "/assets/bands/hardware/v6-0.png"
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "box": {
+   "w": 1440,
+   "h": 893
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 733
+  },
+  "secCls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "FAQs",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 113,
+     "h": 53
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Everything you need to know about Heidi Remote",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 149,
+     "w": 351,
+     "h": 22
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Download Quickstart Guide",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 80,
+     "y": 203,
+     "w": 259,
+     "h": 42
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Download User Manual",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 351,
+     "y": 203,
+     "w": 230,
+     "h": 42
+    }
+   },
+   {
+    "tag": "span",
+    "t": "How does Heidi Remote protect my data?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 104,
+     "w": 427,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Heidi Remote is designed with privacy at its core. It only records when actively initiated by the User, and a visible LED indicates when recording is in progress, ensuring transparency for all parties. All audio is encrypted at rest on Heidi Remote and is automatically deleted once synchronised to the Heidi platform. Heidi Remote connects only to the User's paired device via an encrypted wireless connection. Users are responsible for obtaining all required recording consents under applicable law in their jurisdiction.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 784,
+     "y": 158,
+     "w": 520,
+     "h": 179
+    }
+   },
+   {
+    "tag": "span",
+    "t": "What is Heidi Remote compatible with?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 393,
+     "w": 405,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "What happens if my Heidi Remote is lost or stolen?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 479,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "span",
+    "t": "What if my battery runs out mid-session?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 595,
+     "w": 422,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "What happens if I move away from my phone or my internet drops out mid-consult?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 681,
+     "w": 504,
+     "h": 60
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Showing 5 of 9 questions",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 759,
+     "y": 79,
+     "w": 1,
+     "h": 1
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Show more",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 991,
+     "y": 785,
+     "w": 130,
+     "h": 32
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Download Quickstart Guide",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "download",
+    "iconBefore": false,
+    "box": {
+     "x": 80,
+     "y": 203,
+     "w": 259,
+     "h": 42
+    }
+   },
+   {
+    "t": "Download User Manual",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "download",
+    "iconBefore": false,
+    "box": {
+     "x": 351,
+     "y": 203,
+     "w": 230,
+     "h": 42
+    }
+   },
+   {
+    "t": "How does Heidi Remote protect my data?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 78
+    }
+   },
+   {
+    "t": "What is Heidi Remote compatible with?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 369,
+     "w": 600,
+     "h": 78
+    }
+   },
+   {
+    "t": "What happens if my Heidi Remote is lost or stolen?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 455,
+     "w": 600,
+     "h": 108
+    }
+   },
+   {
+    "t": "What if my battery runs out mid-session?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 571,
+     "w": 600,
+     "h": 78
+    }
+   },
+   {
+    "t": "What happens if I move away from my phone or my internet drops out mid-consult?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 657,
+     "w": 600,
+     "h": 108
+    }
+   },
+   {
+    "t": "Show more",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": "plus",
+    "iconBefore": false,
+    "box": {
+     "x": 991,
+     "y": 785,
+     "w": 130,
+     "h": 32
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "download",
+    "box": {
+     "x": 301,
+     "y": 213,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "download",
+    "box": {
+     "x": 543,
+     "y": 213,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "plus",
+    "box": {
+     "x": 1089,
+     "y": 789,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 281
+    }
+   }
+  ],
+  "visuals": []
+ },
+ {
+  "i": 8,
+  "box": {
+   "w": 1440,
+   "h": 640
+  },
+  "secBox": {
+   "x": 128,
+   "y": 227,
+   "w": 1184,
+   "h": 186
+  },
+  "secCls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Moves with you through every session",
+    "html": "Moves with you<br><em>through every session</em>",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 485,
+     "y": 227,
+     "w": 470,
+     "h": 112
+    }
+   },
+   {
+    "tag": "em",
+    "t": "through every session",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 485,
+     "y": 277,
+     "w": 470,
+     "h": 67
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Remote",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 647,
+     "y": 371,
+     "w": 146,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Remote",
+    "href": "/en-gb/store/remote",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 647,
+     "y": 371,
+     "w": 146,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 755,
+     "y": 381,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 544
+    }
+   },
+   {
+    "bg": "rgb(246, 236, 228)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": -316,
+     "w": 381,
+     "h": 1272
+    }
+   },
+   {
+    "bg": "rgb(246, 236, 228)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 1011,
+     "y": -316,
+     "w": 381,
+     "h": 1272
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "8-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 544
+    },
+    "r": "36px",
+    "file": "/assets/bands/hardware/v8-0.png"
+   }
+  ]
+ }
+]

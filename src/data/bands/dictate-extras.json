@@ -1,0 +1,19 @@
+{
+ "tabs": [
+  {
+   "label": "Skip the setup, start dictating",
+   "body": "No voice profile, no warmup, no setup you'll later feel locked in by. Ready from your first visit, in 90+ languages.",
+   "img": "/assets/bands/dictate/tabs-0.png"
+  },
+  {
+   "label": "You don't need to speak perfectly",
+   "body": "Nobody should have to say the word \"comma\" out loud. Speak the way you'd speak to a colleague and Heidi punctuates, formats and cleans it up as you go.",
+   "img": "/assets/bands/dictate/tabs-1.png"
+  },
+  {
+   "label": "It gets better while you use it",
+   "body": "Teach it a drug name once and it sticks. Same for your abbreviations, your shorthand, the colleagues you refer to. Right every time after that.",
+   "img": "/assets/bands/dictate/tabs-2.png"
+  }
+ ]
+}

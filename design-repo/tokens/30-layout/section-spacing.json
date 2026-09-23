@@ -1,0 +1,6 @@
+{
+  "$description": "Section-level vertical rhythm tokens.",
+  "measuredFrom": "tailwind.config.js:43-47",
+  "standard": { "paddingY": "section-md", "gap": "gap.section-md" },
+  "closingCta": { "paddingY": "section-lg-inset-y", "paddingX": "section-lg-inset-x" }
+}

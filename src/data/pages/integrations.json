@@ -1,0 +1,998 @@
+{
+ "slug": "integrations",
+ "path": "/integrations",
+ "url": "/en-gb/integrations",
+ "title": "Integrations",
+ "status": 200,
+ "meta": {
+  "title": "Heidi, right where you work | Heidi Integrations",
+  "desc": "Heidi connects with your patient record, bringing real-time documentation into the tools you already use. Seamless support, right in the… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(185, 207, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 391
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 391,
+   "innerH": 231,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Integrations",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Heidi, right where you work",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi connects with your patient record, bringing real-time documentation into the tools you already use. Seamless support, right in the flow of care.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Contact us",
+     "href": "/en-gb/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(255, 255, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 689
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 785,
+   "innerH": 625,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Featured Integrations",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/8693aac6f9d141dae3a3292879ca6a12d51f69af-1920x1080.jpg",
+     "alt": "alt image",
+     "w": 544,
+     "h": 306
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Epic",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "AI-powered ambient documentation, structured writeback, and clinical task automation for Epic across Hyperspace, Hyperdrive, and Haiku.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "View details",
+     "href": "/en-gb/epic-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5e886950a02671562b63620bbf99911571e3af43-1920x1080.jpg",
+     "alt": "alt image",
+     "w": 544,
+     "h": 306
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Oracle Cerner",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi integrates directly with Oracle Cerner to capture consultations, generate structured notes, and write documentation back to MPage components across PowerChart and FirstNet.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "View details",
+     "href": "/en-gb/oracle-cerner-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 2635,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Find yours",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "a",
+     "t": "All",
+     "href": null,
+     "bg": "rgb(40, 3, 15)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "United Kingdom",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "12px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "ANZ",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "United States",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Canada",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Germany",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Singapore",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Altera Use Integration Launch Heidi from inside Altera with the patient already in context, then write the finished note back to the chart for review and sign-off.",
+     "href": "/en-gb/integrations/altera",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/images-dklyyclw.jpeg",
+     "alt": "Altera logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Altera",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Use Integration",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Launch Heidi from inside Altera with the patient already in context, then write the finished note back to the chart for review and sign-off.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "CareStack Use Integration Capture AI-powered notes in CareStack with Heidi, then insert them directly into your letters or patient records – all within your existing workflow.",
+     "href": "/en-gb/integrations/carestack",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/emr-circle-logos-4-lqs7rbt7.png",
+     "alt": "CareStack logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "CareStack",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Capture AI-powered notes in CareStack with Heidi, then insert them directly into your letters or patient records – all within your existing workflow.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Cliniko Use Integration Seamlessly sync your schedule and push AI-generated notes straight into Cliniko using Heidi's integration.",
+     "href": "/en-gb/integrations/cliniko",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/cliniko-8gyxb16y.svg",
+     "alt": "Cliniko logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Cliniko",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Seamlessly sync your schedule and push AI-generated notes straight into Cliniko using Heidi's integration.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "EMIS Use Integration Connect Heidi to EMIS to sync your patient schedule, map customised note sections to EMIS sections, and push completed documentation, clinical codes, and observations from Heidi to EMIS in one click.",
+     "href": "/en-gb/integrations/emis",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/emishealth_logo-3rv0avw9-e9vz1lyi.jpeg",
+     "alt": "EMIS logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "EMIS",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Connect Heidi to EMIS to sync your patient schedule, map customised note sections to EMIS sections, and push completed documentation, clinical codes, and observations from Heidi to EMIS in one click.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Halaxy Use Integration Heidi Health seamlessly integrates in your Halaxy clinical notes to automatically transcribe your clinical note content and other documentation.",
+     "href": "/en-gb/integrations/halaxy",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3dc9gj3r_400x400-btk3bzsc.jpg",
+     "alt": "Halaxy logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Halaxy",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi Health seamlessly integrates in your Halaxy clinical notes to automatically transcribe your clinical note content and other documentation.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Medicus Use Integration Use Heidi inside Medicus to write the note during the visit, then file it to the patient record in one click.",
+     "href": "/en-gb/integrations/medicus",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/medicushealth_logo-iihs1hxx.jpeg",
+     "alt": "Medicus logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Medicus",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Use Heidi inside Medicus to write the note during the visit, then file it to the patient record in one click.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "MediOffice Use Integration Use Heidi directly inside MediOffice to record consultations, generate clinical notes, and insert them into patient records — all within your existing workflow.",
+     "href": "/en-gb/integrations/medioffice",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/logo_medioffice-new_v07_ff_210-9pyqazg3.webp",
+     "alt": "MediOffice logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "MediOffice",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Use Heidi directly inside MediOffice to record consultations, generate clinical notes, and insert them into patient records — all within your existing workflow.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "MidexPRO Use Integration Use Heidi inside MidexPRO to document consultations in real time and eliminate after-hours admin",
+     "href": "/en-gb/integrations/midexpro",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/frame-2147236874-qodob9a6.png",
+     "alt": "MidexPRO logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "MidexPRO",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Use Heidi inside MidexPRO to document consultations in real time and eliminate after-hours admin",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Nookal Use Integration Heidi integrates seamlessly with Nookal, letting you push AI-generated clinical notes directly into your client’s file with one click.",
+     "href": "/en-gb/integrations/nookal",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/logo-rmbku9cf.jpeg",
+     "alt": "Nookal logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Nookal",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi integrates seamlessly with Nookal, letting you push AI-generated clinical notes directly into your client’s file with one click.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Salesforce Use Integration Connect Heidi to a Salesforce clinical record. Heidi transcribes the visit, builds the note, and writes documentation back to the patient record mapped to your own data model.",
+     "href": "/en-gb/integrations/salesforce",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/salesforce-icon-eiup7121.webp",
+     "alt": "Salesforce logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Salesforce",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Connect Heidi to a Salesforce clinical record. Heidi transcribes the visit, builds the note, and writes documentation back to the patient record mapped to your own data model.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Semble Use Integration Heidi integrates directly into your Semble clinical notes, allowing you to record consults, generate high-quality notes, and insert them into your letters — all within your existing workflow.",
+     "href": "/en-gb/integrations/semble",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/jnpvwlor19dqqpgojtn-op4dqvf-74-26dhvk49.png",
+     "alt": "Semble logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Semble",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi integrates directly into your Semble clinical notes, allowing you to record consults, generate high-quality notes, and insert them into your letters — all within your existing workflow.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "TM3 Use Integration Use Heidi inside TM3 to write assessment, progress and discharge notes while the appointment is still happening.",
+     "href": "/en-gb/integrations/tm3",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/tm3-rgb-1-zge1eo8j.png",
+     "alt": "TM3 logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "TM3",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Use Heidi inside TM3 to write assessment, progress and discharge notes while the appointment is still happening.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "WriteUpp Use Integration Heidi’ AI technology integrates with WriteUpp, so clinicians can create high-quality notes in real time. That means fewer clicks, less admin, and more time to focus on patient care.",
+     "href": "/en-gb/integrations/writeupp",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/image-compressor-34-jq849zum.png",
+     "alt": "WriteUpp logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "WriteUpp",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi’ AI technology integrates with WriteUpp, so clinicians can create high-quality notes in real time. That means fewer clicks, less admin, and more time to focus on patient care.",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 625
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 721,
+   "innerH": 369,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Built for real clinical workflows.",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Strengthen your record",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi builds on the platforms you trust. Clinicians keep their workflow. IT stays in charge. Care moves faster without disruption.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Anywhere care happens",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi integrates with every major EMR, including Epic, Best Practice, and Gentu. Wherever clinicians work best, Heidi is there too.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Fits your day",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Choose the integration that works for you. Embed Heidi inside your record for live documentation, or connect it to your EMR to sync notes instantly.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 570
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 666,
+   "innerH": 442,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Build with Heidi.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Integrate Heidi into your platform for full control, seamless workflows, and an exceptional documentation experience.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Partner with us",
+     "href": "/en-gb/partners",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/57b1352277c84aa90d7c7e5565275e7910c359ec-2101x1576.png",
+     "alt": "Illustration of data streams merging into the Heidi logo, connected to a monitor displaying a web browser with a security shield and checkmark.",
+     "w": 524,
+     "h": 420
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 968,
+   "innerH": 808,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "FAQs",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Most common questions about Heidi Integrations",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Which EMR/EHR systems does Heidi integrate with?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Athenahealth",
+     "href": "/en-gb/blog/athenahealth-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Gentu",
+     "href": "/en-gb/blog/gentu-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "MedicalDirector",
+     "href": "/en-gb/blog/medicaldirector-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "MediRecords",
+     "href": "/en-gb/blog/medirecords-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Best Practice Software",
+     "href": "/en-gb/blog/best-practice-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Halaxy",
+     "href": "/en-gb/blog/halaxy-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Semble",
+     "href": "/en-gb/blog/semble-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Cliniko",
+     "href": "/en-gb/blog/cliniko-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Nookal",
+     "href": "/en-gb/blog/nookal-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "CareStack",
+     "href": "/en-gb/blog/carestack-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "PracticeQ",
+     "href": "/en-gb/blog/practiceq-integration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "ambient documentation",
+     "href": "/en-gb/blog/ambient-ai",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What are the two main types of integrations Heidi offers?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Are Heidi’s integrations secure?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Can I see how Heidi works when integrated with EMR/EHR systems?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Do I need IT support to integrate with Heidi?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 6 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Show more",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(251, 245, 130)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 504
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 600,
+   "innerH": 191,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Where you work, Heidi works.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi connects to your record, your systems, and your care. Documentation becomes effortless, everywhere care happens.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  }
+ ]
+}

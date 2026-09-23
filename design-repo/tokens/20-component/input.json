@@ -1,0 +1,7 @@
+{
+  "$description": "Component-scoped overrides for the Ask-bar / search-pill input pattern.",
+  "measuredFrom": "src/components/bands/index.jsx:457-488 (AskBar)",
+  "variants": {
+    "ask-bar": { "background": "surface.page", "text": "text.secondary", "radius": "full", "typography": "nav.small" }
+  }
+}

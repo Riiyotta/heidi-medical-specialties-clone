@@ -1,0 +1,1851 @@
+{
+ "pricing": [
+  {
+   "q": "Can I cancel my Heidi subscription at any time?",
+   "a": [
+    "Yes, you can cancel your Heidi subscription at any time. If you decide to cancel, you will retain access to the features of your current plan until the end of the current billing cycle. If you're on an annual plan, you won't be charged for the following year after cancellation. For further assistance or any details regarding cancellations, feel free to reach out to our support team."
+   ],
+   "links": [
+    {
+     "t": "reach out to our support team",
+     "href": "/en-gb/contact"
+    }
+   ]
+  },
+  {
+   "q": "Is Heidi worth it?",
+   "a": [
+    "If you’re looking to save time on documentation and streamline your clinical workflows, Heidi could be a great investment. Customers around the world report increased satisfaction, reduced stress, and better work-life balance after adopting Heidi. We're a team of clinicians genuinely trying to change clinicians' lives. With a strong commitment to data security and patient safety, Heidi helps ensure you can stay aligned with industry standards. Currently supporting over 1.5 million consultations every week, Heidi quietly works in the background so you can focus more on patients and less on paperwork. Whether you're part of a solo practice or a large healthcare system, Heidi is here to free up your time, have more billable hours, and supercharge your patient care."
+   ],
+   "links": [
+    {
+     "t": "Customers around the world",
+     "href": "/en-gb/customers"
+    },
+    {
+     "t": "data security and patient safety",
+     "href": "/en-gb/safety"
+    }
+   ]
+  },
+  {
+   "q": "When should I upgrade to the Practice plan?",
+   "a": [
+    "Consider the Practice plan if your team requires collaboration tools to work seamlessly with each other. This plan is ideal for teams that need to share templates, have multiple users accessing content, or require session sharing features, such as enabling an admin to produce secondary documents from a doctor’s notes. It also benefits solo practitioners using integration partners for their patient records such as MedicalDirector, Athenahealth, Semble, Halaxy, and more. With team multi-factor authentication (MFA), template creation services, and priority customer support, the Practice plan is designed to streamline workflows and enhance collaboration for both teams and individual users with advanced needs."
+   ],
+   "links": [
+    {
+     "t": "share templates",
+     "href": "/support/en/articles/9587992-managing-templates-in-your-team"
+    },
+    {
+     "t": "enabling an admin",
+     "href": "/support/en/articles/10382257-user-roles"
+    },
+    {
+     "t": "MedicalDirector",
+     "href": "/en-gb/blog/medicaldirector-integration"
+    },
+    {
+     "t": "Athenahealth",
+     "href": "/en-gb/blog/athenahealth-integration"
+    },
+    {
+     "t": "Semble",
+     "href": "/en-gb/blog/semble-integration"
+    },
+    {
+     "t": "Halaxy",
+     "href": "/en-gb/blog/halaxy-integration"
+    }
+   ]
+  },
+  {
+   "q": "Why is there a free version of Heidi forever?",
+   "a": [
+    "Heidi offers a free plan to ensure accessibility for healthcare professionals. It gives clinicians time to experience the value of Heidi in real workflows, and helps us learn from feedback so we can keep improving. Ultimately, the free plan supports broader access to time-saving tools, while giving clinicians a clear path to upgrade when they need more advanced features."
+   ],
+   "links": []
+  }
+ ],
+ "hardware": [
+  {
+   "q": "How does Heidi Remote protect my data?",
+   "a": [
+    "Heidi Remote is designed with privacy at its core. It only records when actively initiated by the User, and a visible LED indicates when recording is in progress, ensuring transparency for all parties. All audio is encrypted at rest on Heidi Remote and is automatically deleted once synchronised to the Heidi platform. Heidi Remote connects only to the User's paired device via an encrypted wireless connection. Users are responsible for obtaining all required recording consents under applicable law in their jurisdiction."
+   ],
+   "links": []
+  },
+  {
+   "q": "What is Heidi Remote compatible with?",
+   "a": [
+    "Heidi Remote currently pairs with the Heidi iOS mobile app (from v3.0.0), Android (v3.3.0) and Desktop App (v2.0.0). Once connected, Remote transcriptions are automatically synced into Scribe sessions. Remote is not currently compatible with web application of Heidi (e.g. when accessing Heidi through your web browser)."
+   ],
+   "links": []
+  },
+  {
+   "q": "What happens if my Heidi Remote is lost or stolen?",
+   "a": [
+    "Your transcriptions are encrypted at rest and in transit. If your device is lost or stolen, transcriptions cannot be accessed by someone else. Contact Support via online chat or email support@heidihealth.com for help."
+   ],
+   "links": [
+    {
+     "t": "support@heidihealth.com",
+     "href": "/en-gb/mailto:support@heidihealth.com"
+    }
+   ]
+  },
+  {
+   "q": "What if my battery runs out mid-session?",
+   "a": [
+    "Your transcriptions are safe. Sessions remain saved on the device and will sync once you recharge and reconnect."
+   ],
+   "links": []
+  },
+  {
+   "q": "What happens if I move away from my phone or my internet drops out mid-consult?",
+   "a": [
+    "No problem — we’ve got you covered! Heidi Remote is designed to perform in high-mobility roles and poor connectivity environments. If you go out of range or lose internet connection, Heidi Remote switches to offline mode and keeps recording. When you reconnect, it syncs automatically."
+   ],
+   "links": []
+  },
+  {
+   "q": "Can multiple people share one Heidi Remote?",
+   "a": [
+    "Heidi Remote is designed for one user at a time. To share it, the device must be fully unpaired from the current account and then re-paired to a new one. Though you must be aware that unpairing permanently deletes any recordings stored on the device that have not synced yet."
+   ],
+   "links": []
+  },
+  {
+   "q": "Does Heidi Remote keep recordings forever?",
+   "a": [
+    "No. Audio is stored on-device temporarily and is automatically deleted once synchronised to the Heidi platform."
+   ],
+   "links": []
+  },
+  {
+   "q": "How long does the battery last, and how do I charge it?",
+   "a": [
+    "Heidi Remote supports around 12–14 hours of continuous transcribing. Charge via USB-C, which is also included when you receive your Heidi Remote."
+   ],
+   "links": []
+  },
+  {
+   "q": "What is included in the box?",
+   "a": [
+    "Your Heidi Remote comes with the device, a magnetic clip, a USB-C charging cable, a detachable lanyard, quick start guide and printed setup documentation."
+   ],
+   "links": []
+  }
+ ],
+ "product-dictate": [
+  {
+   "q": "What is Heidi Dictate?",
+   "a": [
+    "Heidi Dictate is a voice dictation tool built into the Heidi desktop app. Press a key, speak, release. Your words land wherever your cursor is: your EHR, a referral letter, Outlook, any application on your computer. Clinical vocabulary built in more than 90 languages, no training required."
+   ],
+   "links": []
+  },
+  {
+   "q": "Does Dictate work on Mac and Windows?",
+   "a": [
+    "Yes. Heidi Dictate works on both Mac and Windows via the Heidi desktop app."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is Heidi Dictate the same as the other dictation features in Heidi?",
+   "a": [
+    "No. Scribe listens to your visit and generates your clinical note. Dictate is cursor dictation, it puts your voice to work anywhere on your computer, in any app, any time. The two work together as part of the same platform."
+   ],
+   "links": []
+  },
+  {
+   "q": "How is Heidi Dictate different from other dictation tools?",
+   "a": [
+    "Most general dictation tools were not built for medicine. Heidi Dictate comes with medical vocabulary built in across 90+ languages, no voice training required. And because Dictate is part of Heidi, it works alongside Scribe — pulling in your recent patients and their medications automatically, so the right spellings are there before you start. One platform, no extra setup, built for how clinicians actually work."
+   ],
+   "links": []
+  },
+  {
+   "q": "How many languages does Dictate support?",
+   "a": [
+    "Dictate works in 90+ languages with medical vocabulary built in. No setup needed — just speak naturally from your first session."
+   ],
+   "links": []
+  },
+  {
+   "q": "I already use Heidi Scribe. Do I need to do anything else to access Dictate?",
+   "a": [
+    "Just install the Heidi desktop app, make sure it's open and you're logged in. That's it! Dictate is ready to go."
+   ],
+   "links": []
+  },
+  {
+   "q": "Do I need to set anything up to get started with Heidi Dictate?",
+   "a": [
+    "No. Dictate works from the moment you install the desktop app. No voice training, no configuration required.",
+    "That said, if you want to make Heidi Dictate your own, there are a range of customization options available. You can set a custom hotkey, choose the tone Heidi uses per app, add custom snippets (which sync across Scribe and Dictate) and configure your own verbal commands. All optional, all there when you want them."
+   ],
+   "links": []
+  },
+  {
+   "q": "Does Heidi Dictate work in my EHR and other apps?",
+   "a": [
+    "Yes. Dictate works in any application on your computer: your EHR, Outlook, Word, browser tabs and more. If your cursor is there, Heidi Dictate works there."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is Heidi Dictate accurate with medical terminology?",
+   "a": [
+    "Yes. Heidi Dictate understands medical terminology, medication names, anatomical terms and specialty-specific vocabulary from your first session, in more than 90 languages. No voice profile to build, no warmup period."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is Dictate free?",
+   "a": [
+    "Heidi Dictate is free to try in all existing Heidi plans."
+   ],
+   "links": []
+  },
+  {
+   "q": "Why is Heidi the best tool for dictation?",
+   "a": [
+    "Heidi is the best dictation tool because it's clinical-grade dictation built into the platform you already use, not a separate app running alongside it. That means there's no \"second tool\" to license, switch between, or copy-paste out of. It's reliable medical dictation that goes wherever you do, across every app on your computer."
+   ],
+   "links": []
+  }
+ ],
+ "product-coding": [
+  {
+   "q": "How does Heidi Coding help with insurance claims and audit prep?",
+   "a": [
+    "Heidi Coding streamlines the insurance claims process by suggesting the most relevant ICD-10 and SNOMED codes, reducing errors and ensuring accuracy. It supports audit preparation by generating well-organized, compliant documentation that aligns with billing codes, making it easier to submit claims and pass audits."
+   ],
+   "links": [
+    {
+     "t": "aligns with billing codes",
+     "href": "/en-gb/guides/streamline-your-notes"
+    }
+   ]
+  },
+  {
+   "q": "How does Heidi suggest ICD-10 or SNOMED codes?",
+   "a": [
+    "Heidi suggests ICD-10 and SNOMED codes based on the clinical context of your notes. It filters by relevance and billability, ensuring that the most appropriate codes are suggested. You can review these codes before finalizing, ensuring they align with your specific diagnosis and billing needs. Take note that Heidi Coding is available exclusively to users on paid plans."
+   ],
+   "links": [
+    {
+     "t": "users on paid plans",
+     "href": "/en-gb/pricing"
+    }
+   ]
+  },
+  {
+   "q": "How are coding suggestions tailored to my specialty and region?",
+   "a": [
+    "Heidi’s coding suggestions are tailored to your specialty and region by using local guidelines and terminology. It accounts for variations in coding systems across different healthcare environments (e.g., ICD-10-CM for the US, SNOMED-CT for the UK). Heidi Coding suggests codes that are relevant to the conditions and procedures specific to your practice and geographic location."
+   ],
+   "links": [
+    {
+     "t": "US",
+     "href": "https://www.cdc.gov/nchs/icd/icd-10-cm/index.html"
+    },
+    {
+     "t": "UK",
+     "href": "https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct"
+    }
+   ]
+  },
+  {
+   "q": "Why are codes not automatically applied to notes?",
+   "a": [
+    "Heidi doesn’t automatically apply codes to ensure that clinicians maintain control over the final documentation. Coding suggestions are listed for your review, allowing you to confirm that the codes align with the consultation and ensuring full compliance with billing standards before applying them."
+   ],
+   "links": [
+    {
+     "t": "for your review",
+     "href": "/en-gb/legal/scribe-usage-policy"
+    }
+   ]
+  },
+  {
+   "q": "How can I use Heidi Coding for consistent billing and regulatory compliance?",
+   "a": [
+    "Heidi Coding supports consistent billing by suggesting codes based on up-to-date clinical guidelines and regulatory requirements. It ensures that the coding process is streamlined and standardized, reducing the risk of errors and ensuring that your documentation aligns with both billing regulations and compliance standards."
+   ],
+   "links": [
+    {
+     "t": "suggesting codes",
+     "href": "/support/en/articles/11142087-coding"
+    }
+   ]
+  }
+ ],
+ "solutions-enterprise": [
+  {
+   "q": "Can Heidi be used in complex healthcare organizations?",
+   "a": [
+    "Yes. Heidi is already deployed across 200+ specialties, from primary care and psychiatry to emergency medicine and dentistry. This breadth ensures Heidi adapts to unique preferences, clinical workflows, and the unique needs of every department. For example, Heidi is used in a federally qualified healthcare center (FQHC) like Hawse Health, and they provide a wide range of primary and specialized care services, including dental and behavioral health. On Heidi’s personalization, they shared, “Each provider has their own way to see SOAP notes… Heidi gets them to sound the way they sound.\" With Heidi, health systems can rely on one AI documentation solution across multidisciplinary teams, delivering a unified experience instead of fragmented tools."
+   ],
+   "links": [
+    {
+     "t": "primary care",
+     "href": "/en-gb/solutions/family-medicine-specialist"
+    },
+    {
+     "t": "psychiatry",
+     "href": "/en-gb/solutions/behavioral-health"
+    },
+    {
+     "t": "emergency medicine",
+     "href": "/en-gb/solutions/medical-specialties"
+    },
+    {
+     "t": "dentistry",
+     "href": "/en-gb/solutions/dentists"
+    },
+    {
+     "t": "Hawse Health",
+     "href": "/en-gb/customers/hawse-health"
+    },
+    {
+     "t": "Heidi’s personalization",
+     "href": "/en-gb/product/customisation"
+    },
+    {
+     "t": "SOAP notes",
+     "href": "/en-gb/blog/soap-note-template-with-examples"
+    }
+   ]
+  },
+  {
+   "q": "How effective is Heidi at scaling across large clinical teams?",
+   "a": [
+    "Heidi reaches 60-80% adoption within the first month, far exceeding just 20-40% average seen with other AI scribes. Australia’s leading emergency telemedicine service provider, My Emergency Doctor, demonstrated this by achieving 77% adoption within just 3 weeks. This rapid uptake reflects Heidi’s design that fits directly into existing workflows without requiring major behavior change. High adoption rates mean value can be realized quickly and consistently across the organization. Hospitals no longer struggle with low engagement and instead see real and sustained usage, which is essential when deploying technology at scale."
+   ],
+   "links": [
+    {
+     "t": "My Emergency Doctor",
+     "href": "/en-gb/customers/my-emergency-doctor"
+    },
+    {
+     "t": "High adoption rates",
+     "href": "/en-gb/blog/ai-medical-scribe-adoption"
+    },
+    {
+     "t": "deploying technology at scale",
+     "href": "/en-gb/product/scale-capacity"
+    }
+   ]
+  },
+  {
+   "q": "What measurable time savings can healthcare organizations expect from Heidi?",
+   "a": [
+    "Healthcare providers using Heidi save an average of 6 minutes per patient encounter. Across a single day, this time saving adds up to significant hours recovered for each provider. For example, New Zealand’s largest privately owned healthcare group, Tamaki Health, saved 100+ hours on documentation within the first two weeks and achieved 91% activation rate within the first month. In a large health system, the effect compounds to hundreds, if not thousands, of clinical hours. For instance, Priority Physicians is a leading US-based concierge medical group. With Heidi, they reduced charting time by 70% and recouped $16,000 in clinical time. By cutting down on administrative burdens, Heidi helps reduce burnout and allows them to spend more time focusing on quality of care."
+   ],
+   "links": [
+    {
+     "t": "time saving adds up",
+     "href": "/en-gb/product/save-time"
+    },
+    {
+     "t": "Tamaki Health",
+     "href": "/en-gb/customers/tamaki-health"
+    },
+    {
+     "t": "Priority Physicians",
+     "href": "/en-gb/customers/priority-physicians"
+    },
+    {
+     "t": "focusing on quality of care",
+     "href": "/en-gb/product/patient-focus"
+    }
+   ]
+  },
+  {
+   "q": "How is Heidi implemented in large health systems and hospital trusts?",
+   "a": [
+    "Heidi’s implementation process is designed to be structured yet flexible. Centralized administration allows health leaders to manage user roles, billing, and data retention policies from one place. The Enterprise platform also integrates with existing authentication technology, EHR systems, and organizational governance structures. A good example is how Heidi implemented the UK’s largest clinical rollout of ambient AI with Modality Partnership, the NHS’s largest general practice super-partnership, with more than 360 GPs across 53 sites. As a result, 4 in 5 GPs said that Heidi saved them time and enabled them to build better rapport with patients. Every implementation is tailored to the specific needs of the organization, such as aligning departments and standardizing quality, while minimizing disruption and empowering teams to gain confidence easily."
+   ],
+   "links": [
+    {
+     "t": "user roles",
+     "href": "/support/en/articles/10382257-user-roles"
+    },
+    {
+     "t": "billing",
+     "href": "/support/en/collections/8147863-plans-pricing-billing"
+    },
+    {
+     "t": "data retention policies",
+     "href": "/en-gb/safety"
+    },
+    {
+     "t": "ambient AI",
+     "href": "/en-gb/blog/ambient-ai?utm_source=internal_link&utm_medium=content&utm_campaign=auto_linking"
+    },
+    {
+     "t": "ambient AI",
+     "href": "/en-gb/blog/ambient-ai"
+    },
+    {
+     "t": "Modality Partnership",
+     "href": "/en-gb/blog/modality-partnership-teams-up-with-ai-medical-scribe-heidi-health-in-largest-clinical-rollout-of-ambient-ai"
+    },
+    {
+     "t": "aligning departments",
+     "href": "/en-gb/product/align-departments"
+    },
+    {
+     "t": "standardizing quality",
+     "href": "/en-gb/product/standardise-quality"
+    }
+   ]
+  },
+  {
+   "q": "How can we measure the benefits of adopting Heidi in our healthcare organization?",
+   "a": [
+    "To help quantify the impact of our AI scribe, feel free to use Heidi’s dedicated ROI calculator. Simply enter details about your organization, like the number of providers on your team, etc. Then see what Heidi can save you, from financial savings each year to hours saved per provider per week. It’s built to show a glimpse of how Heidi translates efficiency improvements into measurable outcomes. It can also prove valuable for building a business case and communicating benefits to stakeholders."
+   ],
+   "links": [
+    {
+     "t": "impact of our AI scribe",
+     "href": "/en-gb/blog/ai-medical-scribe-impact"
+    },
+    {
+     "t": "ROI calculator",
+     "href": "/en-gb/resources/roi"
+    }
+   ]
+  }
+ ],
+ "solutions-primary-care": [
+  {
+   "q": "Will using AI affect rapport with my patients?",
+   "a": [
+    "Most clinicians find the opposite. When you're not typing, patients feel more heard, not less. The disclosure at the start of the consult is brief and matter-of-fact. You can also choose not to listen in session and dictate afterward. Either way, Heidi formats your note the same way."
+   ],
+   "links": []
+  },
+  {
+   "q": "Can Heidi integrate with our EMR?",
+   "a": [
+    "Heidi works alongside your EMR today. The workflow is review, copy, paste, done. The practices getting the most value from Heidi aren't waiting for a full integration to start saving an hour a day."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is Heidi compliant with HIPAA, GDPR, and local privacy regulations?",
+   "a": [
+    "Yes. Heidi is built for healthcare environments with enterprise-grade security. Data handling meets regional regulatory standards across AU, US, and UK markets, and identifiable clinical data is never used for secondary purposes."
+   ],
+   "links": [
+    {
+     "t": "regional regulatory standards",
+     "href": "/en-gb/safety"
+    }
+   ]
+  },
+  {
+   "q": "Are audio recordings stored?",
+   "a": [
+    "No. Heidi transcribes as you speak and never saves audio recordings. Only transcripts and notes are retained — for as long as you need them, and no longer. There is no hidden playback."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is my patients personal information safe?",
+   "a": [
+    "Yes. Heidi automatically removes identifiable details from transcripts and notes. Notes can be deleted as soon as you're done with them, so your clients' information stays confidential."
+   ],
+   "links": []
+  },
+  {
+   "q": "How is Evidence different from other AI search tools?",
+   "a": [
+    "Evidence searches across curated clinical sources such as guidelines, medicine references, and published research. Source availability can vary by region, plan, and licensing. It can also be tailored specifically to your needs. Source Control lets you shape the evidence base used in responses.",
+    "You can choose from presets (for example, guidelines-focused vs primary evidence), refine which sources are included, create a Library of organisational documents or protocols, and blacklist or restrict domains to align to local governance."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is Heidi a diagnostic tool or medical device?",
+   "a": [
+    "No. Evidence provides cited clinical reference for clinician review. It is not a diagnostic tool or clinical decision-maker. All clinical decisions remain with you."
+   ],
+   "links": []
+  }
+ ],
+ "solutions-medical-specialties": [
+  {
+   "q": "How does Heidi work for my specialty?",
+   "a": [
+    "Heidi comes with specialty-specific templates you can configure to match your real letter structure, voice, and clinical workflow. For clinical questions mid-session, Evidence surfaces cited, peer-reviewed answers from the guideline bodies relevant to your specialty. Set it up once; it adapts from there."
+   ],
+   "links": []
+  },
+  {
+   "q": "Will the output be good enough to actually send?",
+   "a": [
+    "That's the standard Heidi is built to meet. Start with a template that matches your real letter structure, test it with a few actual sessions, and refine as you go. Heidi drafts; you review and sign off."
+   ],
+   "links": []
+  },
+  {
+   "q": "How is Heidi setup?",
+   "a": [
+    "Setting up your Heidi account is quick and straightforward, whether you're joining as an individual clinician or setting up Heidi for your whole practice, we've got you covered. For most specialists, the time back comes after clinic, not from shortcuts during it."
+   ],
+   "links": [
+    {
+     "t": "Setting up your Heidi",
+     "href": "https://support.heidihealth.com/articles/14648388-set-up-your-heidi-account"
+    }
+   ]
+  },
+  {
+   "q": "I already use an EMR. Will Heidi work with it?",
+   "a": [
+    "Heidi works alongside your existing system, not instead of it. The output is a better draft, faster, ready to paste or export into your record with minimal steps."
+   ],
+   "links": []
+  }
+ ],
+ "solutions-nurses": [
+  {
+   "q": "How does Heidi work for nurses?",
+   "a": [
+    "Heidi is an AI care partner built for how nurses actually work. Scribe listens across your shift and turns spoken observations into structured progress notes, SBAR handovers, and care plans. Evidence gives you cited clinical answers at the bedside. This reduces the documentation load so you stay with your patients."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is Heidi safe to use?",
+   "a": [
+    "Yes. Heidi meets clinical-grade privacy and security standards, including HIPAA in the US, GDPR in the UK and EU, and the Australian Privacy Principles. Every output is reviewable and editable before it leaves your hands. Heidi supports your clinical judgment, it never acts on its own. We work with health systems on governance, BAAs, and data handling wherever needed."
+   ],
+   "links": [
+    {
+     "t": "clinical-grade privacy and security standards,",
+     "href": "/en-gb/safety"
+    }
+   ]
+  },
+  {
+   "q": "How accurate is Heidi in nursing workflows?",
+   "a": [
+    "Heidi has nursing-specific templates for progress notes, SBAR and ISBAR handovers, care plans, wound assessments, and more. The same configurability that works for physicians works for nurses, with templates and voice settings tuned to nursing documentation. More than 50,000 nurses are already using Heidi."
+   ],
+   "links": [
+    {
+     "t": "nursing-specific templates",
+     "href": "/en-gb/product/templates"
+    }
+   ]
+  },
+  {
+   "q": "Is it easy to use Heidi?",
+   "a": [
+    "Heidi takes minutes to set up. Choose a template, start capturing, and speak your notes. Most nurses are documenting by their second shift, and 61% of nursing users save 30+ minutes per shift from the first use. If you'd like to learn more about using Heidi check out our Help Centre resources."
+   ],
+   "links": [
+    {
+     "t": "Help Centre resources.",
+     "href": "https://support.heidihealth.com"
+    }
+   ]
+  },
+  {
+   "q": "How can I get started with Heidi?",
+   "a": [
+    "Sign up for a free account to get going. Existing users can log in directly. Our Heidi Guide walks you through transcribing and structuring your notes in minutes. For help choosing a plan, see our Help Center. For a team or hospital rollout, contact us for a demo."
+   ],
+   "links": [
+    {
+     "t": "Heidi Guide",
+     "href": "https://support.heidihealth.com/en/"
+    }
+   ]
+  },
+  {
+   "q": "I document multiple patients per shift. Can Heidi handle that?",
+   "a": [
+    "Yes. Heidi supports multi-patient documentation across a shift. Capture notes for each patient separately throughout your round, and templates keep each note structured and consistent. At handover, Heidi can pull the shift together into a single summary."
+   ],
+   "links": []
+  },
+  {
+   "q": "Does Heidi work on a noisy ward?",
+   "a": [
+    "Heidi works with a range of audio inputs. A simple headset or earpiece mic significantly improves capture quality in busy environments. Many nurses also use Heidi’s dictate mode after stepping away from the bedside to speak their notes. We’re actively improving performance in high-noise settings."
+   ],
+   "links": []
+  },
+  {
+   "q": "What if my hospital hasn't approved AI tools yet?",
+   "a": [
+    "We partner with health systems on governance, data privacy, and compliance. Heidi’s transparent, reviewable outputs and clear data handling make it easier for IT and clinical governance to sign off. We can support a ward-level pilot to demonstrate value and build the case internally."
+   ],
+   "links": []
+  },
+  {
+   "q": "How does patient consent work?",
+   "a": [
+    "Consent is the clinician’s responsibility, as with any clinical tool. Most patients consent readily with a simple disclosure. For settings where ambient capture isn’t appropriate, Heidi’s dictate mode lets you speak your notes after the interaction and get the same structured output."
+   ],
+   "links": []
+  },
+  {
+   "q": "Can we trust Heidi for clinical information?",
+   "a": [
+    "Yes. Heidi Evidence provides cited answers you can open and verify. It supports your clinical judgment, it does not replace it. Every answer links back to a verifiable source. For hospital buyers, Source Control lets your organization set which guideline bodies Evidence prioritizes."
+   ],
+   "links": []
+  }
+ ],
+ "solutions-mental-health": [
+  {
+   "q": "Will using Heidi damage rapport with my clients?",
+   "a": [
+    "Often the opposite. Heidi reduces typing and screen distraction, freeing you to maintain eye contact and stay present. Transparent, consent-based use is built into the workflow. Most clients respond positively to a simple disclosure at session start."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is Heidi compliant with HIPAA, GDPR, and local privacy regulations?",
+   "a": [
+    "Yes. Heidi is built for healthcare environments with enterprise-grade security. Data handling meets regional regulatory standards across US, UK, and AU markets, and identifiable clinical data is never used for secondary purposes."
+   ],
+   "links": [
+    {
+     "t": "regional regulatory standards",
+     "href": "/en-gb/safety"
+    }
+   ]
+  },
+  {
+   "q": "Are audio recordings stored?",
+   "a": [
+    "No. Heidi transcribes as you speak and never saves audio recordings. Only transcripts and notes are retained — for as long as you need them, and no longer. There is no hidden playback."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is my client's personal information safe?",
+   "a": [
+    "Yes. Heidi automatically removes identifiable details from transcripts and notes. Notes can be deleted as soon as you're done with them, so your clients' information stays confidential."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is this ethically appropriate for therapy?",
+   "a": [
+    "Yes. Heidi is a documentation tool, not a participant in your session. By handling note-taking in the background, it lets you give your full attention to your client."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is Heidi a diagnostic tool or medical device?",
+   "a": [
+    "No. Evidence provides cited clinical reference for clinician review. It is not a diagnostic tool or clinical decision-maker. All clinical decisions remain with you."
+   ],
+   "links": []
+  },
+  {
+   "q": "Will Heidi handle long therapy sessions reliably?",
+   "a": [
+    "Yes. Mental health sessions are among the longest Heidi supports. Starting with a stable template and a clear session workflow will get you the best results. If you experience issues with longer recordings, contact our support team. It’s treated as a top-priority problem."
+   ],
+   "links": [
+    {
+     "t": "contact our support team",
+     "href": "/en-gb/contact"
+    }
+   ]
+  },
+  {
+   "q": "Will this change my therapy style?",
+   "a": [
+    "No. Heidi drafts from what was said; you review, edit, and approve. Templates keep documentation aligned to your clinical voice and modality. Heidi’s templates are designed to capture modality, risk, and session structure by default, reducing prompts and edits rather than adding them."
+   ],
+   "links": []
+  },
+  {
+   "q": "Can we trust Evidence for high-stakes clinical questions?",
+   "a": [
+    "Evidence is built for transparency, not shortcuts. Every answer includes citations you can open and verify. It supports your clinical judgement, it does not replace it."
+   ],
+   "links": []
+  }
+ ],
+ "solutions-allied-health": [
+  {
+   "q": "How does Heidi work in allied health?",
+   "a": [
+    "Heidi listens to your session, generates a structured note in your format, and handles the downstream documents: NDIS reports, referral letters, insurer certificates. Each discipline gets its own template defaults, so a physio SOAP and an OT functional assessment each start in the right structure. No generic output to rewrite."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is my patient data safe?",
+   "a": [
+    "Yes. Heidi doesn't store audio from your sessions. It listens, transcribes and generates your note, then the audio is discarded. Data is encrypted and built to meet the security requirements allied health practices expect. Heidi's Compliance Series on YouTube covers data handling, consent and clinical governance in detail."
+   ],
+   "links": [
+    {
+     "t": "Compliance Series on YouTube",
+     "href": "https://www.youtube.com/playlist?list=PL5xv1m4GrIV_WGty5R431KUcAkgUL87V9"
+    }
+   ]
+  },
+  {
+   "q": "Will the output match my note format?",
+   "a": [
+    "Yes. Set your preferred structure using Templates. A physio gets a SOAP note, an OT gets a functional assessment, an SLP gets a narrative. Templates are built from real clinical notes, so the output reflects how your discipline actually documents. You review and edit before anything is signed off."
+   ],
+   "links": [
+    {
+     "t": "Templates",
+     "href": "/en-au/product/templates"
+    }
+   ]
+  },
+  {
+   "q": "My clinic has multiple disciplines will Heidi work for everyone?",
+   "a": [
+    "Yes. Each discipline gets its own template defaults, so a physio and an OT in the same clinic see the right note structure from day one. Shared templates handle clinic-wide formats like referral letters and handover notes. One tool, every modality."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is using AI during a session ethical?",
+   "a": [
+    "Yes, with informed consent. Disclosing to your patient that you're using an AI documentation tool at the start of the session is standard practice, and most patients consent readily. For sensitive presentations or specific community settings, Heidi can also be used after the session from notes or voice dictation rather than live audio."
+   ],
+   "links": []
+  }
+ ],
+ "solutions-dentists": [
+  {
+   "q": "Can I use Heidi in Dentistry?",
+   "a": [
+    "Heidi is built for every clinician who documents. Dentistry included.",
+    "Procedure-specific templates for extractions, restorations, crown prep, hygiene visits, and specialist consults come ready to use, with dental terminology, tooth notation, and consent context built in. And mid-session, Heidi Evidence gives you clinical guidance you can trust: drug interactions, dosing references, antibiotic stewardship. Whether you're checking a patient's bisphosphonate history before an extraction or verifying a sedation protocol, the answer is there before you need to think twice. Configure your highest-volume note type once. The editing drops from there."
+   ],
+   "links": []
+  },
+  {
+   "q": "Our notes need tooth diagrams and charting. Can Heidi do that?",
+   "a": [
+    "Heidi captures the clinical narrative, what was said, what was done, what was agreed. It works alongside your charting software, not instead of it. The value is in the note, the referral, and the downstream documents, not replacing the odontogram."
+   ],
+   "links": []
+  },
+  {
+   "q": "Can Heidi integrate with our PMS?",
+   "a": [
+    "Heidi works alongside any dental PMS today via copy-paste. Direct integrations with D4W and CareStack are on the roadmap. Most dental practices go live without waiting, because the time saved on documentation outweighs the copy-paste step."
+   ],
+   "links": []
+  },
+  {
+   "q": "What about patient consent?",
+   "a": [
+    "Consent is the clinician's responsibility, as with any clinical tool. Most dental patients agree readily. For patients who prefer otherwise, Heidi works in dictation mode after the appointment. No live audio required."
+   ],
+   "links": []
+  }
+ ],
+ "solutions-aged-care": [
+  {
+   "q": "How does Heidi work in aged care?",
+   "a": [
+    "Heidi is your AI Care Partner, built for the way aged care clinicians actually work across facilities, home visits, and community settings. Across your shift, Heidi listens to your resident interactions and turns spoken observations into structured care notes, incident reports, and care plans, ready for your review before you move on. Access cited clinical answers at the bedside. Set up routine correspondence and follow-ups so families and care teams stay informed without pulling you out of care time. The documentation ends when the shift does."
+   ],
+   "links": []
+  },
+  {
+   "q": "Does Heidi connect to our clinical system?",
+   "a": [
+    "Integrations with major aged care platforms are progressing, and these will be announced soon. In the meantime notes move across with a simple copy and paste, email or PDF download. Contact the Heidi aged care team to learn more about integration timelines."
+   ],
+   "links": []
+  },
+  {
+   "q": "Will using AI disrupt my relationship with clients?",
+   "a": [
+    "Most clinicians find the opposite. When they're not typing, clients feel more heard, not less. The disclosure at the start of the consult is brief and matter-of-fact. You can also choose not to record in session and dictate afterwards the patient never needs to know Heidi is involved"
+   ],
+   "links": []
+  },
+  {
+   "q": "Is my client data protected?",
+   "a": [
+    "Yes. Heidi automatically removes identifiable details from transcripts and notes. Notes can be deleted as soon as you're done with them, so your clients' information stays confidential. Recordings are captured as a transcript, not a audio or visual record."
+   ],
+   "links": []
+  },
+  {
+   "q": "Does it work in a busy aged care facility environment?",
+   "a": [
+    "Yes. Heidi handles typical facility noise background activity, shared rooms, overlapping voices without needing a quiet environment. For particularly noisy settings or group-based sessions, dictating a summary after the visit is a straightforward alternative that works just as well."
+   ],
+   "links": []
+  },
+  {
+   "q": "What about consent for clients who lack capacity?",
+   "a": [
+    "Disclosure about Heidi's use is the clinician's responsibility, following the same consent framework you apply to other aspects of care. For clients who lack capacity, the same substitute decision-maker process that applies to clinical decisions applies here. Heidi doesn't change the consent obligation it works within whatever process you already have in place."
+   ],
+   "links": []
+  }
+ ],
+ "solutions-veterinarians": [
+  {
+   "q": "How do I get started with Heidi for veterinary practice?",
+   "a": [
+    "Sign up for a free account and you can be live in minutes. Whether you're a solo vet, part of a referral hospital team, or managing multiple sites, Heidi is ready to configure to your specialty and writing style. See this guide for setup best practices, or contact us for a tailored demo."
+   ],
+   "links": [
+    {
+     "t": "Sign up for a free account",
+     "href": "https://scribe.heidihealth.com/onboarding"
+    },
+    {
+     "t": "this guide",
+     "href": "https://support.heidihealth.com/collections/8147742-getting-started-with-heidi"
+    }
+   ]
+  },
+  {
+   "q": "Is Heidi easy to use?",
+   "a": [
+    "Yes. There is no complicated setup, no steep learning curve, and no disruption to how you already work. Start a session on your mobile, desktop, or web app, consult as you normally would, and Heidi takes care of the rest. It also works offline, so a metal-lined barn or a patchy rural connection won’t interrupt your workflow."
+   ],
+   "links": []
+  },
+  {
+   "q": "What is the future of AI in veterinary care?",
+   "a": [
+    "The shift is already underway: timestamped, structured clinical notes are becoming the standard for traceability and compliance, and the administrative load that has driven veterinary burnout for a decade is being reduced. As the technology advances, expect faster documentation, smoother practice audits, and tighter integration with the systems you already use. Heidi is built to lead that evolution, returning time to the treatment floor rather than the keyboard."
+   ],
+   "links": []
+  },
+  {
+   "q": "How accurate is Heidi for veterinary medicine?",
+   "a": [
+    "Heidi is built to understand the clinical language of veterinary practice. SOAP notes for a feline asthma review, a bovine dystocia report, a canine cruciate repair checklist. The Memory feature learns your abbreviations and preferred terminology over time, so the note reflects the way you actually practice. Every output is a starting point, you review and edit before it leaves your hands."
+   ],
+   "links": []
+  },
+  {
+   "q": "What makes Heidi well-suited for veterinary work?",
+   "a": [
+    "Heidi includes purpose-built templates authored by experienced vets and vet nurses, covering small animal, equine, exotic, and production animal workflows. You can create a template from scratch, modify an existing one to match your preferred structure, and apply it instantly. Heidi adapts to fifteen-minute consults and two-hour surgical blocks alike."
+   ],
+   "links": [
+    {
+     "t": "purpose-built templates",
+     "href": "/en-gb/product/templates"
+    }
+   ]
+  },
+  {
+   "q": "How does Heidi work as a scribe for veterinarians?",
+   "a": [
+    "Start a new session on your mobile, desktop, or web app. Heidi listens to your consult, recognizes contextual cues, and routes each detail into the right section of the record. Add imaging results or clinical files via the Context tab and Heidi incorporates them into the final document. When the session ends, your structured note is ready to review. From the same session, generate referral letters, discharge summaries, or any downstream document without rewriting a word."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is Heidi safe to use?",
+   "a": [
+    "Yes. Heidi was designed so that patient data is never used to train the language model. Audio is streamed, converted to text inside an encrypted container, and the recording is discarded immediately. You can delete transcribed sessions at any time, set automatic deletion preferences, or retain access for compliance review. Heidi meets international data security standards and gives clinicians full control over how their data is handled. Explore the Heidi Compliance Series for more detail."
+   ],
+   "links": [
+    {
+     "t": "Heidi Compliance Series",
+     "href": "/en-gb/safety"
+    }
+   ]
+  }
+ ],
+ "solutions-medical-trainees": [
+  {
+   "q": "What is an AI scribe for medical trainees?",
+   "a": [
+    "An AI scribe for medical trainees is a software tool that utilizes artificial intelligence to streamline and automate key tasks medical students, interns, residents, and registrars undertake when producing clinical documentation. The core purpose of an AI scribe is to automatically generate clinical notes from patient encounters. However, additional features medical trainees may benefit from include specialty-specific note templates, automated document generation (referral letters, medical reports, meeting minutes), and the ability to rapidly summarize patient history. A well-designed AI scribe for medical trainees, like Heidi, minimizes administrative burden while enhancing learning opportunities. This is achieved by providing junior doctors with gold-standard note templates, facilitating more hands-on experience by reducing documentation time, and minimizing the admin-related stress and pressure that negatively impact trainee well-being."
+   ],
+   "links": [
+    {
+     "t": "clinical notes",
+     "href": "/en-gb/blog/clinical-notes-template-with-example"
+    },
+    {
+     "t": "referral letters",
+     "href": "/en-gb/blog/medical-referral-letter-template-with-examples"
+    },
+    {
+     "t": "medical reports",
+     "href": "/en-gb/blog/medical-report-template"
+    },
+    {
+     "t": "meeting minutes",
+     "href": "/en-gb/blog/medical-meeting-minutes-template"
+    },
+    {
+     "t": "patient history",
+     "href": "/en-gb/blog/medical-history-template-with-exmaples"
+    }
+   ]
+  },
+  {
+   "q": "How does Heidi work as an AI medical scribe for junior doctors?",
+   "a": [
+    "Heidi works as an AI scribe for medical trainees in much the same way as it does for consultants or attendings. At the beginning of a clinical encounter, just press Start transcribing, and Heidi silently processes everything that’s said. Once the session is over, press Stop transcribing, and Heidi generates a perfectly structured note in seconds, along with any additional documents that may be required. Customize Heidi’s outputs by choosing from popular progress note templates like SOAP, DAP, and BIRP. Or, browse the Template Community for more specialized templates, such as head-to-toe assessment, operative notes, and chronic care management plan. Our Medical Knowledge team reviews all templates within Heidi for accuracy and clinical utility. As a result, Heidi works as a supportive tool for medical trainees, helping junior doctors to progressively become more familiar and confident with gold-standard documentation formats."
+   ],
+   "links": [
+    {
+     "t": "progress note templates",
+     "href": "/en-gb/blog/progress-note-template-with-examples"
+    },
+    {
+     "t": "SOAP",
+     "href": "/en-gb/blog/soap-note-template-with-examples"
+    },
+    {
+     "t": "DAP",
+     "href": "/en-gb/blog/dap-notes-template-with-examples"
+    },
+    {
+     "t": "BIRP",
+     "href": "/en-gb/blog/birp-notes-template-with-examples"
+    },
+    {
+     "t": "Template Community",
+     "href": "/en-gb/templates"
+    },
+    {
+     "t": "head-to-toe assessment",
+     "href": "/en-gb/blog/head-to-toe-assessment-template"
+    },
+    {
+     "t": "operative notes",
+     "href": "/en-gb/blog/operative-note-template-with-examples"
+    },
+    {
+     "t": "chronic care management plan",
+     "href": "/en-gb/blog/chronic-care-management-template-with-examples"
+    }
+   ]
+  },
+  {
+   "q": "Why is Heidi the best AI scribe for medical trainees?",
+   "a": [
+    "Heidi excels at the core function common to all AI medical scribes: rapidly generating notes from clinical encounters. However, several advanced features make it stand out as the best AI scribe for medical trainees. Firstly, Heidi offers unparalleled customization to get your notes exactly right. For example, if your consultant or attending likes a note or document structured in a particular way, you can customize your template to match their preferred format and style. Secondly, Heidi is more than just a point-of-care transcription tool. The Context field within Heidi supports adding non-verbal background information in any format (from typed observations to medical reports and even photos of hand-written notes). Heidi draws this contextual information into outputs, producing rich, detailed notes that draw from the patient’s entire history. Finally, a suite of assistive tools is transforming Heidi into a comprehensive AI-powered clinical assistant. For example, Heidi already facilitates accurate medical billing and coding by producing a suggested list of codes after each encounter (see our guide to coding for more details)."
+   ],
+   "links": [
+    {
+     "t": "customize your template",
+     "href": "/en-gb/level-up-your-template"
+    },
+    {
+     "t": "Context field",
+     "href": "/support/en/articles/8974419-what-is-context"
+    },
+    {
+     "t": "medical billing and coding",
+     "href": "/en-gb/blog/medical-billing-and-coding-template"
+    },
+    {
+     "t": "guide to coding",
+     "href": "/support/en/articles/11142087-coding"
+    }
+   ]
+  },
+  {
+   "q": "How accurate is Heidi’s AI for trainee doctors?",
+   "a": [
+    "Saving time on documentation is often the main draw for using Heidi. However, for trainee doctors, several key steps in the note-generation process support improved accuracy. First and foremost, each note generated by Heidi has an accompanying full transcript that can be inspected to add or clarify information. You can even Ask Heidi a question like, “What did the patient say their current medications are?” and copy the response into your note. Heidi’s structured templates also support accurate clinical documentation via a ready-made format for each note type. For example, our review of systems template can be used as a guide for the assessment while also ensuring all pertinent information (including negatives) is included in the final note. For clinicians working with culturally diverse populations, Heidi supports accurate transcription in over 30 languages. Outputs like patient instructions or an after visit summary can be translated into any supported language, enhancing follow-up care."
+   ],
+   "links": [
+    {
+     "t": "Ask Heidi",
+     "href": "/support/en/articles/8974408-what-is-ask-heidi"
+    },
+    {
+     "t": "review of systems template",
+     "href": "/en-gb/blog/review-of-systems-template"
+    },
+    {
+     "t": "after visit summary",
+     "href": "/en-gb/blog/after-visit-summary-template-with-examples"
+    }
+   ]
+  },
+  {
+   "q": "Is it easy for residents and registrars to use Heidi as an AI medical scribe?",
+   "a": [
+    "Aside from the ease of significantly reducing the time junior doctors spend on notes, Heidi is an incredibly intuitive and user-friendly AI scribe for medical trainees. Using the scribe really is as simple as pressing a button at the beginning of a patient encounter, reviewing the note that’s subsequently produced, and then placing it in the medical record. Because Heidi works across smartphones, tablets, and PCs, the AI scribe will follow you everywhere, from the trauma ward to hospice and even home visits. Our detailed guides will help you master the basics and more complex tasks, like building your own note template and setting up teams. Plus, the customer support team is always available if you ever have any questions about using Heidi."
+   ],
+   "links": [
+    {
+     "t": "reducing the time",
+     "href": "/en-gb/customers/dr-falayis-gp"
+    },
+    {
+     "t": "smartphones, tablets, and PCs",
+     "href": "/en-gb/download"
+    },
+    {
+     "t": "trauma ward",
+     "href": "/en-gb/blog/trauma-assessment"
+    },
+    {
+     "t": "hospice",
+     "href": "/en-gb/blog/hospice-documentation-template"
+    },
+    {
+     "t": "home visits",
+     "href": "/en-gb/blog/home-health-documentation-templates"
+    },
+    {
+     "t": "detailed guides",
+     "href": "/en-gb/guides"
+    },
+    {
+     "t": "setting up teams",
+     "href": "/support/en/articles/10382257-user-roles"
+    },
+    {
+     "t": "customer support team",
+     "href": "/en-gb/contact"
+    }
+   ]
+  },
+  {
+   "q": "What is the future of AI scribing in medical care?",
+   "a": [
+    "With AI scribes now widely adopted as documentation support tools, the next phase of AI technologies in healthcare will involve major advancements in interoperability. The first step in advancing interoperability is seamless integration with electronic health records (EHRs) and practice management systems (PMSs). At Heidi, we support a variety of integrations with leading systems like Athenahealth, Semble, Halaxy, and nearly a hundred other software. Our Chrome extension also floats above any browser-based EHR, enabling easy copy & paste from Heidi into the medical record. In the future, doctors of all levels can look forward to AI medical scribes evolving into comprehensive clinical assistants. Just some of the tasks AI scribes will assist with in the future include coding, billing, and simple patient follow-up. As the best AI scribe for medical trainees, Heidi is committed to supporting junior doctors in utilizing AI in a way that benefits clinicians, patients, and the wider community."
+   ],
+   "links": [
+    {
+     "t": "AI technologies in healthcare",
+     "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11077095/"
+    },
+    {
+     "t": "Athenahealth",
+     "href": "/en-gb/blog/athenahealth-integration"
+    },
+    {
+     "t": "Semble",
+     "href": "/en-gb/blog/semble-integration"
+    },
+    {
+     "t": "Halaxy",
+     "href": "/en-gb/blog/halaxy-integration"
+    },
+    {
+     "t": "Chrome extension",
+     "href": "/support/en/articles/10053308-heidi-chrome-extension"
+    }
+   ]
+  },
+  {
+   "q": "How can I get started with Heidi as my AI scribe for medical trainees?",
+   "a": [
+    "Getting started with Heidi as your AI medical scribe couldn’t be easier for medical trainees. Simply sign up here to claim your Heidi Pro subscription, which is completely free for medical students, interns, residents, and registrars. You don’t need to input credit card details, but verification of your training status is required annually. Heidi’s AI medical scribe for medical trainees is very intuitive and requires minimal onboarding. However, we recommend checking out some of our how to videos and guides to fully understand how this powerful tool can support both your clinical practice and learning."
+   ],
+   "links": [
+    {
+     "t": "AI medical scribe",
+     "href": "/en-gb/blog/ai-medical-scribe?utm_source=internal_link&utm_medium=content&utm_campaign=auto_linking"
+    },
+    {
+     "t": "sign up here",
+     "href": "/en-gb/sign-up"
+    },
+    {
+     "t": "how to videos",
+     "href": "https://www.youtube.com/playlist?list=PL5xv1m4GrIV_Tnk9uxZXGiLtJkazCdaLj"
+    },
+    {
+     "t": "guides",
+     "href": "/en-gb/guides"
+    }
+   ]
+  }
+ ],
+ "solutions-surgeons": [
+  {
+   "q": "How does Heidi work for surgeons?",
+   "a": [
+    "Heidi listens hands-free during a procedure or patient interaction, builds a complete operative note in your preferred structure, and generates every downstream document GP letters, discharge summaries, post-op reviews from the same session. Every note is grounded in clinical evidence, accurate enough to support billing, and detailed enough for medico-legal review. You edit, approve, and control the output."
+   ],
+   "links": []
+  },
+  {
+   "q": "Surgeons move constantly between theatre, ward, and clinic. Can Heidi keep up?",
+   "a": [
+    "Yes. Heidi works offline, runs on mobile, and does not need a desktop or strong signal to capture a note. The workflow adapts to the setting, not the other way around."
+   ],
+   "links": [
+    {
+     "t": "Heidi works offline, runs on mobile,",
+     "href": "https://support.heidihealth.com/articles/10078486-use-heidi-everywhere"
+    }
+   ]
+  },
+  {
+   "q": "Our surgeons rely on templates. Will they have to start over?",
+   "a": [
+    "No. Existing templates and preferred phrasing mirror directly into Heidi. Surgeons keep the structure they know; Heidi populates it from the session. Most teams are up and running faster than they expect."
+   ],
+   "links": [
+    {
+     "t": "templates",
+     "href": "https://support.heidihealth.com/articles/14648446-templates-101-the-basics"
+    }
+   ]
+  },
+  {
+   "q": "What about data security and HIPAA compliance?",
+   "a": [
+    "Heidi meets HIPAA requirements in the US and equivalent standards in AU, UK, and CA. Data is never used to train models. Enterprise customers can arrange BAAs and discuss data residency directly. Compliance is built in, not bolted on."
+   ],
+   "links": [
+    {
+     "t": "Compliance is built in, not bolted on.",
+     "href": "/en-gb/safety"
+    }
+   ]
+  }
+ ],
+ "solutions-emergency-medicine": [
+  {
+   "q": "ED is fast and interruption-heavy. Will this slow clinicians down?",
+   "a": [
+    "The goal is the opposite. Heidi captures the encounter and outputs a structured ED note and next documents quickly, so clinicians can stay patient-facing and still finish documentation on shift."
+   ],
+   "links": []
+  },
+  {
+   "q": "Will the notes be accurate enough to hand over safely?",
+   "a": [
+    "ED is continuity-by-documentation. Heidi's outputs are scannable and consistent: problem list, investigations, plan, disposition, and key timestamps, ready for the next clinician before you hand over."
+   ],
+   "links": []
+  },
+  {
+   "q": "How does this fit our EHR workflow?",
+   "a": [
+    "Heidi is EHR-agnostic and works alongside any system today. Output pastes directly into your existing workflow, and most ED teams go live without waiting for a native integration."
+   ],
+   "links": []
+  },
+  {
+   "q": "We already use a general scribe. Why switch?",
+   "a": [
+    "Generic scribes solve the note. Heidi solves the full ED documentation burden: the note, the reassessment, discharge instructions, the referral, the handover. One encounter, every document. For high-volume ED teams, the difference is measurable within a single shift."
+   ],
+   "links": []
+  }
+ ],
+ "integrations": [
+  {
+   "q": "Which EMR/EHR systems does Heidi integrate with?",
+   "a": [
+    "Heidi integrates with a growing number of EMR and EHR systems, including Athenahealth, Gentu, MedicalDirector, MediRecords, Best Practice Software (Bp Premier), and more, as well as leading practice management software like Halaxy, Semble, Cliniko, Nookal, CareStack, and PracticeQ, among others. These integrations allow clinicians to work within their existing clinical workflows while benefiting from Heidi’s ambient documentation and form-filling capabilities. As healthcare teams adopt new digital tools, Heidi continues to expand its integration ecosystem to support more clinical environments across specialties and regions."
+   ],
+   "links": [
+    {
+     "t": "Athenahealth",
+     "href": "/en-gb/blog/athenahealth-integration"
+    },
+    {
+     "t": "Gentu",
+     "href": "/en-gb/blog/gentu-integration"
+    },
+    {
+     "t": "MedicalDirector",
+     "href": "/en-gb/blog/medicaldirector-integration"
+    },
+    {
+     "t": "MediRecords",
+     "href": "/en-gb/blog/medirecords-integration"
+    },
+    {
+     "t": "Best Practice Software",
+     "href": "/en-gb/blog/best-practice-integration"
+    },
+    {
+     "t": "Halaxy",
+     "href": "/en-gb/blog/halaxy-integration"
+    },
+    {
+     "t": "Semble",
+     "href": "/en-gb/blog/semble-integration"
+    },
+    {
+     "t": "Cliniko",
+     "href": "/en-gb/blog/cliniko-integration"
+    },
+    {
+     "t": "Nookal",
+     "href": "/en-gb/blog/nookal-integration"
+    },
+    {
+     "t": "CareStack",
+     "href": "/en-gb/blog/carestack-integration"
+    },
+    {
+     "t": "PracticeQ",
+     "href": "/en-gb/blog/practiceq-integration"
+    },
+    {
+     "t": "ambient documentation",
+     "href": "/en-gb/blog/ambient-ai"
+    }
+   ]
+  },
+  {
+   "q": "What are the two main types of integrations Heidi offers?",
+   "a": [
+    "Heidi offers two main types of integrations: Embed and Connect. The Embed integration brings Heidi directly into the clinician’s workflow by placing a lightweight widget inside the existing EHR or practice management system. This allows clinicians to document, review, and complete notes without switching screens, giving them instant access to Heidi while staying in the environment they already use. The Connect integration creates a deeper, system-level connection between Heidi and the EHR, which is ideal for organizations that require more robust interoperability and streamlined data flow across teams. Both the Embed and Connect integration types give clinics and health systems flexible options for adopting Heidi in a way that best fits their operations and technical setup."
+   ],
+   "links": [
+    {
+     "t": "practice management system",
+     "href": "/en-gb/blog/medical-practice-management-software"
+    },
+    {
+     "t": "clinics",
+     "href": "/en-gb/solutions/clinic"
+    },
+    {
+     "t": "health systems",
+     "href": "/en-gb/solutions/enterprise"
+    },
+    {
+     "t": "adopting Heidi",
+     "href": "/en-gb/blog/ai-medical-scribe-adoption"
+    }
+   ]
+  },
+  {
+   "q": "Are Heidi’s integrations secure?",
+   "a": [
+    "Yes. Heidi is HIPAA, GDPR, PIPEDA, and APP compliant and certified with recognized security frameworks like ISO27001 and SOC2. All data is encrypted in transit and at rest, with strict access controls to ensure information is only available to those who need it. You can explore our full security and compliance documentation in the Heidi Trust Centre, where every attestation and policy is available with complete transparency."
+   ],
+   "links": [
+    {
+     "t": "compliant and certified",
+     "href": "/en-gb/safety"
+    },
+    {
+     "t": "Heidi Trust Centre",
+     "href": "https://trust.heidihealth.com/"
+    }
+   ]
+  },
+  {
+   "q": "Can I see how Heidi works when integrated with EMR/EHR systems?",
+   "a": [
+    "Of course! Select any clinical system or EHR listed above to see how the integration works. You’ll find clear visuals and short demonstrations that show Heidi inside real workflows. If you prefer seeing it in action with your own setup, our team can guide you through a live session. Book time with the team."
+   ],
+   "links": [
+    {
+     "t": "Book time with the team",
+     "href": "/en-gb/contact-sales"
+    }
+   ]
+  },
+  {
+   "q": "Do I need IT support to integrate with Heidi?",
+   "a": [
+    "Most clinics can integrate Heidi without a heavy IT project. For standard integrations in our marketplace, many customers can connect through a self-service onboarding, or in some cases, the Heidi team may assist with the initial set-up of your practice with no IT required. You’re more likely to need IT support if you’re a larger organization with strict security requirements, single sign-on (SSO), virtual private network (VPN), or custom network configurations, or if you’re rolling Heidi out across multiple sites. In those cases, our team works directly with your IT department to make sure everything is secure and stable. To confirm what’s needed for your clinic, contact our sales team for more information."
+   ],
+   "links": [
+    {
+     "t": "contact our sales team",
+     "href": "/en-gb/contact-sales"
+    }
+   ]
+  },
+  {
+   "q": "How much does the Heidi integration cost?",
+   "a": [
+    "Integration costs vary depending on your subscription plan and the type of integration you choose. Many of our most commonly used integrations are included in your Heidi subscription, while more advanced or bespoke connections may attract an additional fee. For organisations with larger deployment needs, the Heidi team will work with you to scope the right set-up and provide clear pricing before anything is switched on. Contact our sales team to discuss what this looks like for you or your organization."
+   ],
+   "links": [
+    {
+     "t": "subscription plan",
+     "href": "/en-gb/pricing"
+    },
+    {
+     "t": "Contact our sales team",
+     "href": "/en-gb/contact-sales"
+    }
+   ]
+  }
+ ],
+ "partners": [
+  {
+   "q": "Why should we partner with Heidi instead of building our own AI scribe?",
+   "a": [
+    "Partnering with Heidi gives your EHR product immediate access to a clinically validated AI care partner without the extra costs, risks, or long development cycles of building your own solution. Developing an in-house scribe requires extensive clinical testing, model tuning, governance controls, and ongoing maintenance to stay safe, accurate, and compliant (all of which Heidi has already pressure-tested across millions of real consultations). With Heidi, you can deploy ambient documentation straight into your platform in weeks, not months or years. This allows your team to focus on product innovation rather than building clinical AI infrastructure from scratch. Most importantly, partnering with Heidi ensures clinicians receive a high-quality documentation experience from day one, backed by a system built specifically for frontline care."
+   ],
+   "links": [
+    {
+     "t": "clinically validated",
+     "href": "https://pubmed.ncbi.nlm.nih.gov/41104569/"
+    },
+    {
+     "t": "governance controls",
+     "href": "https://trust.heidihealth.com/"
+    },
+    {
+     "t": "across millions of real consultations",
+     "href": "/en-gb/impact"
+    },
+    {
+     "t": "partnering with Heidi",
+     "href": "/en-gb/contact-sales"
+    }
+   ]
+  },
+  {
+   "q": "What integration methods are available for Heidi?",
+   "a": [
+    "Heidi offers two main integration pathways: Widget and API (Application Programming Interface). The Heidi Widget allows you to place a lightweight widget or iFrame directly into your EMR system, enabling clinicians to capture live notes without leaving their workflow or switching screens. This option requires no retraining and ensures instant adoption across teams. The Heidi API pathway provides deeper control, letting you build Heidi directly into your platform for a premium, fully custom documentation experience tailored to telehealth, mobile apps, or specialty workflows. Both integration methods are designed to be flexible, fast to implement, and seamless within existing systems."
+   ],
+   "links": [
+    {
+     "t": "The Heidi Widget",
+     "href": "/developers/widget/overview"
+    },
+    {
+     "t": "The Heidi API",
+     "href": "/developers/heidi-api/overview"
+    },
+    {
+     "t": "telehealth, mobile apps,",
+     "href": "/en-gb/download"
+    },
+    {
+     "t": "specialty workflows",
+     "href": "/en-gb/solutions/medical-specialties"
+    }
+   ]
+  },
+  {
+   "q": "How does integrating Heidi differentiate our EMR product?",
+   "a": [
+    "Integrating Heidi gives your EMR a clear competitive edge by offering ambient documentation that clinicians can use immediately, without workflow disruption. It enables your platform to deliver structured, standardized notes that reduce variability and support compliance across sites (a major differentiator for enterprise customers). With Heidi capturing notes in real time inside your interface, clinicians experience faster documentation that feels native to your platform. This improves user satisfaction and loyalty while helping your EMR stand out in a crowded market that increasingly expects AI-powered capabilities. By shipping Heidi in weeks rather than months, your product can evolve faster and remain ahead of emerging clinical documentation standards."
+   ],
+   "links": [
+    {
+     "t": "ambient documentation",
+     "href": "/en-gb/blog/ambient-ai"
+    },
+    {
+     "t": "enterprise customers",
+     "href": "/en-gb/solutions/enterprise"
+    },
+    {
+     "t": "user satisfaction and loyalty",
+     "href": "/en-gb/product/attract-talent"
+    }
+   ]
+  }
+ ],
+ "impact": [
+  {
+   "q": "Can an AI scribe make mistakes?",
+   "a": [
+    "Yes, and every clinician using one should expect it. AI scribes can misinterpret what was said, add findings that were never stated, or occasionally miss context from a busy or noisy visit. With Heidi, that is why every note waits for you before it goes anywhere. You read it, change what needs changing, and sign off. The AI drafts. The call is always yours."
+   ],
+   "links": []
+  },
+  {
+   "q": "Do I need to tell my patients that Heidi is transcribing the visit?",
+   "a": [
+    "Yes, and it is good practice everywhere. More than a dozen US states require all parties to consent before a conversation is recorded. Beyond the legal side, 81% of patients say they want to be told an AI scribe is in use and asked for consent before the visit starts. A brief, plain-language explanation at the start of the appointment is all it takes. Heidi transcribes the visit to draft your note, it does not store the audio afterward, and patients can opt out at any time. Patient Consent Forms are also available in Heidi’s Resource Centre."
+   ],
+   "links": [
+    {
+     "t": "Heidi’s Resource Centre.",
+     "href": "/en-gb/resource-centre"
+    }
+   ]
+  },
+  {
+   "q": "Will an AI scribe replace the clinician?",
+   "a": [
+    "No. Heidi drafts the note. You make every clinical decision. The AI cannot examine a patient, weigh up competing diagnoses, or notice that something feels off in the room. What it can do is take the documentation off your plate so you can do those things without a keyboard in the way. That is the distinction between an AI Care Partner and a replacement, and it is why the call is always yours."
+   ],
+   "links": []
+  },
+  {
+   "q": "What happens to the audio after Heidi transcribes the visit?",
+   "a": [
+    "Heidi transcribes the visit to draft your note, and the audio is not retained afterward. Patient data is not used to train the model without appropriate consent and de-identification controls. Heidi operates under a Business Associate Agreement (BAA) and meets HIPAA, GDPR and regional compliance requirements. For the full picture, visit the our Safety and Compliance page."
+   ],
+   "links": [
+    {
+     "t": "Safety and Compliance page",
+     "href": "/en-gb/safety"
+    }
+   ]
+  }
+ ],
+ "safety": [
+  {
+   "q": "Can Heidi access my patient’s information?",
+   "a": [
+    "Short answer, no. Before Heidi processes your session, we strip all data of personal identifiers (think ‘Jane Doe’ instead of the patient’s name), so it can’t be traced back. Your patient’s data remains protected and Heidi does not and will not contact your patients for any purposes."
+   ],
+   "links": []
+  },
+  {
+   "q": "Are audio recordings saved?",
+   "a": [
+    "No, Heidi does not store any audio. As you speak, Heidi types, and the audio immediately goes *poof*. Even if you’re uploading an audio file that was recorded offline, the audio is only stored on your device, and Heidi doesn’t retain any of it once it’s been transcribed."
+   ],
+   "links": []
+  },
+  {
+   "q": "Where are Heidi’s servers storing my data?",
+   "a": [
+    "Locally. Heidi’s “brain” (aka servers) stays strictly in the region you’re based in, keeping everything in line with data localisation requirements under regulations like GDPR."
+   ],
+   "links": [
+    {
+     "t": "GDPR",
+     "href": "/au/compliance/gdpr"
+    }
+   ]
+  },
+  {
+   "q": "How does Heidi mitigate data breaches?",
+   "a": [
+    "Step 1: Prevention. Heidi implements the best in class infrastructure - think ISO27001, SOC2 and Cyber Essential compliant, while also being penetration tested every year. The architecture of our data storage also ensures that your protected health information (PHI) is de-identified and processed separately to the rest of the transcript. The reality is though, we have to be prepared for anything, and so all of our users, free or paid, are insured and receive the highest standard of compliance."
+   ],
+   "links": []
+  },
+  {
+   "q": "How do you tackle ‘hallucinations’?",
+   "a": [
+    "First, you might be wondering what AI scribe hallucinations are? Well, AI sometimes generates content that might be nonsensical or incorrect - think hearing things that weren’t said. And while we’re striving to improve the technology to avoid this from happening, here are some other ways to tackle these:",
+    "Our experienced Medical Knowledge team regularly reviews our models, templates and checks the outputs for accuracy.",
+    "Your feedback and input is invaluable. We encourage you to review all notes before transferring them to your EHR system."
+   ],
+   "links": []
+  },
+  {
+   "q": "Can my Heidi medical notes be subpoenaed?",
+   "a": [
+    "If your notes are stored in Heidi at the time they have been subpoenaed, we are legally required to comply and may need to provide access upon request - the short answer being yes.",
+    "If you have, however, deleted your notes, they are permanently wiped out from our systems, and we are unable to retrieve them."
+   ],
+   "links": []
+  }
+ ],
+ "resources-faq": [
+  {
+   "q": "Is Heidi Australian Privacy Principles (APP) compliant?",
+   "a": [
+    "Yes, fully. Your patients' information stays right here in Australia, protected by the robust framework of Aussie privacy laws. We take zero-tolerance approach to third-party access. Your consultations are yours, and the audio used for generating patient notes? Disappears right after your notes are done – never stored permanently."
+   ],
+   "links": []
+  },
+  {
+   "q": "How long does a safety plan take to complete?",
+   "a": [
+    "It usually takes around 30-40 minutes to complete a safety plan, since it involves manually typing out information to build the document. With Heidi Dictate, you can fill out safety plan templates as you talk to patients, which saves time and lets you stay fully engaged during the session. You not only halve the time you spend on the screen, you also get to restore the human element in patient care."
+   ],
+   "links": [
+    {
+     "t": "Dictate",
+     "href": "/en-gb/product/dictate"
+    }
+   ]
+  },
+  {
+   "q": "Is a safety plan the same as a treatment plan?",
+   "a": [
+    "No. A safety plan is a crisis-focused tool designed to help an individual manage overwhelming emotions. A treatment plan covers a broader scope of care, as it sets the diagnosis, roadmap of goals alongside interventions for the patient. Clinicians often use both together to provide a plan of action that’s geared towards the betterment of the client."
+   ],
+   "links": [
+    {
+     "t": "treatment plan",
+     "href": "/en-gb/blog/treatment-plan-template-with-examples"
+    }
+   ]
+  },
+  {
+   "q": "Where can I find free safety plan templates?",
+   "a": [
+    "You can find free safety plan templates provided by agencies and organizations that offer mental health support. However, you can also modify an existing one from Heidi’s Template Community to give you more flexibility in adapting to your patient’s needs. For more information, check our guide on creating templates."
+   ],
+   "links": [
+    {
+     "t": "Template Community",
+     "href": "/en-gb/templates"
+    },
+    {
+     "t": "guide on creating templates",
+     "href": "https://support.heidihealth.com/en/articles/9803972-creating-templates-in-heidi-a-basic-guide"
+    }
+   ]
+  },
+  {
+   "q": "How can I view older entries I filled through Dictate?",
+   "a": [
+    "Click the Dictate icon on the lower left panel, then the History tab opens by default. Sift through by using a keyword on the search bar or filtering by date. It’s easy to use, so tracking gestational dates, prior visits and follow-up details stays quick, especially through long clinic days."
+   ],
+   "links": [
+    {
+     "t": "easy to use,",
+     "href": "/en-gb/product/work-smart"
+    },
+    {
+     "t": "follow-up",
+     "href": "/en-gb/blog/follow-up-care"
+    }
+   ]
+  },
+  {
+   "q": "How can OB-GYN dictation support clinicians in sensitive conversations?",
+   "a": [
+    "Dictate lets you speak sensitive OB-GYN notes straight into the file instead of typing them, so documenting topics like STIs and PMOS stays quick and discreet at your desktop."
+   ],
+   "links": []
+  },
+  {
+   "q": "How secure is Heidi Dictate?",
+   "a": [
+    "Heidi Dictate is secure because it retains the human element in care by giving you control of the ways of securing patient data. How you want to store the text in your dictation history is entirely up to you: never log them or delete them later. As Dictate is built on Heidi, it follows that your audio is not retained nor is it used to train AI models.",
+    "Patient privacy and data security is of utmost importance. Keep best practices like obtaining consent and explaining to patients that their information is only being used to support their care."
+   ],
+   "links": [
+    {
+     "t": "consent",
+     "href": "/en-gb/source-centre"
+    }
+   ]
+  },
+  {
+   "q": "Can OB-GYNs use Dictate with Scribe?",
+   "a": [
+    "Absolutely. Instead of spending on general-purpose dictation tools that capture generic terms, use Heidi to support you in every phase of the documentation workflow. Dictate sits inside Heidi, which already contains the context and nuance that OB-GYN requires. When you use Dictate, the medical jargon you mention reflects accurately, structured right for the template you use in Heidi."
+   ],
+   "links": [
+    {
+     "t": "context",
+     "href": "/en-gb/product/context"
+    },
+    {
+     "t": "template",
+     "href": "/en-gb/templates"
+    }
+   ]
+  },
+  {
+   "q": "Is it worth it to get a standalone tool for dictation?",
+   "a": [
+    "No. A standalone dictation tool means separate procurement and a separate deployment, on top of what you already run. Heidi is one connected platform: aside from voice-based transcription and cursor dictation, it simplifies administrative tasks beyond OB-GYN with Evidence for clinical search.",
+    "Heidi is designed for use across specialties, for all practice sizes and types. One platform covers the visit and the typing around it. Nothing extra to buy or maintain."
+   ],
+   "links": []
+  },
+  {
+   "q": "Can I make my own treatment plan template?",
+   "a": [
+    "Heidi offers several options to easily create your own treatment plan template. You can: 1) Give Heidi a reference treatment plan to turn into a template; 2) Adapt an existing treatment plan template from the community; 3) Build your own treatment plan template from scratch. Read our Help Centre Article on Creating Templates in Heidi for full instructions."
+   ],
+   "links": [
+    {
+     "t": "Creating Templates in Heidi",
+     "href": "https://support.heidihealth.com/en/articles/9803972-creating-templates-in-heidi-a-basic-guide"
+    }
+   ]
+  },
+  {
+   "q": "How often should a treatment plan template be updated?",
+   "a": [
+    "The time between updating treatment plan templates depends on the clinical setting and individual patient needs. As a basic guide, inpatient treatment plans in rehabilitation settings are usually updated every 2 - 4 weeks, while outpatient treatment plan reviews commonly occur every 2 - 6 months."
+   ],
+   "links": []
+  },
+  {
+   "q": "What are the four elements of a treatment plan template?",
+   "a": [
+    "A treatment plan template always includes sections to discuss the presenting problem, goals, interventions, and actions to be completed by the clinician and patient. Outside of this, clinicians and organizations may include additions specific to the practice area and clinical specialty."
+   ],
+   "links": []
+  },
+  {
+   "q": "Is there a free EMR system?",
+   "a": [
+    "Yes. There are open-source EMR systems that charge no license fee, though practices still pay for HIPAA-compliant hosting and maintenance. Either way, the EMR is rarely the highest cost in a practice: billable time spent completing notes are. Heidi starts free and takes documentation off your plate when you use it with your existing EMR. You’re not adding another paid system when you offload the note-writing."
+   ],
+   "links": [
+    {
+     "t": "HIPAA-compliant",
+     "href": "/en-us/blog/hipaa-compliance"
+    }
+   ]
+  },
+  {
+   "q": "Which EMR system is the easiest to use for small practices?",
+   "a": [
+    "The easiest EMR system to use is a lightweight, cloud-based one that fits how your practice already works. For small practices, the real drain isn't the EMR; it's the ceaseless pile of documentation in it.",
+    "Heidi works across a growing set of EMRs, including Epic, Best Practice and Gentu. Your visit notes and downstream documents are ready without extra clicks or a system change."
+   ],
+   "links": [
+    {
+     "t": "small practices",
+     "href": "/en-gb/solutions/clinic"
+    }
+   ]
+  },
+  {
+   "q": "Is EMR software difficult to learn?",
+   "a": [
+    "EMR software can be challenging to learn at first, especially for clinicians moving from paper-based workflows. However, with proper onboarding and consistent use, most clinicians adapt quickly. If you want a smoother start, use clinician or patient explainers and one-pagers that make the first weeks easier."
+   ],
+   "links": [
+    {
+     "t": "clinician or patient explainers",
+     "href": "/en-gb/resource-centre"
+    }
+   ]
+  },
+  {
+   "q": "How much does an EMR system cost?",
+   "a": [
+    "The cost of an EMR system varies based on licensing, setup and customization fees, training, and ongoing support. Smaller practices may pay a lower monthly subscription, while larger organizations often face higher implementation costs. Additional expenses can include data migration and system upgrades."
+   ],
+   "links": [
+    {
+     "t": "subscription",
+     "href": "/en-gb/pricing"
+    },
+    {
+     "t": "implementation",
+     "href": "/en-gb/blog/ehr-implementation"
+    }
+   ]
+  },
+  {
+   "q": "What is the best EMR system to use?",
+   "a": [
+    "The best EMR system depends on factors such as practice size, specialty, workflow preferences, and integration needs. Large health systems often choose Epic for its scalability and interoperability. Many general practices prefer Best Practice for its simplicity, while specialists may choose Gentu for its cloud-based flexibility."
+   ],
+   "links": [
+    {
+     "t": "integration",
+     "href": "/en-gb/integrations"
+    }
+   ]
+  },
+  {
+   "q": "Can I use Dictate alongside Scribe?",
+   "a": [
+    "Yes, you can. Use Scribe for real-time visit transcription then use Dictate to edit notes via verbal commands. Dictate can also expand into quick snippets for your patient instructions and handover to your peers. Together in the Heidi platform, you complete intensive notes and other related documents faster without losing crucial clinical details."
+   ],
+   "links": [
+    {
+     "t": "Scribe",
+     "href": "/en-gb/scribe"
+    },
+    {
+     "t": "notes",
+     "href": "/en-gb/neurology-new-note-winkel-850a5fc0"
+    },
+    {
+     "t": "faster",
+     "href": "/en-gb/product/save-time"
+    }
+   ]
+  },
+  {
+   "q": "Can Dictate handle multilingual patient sessions?",
+   "a": [
+    "Yes, Dictate supports multilingual documentation. With its support for 90+ languages; you can adjust your settings on Heidi desktop. Your patients talk in their native language where they are most comfortable while you remain engaged with them.",
+    "There’s no need for translations. Your outputs come out in English or something you set and you don't lose crucial clinical details like exact symptoms or dosage."
+   ],
+   "links": [
+    {
+     "t": "remain engaged with them",
+     "href": "/en-gb/product/patient-focus"
+    }
+   ]
+  },
+  {
+   "q": "Can Dictate differentiate between medical details and care instructions correctly?",
+   "a": [
+    "Yes. Dictate separates clinical content from voice commands; Heidi’s clinical voice model handles medical details while a separate post-processing step interprets instructions.",
+    "By the time you have a draft for medication changes and care instructions, you won’t need to edit as much."
+   ],
+   "links": [
+    {
+     "t": "won’t need to edit as much",
+     "href": "/en-gb/product/save-time"
+    }
+   ]
+  },
+  {
+   "q": "Does Heidi Dictate work with Windows?",
+   "a": [
+    "Yes, Dictate runs in Heidi’s desktop app on both Windows and Mac, triggered by its hotkey. Many of the clinical systems neurologists use, like neurophysiology software, run on Windows too so Dictate works alongside the tools they already use."
+   ],
+   "links": [
+    {
+     "t": "Heidi’s desktop app",
+     "href": "/en-gb/download"
+    }
+   ]
+  },
+  {
+   "q": "How is Heidi Dictate different from other dictation tools?",
+   "a": [
+    "Heidi Dictate is different from other dictation tools because it sits inside Heidi's AI Care Partner platform, alongside Scribe and the visit note, in one place. It costs less than a separate dictation tool.",
+    "Practices get clinical utility beyond dictation from Heidi's connected platform, while clinicians no longer have to experience the mental fatigue that comes from switching between different tools and workspaces."
+   ],
+   "links": [
+    {
+     "t": "Heidi Dictate",
+     "href": "https://ctate"
+    },
+    {
+     "t": "costs less",
+     "href": "/en-gb/pricing"
+    }
+   ]
+  },
+  {
+   "q": "How can I create my own medical report template?",
+   "a": [
+    "With Heidi, you can create your own medical report template by going to “Template library,” pressing or left-clicking on “Create template,” and then either creating a new template from scratch or modifying an existing template for your own use. You can paste a template you copied and modify it according to your specific needs. Review our guide for creating custom templates for more information."
+   ],
+   "links": [
+    {
+     "t": "guide for creating custom templates",
+     "href": "https://support.heidihealth.com/en/articles/9803972-creating-templates-in-heidi-a-basic-guide"
+    }
+   ]
+  },
+  {
+   "q": "Are medical report templates legally required?",
+   "a": [],
+   "links": []
+  }
+ ],
+ "resources-evaluation-framework": [
+  {
+   "q": "What is Heidi?",
+   "a": [
+    "Heidi is a multi-product AI care partner built around Scribe, Evidence, and Remote. It covers documentation, evidence-backed clinical answers, patient communications, and dedicated hardware for any care setting. It works across 200+ specialties in 110+ languages and connects with major EHR systems to support clinicians at every step of the clinical day."
+   ],
+   "links": []
+  },
+  {
+   "q": "How accurate is Heidi Scribe?",
+   "a": [
+    "Heidi achieves high documentation accuracy, built around the way clinicians like you think. Every note is a draft for your review. You stay in control of what gets finalized."
+   ],
+   "links": [
+    {
+     "t": "accuracy",
+     "href": "/en-gb/blog/ai-medical-transcription"
+    },
+    {
+     "t": "review",
+     "href": "/en-gb/blog/review-of-systems-template"
+    }
+   ]
+  },
+  {
+   "q": "Is AI clinical notes software reliable enough for daily use?",
+   "a": [
+    "Yes. It handles the documentation load so clinicians can focus on patients. This way, they avoid burnout since they can reclaim several hours of their day from documentation."
+   ],
+   "links": [
+    {
+     "t": "burnout",
+     "href": "/en-gb/blog/physician-burnout"
+    }
+   ]
+  }
+ ],
+ "about-us-awards": [
+  {
+   "q": "What is Heidi?",
+   "a": [
+    "Heidi is a multi-product AI care partner built around Scribe, Evidence, and Remote. It covers documentation, evidence-backed clinical answers, patient communications, and dedicated hardware for any care setting. It works across 200+ specialties in 110+ languages and connects with major EHR systems to support clinicians at every step of the clinical day."
+   ],
+   "links": []
+  },
+  {
+   "q": "What is the significance of Heidi being ISO 42001-certified?",
+   "a": [
+    "ISO 42001 is the international standard for AI management systems. Heidi’s certification means our AI systems are governed by a formal AI Management System covering ethical oversight, risk management, and data governance and accountability for the full AI lifecycle.",
+    "Heidi also holds ISO 27001 and SOC 2 Type II certifications and complies with HIPAA, NHS, GDPR, PIPEDA, and the Australian Privacy Principles, among others."
+   ],
+   "links": [
+    {
+     "t": "among others",
+     "href": "/en-gb/safety"
+    }
+   ]
+  },
+  {
+   "q": "What are examples of Heidi’s impact on clinical outcomes?",
+   "a": [
+    "Real-world evaluations show what changes when documentation stops following you home. In the UK, clinicians reported 86% less time documenting, and patient satisfaction was held at 90% after using Heidi. Across Australia, Heidi’s impact on documentation is rated at 97% accuracy by clinicians and, after hours of work, drops to 87%, returning their time to focus on delivering human-centered care."
+   ],
+   "links": [
+    {
+     "t": "UK",
+     "href": "/en-gb/blog/impact-report"
+    },
+    {
+     "t": "Heidi’s impact",
+     "href": "/en-au/blog/impact-report"
+    }
+   ]
+  },
+  {
+   "q": "What is Heidi’s overall return on investment (ROI)?",
+   "a": [
+    "Clinicians using Heidi save an average of 7.4 hours per week on documentation, creating a measurable ROI through reduced admin burden, improved capacity, and lower physician burnout. At MaineGeneral Hospital, 98% of the first clinician cohort adopted Heidi, with staff saving an average of 2 hours daily while reducing cognitive load and improving note quality."
+   ],
+   "links": [
+    {
+     "t": "measurable ROI",
+     "href": "/en-gb/resources/roi"
+    },
+    {
+     "t": "physician burnout",
+     "href": "/en-gb/blog/physician-burnout"
+    },
+    {
+     "t": "MaineGeneral Hospital,",
+     "href": "/en-gb/customers/mainegeneral-health"
+    }
+   ]
+  },
+  {
+   "q": "What can customers expect from Heidi in the future?",
+   "a": [
+    "Heidi is continuing to expand its AI Care Partner capabilities across more specialties, care settings, and clinical workflows. While the core mission remains constant, Heidi’s capabilities will continue expanding across documentation, clinical evidence, patient communication, and workflow coordination. Future development will focus on connected care workflows, stronger interoperability with existing systems, and tools that support clinicians across the full term cycle of care. Heidi will also keep raising the bar in enterprise-grade security, compliance, and reliability to support adoption across practices and health systems globally."
+   ],
+   "links": []
+  }
+ ]
+}

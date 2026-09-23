@@ -1,0 +1,68 @@
+{
+  "id": "band.center-showcase",
+  "category": "feature",
+  "purpose": "Centered showcase panel with a large visual.",
+  "measuredFrom": "src/components/bands/index.jsx:534-557 (CenterShowcase)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "lead": {
+        "type": "string",
+        "maxWords": 40
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "visual": {
+        "type": "object",
+        "properties": {
+          "assetRole": {
+            "const": "illustrative-photo"
+          },
+          "alt": {
+            "type": "string",
+            "maxWords": 20
+          }
+        },
+        "required": [
+          "assetRole",
+          "alt"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "title",
+      "lead",
+      "cta",
+      "visual"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

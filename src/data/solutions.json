@@ -1,0 +1,1391 @@
+{
+ "primary-care": {
+  "day": {
+   "intro": "Heidi listens to your patient interactions, gives you clean clinical answers without switching tabs, and handles the routine contact your practice fields every day.",
+   "items": [
+    {
+     "title": "Walk in feeling prepared",
+     "body": "Add patient information on Heidi making it easier to review your patient list and check key context before each patient interaction. Know what's coming before the door opens.",
+     "img": "/assets/pages/ee3a0b7e73e826ad33bd0edabd2d5f4c8209cec6-1200x1200.png",
+     "alt": "Context"
+    },
+    {
+     "title": "Focus remains on your patient",
+     "body": "Heidi listens to your consult, builds your note in real time, and has every follow-up letter ready before your last patient leaves. The documentation ends when the clinic does.",
+     "img": "/assets/pages/27a0f96117d2934c114cad20571e53790aa9b323-1200x1200.png",
+     "alt": "Two people in conversation with a UI of \"Start Transcribing\" overlayed."
+    },
+    {
+     "title": "Get answers without breaking flow",
+     "body": "Need to check a prescribing guideline or pull a referral? Evidence gives you cited, verifiable answers while your patient is still in the room. Add your own source library to make it yours.",
+     "img": "/assets/pages/f3658c1fa35dae960f401af0d2a8c17f08073a70-1188x1200.png",
+     "alt": "Ask Heidi"
+    }
+   ]
+  },
+  "stats": {
+   "heading": "Notes done faster, evenings back, quality never compromised",
+   "cards": [
+    {
+     "value": "51% less documentation",
+     "caption": "decrease in time spend documenting during patient interactions.",
+     "icon": "file-down"
+    },
+    {
+     "value": "61%",
+     "caption": "reduction in after hours admin.",
+     "icon": "clock-fading"
+    },
+    {
+     "value": "97%",
+     "caption": "of clinicians rate Heidi's document quality as excellent.",
+     "icon": "medal"
+    }
+   ]
+  },
+  "templates": {
+   "eyebrow": "In practice",
+   "heading": "Built for primary care",
+   "cta": {
+    "t": "Explore Templates",
+    "href": "https://www.heidihealth.com/templates"
+   },
+   "body": "Start with a template from the community or create your own from scratch. Configure it to your speciality and apply it instantly. The note that comes out sounds like you wrote it, because you shaped every part of it.",
+   "items": [
+    {
+     "name": "Main template GP consult",
+     "img": {
+      "src": "/assets/pages/9e5e1e7f3500c1ca53fe8e0d3f5dfb75f404182d-1260x1260.png",
+      "alt": "Review",
+      "w": 643,
+      "h": 643
+     }
+    },
+    {
+     "name": "Problem Based Primary Clinic Note",
+     "img": {
+      "src": "/assets/pages/b7d94faf51797891d22cbff183caef7528f95d7b-1278x1260.png",
+      "alt": "Problem Based Primary Clinic Note",
+      "w": 643,
+      "h": 634
+     }
+    },
+    {
+     "name": "Family Medicine Specialist's Note",
+     "img": {
+      "src": "/assets/pages/0f4c126f36919d2df5b01221943ed3076b68adf9-1260x1260.png",
+      "alt": "Family medicine ",
+      "w": 643,
+      "h": 643
+     }
+    },
+    {
+     "name": "SOAP Note",
+     "img": {
+      "src": "/assets/pages/b1979ebddc84ac51bf8c30a4b0fbe9d62320c653-1260x1260.png",
+      "alt": "SOAP Note",
+      "w": 643,
+      "h": 643
+     }
+    },
+    {
+     "name": "Referral Letter",
+     "img": {
+      "src": "/assets/pages/0f6c0b90ec9c4e826fece6657a2da92e17db0ac3-1260x1260.png",
+      "alt": "Referral Letter",
+      "w": 643,
+      "h": 643
+     }
+    }
+   ]
+  },
+  "video": null,
+  "testimonials": {
+   "heading": "Hear from primary care clinicians already using Heidi",
+   "link": {
+    "t": "Read customer stories",
+    "href": "/en-gb/customers"
+   },
+   "items": [
+    {
+     "quote": "“The best thing since sliced bread. It's reinvigorated my love for general practice. Now I can try and do all the things that I want to achieve for my patients in each consult.”",
+     "name": "Dr Candida Hatherley",
+     "title": "General Practitioner, Practice Owner"
+    },
+    {
+     "quote": "“I use it for all my consults. Now, Heidi is my main go-to for all my note taking and my scribing for clinic use. I barely do any typing on my own nowadays.”",
+     "name": "Dr Alexander Ho",
+     "title": "Family Medicine Specialist"
+    },
+    {
+     "quote": "“Heidi’s completely changed my workflow - it's essential to my practice. Without typing notes during consults, I focus fully on patients - eye contact, conversation, and thorough assessments. Instead of midnight notes, now I finish immediately after each consult.”",
+     "name": "Dr. Henry Konopnicki",
+     "title": "General Practitioner"
+    }
+   ]
+  },
+  "templateGrid": null,
+  "heroVisual": {
+   "src": "/assets/solutions/hero-primary-care.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "Back-to-back patients, zero documentation backlog": "/assets/solutions/feature-primary-care-2.png",
+   "Check a guideline without leaving the visit": "/assets/solutions/feature-primary-care-3.png",
+   "Everything you write between patients": "/assets/solutions/feature-primary-care-4.png"
+  },
+  "chipIcon": true
+ },
+ "medical-specialties": {
+  "day": {
+   "intro": null,
+   "items": [
+    {
+     "title": "Defensible documentation, every session",
+     "body": "Heidi listens while you work. Letters and notes drafted in your preferred structure ready to review and ready to send. Configure your specialty template once, reuse it every session.",
+     "img": "/assets/pages/d8bbaa0b85dda4bbe885782eaaa51b6ce34f856f-1200x1200.jpg",
+     "alt": "Context"
+    },
+    {
+     "title": "Evidence mid-session, no tab avalanche",
+     "body": "A clinical question comes up. Heidi surfaces cited, peer-reviewed answers without switching tabs. Click the source, verify it, and stay present with your patient.",
+     "img": "/assets/pages/353ea8e5c9faa2f4723f63f3e41409d8f6eb6028-1200x1200.jpg",
+     "alt": "Two people in conversation with a UI of \"Start Transcribing\" overlayed."
+    },
+    {
+     "title": "From the rooms to the ward, nothing lost",
+     "body": "Private rooms in the morning, hospital outpatient in the afternoon. Heidi captures notes offline and syncs automatically. The site never determines whether the note gets done.",
+     "img": "/assets/pages/0c10af974d112a74c95d7b265c4f9bb12591135c-1200x1200.jpg",
+     "alt": "Ask Heidi"
+    }
+   ]
+  },
+  "stats": null,
+  "video": null,
+  "testimonials": {
+   "heading": "Hear from Specialists already using Heidi",
+   "link": {
+    "t": "Read customer stories",
+    "href": "https://www.heidihealth.com/customers"
+   },
+   "items": [
+    {
+     "quote": "“Heidi has quietly raised the floor of what my documentation looks like on my busiest days. On a busy day, that floor matters more than the ceiling.”",
+     "name": "Alex Hwong-Ruey Leow",
+     "title": "Consultant Gastroenterologist and Hepatologist"
+    },
+    {
+     "quote": "“I can’t believe we ever lived without Heidi Health. It’s been a huge time-saver and a far more detailed way of keeping track of progress through therapy.”",
+     "name": "Romy Cohen",
+     "title": "The Forbury Clinic"
+    },
+    {
+     "quote": "“I leave the clinic with this sense of ease that I’ve done everything. It’s not this cloud hanging over you. It’s a lightness.”",
+     "name": "Dr Louise Nott",
+     "title": "Director of Medical Oncology"
+    }
+   ]
+  },
+  "templateGrid": {
+   "heading": "Every Specialist template made yours",
+   "eyebrow": null,
+   "body": null,
+   "cta": null,
+   "cards": [
+    {
+     "href": "/en-gb/templates/response-to-referral-letter-ef539097",
+     "kind": "Document",
+     "title": "Response to referral letter",
+     "author": "Jim Callaghan",
+     "specialty": "Gastroenterologist",
+     "count": 4,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/high-risk-anaesthesia-clinic-d444e541",
+     "kind": "Note",
+     "title": "High Risk Anaesthesia Clinic",
+     "author": "madankumar narayanan",
+     "specialty": "Adult Intensive Care Specialist",
+     "count": 18,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/formal-clinic-letter-1d68735c",
+     "kind": "Document",
+     "title": "Formal clinic letter",
+     "author": "Anonymous",
+     "specialty": "Gastroenterologist",
+     "count": 38,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/follow-up-appointment-female-a6954a98",
+     "kind": "Note",
+     "title": "Follow up appointment - female",
+     "author": "Susannah Woodrow",
+     "specialty": "Gastroenterologist",
+     "count": 5,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/new-male-general-outpatient-review-33707f3d",
+     "kind": "Note",
+     "title": "New Male General Outpatient review",
+     "author": "Susannah Woodrow",
+     "specialty": "Gastroenterologist",
+     "count": 4,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/gastroenterology-letter-fdb738cd",
+     "kind": "Note",
+     "title": "Gastroenterology letter",
+     "author": "Doctor MEDii",
+     "specialty": "Endocrinologist",
+     "count": 5,
+     "flag": "United Kingdom"
+    }
+   ]
+  },
+  "heroVisual": {
+   "src": "/assets/solutions/hero-medical-specialties.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "Documentation that holds up to a second opinion": "/assets/solutions/feature-medical-specialties-2.png",
+   "Peer-reviewed answers, no corridor guesswork": "/assets/solutions/feature-medical-specialties-3.png",
+   "The site never stops the note": "/assets/solutions/feature-medical-specialties-4.png",
+   "Speak, don’t type it": "/assets/solutions/feature-medical-specialties-5.png"
+  },
+  "chipIcon": false
+ },
+ "nurses": {
+  "day": {
+   "intro": "Heidi listens to your patient interactions, gives you clinical answers without switching tabs, and handles the routine contact your practice fields every day.",
+   "items": [
+    {
+     "title": "Every patient, every note, one shift",
+     "body": "Capture observations during or after rounds and generate a clean nursing progress note or shift summary fast, consistent, and still make time to connect with patients.",
+     "img": "/assets/pages/2e08571f7a5155255c2c4196b131761b786ebd05-1188x1200.png",
+     "alt": "Context"
+    },
+    {
+     "title": "Care plans that move with your shift",
+     "body": "Draft or update care plans from spoken input problems, goals, interventions, evaluation, especially useful when the plan needs frequent iteration across a shift.",
+     "img": "/assets/pages/e1a36b4b5e0faea2b45f7a68cb28f42424a7dbb5-1188x1200.png",
+     "alt": "Ask Heidi"
+    },
+    {
+     "title": "Verify without leaving the bedside",
+     "body": "Ask questions nurses commonly need to verify quickly (medication checks, protocols, assessment criteria) and get a cited, checkable answer to support clinical decision-making.",
+     "img": "/assets/pages/68f22711e187c09d82191422c211eea0fc4b5062-1200x1200.png",
+     "alt": "Comms tab"
+    }
+   ]
+  },
+  "stats": {
+   "heading": "More time for the care you trained to give",
+   "cards": [
+    {
+     "value": "98%",
+     "caption": "Of nurses save documentation time every shift.",
+     "icon": "timer-reset"
+    },
+    {
+     "value": "45 minutes",
+     "caption": "Average minutes saved per shift.",
+     "icon": "clock-arrow-up"
+    },
+    {
+     "value": "1 in 2",
+     "caption": "Nurses finish on time more often.",
+     "icon": "circle-check"
+    }
+   ]
+  },
+  "video": {
+   "heading": "Heidi for Nurses",
+   "sub": "How nurses cut documentation time with Heidi",
+   "tag": "IFRAME",
+   "src": "https://www.youtube.com/embed/1llR2UtJtlU?autoplay=1&mute=1&playsinline=1&modestbranding=1&rel=0&cc_load_policy=1&cc_lang_pref=en&hl=en",
+   "html": null
+  },
+  "testimonials": {
+   "heading": "Hear from nurses already using Heidi",
+   "link": {
+    "t": "Read customer stories",
+    "href": "/en-gb/customers"
+   },
+   "items": [
+    {
+     "quote": "“I can have engaging conversations with my patients instead of typing through the whole visit. The eye to eye contact really helps me connect with my patients.”",
+     "name": "Shelley Reed",
+     "title": "APRN-Family Nurse Practitioner at Landmark Family Health USA"
+    },
+    {
+     "quote": "“Heidi allows me to be present and engaged and helps makes my notes better without any concern of replacing the human element. I don't feel like it steps on my toes at all.”",
+     "name": "Corey Dickinson",
+     "title": "Family Nurse Practitioner"
+    },
+    {
+     "quote": "“If Heidi didn’t exist, I’d probably be spending hours more on administrative tasks. It’s been a peace of mind knowing that it’s taken care of.”",
+     "name": "Emmah Madondo",
+     "title": "Mental Health Nurse non-medical prescriber at Northamptonshire Healthcare Foundation Trust"
+    }
+   ]
+  },
+  "templateGrid": {
+   "heading": "Every nursing template you need, made yours",
+   "eyebrow": null,
+   "body": "No need to start from scratch. Pick a template from our community and easily tailor it to match your workflow and style.",
+   "cta": {
+    "t": "Explore Templates",
+    "href": "https://www.heidihealth.com/templates"
+   },
+   "cards": [
+    {
+     "href": "/en-gb/templates/medical-template-a5541b15",
+     "kind": "Document",
+     "title": "Medical Template",
+     "author": "Anonymous",
+     "specialty": "Nurse",
+     "count": 12,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/mssn-home-visit-a04d30f8",
+     "kind": "Document",
+     "title": "Home Visit",
+     "author": "Sarah Hughes",
+     "specialty": "Specialised Nurse",
+     "count": 7,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/mssn-ms-annual-review-document-31a5c0ad",
+     "kind": "Document",
+     "title": "MS Annual Review Document",
+     "author": "Sarah Hughes",
+     "specialty": "Specialised Nurse",
+     "count": 3,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/mssn-disease-modifying-therapy-initiation-3ede7688",
+     "kind": "Document",
+     "title": "Disease Modifying Therapy Initiation",
+     "author": "Sarah Hughes",
+     "specialty": "Specialised Nurse",
+     "count": 0,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/mssn-symptom-management-plan-997165b4",
+     "kind": "Document",
+     "title": "Symptom Management Plan",
+     "author": "Sarah Hughes",
+     "specialty": "Specialised Nurse",
+     "count": 1,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/mssn-ms-clinic-1bee9504",
+     "kind": "Document",
+     "title": "MS Clinic",
+     "author": "Sarah Hughes",
+     "specialty": "Specialised Nurse",
+     "count": 1,
+     "flag": "United Kingdom"
+    }
+   ]
+  },
+  "heroVisual": {
+   "src": "/assets/solutions/hero-nurses.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "Document across the shift, not after it": "/assets/solutions/feature-nurses-2.png",
+   "Answers at the bedside, with the sources to back them": "/assets/solutions/feature-nurses-3.png"
+  },
+  "chipIcon": false
+ },
+ "mental-health": {
+  "day": {
+   "intro": "Session documentation, clinical answers, and routine follow-up handled, so you can give every client the attention they came for.",
+   "items": [
+    {
+     "title": "Set the session up right",
+     "body": "Heidi prompts you to capture consent, applies the right privacy settings, and surfaces previous notes and assessments before the first word is spoken.",
+     "img": "/assets/pages/735340cde03c4ebb9f61dc91dcc631aed092591d-1200x1200.png",
+     "alt": "Context"
+    },
+    {
+     "title": "Stay in the room",
+     "body": "Heidi listens and transcribes in real time, for the full length of a long session. Your attention stays on the person in front of you, not the screen beside you.",
+     "img": "/assets/pages/6c257c77b95adef0b2ec844f73547d33c1379ad1-1200x1200.jpg",
+     "alt": "Two people in conversation with a UI of \"Start Transcribing\" overlayed."
+    },
+    {
+     "title": "Get answers without breaking flow",
+     "body": "When a clinical question comes up mid-session, Evidence surfaces a cited, verifiable answer without interrupting the conversation. Transparent, and traceable to the source.",
+     "img": "/assets/pages/3527151f102308cf6c5be81309335cfd9daaacb2-1188x1200.png",
+     "alt": "Ask Heidi"
+    },
+    {
+     "title": "Build your note, your way",
+     "body": "Heidi turns the session into an editable note in your preferred format, whether that's SOAP, DAP, BIRP, or narrative, and generates your GP letter, MHTP review, and referral from the same source.",
+     "img": "/assets/pages/7ccef437ee317003957e11d902680ec6d5d534e3-1200x1200.png",
+     "alt": "Note"
+    }
+   ]
+  },
+  "stats": {
+   "heading": "More clients. Less admin. Trusted worldwide.",
+   "cards": [
+    {
+     "value": "+2",
+     "caption": "patients seen per provider.",
+     "icon": "user-round"
+    },
+    {
+     "value": "14 hrs",
+     "caption": "saved on documentation per week.",
+     "icon": "file-clock"
+    },
+    {
+     "value": "170+ countries",
+     "caption": "Trusted by clinicians across the globe.",
+     "icon": "earth"
+    }
+   ]
+  },
+  "video": null,
+  "testimonials": {
+   "heading": "Hear from mental health specialists already using Heidi",
+   "link": {
+    "t": "Read customer stories",
+    "href": "https://www.heidihealth.com/customers"
+   },
+   "items": [
+    {
+     "quote": "“Before using Heidi, I was juggling multiple roles, including clinical work and studying, which left little time for patient care and documentation. Now, I finish my work on time, spend less time on paperwork, and have more energy to focus on my patients and studies.”",
+     "name": "Emmah Madondo",
+     "title": "Mental Health Nurse non-medical prescriber"
+    },
+    {
+     "quote": "“I trust it highly. It captures all of the discussions, less prompting, less edit time. At the end of the day, I can go on and catch up on messages or just be more engaged and present at home with my wife and kids.”",
+     "name": "Dr. Ifeanyi Olele",
+     "title": "Genesis Psychiatric Solutions and Genesis TMS & Wellness"
+    },
+    {
+     "quote": "“Using Heidi during my sessions has enabled me to focus 100% on the client. Reviewing the transcript takes only a few minutes, and the accuracy is excellent — better than if I’d written it myself. On a day of six sessions, Heidi saves me between one and two hours of note-typing.”",
+     "name": "The Edinburgh Practice",
+     "title": "Clinic"
+    }
+   ]
+  },
+  "templateGrid": {
+   "heading": "Built for mental health",
+   "eyebrow": null,
+   "body": null,
+   "cta": null,
+   "cards": [
+    {
+     "href": "/en-gb/templates/full-psychiatric-assessment-3bcbdf94",
+     "kind": "Note",
+     "title": "FULL PSYCHIATRIC ASSESSMENT",
+     "author": "Gregory Shields",
+     "specialty": "Psychiatrist",
+     "count": 117,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/h-p-custom-2700ed73",
+     "kind": "Note",
+     "title": "H & P",
+     "author": "Mahmood Rahman",
+     "specialty": "Psychiatrist",
+     "count": 13,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/psychiatric-follow-up-letter-7e9dbda2",
+     "kind": "Note",
+     "title": "Psychiatric Follow-Up Letter",
+     "author": "Gregory Shields",
+     "specialty": "Psychiatrist",
+     "count": 28,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/psychiatry-note-ff6169d7",
+     "kind": "Note",
+     "title": "Psychiatry Note",
+     "author": "Anonymous",
+     "specialty": "Psychiatrist",
+     "count": 44,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/sleep-study-report-1377629b",
+     "kind": "Document",
+     "title": "Sleep Study report",
+     "author": "Nik Gkampranis",
+     "specialty": "Psychiatrist",
+     "count": 12,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/generic-cbt-session-note-aa774b5d",
+     "kind": "Note",
+     "title": "Generic CBT Session Note",
+     "author": "William Cowey",
+     "specialty": "Psychotherapist",
+     "count": 32,
+     "flag": "United Kingdom"
+    }
+   ]
+  },
+  "heroVisual": {
+   "src": "/assets/solutions/hero-mental-health.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "Finish notes before you switch off": "/assets/solutions/feature-mental-health-2.png",
+   "Answers you can stand behind": "/assets/solutions/feature-mental-health-3.png"
+  },
+  "chipIcon": false
+ },
+ "allied-health": {
+  "day": {
+   "intro": null,
+   "items": [
+    {
+     "title": "The session ends, so does the note",
+     "body": "Your format, your discipline, no rewriting. The NDIS report that used to take an evening is done before you leave.",
+     "img": "/assets/pages/5819bb71f3e18ddc0faa91392a691125f82472ff-1200x1200.jpg",
+     "alt": "Doc generation"
+    },
+    {
+     "title": "Mid-session question, cited answer",
+     "body": "The answer you can act on, right when you need it. Every source openable, traceable and aligned to your organization's own clinical guidelines.",
+     "img": "/assets/pages/e066b5ce107524e79b7305964acc9ffa448fe80d-1200x1200.jpg",
+     "alt": "Two people in conversation with a UI of \"Start Transcribing\" overlayed."
+    },
+    {
+     "title": "Documentation that keeps up with you",
+     "body": "Hands-free capture across every setting, online or offline. Notes sync when you're back.",
+     "img": "/assets/pages/283f48c81b2345c62ef7a66435ff9a2619bdf9e4-1200x1200.jpg",
+     "alt": "Ask Heidi"
+    }
+   ]
+  },
+  "stats": {
+   "heading": null,
+   "cards": [
+    {
+     "value": "59 minutes",
+     "caption": "Of capacity released per clinician, per day.",
+     "icon": "clock-plus"
+    },
+    {
+     "value": "97%",
+     "caption": "Of clinicians rate Heidi's document quality as excellent.",
+     "icon": "file-badge2"
+    },
+    {
+     "value": "93%",
+     "caption": "Less burnout.",
+     "icon": "sunrise"
+    }
+   ]
+  },
+  "video": null,
+  "testimonials": {
+   "heading": "Hear from allied health specialists already using Heidi",
+   "link": {
+    "t": "Read customer stories",
+    "href": "https://www.heidihealth.com/customers"
+   },
+   "items": [
+    {
+     "quote": "“All it takes is seeing two or three extra patients a month to cover the cost of my Heidi subscription. It's a no brainer.”",
+     "name": "Lachlan Fooks",
+     "title": "APA Sports & Exercise Physio"
+    },
+    {
+     "quote": "“The level of detail I’m getting from Heidi would have taken me an additional 6-7 hours to do manually.”",
+     "name": "Shanan Nelson",
+     "title": "Director and Senior Physiotherapist"
+    },
+    {
+     "quote": "“It really has helped keep my head above water when I’ve got a tidal wave of sessions and admin coming towards me.”",
+     "name": "Imogen Dean",
+     "title": "Speech Language Pathologist"
+    }
+   ]
+  },
+  "templateGrid": {
+   "heading": "Built for allied health",
+   "eyebrow": null,
+   "body": "No need to start from scratch. Pick a template from our community and easily tailor it to match your workflow and style.",
+   "cta": null,
+   "cards": [
+    {
+     "href": "/en-gb/templates/soap-note-custom-a4418474",
+     "kind": "Document",
+     "title": "SOAP Note (custom)",
+     "author": "zaynab shahid",
+     "specialty": "Pharmacist",
+     "count": 38,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/ibclc-and-tongue-tie-practitioner-summary-of-care-template-0fbcf3b6",
+     "kind": "Document",
+     "title": "IBCLC and Tongue Tie Practitioner Summary of care template",
+     "author": "Suzanne Barber",
+     "specialty": "Lactation Consultant",
+     "count": 16,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/ot-assessment-template-91a46e9e",
+     "kind": "Document",
+     "title": "OT Assessment Template",
+     "author": "David Bracher",
+     "specialty": "Pharmacist",
+     "count": 32,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/vertigo-8fd0e42b",
+     "kind": "Note",
+     "title": "Vertigo",
+     "author": "Kayla Baradel",
+     "specialty": "Audiologist",
+     "count": 21,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/ibclc-and-frenulotomy-857aedc9",
+     "kind": "Note",
+     "title": "IBCLC and frenulotomy",
+     "author": "Suzanne Barber",
+     "specialty": "Lactation Consultant",
+     "count": 14,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/nhs-gos-sight-test-f2586406",
+     "kind": "Note",
+     "title": "NHS GOS Sight Test",
+     "author": "Iain Mellis",
+     "specialty": "Optometrist",
+     "count": 3,
+     "flag": "United Kingdom"
+    }
+   ]
+  },
+  "heroVisual": {
+   "src": "/assets/solutions/hero-allied-health.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "No session left undocumented": "/assets/solutions/feature-allied-health-2.png",
+   "Clinical calls, fully traceable": "/assets/solutions/feature-allied-health-3.png",
+   "Clear capture, wherever the session is": "/assets/solutions/feature-allied-health-4.png"
+  },
+  "chipIcon": false
+ },
+ "dentists": {
+  "day": {
+   "intro": null,
+   "items": [
+    {
+     "title": "Write the note without typing through the visit",
+     "body": "Your hands are in the mouth, so the note gets reconstructed from memory. Heidi listens chair-side and has the procedure note written before the chair empties.",
+     "img": "/assets/pages/e91a0223e3ce465cc5b926b9538e54d16ed184ab-1200x1200.jpg",
+     "alt": "Context"
+    },
+    {
+     "title": "Get the medical-history answered, mid-chair",
+     "body": "Antibiotic prophylaxis before extraction, anticoagulant management, or local anaesthetic max dose. Heidi gives a cited, answer without leaving the chair.",
+     "img": "/assets/pages/fdc1d94f38def73871ac7d5c5ec6b716a636188c-1200x1200.jpg",
+     "alt": "Two people in conversation with a UI of \"Start Transcribing\" overlayed."
+    },
+    {
+     "title": "Make the note match how you actually chart",
+     "body": "An ortho assessment, a perio chart, and an extraction note aren't the same shape. Heidi adapts to the procedure, the specialty, and your own structure instead of forcing one template.",
+     "img": "/assets/pages/ddecb20d1f831de1c56856ad6df3c57031460a7a-1200x1200.jpg",
+     "alt": "Ask Heidi"
+    }
+   ]
+  },
+  "stats": {
+   "heading": "Time back, presence in",
+   "cards": [
+    {
+     "value": "14 hrs",
+     "caption": "Saved on documentation per week.",
+     "icon": "file-clock"
+    },
+    {
+     "value": "97%",
+     "caption": "Of clinicians rate Heidi's document quality as excellent.",
+     "icon": "book-check"
+    },
+    {
+     "value": "93%",
+     "caption": "Less burnout.",
+     "icon": "cloud-sun"
+    }
+   ]
+  },
+  "video": null,
+  "testimonials": null,
+  "templateGrid": {
+   "heading": "Every Dentistry template you need, made yours.",
+   "eyebrow": null,
+   "body": "No need to start from scratch. Pick a template from our community and easily tailor it to match your workflow and style.",
+   "cta": null,
+   "cards": [
+    {
+     "href": "/en-gb/templates/orthodontic-assessment-7cc799ed",
+     "kind": "Note",
+     "title": "😁 Orthodontic Assessment",
+     "author": "Shivam Kotecha",
+     "specialty": "Dentist",
+     "count": 44,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/dental-examination-regular-beed7966",
+     "kind": "Note",
+     "title": "Dental Examination - Regular",
+     "author": "Victoria Holden",
+     "specialty": "Dentist",
+     "count": 42,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/new-patient-assessment-7c0c8fb0",
+     "kind": "Note",
+     "title": "New Patient Assessment",
+     "author": "Victoria Holden",
+     "specialty": "Dentist",
+     "count": 30,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/orthodontic-assessment-564cd0fd",
+     "kind": "Note",
+     "title": "Orthodontic Assessment",
+     "author": "Victoria Holden",
+     "specialty": "Dentist",
+     "count": 3,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/general-letter-and-notes-3f62d983",
+     "kind": "Note",
+     "title": "General letter and notes",
+     "author": "Carrie Newlands",
+     "specialty": "Oral Maxillofacial Surgeon",
+     "count": 11,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/skin-1st-appt-letter-pt-summary-detailed-notes-outcomes-35ca9b24",
+     "kind": "Note",
+     "title": "OMFS Initial Consultation Letter - Lesion Assessment & Surgical Planning",
+     "author": "Carrie Newlands",
+     "specialty": "Oral Maxillofacial Surgeon",
+     "count": 9,
+     "flag": "United Kingdom"
+    }
+   ]
+  },
+  "heroVisual": {
+   "src": "/assets/solutions/hero-dentists.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "No more drilling into paperwork": "/assets/solutions/feature-dentists-2.png",
+   "Fill in the gaps": "/assets/solutions/feature-dentists-3.png"
+  },
+  "chipIcon": false
+ },
+ "aged-care": {
+  "day": {
+   "intro": null,
+   "items": [
+    {
+     "title": "Every client seen, every note captured",
+     "body": "Transcribe or dictate in your first language and generate the draft note in English. Heidi captures the interaction as it happens and where it happens.",
+     "img": "/assets/pages/4d041dbd9a441da48b2bb7044ea6f657c0fd73dc-1200x1186.png",
+     "alt": "Context"
+    },
+    {
+     "title": "Answers you can act on",
+     "body": "Check a falls prevention guideline mid round. Heidi Evidence gives you verifiable, cited answers whether you are at the nurses station or on a mobile device at a home visit.",
+     "img": "/assets/pages/5303b9fdda963d663f07b7e58968ef80e39cf4d8-1200x1200.jpg",
+     "alt": "Two people in conversation with a UI of \"Start Transcribing\" overlayed."
+    },
+    {
+     "title": "Documentation at the point of care",
+     "body": "Heidi generates structured documentation against your required elements, and gives newer staff confidence to get it right the first time.",
+     "img": "/assets/pages/a61a261c275f0652eb49ef4aae8bee8184d61f40-1200x1200.jpg",
+     "alt": "Doc generation"
+    }
+   ]
+  },
+  "stats": {
+   "heading": "Heidi is proven to help",
+   "cards": [
+    {
+     "value": "59 mins",
+     "caption": "Of capacity released per clinician, per day.",
+     "icon": "stethoscope"
+    },
+    {
+     "value": "81%",
+     "caption": "Of clinicians reported reduced cognitive load.",
+     "icon": "brain-cog"
+    },
+    {
+     "value": "78%",
+     "caption": "Reported increased enjoyment at work.",
+     "icon": "smile-plus"
+    }
+   ]
+  },
+  "templates": {
+   "eyebrow": "In practice",
+   "heading": "Every aged care template you need, made yours",
+   "cta": {
+    "t": "Explore Templates",
+    "href": "https://www.heidihealth.com/templates"
+   },
+   "body": "No need to start from scratch. Pick a template from our community and easily tailor it to match your workflow and style.",
+   "items": [
+    {
+     "name": "Care note",
+     "img": {
+      "src": "/assets/pages/49010e93ce966c2dd40d48699c59e037abd95045-1260x1260.png",
+      "alt": "Care note",
+      "w": 643,
+      "h": 643
+     }
+    },
+    {
+     "name": "Falls risk assessment",
+     "img": {
+      "src": "/assets/pages/a78ab3d928067665941ef119d48a2a281ca6e269-1278x1260.png",
+      "alt": "Problem Based Primary Clinic Note",
+      "w": 643,
+      "h": 634
+     }
+    },
+    {
+     "name": "Wound documentation",
+     "img": {
+      "src": "/assets/pages/0121e3b1a5b019fbac850458e4aa6c89d9e81708-1260x1260.png",
+      "alt": "Wound assessment",
+      "w": 643,
+      "h": 643
+     }
+    },
+    {
+     "name": "Family update",
+     "img": {
+      "src": "/assets/pages/6c82a33dcc0c2b5bc903a1161d60035774f29ed8-1260x1260.png",
+      "alt": "Family Update",
+      "w": 643,
+      "h": 643
+     }
+    }
+   ]
+  },
+  "video": null,
+  "testimonials": {
+   "heading": "Hear from aged care specialists already using Heidi",
+   "link": {
+    "t": "Read customer stories",
+    "href": "https://www.heidihealth.com/customers"
+   },
+   "items": [
+    {
+     "quote": "“It has revolutionised the way that we work. Heidi delivers exactly what it promises. We love it.”",
+     "name": "Rachel Hollis",
+     "title": "General Manager, Clinical and People Services"
+    },
+    {
+     "quote": "“The 10 hours I’m saving a week has enabled me to do the things I love. It literally pays off what Heidi’s done.”",
+     "name": "Justin Aniello",
+     "title": "Metabolic and Aged Care Dietitian, APD"
+    },
+    {
+     "quote": "“Heidi saves me more than two weeks a year.”",
+     "name": "Dr. Gihan de Mel",
+     "title": "MBBS(Syd), BBioMedSc(Melb), FRACGP Specialist GP/Family Physician"
+    }
+   ]
+  },
+  "templateGrid": null,
+  "heroVisual": {
+   "src": "/assets/solutions/hero-aged-care.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "Notes captured in the room, before you move on": "/assets/solutions/feature-aged-care-2.png",
+   "Care guidance when it counts": "/assets/solutions/feature-aged-care-3.png",
+   "Hands-free capture, wherever the round takes you": "/assets/solutions/feature-aged-care-4.png"
+  },
+  "chipIcon": false
+ },
+ "veterinarians": {
+  "day": {
+   "intro": "Heidi listens to your patient interactions, gives you clinical answers without switching tabs, and handles the routine contact your practice fields every day.",
+   "items": [
+    {
+     "title": "Ready before the first patient walks in",
+     "body": "Review your patient list in Heidi and check the context you need before each visit. The breed, the allergies, the last procedure, the owner's concerns: all in front of you before the door opens.",
+     "img": "/assets/pages/3a797a8df6ea5e0323694766d02697a259552778-1200x1200.png",
+     "alt": "Context"
+    },
+    {
+     "title": "Focus stays on the pet and the owner",
+     "body": "Heidi listens to your visit, builds your notes in real time, and has every downstream document ready before your last patient leaves. Discharge summaries, treatment plans and more.",
+     "img": "/assets/pages/5e68c263db9c955ed052771ad6c081d792fa30a6-1188x1200.png",
+     "alt": "Vet docs"
+    },
+    {
+     "title": "Answers without leaving the exam table",
+     "body": "A dose check for a 3kg cat or a 30kg lab. A drug interaction in a senior dog on multiple medications. Evidence gives you cited, verifiable answers while your patient is still on the table.",
+     "img": "/assets/pages/228c436cbd8f2c482f0194a1bf5c141330262efe-1188x1200.png",
+     "alt": "Ask Heidi"
+    }
+   ]
+  },
+  "stats": {
+   "heading": "Time back, pressure off",
+   "cards": [
+    {
+     "value": "~1 hour",
+     "caption": "of capacity recovered per vet, per day.",
+     "icon": "timer-reset"
+    },
+    {
+     "value": "3–4 hours",
+     "caption": "less overtime per week.",
+     "icon": "clock-fading"
+    },
+    {
+     "value": "83%",
+     "caption": "reduction in burnout.",
+     "icon": "trending-down"
+    }
+   ]
+  },
+  "video": {
+   "heading": "Heidi for Vets",
+   "sub": "How Greencross vets use Heidi to bring back time for connection",
+   "tag": "IFRAME",
+   "src": "https://www.youtube.com/embed/2WglRXkiBbE?autoplay=1&mute=1&playsinline=1&modestbranding=1&rel=0&cc_load_policy=1&cc_lang_pref=en&hl=en",
+   "html": null
+  },
+  "testimonials": {
+   "heading": "Hear from veterinarians already using Heidi",
+   "link": {
+    "t": "Read customer stories",
+    "href": "/en-gb/customers"
+   },
+   "items": [
+    {
+     "quote": "“Imagine having a super-intelligent, really fast-writing scribe that follows you around the clinic and just writes down everything you say and organises it perfectly into a medical record.”",
+     "name": "Dr. Charles Kuntz",
+     "title": "Veterinarian Specialist Surgeon"
+    },
+    {
+     "quote": "“If Heidi disappeared, I’d spend a lot more time on writing records and not in front of patients and helping them.”",
+     "name": "Dr Luke Johnston",
+     "title": "Head of Department (Small Animal Medicine) at Greencross Vet Hospital at the University of Melbourne"
+    },
+    {
+     "quote": "“Heidi gives us more time together and that’s what this profession is all about.”",
+     "name": "Dr. Cara Roic",
+     "title": "Veterinarian Director"
+    }
+   ]
+  },
+  "templateGrid": {
+   "heading": "Every veterinary template you need, shaped by you",
+   "eyebrow": null,
+   "body": "Start with a template from the community or create your own from scratch. Templates tuned to any species and vet workflow. The note that comes out sounds like you wrote it, because you shaped every part of it.",
+   "cta": null,
+   "cards": [
+    {
+     "href": "/en-gb/templates/vet-medical-consult-83e6b316",
+     "kind": "Note",
+     "title": "Vet Medical Consult",
+     "author": "Christopher Probert",
+     "specialty": "Veterinarian",
+     "count": 45,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/vet-soap-note-e96f5b0d",
+     "kind": "Note",
+     "title": "Vet SOAP Note",
+     "author": "Gabor Nemes",
+     "specialty": "Veterinarian",
+     "count": 13,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/initial-consultationintake-custom-fcb29665",
+     "kind": "Note",
+     "title": "Vet Intake Note",
+     "author": "Warren De Melo",
+     "specialty": "Veterinarian",
+     "count": 7,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/ruby-recheck-appointment-referral-letter-a4c89d7f",
+     "kind": "Note",
+     "title": "Recheck Appointment Referral Letter",
+     "author": "Ruby Shorrock",
+     "specialty": "Veterinarian",
+     "count": 4,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/ruby-initial-appointment-referral-letter-31d79dfc",
+     "kind": "Note",
+     "title": "Initial Appointment Referral Letter",
+     "author": "Ruby Shorrock",
+     "specialty": "Veterinarian",
+     "count": 4,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/comprehensive-veterinary-consultation-note-25e90c7f",
+     "kind": "Note",
+     "title": "Comprehensive Veterinary Consultation Note",
+     "author": "Kaitla Wildblood",
+     "specialty": "Veterinarian",
+     "count": 5,
+     "flag": "United Kingdom"
+    }
+   ]
+  },
+  "heroVisual": {
+   "src": "/assets/solutions/hero-veterinarians.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "Double the patients, half the notes": "/assets/solutions/feature-veterinarians-2.png",
+   "Species relevant information mid session": "/assets/solutions/feature-veterinarians-3.png",
+   "Hands-free capture": "/assets/solutions/feature-veterinarians-4.png"
+  },
+  "chipIcon": false
+ },
+ "surgeons": {
+  "day": {
+   "intro": null,
+   "items": [
+    {
+     "title": "Patient and billing in one beat",
+     "body": "Operative notes, GP letters, and discharge summaries completed with Heidi, from a single captured session before you leave the clinic.",
+     "img": "/assets/pages/1c87ea7ce897d82e96472a50c239c15ac59487ed-1200x1200.jpg",
+     "alt": "Context"
+    },
+    {
+     "title": "Cited answers grounded in clinical evidence",
+     "body": "Evidence surfaces cited answers mid-session, without switching tabs. Every source is one click open. With Source Control, every surgeon in the practice works from the same guidelines.",
+     "img": "/assets/pages/5398126366a631c0fd660bc624346d5dc73d3f83-1200x1200.jpg",
+     "alt": "Ask Heidi"
+    },
+    {
+     "title": "Captured hands-free, wherever the day takes you",
+     "body": "Offline-capable and mobile-first, because surgical documentation rarely happens at a desk. Capture in theatre, review on the ward, finalize at the clinic.",
+     "img": "/assets/pages/f1088adbdbd33b2ebde19320c5fb6e0b5949bdb6-1200x1200.jpg",
+     "alt": "Remote tab"
+    }
+   ]
+  },
+  "stats": {
+   "heading": null,
+   "cards": [
+    {
+     "value": "51%",
+     "caption": "Reduction in time spent on notes during patient interactions.",
+     "icon": "sticky-note"
+    },
+    {
+     "value": "97%",
+     "caption": "Of clinicians rate Heidi's document quality as excellent.",
+     "icon": "circle-check"
+    },
+    {
+     "value": "61%",
+     "caption": "Reduction in after hours admin.",
+     "icon": "timer-reset"
+    }
+   ]
+  },
+  "video": null,
+  "testimonials": {
+   "heading": "Hear from surgeons already using Heidi",
+   "link": {
+    "t": "Read customer stories",
+    "href": "/en-gb/customers"
+   },
+   "items": [
+    {
+     "quote": "“Overall, it's way more efficient and saves me time. I don't have any of those issues with filing or not completing notes.”",
+     "name": "Dr. Richard Bloom",
+     "title": "Re. Plastic Surgery"
+    },
+    {
+     "quote": "“Heidi allows me to focus on my patients instead of spending endless hours on documentation. It’s transformed my workflow, making me more efficient and less stressed.”",
+     "name": "Mr. Gordan Grahovac MD PhD",
+     "title": "Consultant Neurosurgeon and Spinal Surgeon"
+    },
+    {
+     "quote": "“The mental burden is just gone. I feel more relaxed with my private patients because I don’t have to think about the documentation.”",
+     "name": "Dr. Aman Khanna",
+     "title": "ENT Surgeon, FRCS (ORL-HNS), MRCS, DO-HNS, MBChB, BSc (Hons)"
+    }
+   ]
+  },
+  "templateGrid": {
+   "heading": "Built for surgeons",
+   "eyebrow": null,
+   "body": "Start with a template from the community or create your own from scratch. Configure it to your speciality and apply it instantly. The note that comes out sounds like you wrote it, because you shaped every part of it.",
+   "cta": null,
+   "cards": [
+    {
+     "href": "/en-gb/templates/shilpa-health-screen-f28a3a3c",
+     "kind": "Document",
+     "title": "Shilpa Health Screen",
+     "author": "Giles Davies",
+     "specialty": "Surgical Oncologist",
+     "count": 2,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/to-clerking-099c12bc",
+     "kind": "Note",
+     "title": "T&O clerking",
+     "author": "Sagaya Joel Leo",
+     "specialty": "Orthopaedic Surgeon",
+     "count": 16,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/clinical-consultation-communication-structure-assessment-939c95b8",
+     "kind": "Document",
+     "title": "Clinical Consultation Communication & Structure Assessment",
+     "author": "Gareth Stables",
+     "specialty": "Orthopaedic Surgeon",
+     "count": 6,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/new-standard-gp-template-2025-version-ef0ec8fe",
+     "kind": "Note",
+     "title": "New standard GP template 2025 version",
+     "author": "Giles Davies",
+     "specialty": "Surgical Oncologist",
+     "count": 4,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/general-letter-and-notes-3f62d983",
+     "kind": "Note",
+     "title": "General letter and notes",
+     "author": "Carrie Newlands",
+     "specialty": "Oral Maxillofacial Surgeon",
+     "count": 11,
+     "flag": "United Kingdom"
+    },
+    {
+     "href": "/en-gb/templates/plastic-reconstructive-surgeons-note-custom-3ee9f0cd",
+     "kind": "Note",
+     "title": "Plastic & Reconstructive Surgeon's Note",
+     "author": "Paul Drake",
+     "specialty": "Plastic & Reconstructive Surgeon",
+     "count": 40,
+     "flag": "United Kingdom"
+    }
+   ]
+  },
+  "heroVisual": {
+   "src": "/assets/solutions/hero-surgeons.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "Documentation that stands up to scrutiny": "/assets/solutions/feature-surgeons-2.png",
+   "Defensible answers, mid-session": "/assets/solutions/feature-surgeons-3.png",
+   "Capture notes hands-free, wherever surgery happens": "/assets/solutions/feature-surgeons-4.png",
+   "Every word around the operative note": "/assets/solutions/feature-surgeons-5.png"
+  },
+  "chipIcon": false
+ },
+ "emergency-medicine": {
+  "day": {
+   "intro": null,
+   "items": [
+    {
+     "title": "One visit, every document",
+     "body": "The note you hand over is the care you hand over. Heidi generates every document the encounter needs, so the next clinician picks up from a full picture, not a phone call.",
+     "img": "/assets/pages/0fa02a31cdcefe259227b6861bf6440ac8d18a05-1200x1200.jpg",
+     "alt": "Context"
+    },
+    {
+     "title": "The answer before you'd find the tab",
+     "body": "A clinical question mid-resus shouldn't become a hesitation. Evidence surfaces cited answers in the moment, drug doses, protocols, criteria. The decision is fast. The reasoning is documented.",
+     "img": "/assets/pages/37c6b9146dc4c87e4c560c6f1cb15c4808cb947a-1200x1200.jpg",
+     "alt": "Two people in conversation with a UI of \"Start Transcribing\" overlayed."
+    },
+    {
+     "title": "Every bay, every handover",
+     "body": "Reliable capture in any ED setting noisy resus, triage bay, ambulance handover, rural ED with unreliable internet. Captured wherever you are, synced automatically, ready for whoever picks it up next.",
+     "img": "/assets/pages/bb82b287b6b70903c07e8c428d2f5d483d5a43f6-1200x1200.jpg",
+     "alt": "Ask Heidi"
+    }
+   ]
+  },
+  "stats": {
+   "heading": "Time back, pressure off",
+   "cards": [
+    {
+     "value": "64%",
+     "caption": "Reduction in documentation time.",
+     "icon": "file-clock"
+    },
+    {
+     "value": "84%",
+     "caption": "Of ED clinicians reported improved wellbeing.",
+     "icon": "smile-plus"
+    },
+    {
+     "value": "95%",
+     "caption": "Agree Heidi improved the quality of patient care.",
+     "icon": "file-plus"
+    }
+   ]
+  },
+  "templates": {
+   "eyebrow": "In practice",
+   "heading": "Every emergency medicine template you need, made yours",
+   "cta": {
+    "t": "Explore Templates",
+    "href": "https://www.heidihealth.com/templates"
+   },
+   "body": "No need to start from scratch. Pick a template from our community and easily tailor it to match your workflow and style.",
+   "items": [
+    {
+     "name": "Referral Letter",
+     "img": {
+      "src": "/assets/pages/d341ab1d2b32bb5dba9522f9185ff8025332cb1e-1260x1260.png",
+      "alt": "Care note",
+      "w": 643,
+      "h": 643
+     }
+    },
+    {
+     "name": "ED Note",
+     "img": {
+      "src": "/assets/pages/01b3b08b7b15c2addfc394cc3fc2f51a2213917b-1260x1260.png",
+      "alt": "Problem Based Primary Clinic Note",
+      "w": 643,
+      "h": 643
+     }
+    },
+    {
+     "name": "Procedure",
+     "img": {
+      "src": "/assets/pages/a6c578912176c2f25b347d91f020dd3c5d53a7c0-1260x1260.png",
+      "alt": "Procedure",
+      "w": 643,
+      "h": 643
+     }
+    },
+    {
+     "name": "Cardiac Arrest",
+     "img": {
+      "src": "/assets/pages/bc8bf37681dd563d31e1367e719bc94795010778-1278x1260.png",
+      "alt": "Cardiac Arrest",
+      "w": 643,
+      "h": 634
+     }
+    },
+    {
+     "name": "Discharge Summary",
+     "img": {
+      "src": "/assets/pages/b98d57ff2d7112ea7b0efaee94485b6132ade403-1260x1260.png",
+      "alt": "Discharge Summary",
+      "w": 643,
+      "h": 643
+     }
+    }
+   ]
+  },
+  "video": null,
+  "testimonials": {
+   "heading": "Hear from emergency medicine specialists already using Heidi",
+   "link": {
+    "t": "Read customer stories",
+    "href": "https://www.heidihealth.com/customers"
+   },
+   "items": [
+    {
+     "quote": "“Heidi lets me focus on what matters most - patient care. The reduced documentation time means more patients seen, less stress, and better outcomes.”",
+     "name": "Dr. Nicholas Jason Lelos",
+     "title": "Emergency AT, HBSc Hons, MBBS, MRes, PG Cert Med Edu"
+    },
+    {
+     "quote": "“I don’t know what we went through before Heidi.”",
+     "name": "Lindsay Maurer, BSN, RN",
+     "title": "Nurse Supervisor"
+    }
+   ]
+  },
+  "templateGrid": null,
+  "heroVisual": {
+   "src": "/assets/solutions/hero-emergency-medicine.png",
+   "w": 600,
+   "h": 480,
+   "radius": "0px"
+  },
+  "featureVisuals": {
+   "Stabilize the patient, the documentation follows": "/assets/solutions/feature-emergency-medicine-2.png",
+   "Follow the patient, not the desktop": "/assets/solutions/feature-emergency-medicine-3.png",
+   "Pan-scan the evidence, don't break flow": "/assets/solutions/feature-emergency-medicine-4.png"
+  },
+  "chipIcon": false
+ }
+}

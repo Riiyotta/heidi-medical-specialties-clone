@@ -1,0 +1,523 @@
+{
+ "slug": "hardware",
+ "path": "/hardware",
+ "url": "/en-gb/hardware",
+ "title": "Remote",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Remote | AI hardware built for clinical work",
+  "desc": "The AI hardware built for clinical work. Transcribe patient sessions offline, store them securely encrypted on-device, and sync to Heidi… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative flex flex-col gap-6 lg:gap-0 mx-auto lg:aspect-video max-w-[1920px] overflow-hidden px-global xl:px-global-inse",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 810,
+   "innerH": 810,
+   "blocks": [
+    {
+     "k": "video",
+     "src": "https://cdn.sanity.io/files/fq1n4a7f/production/59262d53b91b39833e653455ea402ac9e9ed20b9.mp4#t=0.001"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Capture every session. On the go.",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "right"
+    },
+    {
+     "k": "p",
+     "t": "The first clip-on AI mic built for clinical documentation. Works hands-free and offline, when pulling out your phone isn't an option.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "£209",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "£156.75",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Remote",
+     "href": "/en-gb/store/remote",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Skip",
+     "href": null,
+     "bg": "rgb(251, 245, 130)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "*Pricing excludes applicable sales taxes.",
+     "fs": 12,
+     "c": "rgb(117, 87, 96)"
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 846,
+   "innerH": 686,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Clip on. Then care.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "The clip-on mic that lets you stay present with patients and catch up on notes later.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/15027bc4de39d065f05de3baf23d1a3a51a53f4c-811x608.png",
+     "alt": "Heidi remote held by a doctor",
+     "w": 373,
+     "h": 280
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Captures every visit, every time",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Exam room, hallway, home visits and more. Remote captures every consult, wherever care happens. No more adjusting your workflow solely with your phone.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/fc3550bb7b120545ff6146f45d59099cfb0aed6b-811x608.png",
+     "alt": "Heidi remote held by a doctor",
+     "w": 373,
+     "h": 280
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Works all day, online and offline",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Pair once. Clip on. Press to start. Remote removes phone dependency, battery anxiety and setup friction, so you can stay present with your patient",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d18dded9d8ee7b25c9552ccbf57de68e0474b001-811x608.png",
+     "alt": "Heidi remote held by a doctor",
+     "w": 373,
+     "h": 280
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Built to last your entire shift",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Wi-Fi drops. Phones lock. Batteries flat. Remote works online and offline, all day long, from morning ward rounds to the last consult of the day.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 666,
+   "innerH": 506,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Remote is built for the way you work",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Hospital Care",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "For surgeons, ED and ward-round teams. Clipped on at the start of rounds, stays on through all patients.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Allied Health",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "For allied health specialists on-the-move. Hears every voice, in any room, capturing every conversation.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Rural & Aged Care",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "For clinicians on long shifts and home visits. All-day on a lanyard. Captures every visit, even when WiFi can’t.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1074,
+   "innerH": 914,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "See Remote in action",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Watch Dr. Ben Condon, Clinical Director and practising Emergency Doctor use Remote through a shift.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 534
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 534,
+   "innerH": 310,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Customer Story",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "“Heidi Remote travels with me: to the patient's room, or to the table where we have important conversations with family. I can now just rely on Remote and not my phone.”",
+     "fs": 40,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Dr Paul Hacker",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Community Palliative Care Physician, Ottawa",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Learn More",
+     "href": "/en-gb/customers/how-heidi-remote-moves-with-dr-paul-hacker",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-12 bg-accent p-6 md:p-9 rounded-3xl w-full max-w-container-lg",
+   "bg": "rgb(249, 244, 241)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 715,
+   "innerH": 555,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Your duty of care, built in.",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "View Our Privacy Policy",
+     "href": "/en-gb/legal/privacy-policy",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/bf9f0ff1a93439418fe92e904b3ce72f4881bdb4-170x73.png",
+     "alt": "27001 Certified",
+     "w": 124,
+     "h": 70
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1116,
+   "innerH": 956,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Portable. Secured. Reliable.",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "A purpose-built mic that records offline, syncs automatically and fits the way you already use Heidi.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "video",
+     "src": "https://cdn.sanity.io/files/fq1n4a7f/production/09cd909376d4788884793ea91bf45060cbc28b37.mp4#t=0.001"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 893,
+   "innerH": 733,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "FAQs",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Everything you need to know about Heidi Remote",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Download Quickstart Guide",
+     "href": null,
+     "bg": "rgb(25, 75, 34)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Download User Manual",
+     "href": null,
+     "bg": "rgb(25, 75, 34)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How does Heidi Remote protect my data?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi Remote is designed with privacy at its core. It only records when actively initiated by the User, and a visible LED indicates when recording is in progress, ensuring transparency for all parties. All audio is encrypted at rest on Heidi Remote and is automatically deleted once synchronised to the Heidi platform. Heidi Remote connects only to the User's paired device via an encrypted wireless connection. Users are responsible for obtaining all required recording consents under applicable law in their jurisdiction.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What is Heidi Remote compatible with?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What happens if my Heidi Remote is lost or stolen?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What if my battery runs out mid-session?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What happens if I move away from my phone or my internet drops out mid-consult?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 9 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Show more",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 544
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 186,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Moves with you through every session",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  }
+ ]
+}

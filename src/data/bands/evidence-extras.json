@@ -1,0 +1,19 @@
+{
+ "tabs": [
+  {
+   "label": "Run the score, see the working",
+   "body": "Validated calculators run the score and show their working, so results stay consistent, inspectable, and ready to act on.",
+   "img": "/assets/bands/evidence/tabs-0.png"
+  },
+  {
+   "label": "CPD that logs itself",
+   "body": "Heidi tracks your evidence use for reflection and CPD automatically. No extra admin.",
+   "img": "/assets/bands/evidence/tabs-1.png"
+  },
+  {
+   "label": "It drafts the documentation",
+   "body": "Heidi turns the answer into documentation, ready to share as a patient explainer, PDF, or email. You review and approve.",
+   "img": "/assets/bands/evidence/tabs-2.png"
+  }
+ ]
+}

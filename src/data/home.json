@@ -1,0 +1,1047 @@
+{
+ "hero": {
+  "h1": {
+   "x": 501,
+   "y": 164,
+   "w": 438,
+   "h": 56,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "ff": "exposure",
+   "fs": "56px",
+   "lh": "56px",
+   "ls": "-2.8px",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  },
+  "h1html": "<em>Relief</em> in every visit",
+  "em": {
+   "x": 501,
+   "y": 158,
+   "w": 124,
+   "h": 67,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "ff": "exposure",
+   "fs": "56px",
+   "lh": "56px",
+   "ls": "-2.8px",
+   "fw": "400",
+   "fst": "italic",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  },
+  "sub": {
+   "x": 574,
+   "y": 236,
+   "w": 291,
+   "h": 28,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "ff": "inter",
+   "fs": "20px",
+   "lh": "28px",
+   "ls": "-0.6px",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)",
+   "t": "The AI Care Partner for clinicians"
+  },
+  "panel": {
+   "x": 80,
+   "y": 370,
+   "w": 1280,
+   "h": 440,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "8px",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  },
+  "tabbar": {
+   "x": 571,
+   "y": 744,
+   "w": 297,
+   "h": 46,
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(117, 87, 96)",
+   "r": "16px",
+   "pad": "4px",
+   "gap": "4px",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(117, 87, 96)"
+  },
+  "tabActive": {
+   "x": 575,
+   "y": 748,
+   "w": 106,
+   "h": 38,
+   "bg": "rgb(40, 3, 15)",
+   "fg": "rgb(249, 244, 241)",
+   "r": "12px",
+   "pad": "8px 20px",
+   "gap": "8px",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "22.4px",
+   "ls": "-0.48px",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0",
+   "bd": "0px rgb(249, 244, 241)"
+  },
+  "tabIdle": {
+   "x": 685,
+   "y": 748,
+   "w": 86,
+   "h": 38,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(117, 87, 96)",
+   "r": "12px",
+   "pad": "8px 20px",
+   "gap": "8px",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "22.4px",
+   "ls": "-0.48px",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(117, 87, 96)"
+  },
+  "tabs": [
+   "Evidence",
+   "Scribe",
+   "Dictate"
+  ]
+ },
+ "logos": {
+  "lead": {
+   "x": 0,
+   "y": 890,
+   "w": 1440,
+   "h": 453,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)",
+   "t": "Heidi has enabled care for ​​0123456789,012345678901234567890123456789,012345678901234567890123456789​​ patient visits this week"
+  },
+  "pill": {
+   "x": 80,
+   "y": 970,
+   "w": 1280,
+   "h": 293,
+   "bg": "rgb(249, 244, 241)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "24px",
+   "pad": "16px 12px 12px",
+   "gap": "24px",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  },
+  "tile": {
+   "x": 92,
+   "y": 1040,
+   "w": 242,
+   "h": 100,
+   "bg": "rgb(255, 255, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "24px",
+   "pad": "20px 44px",
+   "gap": "normal",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  },
+  "panel": {
+   "x": 92,
+   "y": 1040,
+   "w": 242,
+   "h": 100,
+   "bg": "rgb(255, 255, 255)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "24px",
+   "pad": "20px 44px",
+   "gap": "normal",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  },
+  "grid": {
+   "x": 92,
+   "y": 1040,
+   "w": 242,
+   "h": 100,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  },
+  "img": {
+   "x": 136,
+   "y": 1060,
+   "w": 154,
+   "h": 60,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgba(0, 0, 0, 0)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgba(0, 0, 0, 0)"
+  },
+  "logos": [
+   {
+    "alt": "CHCP",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "local": "/assets/home/logo-0.svg"
+   },
+   {
+    "alt": "modality",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "local": "/assets/home/logo-1.svg"
+   },
+   {
+    "alt": "NHS Dudley",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "local": "/assets/home/logo-2.svg"
+   },
+   {
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "local": "/assets/home/logo-3.svg"
+   },
+   {
+    "alt": "NHS Walsall Healthcare",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "local": "/assets/home/logo-4.svg"
+   },
+   {
+    "alt": "NHS WWL Teaching Hospitals",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "local": "/assets/home/logo-5.svg"
+   },
+   {
+    "alt": "onecare",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "local": "/assets/home/logo-6.svg"
+   },
+   {
+    "alt": "Portman dentex",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "local": "/assets/home/logo-7.svg"
+   },
+   {
+    "alt": "Sue Ryder",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "local": "/assets/home/logo-8.svg"
+   },
+   {
+    "alt": "Swiss Medical Network",
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "local": "/assets/home/logo-9.svg"
+   }
+  ]
+ },
+ "quotes": [
+  {
+   "q": {
+    "x": 438,
+    "y": 1424,
+    "w": 564,
+    "h": 38,
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "r": "0px",
+    "pad": "0px",
+    "gap": "normal",
+    "ff": "exposure",
+    "fs": "32px",
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "shadow": "none",
+    "bd": "0px rgb(40, 3, 15)"
+   },
+   "t": "\"I go to lunch on time, I go home on time.\"",
+   "cap": {
+    "x": 462,
+    "y": 1478,
+    "w": 516,
+    "h": 25,
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "r": "0px",
+    "pad": "0px",
+    "gap": "normal",
+    "ff": "inter",
+    "fs": "18px",
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "400",
+    "fst": "normal",
+    "shadow": "none",
+    "bd": "0px rgb(40, 3, 15)",
+    "html": "Dr Theresa Colina, Family Practitioner, <strong>Tuggerah Family Doctors</strong>"
+   }
+  },
+  {
+   "q": {
+    "x": 336,
+    "y": 4120,
+    "w": 768,
+    "h": 77,
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "r": "0px",
+    "pad": "0px",
+    "gap": "normal",
+    "ff": "exposure",
+    "fs": "32px",
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "shadow": "none",
+    "bd": "0px rgb(40, 3, 15)"
+   },
+   "t": "\"We see Heidi as a partner helping us deliver measurable transformation.\"",
+   "cap": {
+    "x": 554,
+    "y": 4213,
+    "w": 333,
+    "h": 25,
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "r": "0px",
+    "pad": "0px",
+    "gap": "normal",
+    "ff": "inter",
+    "fs": "18px",
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "400",
+    "fst": "normal",
+    "shadow": "none",
+    "bd": "0px rgb(40, 3, 15)",
+    "html": "Mark St. John, CIO,<strong> MaineGeneral Health</strong>"
+   }
+  }
+ ],
+ "bento": {
+  "h2": {
+   "x": 80,
+   "y": 1663,
+   "w": 409,
+   "h": 112,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "ff": "exposure",
+   "fs": "56px",
+   "lh": "56px",
+   "ls": "-2.8px",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)",
+   "t": "From first visit to\nfinal follow-up."
+  },
+  "grid": {
+   "x": 80,
+   "y": 1855,
+   "w": 632,
+   "h": 265,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "40px",
+   "gap": "normal",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  },
+  "cards": [
+   {
+    "card": {
+     "x": 80,
+     "y": 1855,
+     "w": 1280,
+     "h": 482,
+     "bg": "rgb(249, 244, 241)",
+     "fg": "rgb(40, 3, 15)",
+     "r": "36px",
+     "pad": "0px",
+     "gap": "16px",
+     "ff": "inter",
+     "fs": "16px",
+     "lh": "24px",
+     "ls": "normal",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(40, 3, 15)"
+    },
+    "h3": {
+     "x": 120,
+     "y": 1895,
+     "w": 306,
+     "h": 38,
+     "bg": "rgba(0, 0, 0, 0)",
+     "fg": "rgb(40, 3, 15)",
+     "r": "0px",
+     "pad": "0px",
+     "gap": "normal",
+     "ff": "exposure",
+     "fs": "32px",
+     "lh": "38.4px",
+     "ls": "-1.6px",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(40, 3, 15)",
+     "t": "Patient notes, handled."
+    },
+    "p": {
+     "x": 120,
+     "y": 1950,
+     "w": 396,
+     "h": 56,
+     "bg": "rgba(0, 0, 0, 0)",
+     "fg": "rgb(117, 87, 96)",
+     "r": "0px",
+     "pad": "0px",
+     "gap": "normal",
+     "ff": "inter",
+     "fs": "20px",
+     "lh": "28px",
+     "ls": "-0.6px",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(117, 87, 96)",
+     "t": "Let Heidi handle the note, codes, and every task that follows."
+    },
+    "a": {
+     "x": 120,
+     "y": 2038,
+     "w": 108,
+     "h": 42,
+     "bg": "rgb(40, 3, 15)",
+     "fg": "rgb(249, 244, 241)",
+     "r": "12px",
+     "pad": "10px 16px",
+     "gap": "8px",
+     "ff": "inter",
+     "fs": "16px",
+     "lh": "22.4px",
+     "ls": "-0.48px",
+     "fw": "500",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(249, 244, 241)",
+     "t": "Scribe",
+     "href": "/en-gb/scribe"
+    },
+    "vis": {
+     "x": 728,
+     "y": 1855,
+     "w": 632,
+     "h": 482,
+     "bg": "rgba(0, 0, 0, 0)",
+     "fg": "rgb(40, 3, 15)",
+     "r": "0px",
+     "pad": "0px",
+     "gap": "normal",
+     "ff": "inter",
+     "fs": "16px",
+     "lh": "24px",
+     "ls": "normal",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(40, 3, 15)"
+    }
+   },
+   {
+    "card": {
+     "x": 80,
+     "y": 2357,
+     "w": 630,
+     "h": 799,
+     "bg": "rgb(249, 244, 241)",
+     "fg": "rgb(40, 3, 15)",
+     "r": "36px",
+     "pad": "0px",
+     "gap": "16px",
+     "ff": "inter",
+     "fs": "16px",
+     "lh": "24px",
+     "ls": "normal",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(40, 3, 15)"
+    },
+    "h3": {
+     "x": 120,
+     "y": 2893,
+     "w": 314,
+     "h": 38,
+     "bg": "rgba(0, 0, 0, 0)",
+     "fg": "rgb(40, 3, 15)",
+     "r": "0px",
+     "pad": "0px",
+     "gap": "normal",
+     "ff": "exposure",
+     "fs": "32px",
+     "lh": "38.4px",
+     "ls": "-1.6px",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(40, 3, 15)",
+     "t": "Your rounds, captured."
+    },
+    "p": {
+     "x": 120,
+     "y": 2947,
+     "w": 396,
+     "h": 56,
+     "bg": "rgba(0, 0, 0, 0)",
+     "fg": "rgb(117, 87, 96)",
+     "r": "0px",
+     "pad": "0px",
+     "gap": "normal",
+     "ff": "inter",
+     "fs": "20px",
+     "lh": "28px",
+     "ls": "-0.6px",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(117, 87, 96)",
+     "t": "A clip-on mic that moves with you so your notes don't depend on a desk."
+    },
+    "a": {
+     "x": 120,
+     "y": 3035,
+     "w": 117,
+     "h": 42,
+     "bg": "rgb(40, 3, 15)",
+     "fg": "rgb(249, 244, 241)",
+     "r": "12px",
+     "pad": "10px 16px",
+     "gap": "8px",
+     "ff": "inter",
+     "fs": "16px",
+     "lh": "22.4px",
+     "ls": "-0.48px",
+     "fw": "500",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(249, 244, 241)",
+     "t": "Remote",
+     "href": "/en-gb/hardware"
+    },
+    "vis": {
+     "x": 80,
+     "y": 2357,
+     "w": 630,
+     "h": 480,
+     "bg": "rgba(0, 0, 0, 0)",
+     "fg": "rgb(40, 3, 15)",
+     "r": "0px",
+     "pad": "0px",
+     "gap": "normal",
+     "ff": "inter",
+     "fs": "16px",
+     "lh": "24px",
+     "ls": "normal",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(40, 3, 15)"
+    }
+   },
+   {
+    "card": {
+     "x": 730,
+     "y": 2357,
+     "w": 630,
+     "h": 799,
+     "bg": "rgb(249, 244, 241)",
+     "fg": "rgb(40, 3, 15)",
+     "r": "36px",
+     "pad": "0px",
+     "gap": "16px",
+     "ff": "inter",
+     "fs": "16px",
+     "lh": "24px",
+     "ls": "normal",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(40, 3, 15)"
+    },
+    "h3": {
+     "x": 770,
+     "y": 2893,
+     "w": 396,
+     "h": 77,
+     "bg": "rgba(0, 0, 0, 0)",
+     "fg": "rgb(40, 3, 15)",
+     "r": "0px",
+     "pad": "0px",
+     "gap": "normal",
+     "ff": "exposure",
+     "fs": "32px",
+     "lh": "38.4px",
+     "ls": "-1.6px",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(40, 3, 15)",
+     "t": "Medical knowledge, informed."
+    },
+    "p": {
+     "x": 770,
+     "y": 2986,
+     "w": 396,
+     "h": 56,
+     "bg": "rgba(0, 0, 0, 0)",
+     "fg": "rgb(117, 87, 96)",
+     "r": "0px",
+     "pad": "0px",
+     "gap": "normal",
+     "ff": "inter",
+     "fs": "20px",
+     "lh": "28px",
+     "ls": "-0.6px",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(117, 87, 96)",
+     "t": "Heidi has unlimited reference information on tap, just ask."
+    },
+    "a": {
+     "x": 770,
+     "y": 3074,
+     "w": 129,
+     "h": 42,
+     "bg": "rgb(40, 3, 15)",
+     "fg": "rgb(249, 244, 241)",
+     "r": "12px",
+     "pad": "10px 16px",
+     "gap": "8px",
+     "ff": "inter",
+     "fs": "16px",
+     "lh": "22.4px",
+     "ls": "-0.48px",
+     "fw": "500",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(249, 244, 241)",
+     "t": "Evidence",
+     "href": "/en-gb/evidence"
+    },
+    "vis": {
+     "x": 730,
+     "y": 2357,
+     "w": 630,
+     "h": 480,
+     "bg": "rgba(0, 0, 0, 0)",
+     "fg": "rgb(40, 3, 15)",
+     "r": "0px",
+     "pad": "0px",
+     "gap": "normal",
+     "ff": "inter",
+     "fs": "16px",
+     "lh": "24px",
+     "ls": "normal",
+     "fw": "400",
+     "fst": "normal",
+     "shadow": "none",
+     "bd": "0px rgb(40, 3, 15)"
+    }
+   }
+  ]
+ },
+ "dark": {
+  "items": [
+   {
+    "t": "Tackles every clinical task.\nTailored to your workforce.",
+    "fs": "20px",
+    "ff": "inter",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1689
+   },
+   {
+    "t": "Clinical coding & documentation integrity",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 999
+   },
+   {
+    "t": "Inbound correspondence & document processing",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1089
+   },
+   {
+    "t": "Telehealth",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1223
+   },
+   {
+    "t": "Patient communications",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1313
+   },
+   {
+    "t": "Letter workflow management",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1403
+   },
+   {
+    "t": "EPR integration",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1493
+   },
+   {
+    "t": "Clinical coding & documentation integrity",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1583
+   },
+   {
+    "t": "Inbound correspondence & document processing",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1673
+   },
+   {
+    "t": "Telehealth",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1807
+   },
+   {
+    "t": "Patient communications",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1897
+   },
+   {
+    "t": "Letter workflow management",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 1987
+   },
+   {
+    "t": "EPR integration",
+    "fs": "40px",
+    "ff": "exposure",
+    "op": "1",
+    "fg": "rgb(249, 244, 241)",
+    "y": 2077
+   },
+   {
+    "t": "Patient communications",
+    "fs": "16px",
+    "ff": "inter",
+    "op": "1",
+    "fg": "rgb(40, 3, 15)",
+    "y": 1716
+   },
+   {
+    "t": "Letter workflow management",
+    "fs": "16px",
+    "ff": "inter",
+    "op": "1",
+    "fg": "rgb(40, 3, 15)",
+    "y": 1740
+   },
+   {
+    "t": "EPR integration",
+    "fs": "16px",
+    "ff": "inter",
+    "op": "1",
+    "fg": "rgb(40, 3, 15)",
+    "y": 1764
+   },
+   {
+    "t": "Clinical coding & documentation integrity",
+    "fs": "16px",
+    "ff": "inter",
+    "op": "1",
+    "fg": "rgb(40, 3, 15)",
+    "y": 1788
+   },
+   {
+    "t": "Inbound correspondence & document processing",
+    "fs": "16px",
+    "ff": "inter",
+    "op": "1",
+    "fg": "rgb(40, 3, 15)",
+    "y": 1812
+   },
+   {
+    "t": "Telehealth",
+    "fs": "16px",
+    "ff": "inter",
+    "op": "1",
+    "fg": "rgb(40, 3, 15)",
+    "y": 1836
+   }
+  ],
+  "btn": [
+   {
+    "t": "Explore enterprise",
+    "href": "/en-gb/solutions/enterprise"
+   }
+  ],
+  "sec": {
+   "x": 80,
+   "y": 3444,
+   "w": 1280,
+   "h": 420,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "48px",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  }
+ },
+ "darkSamples": [
+  {
+   "t": 0,
+   "rows": "Letter workflow manage@226/(249, 244, 241) | EPR integration@316/(249, 244, 241) | Clinical coding & docu@406/(249, 244, 241) | Inbound correspondence@496/(249, 244, 241) | Telehealth@630/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 500,
+   "rows": "Letter workflow manage@226/(249, 244, 241) | EPR integration@316/(249, 244, 241) | Clinical coding & docu@406/(249, 244, 241) | Inbound correspondence@496/(249, 244, 241) | Telehealth@630/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 1000,
+   "rows": "EPR integration@210/(249, 244, 241) | Clinical coding & docu@300/(249, 244, 241) | Inbound correspondence@390/(249, 244, 241) | Telehealth@524/(249, 244, 241) | Patient communications@614/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 1500,
+   "rows": "EPR integration@204/(249, 244, 241) | Clinical coding & docu@294/(249, 244, 241) | Inbound correspondence@384/(249, 244, 241) | Telehealth@518/(249, 244, 241) | Patient communications@608/(249, 244, 241) | Letter workflow manage@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 2000,
+   "rows": "EPR integration@204/(249, 244, 241) | Clinical coding & docu@294/(249, 244, 241) | Inbound correspondence@384/(249, 244, 241) | Telehealth@518/(249, 244, 241) | Patient communications@608/(249, 244, 241) | Letter workflow manage@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 2500,
+   "rows": "EPR integration@204/(249, 244, 241) | Clinical coding & docu@294/(249, 244, 241) | Inbound correspondence@384/(249, 244, 241) | Telehealth@518/(249, 244, 241) | Patient communications@608/(249, 244, 241) | Letter workflow manage@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 3000,
+   "rows": "Clinical coding & docu@205/(249, 244, 241) | Inbound correspondence@295/(249, 244, 241) | Telehealth@429/(249, 244, 241) | Patient communications@519/(249, 244, 241) | Letter workflow manage@609/(249, 244, 241) | EPR integration@699/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 3500,
+   "rows": "Clinical coding & docu@204/(249, 244, 241) | Inbound correspondence@294/(249, 244, 241) | Telehealth@428/(249, 244, 241) | Patient communications@518/(249, 244, 241) | Letter workflow manage@608/(249, 244, 241) | EPR integration@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 4000,
+   "rows": "Clinical coding & docu@204/(249, 244, 241) | Inbound correspondence@294/(249, 244, 241) | Telehealth@428/(249, 244, 241) | Patient communications@518/(249, 244, 241) | Letter workflow manage@608/(249, 244, 241) | EPR integration@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 4500,
+   "rows": "Clinical coding & docu@204/(249, 244, 241) | Inbound correspondence@294/(249, 244, 241) | Telehealth@428/(249, 244, 241) | Patient communications@518/(249, 244, 241) | Letter workflow manage@608/(249, 244, 241) | EPR integration@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 5000,
+   "rows": "Inbound correspondence@204/(249, 244, 241) | Telehealth@338/(249, 244, 241) | Patient communications@428/(249, 244, 241) | Letter workflow manage@518/(249, 244, 241) | EPR integration@608/(249, 244, 241) | Clinical coding & docu@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 5500,
+   "rows": "Inbound correspondence@204/(249, 244, 241) | Telehealth@338/(249, 244, 241) | Patient communications@428/(249, 244, 241) | Letter workflow manage@518/(249, 244, 241) | EPR integration@608/(249, 244, 241) | Clinical coding & docu@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 6000,
+   "rows": "Inbound correspondence@204/(249, 244, 241) | Telehealth@338/(249, 244, 241) | Patient communications@428/(249, 244, 241) | Letter workflow manage@518/(249, 244, 241) | EPR integration@608/(249, 244, 241) | Clinical coding & docu@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 6500,
+   "rows": "Inbound correspondence@204/(249, 244, 241) | Telehealth@338/(249, 244, 241) | Patient communications@428/(249, 244, 241) | Letter workflow manage@518/(249, 244, 241) | EPR integration@608/(249, 244, 241) | Clinical coding & docu@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 7000,
+   "rows": "Telehealth@248/(249, 244, 241) | Patient communications@338/(249, 244, 241) | Letter workflow manage@428/(249, 244, 241) | EPR integration@518/(249, 244, 241) | Clinical coding & docu@608/(249, 244, 241) | Inbound correspondence@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  },
+  {
+   "t": 7500,
+   "rows": "Telehealth@248/(249, 244, 241) | Patient communications@338/(249, 244, 241) | Letter workflow manage@428/(249, 244, 241) | EPR integration@518/(249, 244, 241) | Clinical coding & docu@608/(249, 244, 241) | Inbound correspondence@698/(249, 244, 241) | Patient communications@539/(40, 3, 15) | Letter workflow manage@563/(40, 3, 15) | EPR integration@587/(40, 3, 15) | Clinical coding & docu@611/(40, 3, 15) | Inbound correspondence@635/(40, 3, 15) | Telehealth@659/(40, 3, 15)"
+  }
+ ],
+ "cta": {
+  "h2": {
+   "x": 337,
+   "y": 4545,
+   "w": 765,
+   "h": 72,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "ff": "exposure",
+   "fs": "72px",
+   "lh": "72px",
+   "ls": "-3.6px",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  },
+  "img": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F66e0555d30cc3421a20ea1ef3f3f35ab3ebddfc5-1250x560.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+  "masks": [
+   {
+    "mask": "url(\"https://www.heidihealth.com/patterns/pattern-6.svg\")",
+    "bg": "rgb(251, 245, 130)",
+    "w": 381,
+    "h": 1272
+   },
+   {
+    "mask": "url(\"https://www.heidihealth.com/patterns/pattern-6.svg\")",
+    "bg": "rgb(251, 245, 130)",
+    "w": 381,
+    "h": 1272
+   }
+  ],
+  "panel": {
+   "x": 48,
+   "y": 4366,
+   "w": 1344,
+   "h": 504,
+   "bg": "rgba(0, 0, 0, 0)",
+   "fg": "rgb(40, 3, 15)",
+   "r": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "ff": "inter",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "fst": "normal",
+   "shadow": "none",
+   "bd": "0px rgb(40, 3, 15)"
+  }
+ }
+}

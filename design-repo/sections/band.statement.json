@@ -1,0 +1,50 @@
+{
+  "id": "band.statement",
+  "category": "content",
+  "purpose": "Large single-statement heading + lead + CTA, no imagery.",
+  "measuredFrom": "src/components/bands/index.jsx:425-456 (Statement)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 16
+      },
+      "lead": {
+        "type": "string",
+        "maxWords": 40
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "title",
+      "lead",
+      "cta"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 2
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

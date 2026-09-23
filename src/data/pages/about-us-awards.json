@@ -1,0 +1,698 @@
+{
+ "slug": "about-us-awards",
+ "path": "/about-us/awards",
+ "url": "/en-gb/about-us/awards",
+ "title": "Awards and Recognition",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Awards and Industry Recognition 2026",
+  "desc": "Explore the many awards that Heidi has won so far, as well as the recognition it has received as the leading AI in healthcare. - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(251, 245, 130)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 378
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 378,
+   "innerH": 218,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Heidi Awards",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Industry recognition from Newsweek, KLAS, Deloitte, and more: Earned through real clinical impact",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Contact us",
+     "href": "/en-gb/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 272,
+   "innerH": 112,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Honored by the industry. Driven by our community.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 188,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/b8bcbdf72509fa4c077e1ba8cb93f9d4f333ee45-117x34.png",
+     "alt": "KLAS Research ",
+     "w": 96,
+     "h": 28
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f8b39f61edafd2939c283f4db2462a6d0394e745-148x22.png",
+     "alt": "Frost and Sullivan ",
+     "w": 188,
+     "h": 28
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b25458e7445190ba3490db967c47523e0ea8bbb9-120x30.png",
+     "alt": "Newsweek ",
+     "w": 112,
+     "h": 28
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/35b0a94d9161d5a78fedd494e600fd0a84f73d73-120x45.jpg",
+     "alt": "Becker's Healthcare",
+     "w": 75,
+     "h": 28
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a3b1b6cbb0b73db49bb36f93545ca60dab7eaba1-115x64.png",
+     "alt": "Chime Foundation ",
+     "w": 50,
+     "h": 28
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/07d9413f98db8f5d3289195e1f4ea731d24450b0-120x23.png",
+     "alt": "Deloitte ",
+     "w": 146,
+     "h": 28
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3e477ff9b95fa72353f909f2344361c396c98b3f-120x30.png",
+     "alt": "Cogora ",
+     "w": 112,
+     "h": 28
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/36c1952cd8f2ccb8a1230020e65d212745d8cb60-92x106.svg",
+     "alt": "fall 2026 medical transcription leader ",
+     "w": 24,
+     "h": 28
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex max-w-container-lg w-full flex-col lg:grid lg:grid-cols-[1fr_2fr] gap-section-md items-start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 3935,
+   "innerH": 3775,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Multi-awarded AI Care Partner in Healthcare",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "A look at the recognition we’ve been fortunate to receive along the way.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Newsweek AI Impact Awards 2026",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi Won the AI Health Care - Best Outcomes, Physician Satisfaction",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Newsweek recognized Heidi in the AI Health Category for best outcomes and physician satisfaction. The award was judged by a panel of healthcare and AI experts across 48 categories in the 2026 program.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/41bfa0bdae68edd6fa7a8ca6886cd641a6dcea94-720x475.png",
+     "alt": "Newsweek AI Impact Awards",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Becker's Great Leaders in Healthcare",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Recognized as one of the leading companies in healthcare",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Becker’s, a trusted voice in healthcare business news and leadership, has named Heidi one of the leading companies in healthcare. This recognition places Heidi among a select group of organizations shaping patient care innovation and operational excellence.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/4e5d43491a4ad732845ff90ffd44302fdd909569-720x475.png",
+     "alt": "Beckers Great Leaders in Healthcare",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Best in KLAS 2026",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Debuted as a New Vendor for KLAS",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Heidi has officially entered the healthcare industry’s most respected vendor rankings with an impressive 93.1/100 overall score in the Ambient Speech category.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/48725ee87efffca9187a449e4c6acd88327ed318-720x475.png",
+     "alt": "Best in KLAS",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "2026 North American Technology Innovation Leadership",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Awarded for excellence in innovation, strategy execution, and clinician impact across the medical scribe industry.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Frost and Sullivan recognized Heidi with the 2026 North American Technology Innovation Leadership Award for AI medical scribing. The recognition highlights Heidi’s position as one of the leading AI medical scribes in the region, built on real clinician outcomes.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3887051a598888b4a86f67f3b59090b91a1d69df-720x475.png",
+     "alt": "Frost and Sullivan ",
+     "w": 712,
+     "h": 475
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "CHIME Foundation 2025",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Named CHIME’s 2025 Foundation Partner of the Year at the CHIME25 Fall Forum",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "CHIME named Heidi its 2025 Foundation Partner of the Year at the CHIME25 Fall Forum in San Antonio. Despite only CHIME in 2025, Heidi stood out for putting the physician experience at the center of everything it builds.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/4f28650ac94d3f56b2ad4d788b67a824460a8cbf-720x475.png",
+     "alt": "Chime Foundation ",
+     "w": 712,
+     "h": 475
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 585,
+   "innerH": 425,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "A leader in healthcare AI innovation",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "47.2M",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "hours saved since launch",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "129.3M",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "patient interactions supported",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "7.4 hours",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "given back to every clinician, every week.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 940,
+   "innerH": 716,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Recognition across categories",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Highlights across innovation, growth, and product design.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d575554d7ae54a397f82eec87b6b698eb1a2cc56-1600x1064.png",
+     "alt": "Context",
+     "w": 536,
+     "h": 536
+    },
+    {
+     "k": "a",
+     "t": "Deloitte’s Tech Fast 50 Ranked number one on Deloitte’s 2025 Tech Fast 50 in Australia, with a 15,323% three year revenue growth rate.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(33, 18, 23)"
+    },
+    {
+     "k": "a",
+     "t": "HTN Now Awards 2025/26",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "The General Practice Awards",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "PHN's Primary Care Quality and Innovation Awards 2025",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "2026 Best in Tech Awards",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-16 max-w-container-lg w-full",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 738,
+   "innerH": 578,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Words from our leaders",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "Visit media room",
+     "href": "/en-gb/about-us/media",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "“It's a testament to every nurse, doctor, paramedic, surgeon, and other providers who chose Heidi to transform their day-to-day experience of delivering care. We're grateful for the trust of our providers and looking forward to the next stage of The Digital Health Hub Awards process.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Dr. Thomas Kelly",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Co-founder and CEO of Heidi at Digital Health Hub Awards",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“We’ve continued building an exceptional team across engineering, clinical, compliance, regulatory, and operations, people who genuinely care about doing this properly. I’m proud of what we’ve delivered this year, but even more excited for what’s next.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Yass Omar",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Head of Legal and Regulatory Affairs at Heidi being the first ambient AI in the world to achieve ISO 42001 certification",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“I’m so proud of the Heidi Health team for turning an idea into a movement. Whilst revenue growth is exciting, at Heidi, clinician trust is our ultimate currency. Every feature we build and every decision we make is grounded in earning and keeping that trust.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Waleed Mussa",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Co-founder and COO at Heidi being the Deloitte 2025 Tech Fast 50 Winner",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“Proud moment for the Heidi team. Appreciate the work and people behind this recognition from Frost & Sullivan.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Simon Kos",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Chief Medical Officer at Frost and Sullivan's 2026 North American Technology Innovation Leadership Awards",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Previous slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Next slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 838,
+   "innerH": 678,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Frequently Asked Questions About Heidi",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Answers to the most common questions about Heidi and what they mean for clinicians",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What is Heidi?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi is a multi-product AI care partner built around Scribe, Evidence, and Remote. It covers documentation, evidence-backed clinical answers, patient communications, and dedicated hardware for any care setting. It works across 200+ specialties in 110+ languages and connects with major EHR systems to support clinicians at every step of the clinical day.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What is the significance of Heidi being ISO 42001-certified?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What are examples of Heidi’s impact on clinical outcomes?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What is Heidi’s overall return on investment (ROI)?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What can customers expect from Heidi in the future?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 5 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(209, 224, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 385
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 385,
+   "innerH": 225,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Try Heidi, an award-winning AI in healthcare",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Industry-recognized. Clinician-approved.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  }
+ ]
+}

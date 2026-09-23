@@ -1,0 +1,23 @@
+{
+  "$description": "Semantic color roles, each resolving to exactly one foundation/color.json value. An LLM generator references these roles, never a raw hex.",
+  "roles": {
+    "surface.page": { "resolvesTo": "page", "value": "#FCFAF8" },
+    "surface.card": { "resolvesTo": "card-white", "value": "#FFFFFF" },
+    "surface.brand": { "resolvesTo": "accent-yellow", "value": "#FBF582" },
+    "surface.dark": { "resolvesTo": "dark-fill", "value": "#28030F" },
+    "surface.invert": { "resolvesTo": "drawer-invert", "value": "#F9F4F1" },
+    "text.primary": { "resolvesTo": "text-primary", "value": "#28030F" },
+    "text.secondary": { "resolvesTo": "text-secondary", "value": "#755760" },
+    "text.oninvert": { "resolvesTo": "drawer-invert", "value": "#F9F4F1" },
+    "border.default": { "resolvesTo": "border-base", "value": "#F0DFD1" },
+    "icon.accent": { "resolvesTo": "sage", "value": "#588F60" },
+    "icon.accentStroke": { "resolvesTo": "sage-stroke", "value": "#407648" },
+    "badge.verified": { "resolvesTo": "badge-check", "value": "#3C6DDD" },
+    "badge.verifiedTick": { "resolvesTo": "badge-check-tick", "value": "#F9F4F1" },
+    "brand.forest": { "resolvesTo": "forest", "value": "#194B22" },
+    "brand.forestPressed": { "resolvesTo": "forest-700", "value": "#0F3416" },
+    "skeleton.fillLight": { "resolvesTo": "sand-75", "value": "#F6EFEA" },
+    "skeleton.fillMid": { "resolvesTo": "sand-100", "value": "#F6ECE4" },
+    "skeleton.fillDark": { "resolvesTo": "sand-150", "value": "#F4E7DD" }
+  }
+}

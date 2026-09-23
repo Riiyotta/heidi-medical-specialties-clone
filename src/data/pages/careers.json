@@ -1,0 +1,1707 @@
+{
+ "slug": "careers",
+ "path": "/careers",
+ "url": "/en-gb/careers",
+ "title": "Careers",
+ "status": 200,
+ "meta": {
+  "title": "Join Our Team | Heidi AI Careers",
+  "desc": "Explore career opportunities and join our team in transforming healthcare."
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1170,
+   "innerH": 1074,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Careers",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Work worth shipping",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Healthcare is buckling under the weight of administration, and the human connection at the heart of medicine is slowly eroding. This is a global problem and we're building the AI Care Partner that fixes it. Choose the challenge. Choose Heidi.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "See open roles",
+     "href": "#open-positions",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How we work",
+     "href": "#how-we-work",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/edb82b71925871a00fb975587cab816e101884c5-5749x3824.jpg",
+     "alt": "Heidi team",
+     "w": 1280,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1062,
+   "innerH": 934,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "We chose a purpose-driven mission that actually matters, and we hire people who want to do the same. You’ll be pushed to do your very best work, but you will trust, admire, and learn from the people working right alongside you. And if we’re honest, it’s not easy. Standard tech playbooks routinely fail in healthcare, and the friction of the medical system will test your perseverance. If you want to do your life’s best work at the edge of healthcare, tech and invention, this is the place to do it.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(251, 245, 130)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 217
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 313,
+   "innerH": 153,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "2.8M+",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Patient interactions powered every week",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "67M",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Hours saved since launch",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "8",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Offices across AU, US, UK, Canada & Singapore",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "500+",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidis building the next decade of healthcare",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": "how-we-work",
+   "cls": "flex flex-col max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 665,
+   "innerH": 505,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "How we work",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Values that set the standard.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Live Forever",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "We build for healthcare's next decade, not next quarter",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Practice Ownership",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Everyone here carries the company",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Move Fast, Fix Faster",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "More turns at the game means more chances to get it right",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Get Better",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "The best clinicians teach. So do we",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1006,
+   "innerH": 846,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Benefits & perks",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "How we take care of our people.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Health and wellness",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Region-based health cover, wellness stipends and a proper home setup. We invest in the things that keep you performing at the top of your game.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Parental leave",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Paid parental leave at full salary: 26 weeks for primary carers and 18 weeks for secondary carers, globally. Your equity continues to vest throughout.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Flexible hybrid culture",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Work where you do your best thinking. Come together in-office for high-signal collaboration, team offsites and company-wide sessions.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "IVF & fertility support",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "A one-time direct payment to support employees through IVF, egg freezing or sperm freezing, recognising the personal and financial weight of the journey.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Clinical leave",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "10 days per year to help our clinicians maintain accreditation and stay close to the reality of healthcare. Available where ongoing accreditation is required.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Learning & development budget",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "$1,000 per year for training, courses, certifications, conferences and materials.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Home office setup",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "A one-off $500 to kit out your home setup, monitor, chair, desk, or whatever helps you do your best work from wherever you work.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Work from anywhere for up to 1 month",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Relocate temporarily, work alongside another team, or spend time in-market with customers. We operate globally across Melbourne, Sydney, Brisbane, New York, San Francisco, London, Toronto and Singapore, and you're encouraged to use the network.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Team Engagement",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "An annual team engagement budget for moments that strengthen connection and help your team do their best work together.",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1636,
+   "innerH": 1476,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Life at Heidi",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Culture, shipped.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/4fb7b8ce08a907d387cdc02a71c27e3798379e77-1024x768.jpg",
+     "alt": "Heidi 'Find Evidence' tour bus with the team posing in front",
+     "w": 628,
+     "h": 504
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Roadshow • Auckland",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/12c2a0ee175246408441cde4841dd38d327ad905-768x1024.jpg",
+     "alt": "Heidi-branded cupcake tower at a celebration",
+     "w": 302,
+     "h": 504
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Heidi cupcakes • Mega Minds",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f935f0e823d0267ff762b4d7063e0d4344aa7eb4-1024x682.jpg",
+     "alt": "Heidi 'Find Evidence in the chaos' billboard on the Las Vegas strip",
+     "w": 302,
+     "h": 504
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Billboard • Las Vegas",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5c5cc1cc5c948d6c4dee09dd161d09b896df07c1-6002x3993.jpg",
+     "alt": "Welcome Kit • Mega Minds",
+     "w": 411,
+     "h": 240
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Welcome Kit • Mega Minds",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/163737ddbe6158e6315a991477522b24c6a64966-6042x4020.jpg",
+     "alt": "Team selfie • Melbourne",
+     "w": 411,
+     "h": 240
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Team selfie • Melbourne",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/bedd4647ffa0c7af5464a7c2de64a38429f3f7a5-4979x3313.jpg",
+     "alt": "Waterfront • Melbourne",
+     "w": 411,
+     "h": 240
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Waterfront • Melbourne",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ce0e689c0272f693f3e8e0cc87a45375dc194798-3459x4612.jpg",
+     "alt": "Buffet dinner • Offsite",
+     "w": 302,
+     "h": 504
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Buffet dinner • Offsite",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d6308289214c41317ec98591d3d2e59f17f9f04a-3849x5785.jpg",
+     "alt": "Heidi Unlocked • Melbourne",
+     "w": 302,
+     "h": 240
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Heidi Unlocked • Melbourne",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/44c7eb637f93207607604fb5acec33edae636816-5994x3988.jpg",
+     "alt": "Heidi crew walking through a Melbourne street together",
+     "w": 628,
+     "h": 240
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Merch stand • Unlocked",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/274c66534b589235a7ce9d02cdf5c0e21fa4e920-5387x3584.jpg",
+     "alt": "Registration • Team night",
+     "w": 628,
+     "h": 240
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Registration • Unlocked",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0b895cc707cde41f1b6976216a1a2e8486e7b095-5591x3720.jpg",
+     "alt": "Team photo • HQ",
+     "w": 302,
+     "h": 240
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md max-w-container-lg w-full",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 883,
+   "innerH": 723,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Founders of Heidi",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "The shortest line from idea to impact.",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "We keep hierarchy flat so momentum stays fast. At Heidi, you sit in the room with the founders, debate high-stakes technical and clinical problems, and own the solutions from day one.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/79d42ad3d553df1f29f93f98382cf751b345103a-5464x7285.jpg",
+     "alt": "Thomas Kelly",
+     "w": 360,
+     "h": 480
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Thomas Kelly",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Co-Founder & CEO",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/6bb0e65f68b65b7df0490af04259060e6dccc40e-4741x6321.jpg",
+     "alt": "Yu Liu",
+     "w": 360,
+     "h": 480
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Yu Liu",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Co-Founder & CTO",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1fe69ffde4513f9f815f20e5e2a409cff9e5f58e-1365x1820.png",
+     "alt": "Waleed Mussa",
+     "w": 360,
+     "h": 480
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Waleed Mussa",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Co-Founder & CFO",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex max-w-container-lg w-full flex-col gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 657,
+   "innerH": 497,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Our process",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "How we hire.",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "We hire carefully and move fast, the same way we build. Our process is designed to give you a real read on the work, the team and how we think and to give us the same. Expect real problems and honest conversations.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Recruiter Chat",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "An intro call to get to know you, what you've built, what you're looking for, and what drew you to Heidi.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Behavioural Interviews",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "A conversation about your past experiences. We're curious how you approach problems, work with teams, and what you've learned along the way.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Live Challenge",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "A practical assignment on a real problem you could tackle in-role.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Final Interviews",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "A wider-lens chat with our senior Heidis. We talk long-term trajectory, ambitions, and assess for cultural fit.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Offer",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "We get back to you quickly, either way. If it's a yes, we'll walk through the offer together and answer anything you need before deciding.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": "open-positions",
+   "cls": "flex flex-col gap-section-md w-full max-w-container-lg",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 6230,
+   "innerH": 6070,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Open roles",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Find your seat.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "Location",
+     "href": null,
+     "bg": "rgb(255, 255, 255)",
+     "c": "rgba(0, 0, 0, 0.5)",
+     "r": "12px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Department",
+     "href": null,
+     "bg": "rgb(255, 255, 255)",
+     "c": "rgba(0, 0, 0, 0.5)",
+     "r": "12px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Customer Experience",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Customer Success Lead Japan Full-time View role →",
+     "href": "/en-GB/careers/a1fb51c2-d5bc-4166-b6fe-0579886b3c19",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Support Engineer Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/1303b875-e3c0-4eb2-9b6a-29415eb73d6e",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Engineering",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Backend Software Engineer - New Bets London Full-time View role →",
+     "href": "/en-GB/careers/68074198-b723-4db9-af97-5f33392593f4",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Coding Specialist (Australia) Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/0ac1835a-8faa-446c-b0b2-a581ca21e50c",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Data Analyst - Growth & Marketing Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/7db3578f-d767-4aa4-8cf4-10fe1caa53c3",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Engineering Lead - Developer Platform Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/1e1d9ce4-1d62-4175-ba3b-cceb7e4cd2ef",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Forward Deployed Engineer - Ireland Ireland Full-time View role →",
+     "href": "/en-GB/careers/9b28b999-2c4a-4ed8-ad60-48897a91255e",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Forward Deployed Engineer - UK London Full-time View role →",
+     "href": "/en-GB/careers/02ad14b7-a9bb-45e3-a90f-631179f86d8d",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Lead Site Reliability Engineer Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/cde90d57-737b-4305-8dab-703ea685c1b8",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Mid Level AI Models Engineer Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/0253c879-0267-43c8-99f5-e62c810cc0af",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Principal Platform Engineer - London London Full-time View role →",
+     "href": "/en-GB/careers/5a0d7a56-bfd0-443d-8123-29db65679a59",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior AI Infrastructure Engineer Melbourne Full-time View role →",
+     "href": "/en-GB/careers/3c900079-29a0-4855-b187-56384d08470a",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior AI Models Engineer Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/f2a33fd0-e4bc-4e0b-84e3-c136a32af0ab",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior Android Engineer Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/1fb42cde-a802-4cc9-97ec-96716a9faf04",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior Backend Engineer - UK London Full-time View role →",
+     "href": "/en-GB/careers/76723d60-69ac-4368-a97d-4ce125d3c822",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior Localisation Engineer Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/ea5b66c6-c1d5-48e5-b985-129fc01d02cc",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior Product Analyst Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/5d352f63-74c2-458c-b40d-0666881f263f",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior Software Engineer - Desktop App Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/738c99ed-0a85-467f-821c-1beae5565148",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior Software Engineer - Robotic Process Automation London Full-time View role →",
+     "href": "/en-GB/careers/797ab212-3cc6-4dd0-8646-908241fc8f34",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Staff Frontend Solution Architect Melbourne Full-time View role →",
+     "href": "/en-GB/careers/c6b7c2b6-5b9b-47b4-8e65-ba866225c95f",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Vendor Management Lead Melbourne Full-time View role →",
+     "href": "/en-GB/careers/73b63cb6-b34b-4780-86f2-1d717b5ac9c9",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Finance",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "APAC Payroll Specialist Makati City Full-time View role →",
+     "href": "/en-GB/careers/e650e14f-d42a-4cf0-9063-2ad27406b764",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Finance Manager London Full-time View role →",
+     "href": "/en-GB/careers/80e69e71-62ac-4975-9df8-d93d0a0679ce",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "FP&A Analyst Sydney, Melbourne Full-time View role →",
+     "href": "/en-GB/careers/a6ab283e-d27b-4066-af79-cce362985d3e",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior Revenue Accountant Makati City Full-time View role →",
+     "href": "/en-GB/careers/16dc97e5-3241-40ab-979d-1422e080ee91",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "GTM",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Account Executive - Enterprise New York, Remote Full-time View role →",
+     "href": "/en-GB/careers/5139980a-392f-4312-a9c6-0b30ac768a3e",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Applied AI Director (Account Management) New York Full-time View role →",
+     "href": "/en-GB/careers/06ffeef7-3405-46d1-a562-6bbb526c5b95",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Applied AI Specialist (Account Management) New York Full-time View role →",
+     "href": "/en-GB/careers/e215c184-9a76-4f7e-ad91-8ce82d098527",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Bid Manager Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/53e0f504-72ff-4591-9a2f-917ba15a1bd5",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Brand Designer Melbourne Full-time View role →",
+     "href": "/en-GB/careers/104aa8ca-8282-4921-8fa3-17c86a509870",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Business Development Representative Toronto, Montreal, Vancouver Full-time View role →",
+     "href": "/en-GB/careers/7fdd3cba-4de9-4b82-b26c-c90ca97d3fb5",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Clinical Associate London Full-time View role →",
+     "href": "/en-GB/careers/d03435d7-e503-4e0f-8ae7-daab721e2a95",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Commercial Analyst, DACH Berlin, Germany Full-time View role →",
+     "href": "/en-GB/careers/de693765-56a1-41fe-8b14-c4f3f2922090",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Commercial Analyst, France Paris, France Full-time View role →",
+     "href": "/en-GB/careers/b3ac6234-5bef-4b7f-b799-6b72ee44056c",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Commercial Lead - Clinical Trials London Full-time View role →",
+     "href": "/en-GB/careers/d43551da-7ea9-47c4-a747-8d7a2c4256a3",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Customer Success Associate Cape Town Full-time View role →",
+     "href": "/en-GB/careers/a97bb7fa-6a9a-405a-91fa-8c5c93c5d46d",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Customer Success Manager Toronto Full-time View role →",
+     "href": "/en-GB/careers/f9a4618e-de06-4293-887d-322008f13236",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Customer Success Manager, DACH Berlin, Germany, Munich, Germany Full-time View role →",
+     "href": "/en-GB/careers/4d9b8a5e-53e4-452c-a2ec-337657acf8a7",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Customer Success Manager, West Vancouver Full-time View role →",
+     "href": "/en-GB/careers/cd46c71d-277a-4587-b992-5b6eb1f696c8",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Customer Systems Lead Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/506948f3-315c-4a68-b96c-e67bc43d3fbc",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Enterprise Account Executive Brisbane Full-time View role →",
+     "href": "/en-GB/careers/ebb59341-ef24-44b5-b3ef-c85b8cdbd1c5",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Enterprise Account Executive Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/275b3280-2e55-4069-9f42-32d049c97c55",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Enterprise Account Executive Singapore Full-time View role →",
+     "href": "/en-GB/careers/406e5e54-d125-4e8a-a601-dd06998f4001",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Enterprise Business Development Representative New York Full-time View role →",
+     "href": "/en-GB/careers/59a7de9a-0665-4519-b371-03091c7b9242",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Enterprise Customer Success Manager London Full-time View role →",
+     "href": "/en-GB/careers/5b09bea9-1a91-4225-af7c-709d4d78288e",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Enterprise Sales Manager Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/01331cc9-80e4-4459-bac8-d6120c0f7e9b",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "GTM London Full-time View role →",
+     "href": "/en-GB/careers/2c9e3440-d347-4d13-96f4-ef7f4b847492",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "GTM Operations Analyst London Full-time View role →",
+     "href": "/en-GB/careers/835ccbd5-6fc2-424e-b2b8-8d25f71c0c97",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Head of Customer Education Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/4e3532d7-a0e8-48d7-b547-91aa39ceb854",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Head of Enterprise Customer Success Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/66eead48-384b-4afc-99da-77c886e0fc20",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Head of Partnerships Melbourne, Sydney Full-time View role →",
+     "href": "/en-GB/careers/f1f97d3f-7338-448c-83ea-d1030248f08d",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "New Business Representative New York Full-time View role →",
+     "href": "/en-GB/careers/e88d4490-abd1-43a7-a81e-3ff8e6b49209",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Partnerships Associate London Full-time View role →",
+     "href": "/en-GB/careers/fb77fa71-8fe1-452f-928a-221d515dea3f",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Partnerships Manager Toronto Full-time View role →",
+     "href": "/en-GB/careers/1a2fe7c1-d7f8-4c65-945c-efccf2a4a0bf",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Sales Development Representative - Bilingual (French/English) Toronto, Montreal, Vancouver Full-time View role →",
+     "href": "/en-GB/careers/2d1f625a-60d6-4e65-bafd-5e4f6fa03c5c",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Sales Director, US New York Full-time View role →",
+     "href": "/en-GB/careers/b9863b71-a84b-4dc5-bf07-c473f129fb3c",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Sales Lead Japan Full-time View role →",
+     "href": "/en-GB/careers/7f5c091e-5cfb-4b52-a59c-b59b2ec30526",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Senior Solutions Engineer - Healthtech London Full-time View role →",
+     "href": "/en-GB/careers/58447f81-a189-4209-bcd7-5fdf62f93d74",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Software Implementation Engineer London Full-time View role →",
+     "href": "/en-GB/careers/69a7f6cd-2bf1-4390-ac51-df68e59cde4c",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "UK&I Partnerships Lead London Full-time View role →",
+     "href": "/en-GB/careers/965decb5-121e-443d-88d4-d2587b49f8bc",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Legal, Regulatory & Compliance",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Design Quality Engineer London, Berlin, Germany, Paris, France Full-time View role →",
+     "href": "/en-GB/careers/391fe188-6b95-4aa1-bf46-22d8bceb9f4b",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Design Quality Engineer Sydney, Melbourne Full-time View role →",
+     "href": "/en-GB/careers/31e03395-c3a1-46c3-955c-ed9f50c2e8d7",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Marketing",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Automation & Lifecycle Specialist Sydney, London, Melbourne Full-time View role →",
+     "href": "/en-GB/careers/47f384c6-d850-4f15-b48a-3be07b948904",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Digital Designer Makati City Full-time View role →",
+     "href": "/en-GB/careers/a597fbd6-0805-407e-bab5-d26b0f769668",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Director of Growth Marketing New York Full-time View role →",
+     "href": "/en-GB/careers/67910ba8-c7bd-4c01-88e3-a3b8618b1cff",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Director of Product Marketing New York Full-time View role →",
+     "href": "/en-GB/careers/67bf789b-e6bb-4429-93f6-9e0d81c0d5fe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Ecommerce Growth Marketing Specialist Makati City Full-time View role →",
+     "href": "/en-GB/careers/5396411b-79cc-4aae-a3a6-bdba7cca1d04",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Global Communications Ops Manager Sydney, Melbourne Full-time View role →",
+     "href": "/en-GB/careers/85099f71-1f11-4a60-a8f8-4997be685ff2",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Marketing Lead Japan Full-time View role →",
+     "href": "/en-GB/careers/39c0c4a8-2e29-4efd-a2ab-3062b15cb3ae",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "SEO Outreach Specialist Makati City Full-time View role →",
+     "href": "/en-GB/careers/85f0fd4b-85ce-4e4e-a448-4d4ea9b7c460",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Video Editor/Motion Designer Makati City Full-time View role →",
+     "href": "/en-GB/careers/efab7f0a-36e9-4c30-8022-87e9bc7ddf41",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Other",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Expression of Interest — Heidi Entry Program Melbourne, London, New York, San Francisco Full-time View role →",
+     "href": "/en-GB/careers/e0e16150-8794-4d5a-b267-1fe469e598f0",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Expression of Interest (AU) Melbourne Full-time View role →",
+     "href": "/en-GB/careers/64b3cce2-ba54-4aa3-9cfc-0c8d177a5479",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Expression of Interest (Remote) Remote Full-time View role →",
+     "href": "/en-GB/careers/0444c7c5-5a9e-4447-90df-46db950fba2f",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Expression of Interest (UK) London Full-time View role →",
+     "href": "/en-GB/careers/18a4b7c8-f627-4d29-9bbf-72603d17189e",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Expression of Interest (US) Denver Full-time View role →",
+     "href": "/en-GB/careers/cb516a08-6b62-4bee-b8cc-47d2b30d00a9",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "People",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Senior People Partner - EMEA London Full-time View role →",
+     "href": "/en-GB/careers/dd2bfd7e-bc9c-46bd-bebf-83ff63d5ffe9",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Product",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Head of Implementation Sydney, Melbourne Full-time View role →",
+     "href": "/en-GB/careers/e4535bcb-d143-477d-9c56-bcd59147571e",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Head Of Implementation San Francisco Full-time View role →",
+     "href": "/en-GB/careers/4d6af18a-a2b7-442f-8a22-7539da8bac4f",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Head of Product Marketing New York Full-time View role →",
+     "href": "/en-GB/careers/40db06ad-0f7f-4f14-95bb-d2c8d36a6774",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Head of Technology, North America San Francisco Full-time View role →",
+     "href": "/en-GB/careers/1b072fa0-83da-40c2-8160-164c66813720",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Product Manager, Apps Sydney, Melbourne Full-time View role →",
+     "href": "/en-GB/careers/656f84a5-fa57-4394-826c-e72bc3a9ef57",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Product Marketing Manager Sydney, Melbourne Full-time View role →",
+     "href": "/en-GB/careers/2c42d512-ae07-488b-ae74-d74c61c24678",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Product Operations Sydney, Melbourne Full-time View role →",
+     "href": "/en-GB/careers/6d2e2042-49f1-46ee-b844-8e73a45009b1",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Technical Program Manager, Integrations - Health Systems Singapore Full-time View role →",
+     "href": "/en-GB/careers/3ec2c152-3983-4471-834a-60c8e1f6c993",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(251, 245, 130)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 504
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 600,
+   "innerH": 216,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Do the best work of your career",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "The next decade of healthcare is being built right now. We'd love you to help us build it, whatever background, path or postcode you're coming from.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  }
+ ]
+}

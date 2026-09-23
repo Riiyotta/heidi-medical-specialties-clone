@@ -1,0 +1,32 @@
+{
+  "id": "centered.prose",
+  "category": "content",
+  "purpose": "Centered heading + short copy block, no imagery, no fixed position.",
+  "measuredFrom": "src/components/sections/index.jsx:256-279 (Centered)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "body": {
+        "type": "string",
+        "maxWords": 60
+      }
+    },
+    "required": [
+      "heading",
+      "body"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 10
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

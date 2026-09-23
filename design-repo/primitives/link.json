@@ -1,0 +1,7 @@
+{
+  "id": "link",
+  "category": "primitive",
+  "purpose": "Inline or standalone text link, no button chrome.",
+  "measuredFrom": "src/components/sections/index.jsx:675-761 (Links renderer)",
+  "props": { "label": { "type": "string", "maxWords": 10 }, "href": { "type": "string" } }
+}

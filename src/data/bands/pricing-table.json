@@ -1,0 +1,505 @@
+{
+ "planCols": [
+  {
+   "n": "Free",
+   "x": 592
+  },
+  {
+   "n": "Scribe Plus",
+   "x": 816
+  },
+  {
+   "n": "Clinician",
+   "x": 1039.9921875
+  },
+  {
+   "n": "Practice",
+   "x": 1263.9921875
+  }
+ ],
+ "headBtns": [
+  {
+   "t": "Get Heidi free",
+   "bg": "rgb(249, 244, 241)",
+   "x": 592,
+   "dy": 24
+  },
+  {
+   "t": "Get Heidi free",
+   "bg": "rgb(249, 244, 241)",
+   "x": 592,
+   "dy": 24
+  },
+  {
+   "t": "Try 14 days free",
+   "bg": "rgb(40, 3, 15)",
+   "x": 816,
+   "dy": 28
+  },
+  {
+   "t": "Try 14 days free",
+   "bg": "rgb(40, 3, 15)",
+   "x": 816,
+   "dy": 28
+  },
+  {
+   "t": "Talk to us",
+   "bg": null,
+   "x": 816,
+   "dy": 82
+  },
+  {
+   "t": "Talk to us",
+   "bg": null,
+   "x": 816,
+   "dy": 81
+  },
+  {
+   "t": "Try 14 days free",
+   "bg": "rgb(40, 3, 15)",
+   "x": 1040,
+   "dy": 28
+  },
+  {
+   "t": "Try 14 days free",
+   "bg": "rgb(40, 3, 15)",
+   "x": 1040,
+   "dy": 28
+  },
+  {
+   "t": "Talk to us",
+   "bg": null,
+   "x": 1040,
+   "dy": 82
+  },
+  {
+   "t": "Talk to us",
+   "bg": null,
+   "x": 1040,
+   "dy": 81
+  },
+  {
+   "t": "Talk to us",
+   "bg": "rgb(40, 3, 15)",
+   "x": 1264,
+   "dy": 28
+  },
+  {
+   "t": "Talk to us",
+   "bg": "rgb(40, 3, 15)",
+   "x": 1264,
+   "dy": 28
+  },
+  {
+   "t": "Try 14 days free",
+   "bg": null,
+   "x": 1264,
+   "dy": 82
+  },
+  {
+   "t": "Try 14 days free",
+   "bg": null,
+   "x": 1264,
+   "dy": 81
+  }
+ ],
+ "rows": [
+  {
+   "label": "Scribe",
+   "fs": "24px",
+   "fw": "400",
+   "cells": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "info": null
+  },
+  {
+   "label": "Unlimited transcription",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "check",
+    "check",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Standard templates",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "check",
+    "check",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Task management",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "check",
+    "check",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Ask Heidi",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "Limited",
+    "check",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Advanced templates",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "Limited",
+    "check",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Patient & session linking",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "Limited",
+    "check",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Document & session sharing",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Coding",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Session status",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Free assistant users",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Team template sharing",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Template configuration 1:1",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Evidence",
+   "fs": "24px",
+   "fw": "400",
+   "cells": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "info": null
+  },
+  {
+   "label": "Unlimited answers",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "check",
+    "check",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Transparent citations",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "check",
+    "check",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "CPD / CME tracking",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "check",
+    "check",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Preferred sources & journals",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Premium evidence sources",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Personal evidence library",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Team evidence guidelines",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Org-wide evidence library",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Platform",
+   "fs": "24px",
+   "fw": "400",
+   "cells": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "info": null
+  },
+  {
+   "label": "Flexible data retention",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "check",
+    "check",
+    "check",
+    "Set for team"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "EHR integration add-on",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Centralized billing",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Priority support",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "check",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Team management & controls",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Guided onboarding",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "check"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Dedicated customer success",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "—"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Single sign-on (SSO)",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "—"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Service availability",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "—"
+   ],
+   "info": "circle-question-mark"
+  },
+  {
+   "label": "Custom terms & hosting",
+   "fs": "16px",
+   "fw": "400",
+   "cells": [
+    "—",
+    "—",
+    "—",
+    "—"
+   ],
+   "info": "circle-question-mark"
+  }
+ ],
+ "colBg": []
+}

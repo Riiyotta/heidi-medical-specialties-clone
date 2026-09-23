@@ -1,0 +1,77 @@
+{
+  "id": "split.feature",
+  "category": "feature",
+  "purpose": "Alternating image+copy feature row; multiple per page, zig-zag image side.",
+  "measuredFrom": "src/components/sections/index.jsx:223-255 (Split)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "body": {
+        "type": "string",
+        "maxWords": 50
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "visual": {
+        "type": "object",
+        "properties": {
+          "assetRole": {
+            "const": "illustrative-photo"
+          },
+          "alt": {
+            "type": "string",
+            "maxWords": 20
+          }
+        },
+        "required": [
+          "assetRole",
+          "alt"
+        ],
+        "additionalProperties": false
+      },
+      "imageFirst": {
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "heading",
+      "body",
+      "cta",
+      "visual",
+      "imageFirst"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 8
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [],
+  "responsive": {
+    "mobile": "stacked, image above copy",
+    "desktop": "side-by-side (>=1024px), image side alternates per instance",
+    "measuredFrom": "CLONE_SPEC.md:101-108 (breakpoint table); tokens/30-layout/grid.json"
+  }
+}

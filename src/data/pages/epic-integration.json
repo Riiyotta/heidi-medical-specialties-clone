@@ -1,0 +1,449 @@
+{
+ "slug": "epic-integration",
+ "path": "/epic-integration",
+ "url": "/en-gb/epic-integration",
+ "title": "Epic",
+ "status": 200,
+ "meta": {
+  "title": "Epic Integration",
+  "desc": "Learn more about Epic Integration - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 1175
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 1175,
+   "innerH": 1015,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "An AI Care Partner embedded inside Epic",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi integrates directly with Epic using SMART on FHIR to generate documentation and write it back to the patient record, without changing how clinicians work.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Talk to us",
+     "href": "https://www.heidihealth.com/contact-sales?integration=epic",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5a32d0699e3e864da7fdd7449792b23288af6b22-2404x1400.png",
+     "alt": "Image of the Epic integration into the Heidi Platform",
+     "w": 1280,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(255, 255, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 208
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 304,
+   "innerH": 80,
+   "blocks": [
+    {
+     "k": "a",
+     "t": "Visit the Epic Showroom",
+     "href": "https://showroom.epic.com/Listing?id=2832",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1f1248299996268f191866337ccd3a9cf240644d-1200x168.png",
+     "alt": "Epic Showroom",
+     "w": 568,
+     "h": 80
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md max-w-container-lg w-full lg:grid lg:grid-cols-2",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 473,
+   "innerH": 377,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Fits directly into existing Epic workflows",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi launches with patient and encounter context already in place, so clinicians can start immediately within Epic without an additional system or login, enabling use across teams and departments.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "10 hours per clinician per week",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Saved on documentation, reducing after-hours work and eliminating copy-paste.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "65% adoption in the first month",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Achieved across clinical teams without workflow changes, additional systems, or logins.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "200+ specialties using Heidi",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Used across inpatient, outpatient, and emergency settings.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 635,
+   "innerH": 475,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "How Heidi integrates with Epic",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi captures documentation during the encounter and writes it back to Epic as drafts aligned with Smart Data Elements and existing templates.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Embedded directly in Epic workflows",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Launched from the patient chart in Hyperspace or Haiku, with patient and encounter context automatically in place.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Built on Epic’s native integration framework",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Approved on Epic’s Showroom and compliant with SOC 2, ISO 27001, HIPAA, and GDPR.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Control at every step",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Test, pilot, and scale at your pace. Full admin control supports safe, staged rollouts.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Within the Epic patient chart",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Launched from the patient chart as an embedded panel, with patient and encounter context already in place, so the correct record is ready as the visit begins.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b43202773aa13739994609644222e8dc69b9acf1-3000x2400.jpg",
+     "alt": "Heidi launched within Epic",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Continuity across Epic notes",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Prior Epic notes can be brought into a session as context, so documentation reflects the full patient history across encounters.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/84a4f1ab204dcd03e5c807b1b07aa0c58871b69c-3000x2400.png",
+     "alt": "Heidi staying connected with notes to Epic",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Aligned to Epic templates and sections",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Documentation is structured to align with Epic templates, so clinicians can review and sign without additional documentation.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5fcc83caff559d6b6a73ba1ee4d108139f02c136-3000x2400.jpg",
+     "alt": "Linking notes to sections and Epic Structure",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Across Epic desktop and mobile workflows",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Available in Hyperspace and Haiku, so clinicians can document between patients, during rounds, or after hours, with offline support when needed.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/58ad803624ebeb3912862b11a6365ed594748786-3000x2400.jpg",
+     "alt": "Mobile imagery of Heidi-Epic Integration",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col gap-section-sm",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1198,
+   "innerH": 1038,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Roll out with control across your organization",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi is shaped around your clinicians, your workflows, and your rollout requirements. IT and clinical leadership can pilot, monitor usage, and scale adoption within your hospital’s governance processes. Deployment uses standard SMART on FHIR steps and requires IT configuration and approval.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/f1e727453ecdc63fcbc1f6e73c563e63476e8499-3840x2160.jpg",
+     "alt": "A diagram of how Heidi works with integrations, a process of 1. Discovery, 2. Build, 3. Testing & Validation, 4. Pilot & Go-live, 5 Post-launch support. ",
+     "w": 1216,
+     "h": 684
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 443,
+   "innerH": 283,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "See how Heidi connects across your systems",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi integrates with Epic, Cerner, and other leading EHRs, practice management systems, and clinical platforms.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "See more integrations",
+     "href": "/en-gb/integrations",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "stats.band",
+  "category": "proof",
+  "purpose": "Row of short numeric stat headings each with a caption underneath.",
+  "measuredFrom": "src/components/sections/index.jsx:312-336 (Stats)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 12
+      },
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 6,
+        "items": {
+          "type": "object",
+          "properties": {
+            "value": {
+              "type": "string",
+              "maxWords": 4
+            },
+            "caption": {
+              "type": "string",
+              "maxWords": 12
+            }
+          },
+          "required": [
+            "value",
+            "caption"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "heading",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 3
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

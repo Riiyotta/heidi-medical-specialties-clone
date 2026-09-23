@@ -1,0 +1,9 @@
+{
+  "$description": "Icon sizing, real measured values from CLONE_SPEC nav/hero inventory.",
+  "measuredFrom": "CLONE_SPEC.md:127-134",
+  "sizes": {
+    "nav-mega-menu": { "value": "20px", "usage": "nav mega-menu icons, stroke-width 2", "measuredFrom": "tailwind.config.js:22-24 (sage color note)" },
+    "nav-search": { "value": "16px", "usage": "search trigger lucide-search icon (size-4)", "measuredFrom": "CLONE_SPEC.md:131" },
+    "hamburger": { "value": "32px", "usage": "mobile nav lucide-menu icon (size-8)", "measuredFrom": "CLONE_SPEC.md:129" }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "solutions.video-band",
+  "category": "proof",
+  "purpose": "Embedded product-demo video for the vertical.",
+  "measuredFrom": "src/components/solutions/index.jsx:343-368 (VideoBand)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "sub": {
+        "type": "string",
+        "maxWords": 30
+      },
+      "visual": {
+        "type": "object",
+        "properties": {
+          "assetRole": {
+            "const": "product-demo-video"
+          },
+          "alt": {
+            "type": "string",
+            "maxWords": 20
+          }
+        },
+        "required": [
+          "assetRole",
+          "alt"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "heading",
+      "sub",
+      "visual"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [
+    "product-demo-video"
+  ]
+}

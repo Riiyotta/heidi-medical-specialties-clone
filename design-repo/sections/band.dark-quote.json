@@ -1,0 +1,27 @@
+{
+  "id": "band.dark-quote",
+  "category": "proof",
+  "purpose": "Single dark-background pull-quote, no attribution fields.",
+  "measuredFrom": "src/components/bands/index.jsx:1278-1292 (DarkQuote)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "quote": {
+        "type": "string",
+        "maxWords": 50
+      }
+    },
+    "required": [
+      "quote"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

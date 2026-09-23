@@ -1,0 +1,119 @@
+{
+ "logos": [
+  {
+   "alt": "CHCP",
+   "src": "/assets/bands/trainees/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+   "w": 187
+  },
+  {
+   "alt": "modality",
+   "src": "/assets/bands/trainees/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+   "w": 187
+  },
+  {
+   "alt": "NHS Dudley",
+   "src": "/assets/bands/trainees/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+   "w": 187
+  },
+  {
+   "alt": "NHS Hertfordshire Teaching Hospitals",
+   "src": "/assets/bands/trainees/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+   "w": 187
+  },
+  {
+   "alt": "NHS Walsall Healthcare",
+   "src": "/assets/bands/trainees/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+   "w": 187
+  },
+  {
+   "alt": "NHS WWL Teaching Hospitals",
+   "src": "/assets/bands/trainees/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+   "w": 187
+  },
+  {
+   "alt": "onecare",
+   "src": "/assets/bands/trainees/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+   "w": 187
+  },
+  {
+   "alt": "Portman dentex",
+   "src": "/assets/bands/trainees/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+   "w": 187
+  },
+  {
+   "alt": "Sue Ryder",
+   "src": "/assets/bands/trainees/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+   "w": 187
+  },
+  {
+   "alt": "Swiss Medical Network",
+   "src": "/assets/bands/trainees/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+   "w": 187
+  }
+ ],
+ "quotes": [
+  {
+   "title": "“Allows me to get home earlier!”",
+   "body": "Heidi found me at a time when I was feeling that noting was interfering with my desire to be fully present for clients. It truly captures the work I do with clients and allows me to get home earlier while meeting professional noting standards.",
+   "name": "Lisa Terwilliger",
+   "role": "Therapist",
+   "avatar": "/assets/bands/trainees/3b14048b14c0c714682ec7bdd980a38e03924e17-192x193.png"
+  },
+  {
+   "title": "“It has completely changed my workflow for the better.”",
+   "body": "I'm an audiologist and have been using Heidi for writing chart notes for about 3 weeks. I can spend more time listening to my patients without using my energy trying to write down or remember every detail as I go. I am still working on getting the perfect templates for me, but it's been a really helpful and fun addition to my workday.",
+   "name": "Amanda Levy",
+   "role": "Audiologist",
+   "avatar": "/assets/bands/trainees/84255dc1f755f5bbb0f7236c81244fdedd180da8-512x768.png"
+  },
+  {
+   "title": "“Excellent Support & Great Value!”",
+   "body": "During a demo, I requested a template be created for use with my facility so that I could test the strength and validity of the software. Within a few minutes, the template was fully functional and performed flawlessly. Heidi Health is now my go to AI Medical Scribe software. Great product and phenomenal support!",
+   "name": "Christopher Rodriguez",
+   "role": "Family Nurse Practitioner",
+   "avatar": "/assets/bands/trainees/47c6b24132afaf6ef38322b5184ed1b3370d8186-320x320.jpg"
+  },
+  {
+   "title": "“It is intuitive and does not take a huge learning curve”",
+   "body": "I'm always seeking ways to be more effective and more efficient so that my patients can get \"all of me\" during a visit. Heidi is the biggest move in this direction I have made and wholeheartedly recommend it. It is intuitive and does not take a huge learning curve. It allows me to be present and engaged and helps makes my notes better without any concern of replacing the human element. You still have to ask good questions and have solid medical knowledge and I don't feel like it steps on my toes at all.",
+   "name": "Corey Dickinson",
+   "role": "Family Nurse Practitioner",
+   "avatar": "/assets/bands/trainees/2c402ff6f683196e30663e031d734084c42bc60e-270x270.jpg"
+  },
+  {
+   "title": "“I cannot praise Heidi enough!”",
+   "body": "I have tried several transcription systems because I always wrote long notes and spent hours after work doing it. It is the best and most affordable software and a game-changing tool.",
+   "name": "Daniela Vanousova",
+   "role": "Dermatologist",
+   "avatar": "/assets/bands/trainees/430205d4650e649d3d903297cd9b9ed13310d163-200x267.jpg"
+  },
+  {
+   "title": "“This has COMPLETELY changed my workflow.”",
+   "body": "I do clinic notes, telephone notes, operative notes. I also use it for inpatient consultations and inpatient rounding. Custom templates change the game. UI/Ux is great. I'm in love.",
+   "name": "David Canes",
+   "role": "Urologist",
+   "avatar": "/assets/bands/trainees/a197b3426d901319935cf3a98f4563a1471f25b0-400x400.jpg"
+  },
+  {
+   "title": "“I am keeping Heidi as my go to for my office clinical notes”",
+   "body": "As a surgeon, I need products that work. The rest out there are toys.",
+   "name": "Dr. Lawrence Kosova, DPM",
+   "role": "Podiatrist at Family Podiatry Center",
+   "avatar": "/assets/bands/trainees/5ceae8bb8397075ba09cb3d7d5e3e86648245970-1317x1317.webp"
+  },
+  {
+   "title": "“I am impressed by the accuracy and efficiency”",
+   "body": "As a very busy Family Physician with plenty of notes to write, Heidi has been a Game Changer. It has literally replaced human beings by doing what they were doing at a fraction of the price and with greater precision!",
+   "name": "Kalaki Clarke",
+   "role": "Family Physician",
+   "avatar": "/assets/bands/trainees/d0ec245e56c2cb35603e686bd064af46e64d5f49-308x300.png"
+  },
+  {
+   "title": "“This has revolutionized my practice”",
+   "body": "Stunned at how this has revolutionized my practice. Charting is efficient, patients feel more engaged since I’m not always turning to the computer.",
+   "name": "Menaka Pai",
+   "role": "Hematologist",
+   "avatar": "/assets/bands/trainees/eb31f8d25a2e81b23d1c14f7a0687f776b2bf919-400x400.jpg"
+  }
+ ]
+}

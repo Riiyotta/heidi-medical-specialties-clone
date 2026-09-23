@@ -1,0 +1,41 @@
+{
+  "id": "band.panel-tabs",
+  "category": "feature",
+  "purpose": "Generic tabbed panel wrapper (props forwarded).",
+  "measuredFrom": "src/components/bands/index.jsx:1318-1332 (PanelTabs)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "tabs": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 6,
+        "items": {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string",
+              "maxWords": 6
+            }
+          },
+          "required": [
+            "label"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "tabs"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

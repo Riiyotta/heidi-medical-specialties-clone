@@ -1,0 +1,79 @@
+{
+  "id": "band.org-cards",
+  "category": "content",
+  "purpose": "Organization/customer logo-card grid with heading/lead/cta.",
+  "measuredFrom": "src/components/bands/index.jsx:1248-1277 (OrgCards)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "lead": {
+        "type": "string",
+        "maxWords": 30
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "cards": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 12,
+        "items": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string",
+              "maxWords": 10
+            },
+            "body": {
+              "type": "string",
+              "maxWords": 15
+            }
+          },
+          "required": [
+            "title"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "title",
+      "lead",
+      "cta",
+      "cards"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [],
+  "responsive": {
+    "mobile": "1 column",
+    "tablet": "2 columns (>=768px)",
+    "desktop": "4 columns (>=1024px)",
+    "measuredFrom": "CLONE_SPEC.md:101-108 (breakpoint table); tokens/30-layout/grid.json"
+  }
+}

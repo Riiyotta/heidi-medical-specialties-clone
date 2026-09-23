@@ -1,0 +1,7 @@
+{
+  "id": "input-ask",
+  "category": "primitive",
+  "purpose": "Full-radius search/ask text input pill.",
+  "measuredFrom": "src/components/bands/index.jsx:457-488 (AskBar)",
+  "props": { "placeholder": { "type": "string", "maxWords": 20 } }
+}

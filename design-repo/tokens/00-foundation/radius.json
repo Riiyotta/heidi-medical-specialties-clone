@@ -1,0 +1,11 @@
+{
+  "$description": "Border-radius scale, real usage counts from tailwind.config.js theme extension + CLONE_SPEC measurement.",
+  "measuredFrom": "tailwind.config.js:48-53; CLONE_SPEC.md:110-117",
+  "radii": {
+    "full": { "value": "9999px", "usage": "pills, search trigger, avatar chips, carousel arrow buttons", "measuredFrom": "CLONE_SPEC.md:112" },
+    "card": { "value": "24px", "usage": "template/card grid cards", "measuredFrom": "tailwind.config.js:49" },
+    "testimonial": { "value": "16px", "usage": "testimonial cards", "measuredFrom": "tailwind.config.js:50" },
+    "button": { "value": "12px", "usage": "all standard buttons", "measuredFrom": "tailwind.config.js:51" },
+    "drawer-tab": { "value": "18.75px 18.75px 0 0", "usage": "download-drawer tab, top corners only", "measuredFrom": "tailwind.config.js:52" }
+  }
+}

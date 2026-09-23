@@ -1,0 +1,64 @@
+{
+  "id": "pricing.tier-cards",
+  "category": "conversion",
+  "purpose": "Real plan tier cards with monthly/annual cycle toggle, sourced from live pricing data.",
+  "measuredFrom": "src/pages/PricingPage.jsx:120-189 (TierCard)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 5,
+        "items": {
+          "type": "object",
+          "properties": {
+            "plan": {
+              "type": "string",
+              "maxWords": 4
+            },
+            "priceMonthly": {
+              "type": "string",
+              "maxWords": 4
+            },
+            "priceAnnual": {
+              "type": "string",
+              "maxWords": 4
+            },
+            "features": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 20,
+              "items": {
+                "type": "string",
+                "maxWords": 10
+              }
+            }
+          },
+          "required": [
+            "plan",
+            "priceMonthly"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "onePerPage": true
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [],
+  "responsive": {
+    "mobile": "1 column, swipeable",
+    "desktop": "N columns side-by-side (>=1024px)",
+    "measuredFrom": "CLONE_SPEC.md:101-108 (breakpoint table); tokens/30-layout/grid.json"
+  }
+}

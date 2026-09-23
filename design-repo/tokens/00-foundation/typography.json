@@ -1,0 +1,27 @@
+{
+  "$description": "Type scale measured live at desktop 1280px / tablet 768px / mobile 390px. Two self-hosted families: exposure (display serif, weight 400 only, all headings) and inter (variable, weight 100-900, everything else).",
+  "measuredFrom": "CLONE_SPEC.md:66-88; tailwind.config.js:33-36,52-65",
+  "fontFamily": {
+    "sans": { "value": "inter, 'inter Fallback', system-ui, sans-serif", "measuredFrom": "tailwind.config.js:34" },
+    "serif": { "value": "exposure, 'exposure Fallback', Georgia, serif", "measuredFrom": "tailwind.config.js:35" }
+  },
+  "scale": [
+    { "id": "h1-desktop", "fontFamily": "serif", "size": "56px", "lineHeight": "56px", "letterSpacing": "-2.8px", "weight": 400, "measuredFrom": "tailwind.config.js:53" },
+    { "id": "h1-mobile", "fontFamily": "serif", "size": "40px", "lineHeight": "40px", "letterSpacing": "-2px", "weight": 400, "measuredFrom": "tailwind.config.js:54" },
+    { "id": "h2-desktop", "fontFamily": "serif", "size": "48px", "lineHeight": "52.8px", "letterSpacing": "-2.4px", "weight": 400, "measuredFrom": "tailwind.config.js:55" },
+    { "id": "h2-mobile", "fontFamily": "serif", "size": "36px", "lineHeight": "39.6px", "letterSpacing": "-1.8px", "weight": 400, "measuredFrom": "tailwind.config.js:56" },
+    { "id": "h2-lg-desktop", "fontFamily": "serif", "size": "56px", "lineHeight": "56px", "letterSpacing": "-2.8px", "weight": 400, "measuredFrom": "tailwind.config.js:57" },
+    { "id": "h3-desktop", "fontFamily": "serif", "size": "24px", "lineHeight": "30px", "letterSpacing": "-1.2px", "weight": 400, "measuredFrom": "tailwind.config.js:58" },
+    { "id": "h3-faq", "fontFamily": "sans", "size": "16px", "lineHeight": "24px", "letterSpacing": "normal", "weight": 400, "measuredFrom": "tailwind.config.js:59" },
+    { "id": "h6-quote", "fontFamily": "serif", "size": "24px", "lineHeight": "30px", "letterSpacing": "-1.2px", "weight": 400, "measuredFrom": "tailwind.config.js:60" },
+    { "id": "body", "fontFamily": "sans", "size": "16px", "lineHeight": "22.4px", "letterSpacing": "normal", "weight": 400, "measuredFrom": "tailwind.config.js:61" },
+    { "id": "nav-link", "fontFamily": "sans", "size": "16px", "lineHeight": "24px", "letterSpacing": "normal", "weight": 400, "measuredFrom": "tailwind.config.js:62" },
+    { "id": "nav-small", "fontFamily": "sans", "size": "14px", "lineHeight": "19.6px", "letterSpacing": "normal", "weight": 500, "measuredFrom": "tailwind.config.js:63" },
+    { "id": "btn-outline", "fontFamily": "sans", "size": "16px", "lineHeight": "24px", "letterSpacing": "normal", "weight": 400, "measuredFrom": "tailwind.config.js:64" },
+    { "id": "btn-pill", "fontFamily": "sans", "size": "14px", "lineHeight": "19.6px", "letterSpacing": "-0.42px", "weight": 500, "measuredFrom": "tailwind.config.js:65" },
+    { "id": "caption", "fontFamily": "sans", "size": "12px", "lineHeight": "16.8px", "letterSpacing": "normal", "weight": 400, "measuredFrom": "tailwind.config.js:66" },
+    { "id": "card-title", "fontFamily": "sans", "size": "18px", "lineHeight": "25.2px", "letterSpacing": "normal", "weight": 500, "measuredFrom": "tailwind.config.js:67" },
+    { "id": "card-author", "fontFamily": "sans", "size": "14px", "lineHeight": "19.6px", "letterSpacing": "normal", "weight": 600, "measuredFrom": "tailwind.config.js:68" }
+  ],
+  "letterSpacingRule": "display font tracking = -5% of font-size (56px->-2.8px, 48px->-2.4px, 24px->-1.2px)"
+}

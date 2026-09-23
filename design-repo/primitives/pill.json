@@ -1,0 +1,7 @@
+{
+  "id": "pill",
+  "category": "primitive",
+  "purpose": "Full-radius small label chip (specialty tag, filter tag).",
+  "measuredFrom": "CLONE_SPEC.md:112,148-152 (Pills); tailwind.config.js radius.full",
+  "props": { "label": { "type": "string", "maxWords": 4 } }
+}

@@ -1,0 +1,304 @@
+{
+ "slug": "partners",
+ "path": "/partners",
+ "url": "/en-gb/partners",
+ "title": "Partners",
+ "status": 200,
+ "meta": {
+  "title": "Partner with us and start building with Heidi | Heidi AI",
+  "desc": "Bring Heidi into your system. No training, no workflow changes, just better documentation - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(40, 3, 15)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 561
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 561,
+   "innerH": 209,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Partner with us",
+     "fs": 16,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Start building with Heidi",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Bring Heidi into your system. No training, no workflow changes, just better documentation.",
+     "fs": 16,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "a",
+     "t": "Contact us",
+     "href": "/en-gb/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Developer documentation",
+     "href": "https://www.heidihealth.com/developers",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 300,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Embed",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi, embedded in your EMR.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 480,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Embedded note capture Drop Heidi directly into your EMR so clinicians capture notes without leaving their workflow. No context switching, no friction. Standardise scribing Ensure every site uses the same structured notes, reducing variability and making compliance easier to manage. EMR differentiation Ship in weeks, not months, giving your platform a clear edge over competitors.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/09f79419c1896d1a4c4dd02576b465c10537a0ae-6206x4654.jpg",
+     "alt": "Heidi integration inside an EMR",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 380,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "API",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Build clinical documentation your way.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 480,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Real-time documentation in telehealth Bring Heidi into your telehealth interface so notes are captured live, without breaking the flow of the visit. Structured notes in health apps Generate compliant, standardised notes directly inside mobile-first care experiences. No extra screens, no copy-paste. Specialty workflows, made seamless Adapt Heidi to radiology, behavioural health, and beyond. You decide the format and templates, ensuring consistency across specialised use cases.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/57b1352277c84aa90d7c7e5565275e7910c359ec-2101x1576.png",
+     "alt": "Heidi logo with converging lines connects to a computer monitor displaying a security shield with a checkmark.",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 724,
+   "innerH": 564,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi Integration Partners",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Why should we partner with Heidi instead of building our own AI scribe?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "clinically validated",
+     "href": "https://pubmed.ncbi.nlm.nih.gov/41104569/",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "governance controls",
+     "href": "https://trust.heidihealth.com/",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "across millions of real consultations",
+     "href": "/en-gb/impact",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "partnering with Heidi",
+     "href": "/en-gb/contact-sales",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What integration methods are available for Heidi?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How does integrating Heidi differentiate our EMR product?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 3 of 3 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(185, 207, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 425
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 521,
+   "innerH": 169,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Let’s build together.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Bring Heidi into your platform. Make documentation seamless for clinicians, and growth simpler for you.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  }
+ ]
+}

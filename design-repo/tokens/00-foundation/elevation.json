@@ -1,0 +1,9 @@
+{
+  "$description": "Box-shadow scale, real computed values.",
+  "measuredFrom": "tailwind.config.js:54-58; CLONE_SPEC.md:119-124",
+  "shadows": {
+    "btn-primary": { "value": "0 1px 3px 1px rgba(120,90,60,.06), 0 1px 1px 0 rgba(120,90,60,.03)", "usage": "primary yellow button", "measuredFrom": "tailwind.config.js:55" },
+    "testimonial-md": { "value": "0 6px 18px 8px rgba(120,90,60,.07), 0 2px 6px 1px rgba(120,90,60,.04)", "usage": "testimonial card, desktop lg:shadow-md", "measuredFrom": "tailwind.config.js:56" },
+    "xs": { "value": "0 1px 2px 0 rgba(120,90,60,.05)", "usage": "template card hover", "measuredFrom": "tailwind.config.js:57" }
+  }
+}

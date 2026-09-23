@@ -1,0 +1,74 @@
+{
+  "id": "band.product-hero",
+  "category": "hero",
+  "purpose": "Product-page hero: badge + title + lead + visual, button order can lead or trail.",
+  "measuredFrom": "src/components/bands/index.jsx:91-124 (ProductHero)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "badge": {
+        "type": "string",
+        "maxWords": 6
+      },
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "lead": {
+        "type": "string",
+        "maxWords": 45
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "visual": {
+        "type": "object",
+        "properties": {
+          "assetRole": {
+            "const": "illustrative-photo"
+          },
+          "alt": {
+            "type": "string",
+            "maxWords": 20
+          }
+        },
+        "required": [
+          "assetRole",
+          "alt"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "badge",
+      "title",
+      "lead",
+      "cta",
+      "visual"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "onePerPage": true,
+    "mustBeFirst": true
+  },
+  "motion": {
+    "pattern": "heroFadeIn",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

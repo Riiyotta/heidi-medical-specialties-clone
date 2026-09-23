@@ -1,0 +1,7 @@
+{
+  "id": "badge-verified",
+  "category": "primitive",
+  "purpose": "Filled verified-checkmark badge used on template/customer cards.",
+  "measuredFrom": "tailwind.config.js:18-19 (badge-check, badge-check-tick)",
+  "props": {}
+}

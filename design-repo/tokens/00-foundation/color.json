@@ -1,0 +1,28 @@
+{
+  "$description": "Raw color primitives measured off the live heidihealth.com and encoded as resolved Tailwind theme values in the clone. Every value is a real getComputedStyle/rgb->hex measurement, not an estimate.",
+  "measuredFrom": "tailwind.config.js:9-32; CLONE_SPEC.md:16-33",
+  "colors": {
+    "page": { "value": "#FCFAF8", "usage": "body background, most section backgrounds", "measuredFrom": "tailwind.config.js:10" },
+    "text-primary": { "value": "#28030F", "usage": "headings, body text, icon strokes", "measuredFrom": "tailwind.config.js:11" },
+    "text-secondary": { "value": "#755760", "usage": "muted copy, tab-list inactive state, secondary captions", "measuredFrom": "tailwind.config.js:12" },
+    "accent-yellow": { "value": "#FBF582", "usage": "announcement bar bg, primary CTA button bg, CTA band bg", "measuredFrom": "tailwind.config.js:13" },
+    "border-base": { "value": "#F0DFD1", "usage": "card borders (template cards, testimonial cards)", "measuredFrom": "tailwind.config.js:14" },
+    "card-white": { "value": "#FFFFFF", "usage": "template card bg, FAQ item bg", "measuredFrom": "tailwind.config.js:15" },
+    "dark-fill": { "value": "#28030F", "usage": "download-drawer tab bg, dark secondary button", "measuredFrom": "tailwind.config.js:16" },
+    "drawer-invert": { "value": "#F9F4F1", "usage": "text on dark drawer tab", "measuredFrom": "tailwind.config.js:17" },
+    "badge-check": { "value": "#3C6DDD", "usage": "verified badge fill in template/customer cards", "measuredFrom": "tailwind.config.js:18" },
+    "badge-check-tick": { "value": "#F9F4F1", "usage": "verified badge tick stroke", "measuredFrom": "tailwind.config.js:19" },
+    "forest": { "value": "#194B22", "usage": "dark green accent (feature panels, solutions band)", "measuredFrom": "tailwind.config.js:20" },
+    "sage": { "value": "#588F60", "usage": "nav mega-menu icons, active nav trigger label + chevron", "measuredFrom": "tailwind.config.js:22" },
+    "sage-stroke": { "value": "#407648", "usage": "4px active-tab stroke under an open nav trigger", "measuredFrom": "tailwind.config.js:24" },
+    "forest-700": { "value": "#0F3416", "usage": "darker forest variant, hover/pressed states", "measuredFrom": "tailwind.config.js:25" },
+    "accent": { "value": "#F9F4F1", "usage": "drawer/nav-invert surface", "measuredFrom": "tailwind.config.js:26" },
+    "sand-75": { "value": "#F6EFEA", "usage": "skeleton loading fill, lightest", "measuredFrom": "tailwind.config.js:28" },
+    "sand-100": { "value": "#F6ECE4", "usage": "skeleton loading fill, mid", "measuredFrom": "tailwind.config.js:29" },
+    "sand-150": { "value": "#F4E7DD", "usage": "skeleton loading fill, darkest", "measuredFrom": "tailwind.config.js:30" }
+  },
+  "gradients": {
+    "scroll-fade-right": { "value": "linear-gradient(270deg, rgb(252,250,248) 0%, rgba(0,0,0,0) 100%)", "usage": "right-edge fade next to horizontally-scrollable rows", "measuredFrom": "CLONE_SPEC.md:41" },
+    "drawer-pulse": { "value": "radial-gradient(circle, rgb(251,245,130) 0px, rgba(0,0,0,0) 87.5%)", "usage": "download-drawer pulse dot", "measuredFrom": "CLONE_SPEC.md:42" }
+  }
+}

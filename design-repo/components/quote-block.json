@@ -1,0 +1,8 @@
+{
+  "id": "quote-block",
+  "category": "component",
+  "purpose": "Single attributed pull-quote (quote + name + role), the shared unit inside quotes.testimonial, solutions.testimonials, band.quote-carousel.",
+  "measuredFrom": "src/components/bands/index.jsx:512-533 (QuoteBlock)",
+  "composes": ["primitives/avatar.json"],
+  "props": { "quote": { "type": "string", "maxWords": 60 }, "name": { "type": "string", "maxWords": 6 }, "role": { "type": "string", "maxWords": 10 } }
+}

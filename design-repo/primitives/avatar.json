@@ -1,0 +1,7 @@
+{
+  "id": "avatar",
+  "category": "primitive",
+  "purpose": "Small circular customer/clinician photo used alongside a quote or testimonial.",
+  "measuredFrom": "src/components/sections/index.jsx:337-382 (Quotes)",
+  "props": { "visual": { "assetRole": "customer-photo" } }
+}

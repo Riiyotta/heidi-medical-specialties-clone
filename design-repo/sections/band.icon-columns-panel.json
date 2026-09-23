@@ -1,0 +1,50 @@
+{
+  "id": "band.icon-columns-panel",
+  "category": "content",
+  "purpose": "Multi-column icon list panel.",
+  "measuredFrom": "src/components/bands/index.jsx:645-684 (IconColumnsPanel)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 9,
+        "items": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string",
+              "maxWords": 10
+            },
+            "body": {
+              "type": "string",
+              "maxWords": 20
+            }
+          },
+          "required": [
+            "title"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "title",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

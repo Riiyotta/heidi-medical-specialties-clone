@@ -1,0 +1,7 @@
+{
+  "id": "logo-mark",
+  "category": "component",
+  "purpose": "Single third-party partner/EMR wordmark logo image, composed N-up inside logos.strip / band.logo-marquee.",
+  "measuredFrom": "public/assets/home/logo-0.svg..logo-9.svg; public/assets/pages/*logo*",
+  "props": { "visual": { "assetRole": "third-party-logo" }, "alt": { "type": "string", "maxWords": 6 } }
+}

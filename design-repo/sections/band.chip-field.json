@@ -1,0 +1,37 @@
+{
+  "id": "band.chip-field",
+  "category": "content",
+  "purpose": "Background-tinted field of small text chips.",
+  "measuredFrom": "src/components/bands/index.jsx:821-842 (ChipField)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "chips": {
+        "type": "array",
+        "minItems": 3,
+        "maxItems": 20,
+        "items": {
+          "type": "string",
+          "maxWords": 4
+        }
+      }
+    },
+    "required": [
+      "title",
+      "chips"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

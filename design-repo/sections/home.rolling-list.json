@@ -1,0 +1,20 @@
+{
+  "id": "home.rolling-list",
+  "category": "content",
+  "purpose": "Auto-rolling list of use-case labels; fixed content, no props. NOT content-parameterized: this component takes zero props in the real source -- its copy is single-instance and hardcoded, so the content contract below is empty/minimal by design, not an oversight.",
+  "measuredFrom": "src/pages/HomePage.jsx:279-347 (RollingList)",
+  "content": {
+    "type": "object",
+    "properties": {},
+    "required": [],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "onePerPage": true
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

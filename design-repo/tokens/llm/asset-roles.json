@@ -1,0 +1,51 @@
+{
+  "$description": "Closed assetRole enum, wired through schema/pagespec.schema.json's visual field definitions and every section/component that carries a visual field (see the sections/*.json assetRoles array for which role each section is allowed to use). Heidi Health is a real, live commercial healthcare company -- every role below carries explicit AI-generation and licensing guidance; this is a compliance requirement, not a style note.",
+  "measuredFrom": "public/assets/{home,solutions,bands,shared,icons,pages}/**; src/data/pages/*.json alt text; public/assets/icons/heidi-logo.svg",
+  "roles": {
+    "third-party-logo": {
+      "description": "Real EMR/partner/customer wordmark logos (e.g. public/assets/home/logo-0..9.svg, public/assets/pages/*emishealth*, *medicushealth*, *medioffice*).",
+      "aiGeneration": "must-reuse-exact",
+      "licensing": "These are real third-party companies' registered trademarks/logos, sourced from the live site's own asset CDN. An AI generator must NEVER fabricate a new company logo under this role, and must never reproduce, redraw, or recolor a captured logo outside the exact asset reference the PageSpec already points at. Do not use this role to invent a new, unlisted partner."
+    },
+    "customer-photo": {
+      "description": "Real named customer/clinician headshots accompanying a testimonial quote.",
+      "aiGeneration": "must-not-fabricate",
+      "licensing": "These are real people's photographs. An AI generator must never fabricate a synthetic headshot and attach it to a real name/quote, and must never reuse a real captured photo for a different (invented) name/quote. If no real photo is available for a generated testimonial, the visual field must be omitted, not synthesized."
+    },
+    "heidi-brand-mark": {
+      "description": "Heidi Health's own logo/wordmark (public/assets/icons/heidi-logo.svg).",
+      "aiGeneration": "must-reuse-exact",
+      "licensing": "Heidi Health's own registered trademark. Must be reused byte-for-byte from the existing asset reference; never redrawn, recolored, or approximated by a generative image model."
+    },
+    "illustrative-photo": {
+      "description": "Generic lifestyle/product-context photography (hero visuals, feature-row imagery) that does not depict a real, identifiable person or proprietary UI.",
+      "aiGeneration": "may-generate-new",
+      "licensing": "Safe for AI-generated replacement art as long as it does not depict a real, identifiable clinician/patient or reproduce Heidi's real product UI verbatim."
+    },
+    "proprietary-product-screenshot": {
+      "description": "Real screenshots of the Heidi product UI (e.g. band.shot-panel).",
+      "aiGeneration": "must-not-fabricate",
+      "licensing": "Real proprietary product UI. Must not be recreated by a generative model even approximately (no 'looks like a note-taking app' substitute) -- reuse the exact captured screenshot reference or omit the field."
+    },
+    "editorial-thumbnail": {
+      "description": "Blog/customer-story/award/resource card thumbnail imagery.",
+      "aiGeneration": "may-generate-new",
+      "licensing": "Generic editorial imagery may be AI-generated for new cards, provided it does not depict a real identifiable person or reproduce a real screenshot/logo."
+    },
+    "editorial-diagram": {
+      "description": "Technical/architecture diagram imagery (e.g. band.diagram-band on the hardware page).",
+      "aiGeneration": "may-generate-new",
+      "licensing": "May be AI-generated as a generic illustrative diagram; must not reproduce a real proprietary system diagram verbatim."
+    },
+    "product-demo-video": {
+      "description": "Embedded product-demo video assets.",
+      "aiGeneration": "must-not-fabricate",
+      "licensing": "Real product-demo footage. Must reuse the exact captured video reference or be omitted; never synthesized."
+    },
+    "compliance-badge": {
+      "description": "Real third-party compliance/certification badges (e.g. SOC2, HIPAA marks) shown in band.compliance-panel.",
+      "aiGeneration": "must-reuse-exact",
+      "licensing": "Real certification marks issued by third-party bodies. Must never be fabricated or applied to a certification Heidi does not actually hold."
+    }
+  }
+}

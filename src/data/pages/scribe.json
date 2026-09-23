@@ -1,0 +1,584 @@
+{
+ "slug": "scribe",
+ "path": "/scribe",
+ "url": "/en-gb/scribe",
+ "title": "Scribe",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Scribe | Documentation That Adapts to Your Clinical…",
+  "desc": "AI medical documentation that adapts to your setting, specialty, and style. Heidi Scribe fits the way you work—so notes are accurate,… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-10",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 736,
+   "innerH": 576,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Scribe",
+     "fs": 24,
+     "c": "rgb(246, 236, 228)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Capture care in your own words",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Structured documentation, generated in your natural clinical language.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Chat with us",
+     "href": "/en-gb/contact",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 192,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+     "alt": "CHCP",
+     "w": 83,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+     "alt": "modality",
+     "w": 83,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+     "alt": "NHS Dudley",
+     "w": 83,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+     "alt": "NHS Hertfordshire Teaching Hospitals",
+     "w": 83,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+     "alt": "NHS Walsall Healthcare",
+     "w": 83,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+     "alt": "NHS WWL Teaching Hospitals",
+     "w": 83,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+     "alt": "onecare",
+     "w": 83,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+     "alt": "Portman dentex",
+     "w": 83,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+     "alt": "Sue Ryder",
+     "w": 83,
+     "h": 32
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+     "alt": "Swiss Medical Network",
+     "w": 83,
+     "h": 32
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center max-w-container-lg w-full gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1052,
+   "innerH": 892,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Vanquish the paperwork with Heidi",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Clinicians are buried in needless admin. It’s time to finally be in charge of your day",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/6f29656501bb8436d23b4653c4ed83bc67f5597d-1200x1200.png",
+     "alt": "alt text",
+     "w": 584,
+     "h": 584
+    },
+    {
+     "k": "a",
+     "t": "Document the way you practice Heidi captures the encounter as it happens and writes notes that sound like you, not a generic template.",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Structured, ready to review",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Nothing gets missed",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    },
+    {
+     "k": "a",
+     "t": "Fits your systems and standards",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": "rgb(240, 223, 209)"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col lg:flex-row items-center gap-14 bg-accent px-global py-section-md md:p-global md:rounded-3xl lg:gap-20 w-f",
+   "bg": "rgb(249, 244, 241)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1005,
+   "innerH": 845,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "In practice",
+     "fs": 18,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Every clinician, every specialty, every setting.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "Explore templates",
+     "href": "https://www.heidihealth.com/templates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "General Practice",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Physicians",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Surgeons",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Critical Care",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Mental Health",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Residental Care",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Allied Health",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Nurses",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Veterinarians",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Trainees",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Previous slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Next slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/cfe315ba9e2371e486bb88a97c8b797ba332f167-1258x1236.png",
+     "alt": "A digital GP consultation note for a 14-month-old male newly diagnosed with Type 1 Diabetes, detailing management challenges and patient history.",
+     "w": 643,
+     "h": 632
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex w-full max-w-container-lg flex-col items-center gap-20 overflow-hidden",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 826,
+   "innerH": 666,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "Working with Heidi",
+     "fs": 18,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Make your next shift your best shift.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/Before-the-consult-icon.svg",
+     "alt": "",
+     "w": 28,
+     "h": 28
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Before the consult",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Review history, notes, and results in one place, sync schedules, and walk in prepared with key findings.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/During-the-consult-icon.svg",
+     "alt": "",
+     "w": 28,
+     "h": 28
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "During the consult",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Transcribe visits in 110+ languages, structure notes your way, and instantly generate referrals and handouts.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/After-the-consult-icon.svg",
+     "alt": "",
+     "w": 28,
+     "h": 28
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "After the consult",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Send everything to your EHR in one click, auto-apply codes and tasks, and finish your day on time without backlog.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(255, 255, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 957
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 1053,
+   "innerH": 701,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Extend care beyond the note",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "See how Evidence and Remote support decisions and patient care after the visit.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/733c1e85a72842a2aafdd93cab81ff537cb85d6d-1248x702.png",
+     "alt": "alt image",
+     "w": 490,
+     "h": 275
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Heidi Evidence",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Independent, unlimited evidence right where care happens.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Evidence",
+     "href": "/en-gb/evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b862275644d533813c8d36ad855a9625a7e031cf-1280x720.jpg",
+     "alt": "alt image",
+     "w": 490,
+     "h": 275
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Heidi Remote",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Wards, theaters, rural clinics, noisy EDs. Heidi Remote is a 21-gram wearable mic, fully offline, with on-device encryption. Documentation no longer depends on a desk or a quiet room.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Remote",
+     "href": "/en-gb/hardware",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col items-center w-full mx-auto max-w-[1920px] sm:p-8",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 780,
+   "innerH": 780,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Start practicing with a partner",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Care is better with Heidi",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  }
+ ]
+}

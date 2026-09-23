@@ -1,0 +1,5655 @@
+[
+ {
+  "i": 0,
+  "box": {
+   "w": 1440,
+   "h": 1089
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 929
+  },
+  "secCls": "flex flex-col gap-14 max-w-container-lg mx-auto w-full overflow-x-clip",
+  "texts": [
+   {
+    "tag": "h1",
+    "t": "There's a Heidi that's right for you",
+    "html": "There's a Heidi that's right for <em>you</em>",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 331,
+     "y": 80,
+     "w": 778,
+     "h": 56
+    }
+   },
+   {
+    "tag": "em",
+    "t": "you",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "italic",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 1028,
+     "y": 74,
+     "w": 81,
+     "h": 67
+    }
+   },
+   {
+    "tag": "span",
+    "t": "For Individuals",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 495,
+     "y": 184,
+     "w": 103,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "For Teams and Enterprise",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 626,
+     "y": 184,
+     "w": 182,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "GBP (£)",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 857,
+     "y": 184,
+     "w": 55,
+     "h": 22
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Free",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 101,
+     "y": 296,
+     "w": 263,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Start with the basics. Stay focused on the patient.",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 101,
+     "y": 328,
+     "w": 263,
+     "h": 34
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "£0",
+    "ff": "exposure",
+    "fs": 40,
+    "lh": "44px",
+    "ls": "-2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 101,
+     "y": 381,
+     "w": 47,
+     "h": 44
+    }
+   },
+   {
+    "tag": "a",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 101,
+     "y": 505,
+     "w": 263,
+     "h": 40
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Free for everyone",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 101,
+     "y": 625,
+     "w": 263,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Unlimited AI documentation",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 129,
+     "y": 655,
+     "w": 172,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Unlimited clinical evidence with citations",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 129,
+     "y": 685,
+     "w": 235,
+     "h": 39
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Global healthcare-grade security",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 129,
+     "y": 734,
+     "w": 205,
+     "h": 20
+    }
+   },
+   {
+    "tag": "button",
+    "t": "See more",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 93,
+     "y": 806,
+     "w": 85,
+     "h": 30
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Scribe Plus",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 426,
+     "y": 296,
+     "w": 263,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Document with more control. Finish with more time.",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 426,
+     "y": 328,
+     "w": 263,
+     "h": 34
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "£45",
+    "ff": "exposure",
+    "fs": 40,
+    "lh": "44px",
+    "ls": "-2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 426,
+     "y": 381,
+     "w": 63,
+     "h": 44
+    }
+   },
+   {
+    "tag": "p",
+    "t": "per user / month",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 495,
+     "y": 400,
+     "w": 103,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Prices excludes GST.",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 426,
+     "y": 425,
+     "w": 263,
+     "h": 17
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Billed",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 426,
+     "y": 449,
+     "w": 29,
+     "h": 17
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Yearly",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 469,
+     "y": 449,
+     "w": 33,
+     "h": 17
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Monthly",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 516,
+     "y": 449,
+     "w": 43,
+     "h": 17
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Save £180",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "14px",
+    "ls": "-0.42px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(22, 163, 74)",
+    "ta": "start",
+    "box": {
+     "x": 613,
+     "y": 451,
+     "w": 66,
+     "h": 14
+    }
+   },
+   {
+    "tag": "a",
+    "t": "Try 14 days free",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 426,
+     "y": 505,
+     "w": 263,
+     "h": 40
+    }
+   },
+   {
+    "tag": "a",
+    "t": "Talk to us",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 512,
+     "y": 557,
+     "w": 92,
+     "h": 28
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Everything in Free, plus:",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 426,
+     "y": 625,
+     "w": 263,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Ask Heidi to edit or create your notes",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 454,
+     "y": 655,
+     "w": 229,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Advanced templates",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 454,
+     "y": 685,
+     "w": 128,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Patient & session linking",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 454,
+     "y": 715,
+     "w": 150,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Most Popular",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 846,
+     "y": 266,
+     "w": 73,
+     "h": 17
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Clinician",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 751,
+     "y": 296,
+     "w": 263,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Document clearly. Think with confidence. Leave on time.",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 751,
+     "y": 328,
+     "w": 263,
+     "h": 34
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "£55",
+    "ff": "exposure",
+    "fs": 40,
+    "lh": "44px",
+    "ls": "-2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 751,
+     "y": 381,
+     "w": 62,
+     "h": 44
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Excludes applicable sale taxes.",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 751,
+     "y": 425,
+     "w": 263,
+     "h": 17
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Everything in Scribe Plus, plus:",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 751,
+     "y": 625,
+     "w": 263,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Premium evidence sources and journals",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 779,
+     "y": 655,
+     "w": 235,
+     "h": 39
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Personal evidence library",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 779,
+     "y": 704,
+     "w": 157,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Priority support",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 779,
+     "y": 734,
+     "w": 96,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Practice",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1076,
+     "y": 296,
+     "w": 263,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Consistency across documentation and clinical standards.",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1076,
+     "y": 328,
+     "w": 263,
+     "h": 34
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "£65",
+    "ff": "exposure",
+    "fs": 40,
+    "lh": "44px",
+    "ls": "-2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1076,
+     "y": 381,
+     "w": 64,
+     "h": 44
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Billed annually. Excludes applicable sale taxes.",
+    "ff": "inter",
+    "fs": 12,
+    "lh": "16.8px",
+    "ls": "-0.36px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1076,
+     "y": 425,
+     "w": 263,
+     "h": 17
+    }
+   },
+   {
+    "tag": "a",
+    "t": "Talk to us",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 1076,
+     "y": 505,
+     "w": 263,
+     "h": 40
+    }
+   },
+   {
+    "tag": "a",
+    "t": "Try 14 days free",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 1141,
+     "y": 557,
+     "w": 132,
+     "h": 28
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Everything in Clinician, plus:",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 1076,
+     "y": 625,
+     "w": 263,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Full Scribe functionality with team templates",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1104,
+     "y": 655,
+     "w": 235,
+     "h": 39
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Document and session sharing",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1104,
+     "y": 704,
+     "w": 192,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Guided onboarding",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1104,
+     "y": 734,
+     "w": 120,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Trainees get Clinician, free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "600",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 392,
+     "y": 935,
+     "w": 193,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Verify your student status. Get the same tool consultants trust, yours free.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 360,
+     "y": 962,
+     "w": 522,
+     "h": 22
+    }
+   },
+   {
+    "tag": "a",
+    "t": "Learn more",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 966,
+     "y": 942,
+     "w": 114,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "For Individuals",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "8px",
+    "pad": "2px 12px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 483,
+     "y": 182,
+     "w": 127,
+     "h": 26
+    }
+   },
+   {
+    "t": "For Teams and Enterprise",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": null,
+    "r": "8px",
+    "pad": "2px 12px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 614,
+     "y": 182,
+     "w": 206,
+     "h": 26
+    }
+   },
+   {
+    "t": "GBP (£)",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(255, 255, 255)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "chevron-down",
+    "iconBefore": false,
+    "box": {
+     "x": 840,
+     "y": 172,
+     "w": 121,
+     "h": 47
+    }
+   },
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/register",
+    "tag": "a",
+    "bg": "rgb(249, 244, 241)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 101,
+     "y": 505,
+     "w": 263,
+     "h": 40
+    }
+   },
+   {
+    "t": "See more",
+    "href": "#pricing-table",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 101,
+     "y": 809,
+     "w": 263,
+     "h": 24
+    }
+   },
+   {
+    "t": "See more",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 93,
+     "y": 806,
+     "w": 85,
+     "h": 30
+    }
+   },
+   {
+    "t": "Yearly",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "6px",
+    "pad": "0px 6px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 463,
+     "y": 449,
+     "w": 45,
+     "h": 17
+    }
+   },
+   {
+    "t": "Monthly",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": null,
+    "r": "6px",
+    "pad": "0px 6px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 510,
+     "y": 449,
+     "w": 55,
+     "h": 17
+    }
+   },
+   {
+    "t": "Try 14 days free",
+    "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRO_TRIAL_YEARLY\"",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 426,
+     "y": 505,
+     "w": 263,
+     "h": 40
+    }
+   },
+   {
+    "t": "Talk to us",
+    "href": "https://www.heidihealth.com/contact-sales",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 512,
+     "y": 557,
+     "w": 92,
+     "h": 28
+    }
+   },
+   {
+    "t": "See more",
+    "href": "#pricing-table",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 426,
+     "y": 809,
+     "w": 263,
+     "h": 24
+    }
+   },
+   {
+    "t": "See more",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 418,
+     "y": 806,
+     "w": 85,
+     "h": 30
+    }
+   },
+   {
+    "t": "Yearly",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "6px",
+    "pad": "0px 6px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 788,
+     "y": 449,
+     "w": 45,
+     "h": 17
+    }
+   },
+   {
+    "t": "Monthly",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": null,
+    "r": "6px",
+    "pad": "0px 6px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 835,
+     "y": 449,
+     "w": 55,
+     "h": 17
+    }
+   },
+   {
+    "t": "Try 14 days free",
+    "href": "https://scribe.heidihealth.com/register#paymentChosen=\"CLINICIAN_TRIAL_YEARLY\"",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 751,
+     "y": 505,
+     "w": 263,
+     "h": 40
+    }
+   },
+   {
+    "t": "Talk to us",
+    "href": "/en-GB/contact-sales",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 837,
+     "y": 557,
+     "w": 92,
+     "h": 28
+    }
+   },
+   {
+    "t": "See more",
+    "href": "#pricing-table",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 751,
+     "y": 809,
+     "w": 263,
+     "h": 24
+    }
+   },
+   {
+    "t": "See more",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 743,
+     "y": 806,
+     "w": 85,
+     "h": 30
+    }
+   },
+   {
+    "t": "Talk to us",
+    "href": "/en-GB/contact-sales",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1076,
+     "y": 505,
+     "w": 263,
+     "h": 40
+    }
+   },
+   {
+    "t": "Try 14 days free",
+    "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRACTICE_TRIAL_YEARLY\"",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1141,
+     "y": 557,
+     "w": 132,
+     "h": 28
+    }
+   },
+   {
+    "t": "See more",
+    "href": "#pricing-table",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1076,
+     "y": 809,
+     "w": 263,
+     "h": 24
+    }
+   },
+   {
+    "t": "See more",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1068,
+     "y": 806,
+     "w": 85,
+     "h": 30
+    }
+   },
+   {
+    "t": "Learn more",
+    "href": "/en-GB/solutions/medical-trainees",
+    "tag": "a",
+    "bg": "rgb(249, 244, 241)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 966,
+     "y": 942,
+     "w": 114,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "chevron-down",
+    "box": {
+     "x": 920,
+     "y": 184,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 101,
+     "y": 655,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 101,
+     "y": 694,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 101,
+     "y": 734,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 426,
+     "y": 655,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 426,
+     "y": 685,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 426,
+     "y": 715,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 751,
+     "y": 664,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 751,
+     "y": 704,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 751,
+     "y": 734,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1076,
+     "y": 664,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1076,
+     "y": 704,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1076,
+     "y": 734,
+     "w": 20,
+     "h": 20
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "2px"
+   },
+   {
+    "name": "graduation-cap",
+    "box": {
+     "x": 360,
+     "y": 934,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(64, 118, 72)",
+    "sw": "2px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 0,
+     "y": 173,
+     "w": 283,
+     "h": 743
+    }
+   },
+   {
+    "bg": "rgb(249, 244, 241)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 1157,
+     "y": 173,
+     "w": 283,
+     "h": 743
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "20px",
+    "shadow": null,
+    "box": {
+     "x": 80,
+     "y": 275,
+     "w": 305,
+     "h": 580
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "20px",
+    "shadow": null,
+    "box": {
+     "x": 405,
+     "y": 275,
+     "w": 305,
+     "h": 580
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": "1px rgb(40, 3, 15)",
+    "r": "16px",
+    "pad": "20px",
+    "shadow": null,
+    "box": {
+     "x": 730,
+     "y": 275,
+     "w": 305,
+     "h": 580
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": "1px rgb(240, 223, 209)",
+    "r": "16px",
+    "pad": "20px",
+    "shadow": null,
+    "box": {
+     "x": 1055,
+     "y": 275,
+     "w": 305,
+     "h": 580
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "0-0",
+    "tag": "div",
+    "box": {
+     "x": 0,
+     "y": 173,
+     "w": 283,
+     "h": 743
+    },
+    "r": "0px",
+    "file": "/assets/bands/pricing/v0-0.png"
+   },
+   {
+    "id": "0-1",
+    "tag": "div",
+    "box": {
+     "x": 1157,
+     "y": 173,
+     "w": 283,
+     "h": 743
+    },
+    "r": "0px",
+    "file": "/assets/bands/pricing/v0-1.png"
+   },
+   {
+    "id": "0-2",
+    "tag": "div",
+    "box": {
+     "x": 101,
+     "y": 625,
+     "w": 263,
+     "h": 208
+    },
+    "r": "0px",
+    "file": "/assets/bands/pricing/v0-2.png"
+   },
+   {
+    "id": "0-3",
+    "tag": "div",
+    "box": {
+     "x": 426,
+     "y": 625,
+     "w": 263,
+     "h": 208
+    },
+    "r": "0px",
+    "file": "/assets/bands/pricing/v0-3.png"
+   },
+   {
+    "id": "0-4",
+    "tag": "div",
+    "box": {
+     "x": 751,
+     "y": 625,
+     "w": 263,
+     "h": 208
+    },
+    "r": "0px",
+    "file": "/assets/bands/pricing/v0-4.png"
+   },
+   {
+    "id": "0-5",
+    "tag": "div",
+    "box": {
+     "x": 1076,
+     "y": 625,
+     "w": 263,
+     "h": 208
+    },
+    "r": "0px",
+    "file": "/assets/bands/pricing/v0-5.png"
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "box": {
+   "w": 1440,
+   "h": 293
+  },
+  "secBox": null,
+  "secCls": null,
+  "texts": [],
+  "links": [],
+  "imgs": [
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 1481,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 1717,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 1953,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 2189,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 2425,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 2661,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 2897,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 3133,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 3369,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 3605,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 3841,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 4077,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 4313,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 4549,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 4785,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 5021,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 5257,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 5493,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 5729,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 5965,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 6201,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 6437,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 6673,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 6909,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 7145,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 7381,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 7617,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 7853,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 8089,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 8325,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+    "alt": "CHCP",
+    "box": {
+     "x": 8561,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+    "alt": "modality",
+    "box": {
+     "x": 8797,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+    "alt": "NHS Dudley",
+    "box": {
+     "x": 9033,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+    "alt": "NHS Hertfordshire Teaching Hospitals",
+    "box": {
+     "x": 9269,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+    "alt": "NHS Walsall Healthcare",
+    "box": {
+     "x": 65,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+    "alt": "NHS WWL Teaching Hospitals",
+    "box": {
+     "x": 301,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+    "alt": "onecare",
+    "box": {
+     "x": 537,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+    "alt": "Portman dentex",
+    "box": {
+     "x": 773,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+    "alt": "Sue Ryder",
+    "box": {
+     "x": 1009,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   },
+   {
+    "src": "https://cdn.sanity.io/images/fq1n4a7f/production/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+    "alt": "Swiss Medical Network",
+    "box": {
+     "x": 1245,
+     "y": 153,
+     "w": 156,
+     "h": 60
+    }
+   }
+  ],
+  "icons": [],
+  "panels": [],
+  "visuals": []
+ },
+ {
+  "i": 2,
+  "box": {
+   "w": 1440,
+   "h": 2538
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 2378
+  },
+  "secCls": "hidden lg:flex flex-col gap-4 w-full max-w-container-lg",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Compare our plans",
+    "ff": "exposure",
+    "fs": 32,
+    "lh": "38.4px",
+    "ls": "-1.6px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 80,
+     "y": 122,
+     "w": 384,
+     "h": 38
+    }
+   },
+   {
+    "tag": "span",
+    "t": "For Individuals",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 96,
+     "y": 174,
+     "w": 103,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "For Teams and Enterprise",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "center",
+    "box": {
+     "x": 227,
+     "y": 174,
+     "w": 182,
+     "h": 22
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Free",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 569,
+     "y": 96,
+     "w": 46,
+     "h": 30
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 527,
+     "y": 146,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Scribe Plus",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 760,
+     "y": 96,
+     "w": 111,
+     "h": 30
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Try 14 days free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 743,
+     "y": 150,
+     "w": 147,
+     "h": 42
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Talk to us",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 778,
+     "y": 203,
+     "w": 76,
+     "h": 28
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Clinician",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 995,
+     "y": 96,
+     "w": 90,
+     "h": 30
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Practice",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 1223,
+     "y": 96,
+     "w": 82,
+     "h": 30
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Talk to us",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 1214,
+     "y": 150,
+     "w": 100,
+     "h": 42
+    }
+   },
+   {
+    "tag": "button",
+    "t": "Try 14 days free",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 1206,
+     "y": 203,
+     "w": 116,
+     "h": 28
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Scribe",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 104,
+     "y": 289,
+     "w": 64,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Unlimited transcription",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 360,
+     "w": 160,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Standard templates",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 425,
+     "w": 138,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Task management",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 490,
+     "w": 131,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Ask Heidi",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 555,
+     "w": 67,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Limited",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 569,
+     "y": 556,
+     "w": 45,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Advanced templates",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 620,
+     "w": 146,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Limited",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 569,
+     "y": 621,
+     "w": 45,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Patient & session linking",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 685,
+     "w": 171,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Limited",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 569,
+     "y": 686,
+     "w": 45,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Document & session sharing",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 750,
+     "w": 203,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 751,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Coding",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 815,
+     "w": 51,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 816,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Session status",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 880,
+     "w": 103,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 881,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Free assistant users",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 945,
+     "w": 142,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 946,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Team template sharing",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1010,
+     "w": 162,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 1011,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Template configuration 1:1",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1075,
+     "w": 184,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 1076,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Evidence",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 104,
+     "y": 1154,
+     "w": 96,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Unlimited answers",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1225,
+     "w": 131,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Transparent citations",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1290,
+     "w": 149,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "CPD / CME tracking",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1355,
+     "w": 141,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Preferred sources & journals",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1420,
+     "w": 202,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 1421,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Premium evidence sources",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1485,
+     "w": 193,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 1486,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Personal evidence library",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1550,
+     "w": 180,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 1551,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Team evidence guidelines",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1615,
+     "w": 185,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 1616,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Org-wide evidence library",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1680,
+     "w": 185,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 1681,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "h2",
+    "t": "Platform",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 104,
+     "y": 1759,
+     "w": 89,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Flexible data retention",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1830,
+     "w": 156,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Set for team",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 1226,
+     "y": 1831,
+     "w": 76,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "EHR integration add-on",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1895,
+     "w": 166,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 1896,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Centralized billing",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 1960,
+     "w": 126,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 1961,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Priority support",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 2025,
+     "w": 110,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 2026,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Team management & controls",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 2090,
+     "w": 213,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 2091,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Guided onboarding",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 2155,
+     "w": 137,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 2156,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Dedicated customer success",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 2220,
+     "w": 207,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 2221,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Single sign-on (SSO)",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 2285,
+     "w": 148,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 2286,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Service availability",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 2350,
+     "w": 131,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 2351,
+     "w": 14,
+     "h": 20
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Custom terms & hosting",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 104,
+     "y": 2415,
+     "w": 171,
+     "h": 22
+    }
+   },
+   {
+    "tag": "p",
+    "t": "—",
+    "ff": "inter",
+    "fs": 14,
+    "lh": "19.6px",
+    "ls": "-0.42px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(117, 87, 96)",
+    "ta": "start",
+    "box": {
+     "x": 585,
+     "y": 2416,
+     "w": 14,
+     "h": 20
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "For Individuals",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "8px",
+    "pad": "2px 12px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 84,
+     "y": 172,
+     "w": 127,
+     "h": 26
+    }
+   },
+   {
+    "t": "For Teams and Enterprise",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(117, 87, 96)",
+    "bd": null,
+    "r": "8px",
+    "pad": "2px 12px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 215,
+     "y": 172,
+     "w": 206,
+     "h": 26
+    }
+   },
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/register",
+    "tag": "a",
+    "bg": "rgb(249, 244, 241)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 527,
+     "y": 146,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "t": "Get Heidi free",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(249, 244, 241)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 527,
+     "y": 146,
+     "w": 131,
+     "h": 42
+    }
+   },
+   {
+    "t": "Try 14 days free",
+    "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRO_TRIAL\"",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 743,
+     "y": 150,
+     "w": 147,
+     "h": 42
+    }
+   },
+   {
+    "t": "Try 14 days free",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 743,
+     "y": 150,
+     "w": 147,
+     "h": 42
+    }
+   },
+   {
+    "t": "Talk to us",
+    "href": "/en-GB/contact-sales",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 778,
+     "y": 204,
+     "w": 76,
+     "h": 24
+    }
+   },
+   {
+    "t": "Talk to us",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 778,
+     "y": 203,
+     "w": 76,
+     "h": 28
+    }
+   },
+   {
+    "t": "Try 14 days free",
+    "href": "https://scribe.heidihealth.com/register#paymentChosen=\"CLINICIAN_TRIAL\"",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 967,
+     "y": 150,
+     "w": 147,
+     "h": 42
+    }
+   },
+   {
+    "t": "Try 14 days free",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 967,
+     "y": 150,
+     "w": 147,
+     "h": 42
+    }
+   },
+   {
+    "t": "Talk to us",
+    "href": "/en-GB/contact-sales",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1002,
+     "y": 204,
+     "w": 76,
+     "h": 24
+    }
+   },
+   {
+    "t": "Talk to us",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1002,
+     "y": 203,
+     "w": 76,
+     "h": 28
+    }
+   },
+   {
+    "t": "Talk to us",
+    "href": "/en-GB/contact-sales",
+    "tag": "a",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1214,
+     "y": 150,
+     "w": 100,
+     "h": 42
+    }
+   },
+   {
+    "t": "Talk to us",
+    "href": null,
+    "tag": "button",
+    "bg": "rgb(40, 3, 15)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1214,
+     "y": 150,
+     "w": 100,
+     "h": 42
+    }
+   },
+   {
+    "t": "Try 14 days free",
+    "href": "https://scribe.heidihealth.com/register#paymentChosen=\"PRACTICE_TRIAL\"",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1206,
+     "y": 204,
+     "w": 116,
+     "h": 24
+    }
+   },
+   {
+    "t": "Try 14 days free",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "16px",
+    "pad": "4px 8px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 1206,
+     "y": 203,
+     "w": 116,
+     "h": 28
+    }
+   },
+   {
+    "t": "Scribe",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "8px",
+    "pad": "20px 24px",
+    "icon": "chevron-up",
+    "iconBefore": false,
+    "box": {
+     "x": 80,
+     "y": 269,
+     "w": 1280,
+     "h": 70
+    }
+   },
+   {
+    "t": "Evidence",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "8px",
+    "pad": "20px 24px",
+    "icon": "chevron-up",
+    "iconBefore": false,
+    "box": {
+     "x": 80,
+     "y": 1134,
+     "w": 1280,
+     "h": 70
+    }
+   },
+   {
+    "t": "Platform",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "8px",
+    "pad": "20px 24px",
+    "icon": "chevron-up",
+    "iconBefore": false,
+    "box": {
+     "x": 80,
+     "y": 1739,
+     "w": 1280,
+     "h": 70
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "chevron-up",
+    "box": {
+     "x": 1312,
+     "y": 292,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(76, 41, 52)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 365,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 584,
+     "y": 363,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 363,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 363,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 363,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 430,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 584,
+     "y": 428,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 428,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 428,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 428,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 495,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 584,
+     "y": 493,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 493,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 493,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 493,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 560,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 558,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 558,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 558,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 625,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 623,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 623,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 623,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 690,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 688,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 688,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 688,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 755,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 753,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 820,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 818,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 885,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 883,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 950,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 948,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1015,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1013,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1080,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1078,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "chevron-up",
+    "box": {
+     "x": 1312,
+     "y": 1157,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(76, 41, 52)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1230,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 584,
+     "y": 1228,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 1228,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 1228,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1228,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1295,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 584,
+     "y": 1293,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 1293,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 1293,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1293,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1360,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 584,
+     "y": 1358,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 1358,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 1358,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1358,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1425,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 1423,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1423,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1490,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 1488,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1488,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1555,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 1553,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1553,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1620,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1618,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1685,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1683,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "chevron-up",
+    "box": {
+     "x": 1312,
+     "y": 1762,
+     "w": 24,
+     "h": 24
+    },
+    "fg": "rgb(76, 41, 52)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1835,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 584,
+     "y": 1833,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 808,
+     "y": 1833,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 1833,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1900,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1898,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 1965,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 1963,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 1963,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 2030,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1032,
+     "y": 2028,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 2028,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 2095,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 2093,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 2160,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "check",
+    "box": {
+     "x": 1256,
+     "y": 2158,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgb(117, 87, 96)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 2225,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 2290,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 2355,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   },
+   {
+    "name": "circle-question-mark",
+    "box": {
+     "x": 444,
+     "y": 2420,
+     "w": 16,
+     "h": 16
+    },
+    "fg": "rgba(0, 0, 0, 0.4)",
+    "sw": "2px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(252, 250, 248)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "16px 0px 8px",
+    "shadow": null,
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 1280,
+     "h": 173
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "12px 12px 0px 0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 339,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 404,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 469,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 534,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 599,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 664,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 729,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 794,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 859,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 924,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 989,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px 0px 12px 12px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1054,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "12px 12px 0px 0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1204,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1269,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1334,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1399,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1464,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1529,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1594,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px 0px 12px 12px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1659,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "12px 12px 0px 0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1809,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1874,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 1939,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 2004,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 2069,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 2134,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 2199,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 2264,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 2329,
+     "w": 192,
+     "h": 64
+    }
+   },
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px 0px 12px 12px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 944,
+     "y": 2394,
+     "w": 192,
+     "h": 64
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "2-0",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 339,
+     "w": 1280,
+     "h": 779
+    },
+    "r": "0px",
+    "file": "/assets/bands/pricing/v2-0.png"
+   },
+   {
+    "id": "2-1",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 1204,
+     "w": 1280,
+     "h": 519
+    },
+    "r": "0px",
+    "file": "/assets/bands/pricing/v2-1.png"
+   },
+   {
+    "id": "2-2",
+    "tag": "div",
+    "box": {
+     "x": 80,
+     "y": 1809,
+     "w": 1280,
+     "h": 649
+    },
+    "r": "0px",
+    "file": "/assets/bands/pricing/v2-2.png"
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "box": {
+   "w": 1440,
+   "h": 654
+  },
+  "secBox": {
+   "x": 80,
+   "y": 80,
+   "w": 1280,
+   "h": 494
+  },
+  "secCls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "Questions & answers",
+    "ff": "exposure",
+    "fs": 48,
+    "lh": "52.8px",
+    "ls": "-2.4px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 80,
+     "w": 431,
+     "h": 53
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Everything you need to know about Heidi.",
+    "ff": "inter",
+    "fs": 18,
+    "lh": "25.2px",
+    "ls": "-0.54px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 149,
+     "w": 333,
+     "h": 25
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Speak to Heidi team",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "left",
+    "box": {
+     "x": 80,
+     "y": 206,
+     "w": 206,
+     "h": 42
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Can I cancel my Heidi subscription at any time?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 104,
+     "w": 483,
+     "h": 30
+    }
+   },
+   {
+    "tag": "p",
+    "t": "Yes, you can cancel your Heidi subscription at any time. If you decide to cancel, you will retain access to the features of your current plan until the end of the current billing cycle. If you're on an annual plan, you won't be charged for the following year after cancellation. For further assistance or any details regarding cancellations, feel free to reach out to our support team.",
+    "html": "Yes, you can cancel your Heidi subscription at any time. If you decide to cancel, you will retain access to the features of your current plan until the end of the current billing cycle. If you're on an annual plan, you won't be charged for the following year after cancellation. For further assistance or any details regarding cancellations, feel free to <a href=\"/en-gb/contact\">reach out to our support team</a>.",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 784,
+     "y": 158,
+     "w": 520,
+     "h": 134
+    }
+   },
+   {
+    "tag": "a",
+    "t": "reach out to our support team",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(64, 118, 72)",
+    "ta": "start",
+    "box": {
+     "x": 784,
+     "y": 249,
+     "w": 465,
+     "h": 42
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Is Heidi worth it?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 348,
+     "w": 172,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "When should I upgrade to the Practice plan?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 434,
+     "w": 453,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Why is there a free version of Heidi forever?",
+    "ff": "exposure",
+    "fs": 24,
+    "lh": "30px",
+    "ls": "-1.2px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "left",
+    "box": {
+     "x": 784,
+     "y": 520,
+     "w": 446,
+     "h": 30
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Showing 4 of 4 questions",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "24px",
+    "ls": "normal",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "start",
+    "box": {
+     "x": 759,
+     "y": 79,
+     "w": 1,
+     "h": 1
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Speak to Heidi team",
+    "href": "/en-gb/contact",
+    "tag": "a",
+    "bg": "rgb(25, 75, 34)",
+    "fg": "rgb(249, 244, 241)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 80,
+     "y": 206,
+     "w": 206,
+     "h": 42
+    }
+   },
+   {
+    "t": "Can I cancel my Heidi subscription at any time?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 78
+    }
+   },
+   {
+    "t": "reach out to our support team",
+    "href": "/en-gb/contact",
+    "tag": "a",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(64, 118, 72)",
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "icon": null,
+    "iconBefore": null,
+    "box": {
+     "x": 784,
+     "y": 249,
+     "w": 465,
+     "h": 42
+    }
+   },
+   {
+    "t": "Is Heidi worth it?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 324,
+     "w": 600,
+     "h": 78
+    }
+   },
+   {
+    "t": "When should I upgrade to the Practice plan?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 410,
+     "w": 600,
+     "h": 78
+    }
+   },
+   {
+    "t": "Why is there a free version of Heidi forever?",
+    "href": null,
+    "tag": "button",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "24px",
+    "pad": "24px",
+    "icon": "svg",
+    "iconBefore": false,
+    "box": {
+     "x": 760,
+     "y": 496,
+     "w": 600,
+     "h": 78
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 248,
+     "y": 216,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(249, 244, 241)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(255, 255, 255)",
+    "bgi": null,
+    "bd": null,
+    "r": "24px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 760,
+     "y": 80,
+     "w": 600,
+     "h": 236
+    }
+   }
+  ],
+  "visuals": []
+ },
+ {
+  "i": 4,
+  "box": {
+   "w": 1440,
+   "h": 521
+  },
+  "secBox": {
+   "x": 128,
+   "y": 176,
+   "w": 1184,
+   "h": 169
+  },
+  "secCls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+  "texts": [
+   {
+    "tag": "h2",
+    "t": "The inside scoop on Heidi",
+    "ff": "exposure",
+    "fs": 56,
+    "lh": "56px",
+    "ls": "-2.8px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 409,
+     "y": 176,
+     "w": 621,
+     "h": 56
+    }
+   },
+   {
+    "tag": "p",
+    "t": "100s of 5-star testimonials",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "400",
+    "fst": "normal",
+    "fg": "rgb(249, 244, 241)",
+    "ta": "center",
+    "box": {
+     "x": 626,
+     "y": 248,
+     "w": 187,
+     "h": 22
+    }
+   },
+   {
+    "tag": "span",
+    "t": "Get Heidi free",
+    "ff": "inter",
+    "fs": 16,
+    "lh": "22.4px",
+    "ls": "-0.48px",
+    "fw": "500",
+    "fst": "normal",
+    "fg": "rgb(40, 3, 15)",
+    "ta": "center",
+    "box": {
+     "x": 640,
+     "y": 302,
+     "w": 161,
+     "h": 42
+    }
+   }
+  ],
+  "links": [
+   {
+    "t": "Get Heidi free",
+    "href": "https://scribe.heidihealth.com/onboarding",
+    "tag": "a",
+    "bg": "rgb(249, 244, 241)",
+    "fg": "rgb(40, 3, 15)",
+    "bd": null,
+    "r": "12px",
+    "pad": "10px 16px",
+    "icon": "arrow-right",
+    "iconBefore": false,
+    "box": {
+     "x": 640,
+     "y": 302,
+     "w": 161,
+     "h": 42
+    }
+   }
+  ],
+  "imgs": [],
+  "icons": [
+   {
+    "name": "arrow-right",
+    "box": {
+     "x": 762,
+     "y": 313,
+     "w": 22,
+     "h": 22
+    },
+    "fg": "rgb(40, 3, 15)",
+    "sw": "1.5px"
+   }
+  ],
+  "panels": [
+   {
+    "bg": "rgb(25, 75, 34)",
+    "bgi": null,
+    "bd": null,
+    "r": "36px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 425
+    }
+   },
+   {
+    "bg": "rgb(43, 100, 51)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 48,
+     "y": -111,
+     "w": 283,
+     "h": 743
+    }
+   },
+   {
+    "bg": "rgb(43, 100, 51)",
+    "bgi": null,
+    "bd": null,
+    "r": "0px",
+    "pad": "0px",
+    "shadow": null,
+    "box": {
+     "x": 1109,
+     "y": -111,
+     "w": 283,
+     "h": 743
+    }
+   }
+  ],
+  "visuals": [
+   {
+    "id": "4-0",
+    "tag": "div",
+    "box": {
+     "x": 48,
+     "y": 48,
+     "w": 1344,
+     "h": 425
+    },
+    "r": "36px",
+    "file": "/assets/bands/pricing/v4-0.png"
+   }
+  ]
+ }
+]

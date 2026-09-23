@@ -1,0 +1,1032 @@
+{
+ "slug": "customers",
+ "path": "/customers",
+ "url": "/en-gb/customers",
+ "title": "Customer Stories",
+ "status": 200,
+ "meta": {
+  "title": "Customer Spotlight",
+  "desc": "Learn more about Customer Spotlight  - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md w-full max-w-container-lg",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 839
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 839,
+   "innerH": 551,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Customer Spotlight",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/image",
+     "alt": "Customer profile background",
+     "w": 616,
+     "h": 347
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Deborah Hawthorne",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Consultant Pharmacist",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/72450ba68cd12ce41ccafdd5902335e61fbcb559-3840x2160.jpg",
+     "alt": "Deb Hawthorne",
+     "w": 274,
+     "h": 323
+    },
+    {
+     "k": "a",
+     "t": "Driving 1,000km a week and still home for the kids: How Heidi gave a rural pharmacist her evenings back Heidi Team 24 June 2026 • 7 min read Read full article",
+     "href": "/en-gb/customers/how-heidi-gave-a-rural-pharmacist-her-evenings-back",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Driving 1,000km a week and still home for the kids: How Heidi gave a rural pharmacist her evenings back",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0ff1a7418688909fed89f90d11032271ded4dc92-122x121.png",
+     "alt": "Heidi Logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Heidi Team",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "24 June 2026 • 7 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Read full article",
+     "href": null,
+     "bg": "rgb(25, 75, 34)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1419,
+   "innerH": 1259,
+   "blocks": [
+    {
+     "k": "a",
+     "t": "Specialties",
+     "href": null,
+     "bg": "rgb(40, 3, 15)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Preventative & Holistic Medicine",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Allied Health",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Pediatrics",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "Pharmacy",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "k": "a",
+     "t": "An hour and a half back, every day: Heidi at MATTER Heidi Team 25 August 2026 • 9 min read • Listen Read full article",
+     "href": "/en-gb/customers/an-hour-and-a-half-back-every-day-heidi-at-matter",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/727bcab45d4a907fc9babb9ff8357461267718ae-1200x675.png",
+     "alt": "Heidi x MATTER",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "An hour and a half back, every day: Heidi at MATTER",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "25 August 2026 • 9 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "• Listen",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "One to two hours back, every single day: how Old Machar Medical Practice changed the shape of its working day Giulia Pedrazzini 19 August 2026 • 3 min read • Listen Read full article",
+     "href": "/en-gb/customers/old-machar-medical-practice-changed-the-shape-of-its-working-day",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ea4dc150a91cea05574c4cc61074b9b3c492640d-1200x675.png",
+     "alt": "Article placeholder image",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "One to two hours back, every single day: how Old Machar Medical Practice changed the shape of its working day",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ca6c56a2eb3f13b6b753481dcf150e86d23eaae8-484x496.png",
+     "alt": "Giulia Pedrazzini",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Giulia Pedrazzini",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "19 August 2026 • 3 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "From efficiency to better care: Amazing Hearing's experience with Heidi Heidi Team 7 August 2026 • 6 min read • Listen Read full article",
+     "href": "/en-gb/customers/amazing-hearings-experience-with-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/90ec20ccfa44f11b6e29f8d0aae3618a0744ff66-1200x675.png",
+     "alt": "Heidi x Amazing Hearing",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "From efficiency to better care: Amazing Hearing's experience with Heidi",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "7 August 2026 • 6 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Dr Annie Liau Fui Vun Consultant Paediatrician \"A lifesaver\": How Heidi transforms complex developmental sessions Heidi Team 6 August 2026 • 5 min read • Listen Read full article",
+     "href": "/en-gb/customers/how-heidi-transforms-complex-developmental-sessions",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "Dr Annie Liau Fui Vun",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Consultant Paediatrician",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/9e85fe92fc6e81dfc7f22977f7647ccc91931d7a-720x1080.jpg",
+     "alt": "Dr Annie Liau Fui Vun",
+     "w": 187,
+     "h": 212
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "\"A lifesaver\": How Heidi transforms complex developmental sessions",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "6 August 2026 • 5 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "How Heidi Powers a New Kind of Physiotherapy Practice at PHYX in Hong Kong Heidi Team 22 July 2026 • 10 min read • Listen Read full article",
+     "href": "/en-gb/customers/how-heidi-powers-phyx-in-hong-kong",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/17ceb134c1fd0efa27ce4a30ad43665a2d6d46ac-2400x1350.png",
+     "alt": "Heidi and PHYX logo ",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "How Heidi Powers a New Kind of Physiotherapy Practice at PHYX in Hong Kong",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "22 July 2026 • 10 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Customer Stories Case Study: Walsall Healthcare NHS Trust Heidi Team 21 July 2026 • 2 min read • Listen Read full article",
+     "href": "/en-gb/customers/case-study-walsall-healthcare-nhs-trust",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/e6f956e02c54f4096590fafe43abd0ec9bbcad45-720x405.jpg",
+     "alt": "Heidi x Walsall healthcare",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "p",
+     "t": "Customer Stories",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Case Study: Walsall Healthcare NHS Trust",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "21 July 2026 • 2 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Load more articles",
+     "href": null,
+     "bg": "rgb(249, 244, 241)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "An hour and a half back, every day: Heidi at MATTER",
+     "href": "/en-gb/customers/an-hour-and-a-half-back-every-day-heidi-at-matter",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "One to two hours back, every single day: how Old Machar Medical Practice changed the shape of its working day",
+     "href": "/en-gb/customers/old-machar-medical-practice-changed-the-shape-of-its-working-day",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "From efficiency to better care: Amazing Hearing's experience with Heidi",
+     "href": "/en-gb/customers/amazing-hearings-experience-with-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "\"A lifesaver\": How Heidi transforms complex developmental sessions",
+     "href": "/en-gb/customers/how-heidi-transforms-complex-developmental-sessions",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi Powers a New Kind of Physiotherapy Practice at PHYX in Hong Kong",
+     "href": "/en-gb/customers/how-heidi-powers-phyx-in-hong-kong",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Case Study: Walsall Healthcare NHS Trust",
+     "href": "/en-gb/customers/case-study-walsall-healthcare-nhs-trust",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Driving 1,000km a week and still home for the kids: How Heidi gave a rural pharmacist her evenings back",
+     "href": "/en-gb/customers/how-heidi-gave-a-rural-pharmacist-her-evenings-back",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "More than 1,000 hours of clinical admin reclaimed: Heidi at Gastrocare4U",
+     "href": "/en-gb/customers/more-than-1000-hours-of-clinical-admin-reclaimed-heidi-at-gastrocare4u",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Dr Jane McNae cut five hours of weekend admin",
+     "href": "/en-gb/customers/how-dr-jane-mcnae-cut-five-hours-of-weekend-admin",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi Remote moves with Dr. Paul Hacker through a day of community palliative care",
+     "href": "/en-gb/customers/how-heidi-remote-moves-with-dr-paul-hacker",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "From admin overload to participant impact: Heidi at Access Your Supports",
+     "href": "/en-gb/customers/ays",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Magdalen Medical Practice Reclaimed Capacity, Reduced Staff Costs, and Put the Joy Back Into General Practice",
+     "href": "/en-gb/customers/how-magdalen-medical-practice-reclaimed-capacity-reduced-staff-costs",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Veterinary Burnout to Balance: Heidi at Greencross Vet Hospital",
+     "href": "/en-gb/customers/greencross-hospital",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Scaling evidence-based allied health: Connect2Care’s experience with Heidi",
+     "href": "/en-gb/customers/connect2care",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi Health Transformed Clinical Documentation at Harley Street Hearing",
+     "href": "/en-gb/customers/clinical-documentation-at-harley-street-hearing",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi Health’s AI Scribe Enhanced Specialist Care at The Forbury Clinic",
+     "href": "/en-gb/customers/how-heidi-enhanced-specialist-care-at-the-forbury-clinic",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Dr Louise Nott at Icon Cancer Centre reclaimed patient presence and sped care with Heidi",
+     "href": "/en-gb/customers/dr-louise-nott-oncology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "From call volume chaos to capacity freedom",
+     "href": "/en-gb/customers/from-call-volume-chaos-to-capacity-freedom",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Supporting Staff in High-Pressure Roles: Citipointe College’s Experience with Heidi",
+     "href": "/en-gb/customers/citipointe-college",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The calm in the chaos: Imogen’s story of reclaiming time with Heidi in Hong Kong",
+     "href": "/en-gb/customers/imogen-dean-speech-pathologist",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How dietitian Justin Aniello uses Heidi to scale a solo practice sustainably",
+     "href": "/en-gb/customers/justin-aniello-dietitian",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "“We Can’t Live Without It Now” How Heidi Health Transformed Record Keeping, Compliance, and Patient Experience at Crescent Lodge Dental",
+     "href": "/en-gb/customers/transformed-record-keeping-compliance-and-patient-experience-at-crescent-lodge-dental",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Empowering Modern General Practice with Ambient Voice Technology: Frome Medical Centre's Partnership with Heidi Health",
+     "href": "/en-gb/customers/empowering-modern-general-practice-with-ambient-voice-technology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Case Study: The Edinburgh Practice",
+     "href": "/en-gb/customers/case-study-the-edinburgh-practice",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Dr. Hope Ward Launceston Medical Centre - Case Study",
+     "href": "/en-gb/customers/dr-hope-ward-launceston-medical-centre",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Case Study: Vets for Pets Worcester",
+     "href": "/en-gb/customers/case-study-vets-for-pets-worcester",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Dr Dea Bonello’s story: Bringing efficiency and focus back to veterinary practice",
+     "href": "/en-gb/customers/dr-dea-bonellos-veterinary",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How clinical psychologist Dr Siew Soon uses Heidi to transform therapy documentation in Singapore",
+     "href": "/en-gb/customers/clinical-psychologist-dr-siew-soon",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Empowering multilingual care in Singapore: How Dr Alexander Ho uses Heidi to elevate patient communication",
+     "href": "/en-gb/customers/empowering-multilingual-care-in-singapore",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Real-Time Capture for Real Psychiatric Workflows: Dr. Olele’s Experience",
+     "href": "/en-gb/customers/case-study-dr-olele",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Hong Kong Foot Clinic streamlined complex care with Heidi",
+     "href": "/en-gb/customers/hong-kong-foot-clinic",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Rethinking Pediatric Rheumatology Notes: Dr. Tommy Gerschman’s Case for AI Scribing",
+     "href": "/en-gb/customers/heidi-x-dr-tommy",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "From midnight notes to real-time records: How AI transformed one GP’s workflow",
+     "href": "/en-gb/customers/gp-dr-henry-konopnicki",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi and Tāmaki Health: Empowering culturally diverse care",
+     "href": "/en-gb/customers/tamaki-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How The Hummingbird Centre reclaimed clinician time and joy with Heidi AI",
+     "href": "/en-gb/customers/hummingbird-centre",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Empowering Mental Health Clinicians: Dr James Woolley's Success with Heidi",
+     "href": "/en-gb/customers/schoen-clinic-chelsea",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "This Ottawa Psychologist Saves 10+ Hours a Week on Notes - Here’s How",
+     "href": "/en-gb/customers/four-wings-psychology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "A new era in paediatric care: Dr. Catherine Skellern’s experience with Heidi",
+     "href": "/en-gb/customers/paediatrics-dr-catherine-skellern",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Winning back time: Performe’s journey to streamlined patient care with Heidi",
+     "href": "/en-gb/customers/performe-allied-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "\"The best thing since sliced bread\" - Meadowbank Family Doctors’ journey with Heidi",
+     "href": "/en-gb/customers/meadowbank-family-doctors-gp",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Accelerating occupational therapy care with Heidi's AI",
+     "href": "/en-gb/customers/accelerate-abilities-occupational-therapy",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "A doctor's journey: Combining care with technology",
+     "href": "/en-gb/customers/gihan-de-mel-gp",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Hawse Health: 2 hours saved & 2 more patients seen per day with Heidi",
+     "href": "/en-gb/customers/hawse-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Enhancing ENT patient care with AI documentation",
+     "href": "/en-gb/customers/ent-surgery-aman-khanna",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "10.3x ROI and improved patient care at Advanced Urology with Heidi",
+     "href": "/en-gb/customers/advanced-urology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi transformed a veterinary specialist's workflow",
+     "href": "/en-gb/customers/veterinarian-charles-kuntz",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Revolutionising ADHD care - How Heidi became indispensable at Divergence",
+     "href": "/en-gb/customers/divergence-mental-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "\"From typing furiously to being present\": Why one of Indiana’s largest multi-specialty behavioral health groups chose Heidi\"",
+     "href": "/en-gb/customers/indiana-health-group-ihg",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How psychiatrist, Dr Tony Fernando, reduced his work day by 2 hours using Heidi",
+     "href": "/en-gb/customers/psychiatrist-tony-fernando",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "From 30 years of note-taking fatigue to clinical freedom: Dr. Olga Lavalle's story",
+     "href": "/en-gb/customers/dr-lavalle-psychology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Reducing cognitive load to improve patient outcomes | Dr. Meera Rajah",
+     "href": "/en-gb/customers/dr-meera-rajah",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI-driven documentation saves 4-5 hours weekly for SANA Physiotherapy",
+     "href": "/en-gb/customers/sana-physiotherapy",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Reclaiming time and focus: The impact of Heidi at a busy London GP practice",
+     "href": "/en-gb/customers/dr-george-verghese",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Precision and efficiency in cosmetic surgery: Dr. Bloom’s experience with Heidi",
+     "href": "/en-gb/customers/re-plastic-surgery",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "From admin days to creative Fridays: Dyslexia-friendly workflow with Heidi",
+     "href": "/en-gb/customers/healthy-love",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Reclaiming patient connection: Dr Falayi’s story of efficiency and empathy",
+     "href": "/en-gb/customers/dr-falayis-gp",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi gave Dr. Theresa 1 hour back every day",
+     "href": "/en-gb/customers/tuggerah-family-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Efficient documentation, happier patients: The impact of Heidi at Kinetic Physio",
+     "href": "/en-gb/customers/kinetic-physio",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "A better way to practice medicine: My Emergency Doctor and Heidi partnership reshaping healthcare",
+     "href": "/en-gb/customers/my-emergency-doctor",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Priority Physicians reduce charting time by 70% with Heidi",
+     "href": "/en-gb/customers/priority-physicians",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "A neurosurgeon's best friend: Reducing stress and improving patient care with Heidi",
+     "href": "/en-gb/customers/gordan-grahovac-neurosurgery",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi is helping Dr. Nick save time and improve patient care in Emergency departments all across Australia",
+     "href": "/en-gb/customers/dr-nicholas-lelos-emergency-care",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Heidi helped Emmah Madondo regain time for patient care and study",
+     "href": "/en-gb/customers/emmah-madondo-mental-health-nurse",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Nourish Family Nutrition & Therapy recovers $10,000 in lost clinical time using Heidi",
+     "href": "/en-gb/customers/nourish-family-nutrition",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "How Fountain Vitality boosted provider productivity with AI",
+     "href": "/en-gb/customers/fountain-vitality",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 484
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 580,
+   "innerH": 228,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Say hello to your AI medical scribe",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Smarter notes, better care",
+     "fs": 18,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

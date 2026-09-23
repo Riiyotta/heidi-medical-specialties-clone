@@ -1,0 +1,227 @@
+{
+  "specVersion": "1.0.0",
+  "route": "/solutions/medical-specialties",
+  "title": "Heidi for Medical Specialties",
+  "basedOnTemplate": "solutions-shared",
+  "theme": "light",
+  "nodes": [
+    {
+      "section": "solutions.hero",
+      "required": true,
+      "repeatable": false,
+      "motion": {
+        "pattern": "heroFadeIn",
+        "reducedMotionFallback": "static-no-animation"
+      },
+      "content": {
+        "eyebrow": "Heidi for specialists",
+        "heading": "Clear the list, starting with patients",
+        "body": "The AI Care Partner that adapts to your voice, handling the invisible admin, so you can stay present with the patients only you can help.",
+        "cta": {
+          "label": "Get Heidi free",
+          "href": "https://scribe.heidihealth.com/onboarding"
+        },
+        "visual": {
+          "assetRole": "illustrative-photo",
+          "alt": "An example of the Heidi platform creating a psychiatric intake note from transcription"
+        }
+      }
+    },
+    {
+      "section": "solutions.specialty-strip",
+      "required": false,
+      "repeatable": false,
+      "motion": {
+        "pattern": "fadeUpOnScroll",
+        "reducedMotionFallback": "static-no-animation"
+      },
+      "content": {
+        "heading": "Built for your specialty, every one of them",
+        "sub": "Recommended for",
+        "label": "Recommended for",
+        "chips": [
+          "Paediatrician",
+          "Gastroenterologist",
+          "Sports Physician",
+          "Neurologist",
+          "Dermatologist",
+          "Internal Medicine Specialist"
+        ]
+      }
+    },
+    {
+      "section": "solutions.feature-row",
+      "required": true,
+      "repeatable": true,
+      "variant": "documentation",
+      "motion": {
+        "pattern": "fadeUpOnScroll",
+        "reducedMotionFallback": "static-no-animation"
+      },
+      "content": {
+        "heading": "Documentation that holds up to a second opinion",
+        "body": "Consult letters and procedure notes in your preferred structure, all from the same session. One visit. Nothing to rewrite.",
+        "cta": {
+          "label": "Explore Scribe",
+          "href": "/en-gb/scribe"
+        },
+        "visual": {
+          "assetRole": "illustrative-photo",
+          "alt": "Heidi Transcript"
+        },
+        "imageFirst": true
+      }
+    },
+    {
+      "section": "solutions.feature-row",
+      "required": true,
+      "repeatable": true,
+      "variant": "evidence",
+      "motion": {
+        "pattern": "fadeUpOnScroll",
+        "reducedMotionFallback": "static-no-animation"
+      },
+      "content": {
+        "heading": "Peer-reviewed answers, no corridor guesswork",
+        "body": "Peer-reviewed, traceable answers with citations you can open and verify in real time. Every decision, sourced.",
+        "cta": {
+          "label": "Explore Evidence",
+          "href": "/en-gb/evidence"
+        },
+        "visual": {
+          "assetRole": "illustrative-photo",
+          "alt": "Ask heidi"
+        },
+        "imageFirst": false
+      }
+    },
+    {
+      "section": "solutions.stats-band",
+      "required": true,
+      "repeatable": false,
+      "motion": {
+        "pattern": "fadeUpOnScroll",
+        "reducedMotionFallback": "static-no-animation"
+      },
+      "content": {
+        "heading": "Time back, every list",
+        "cards": [
+          {
+            "value": "2 hrs",
+            "caption": "saved per clinician per day, on average"
+          },
+          {
+            "value": "70,000",
+            "caption": "clinicians documenting with Heidi"
+          }
+        ]
+      }
+    },
+    {
+      "section": "solutions.template-grid",
+      "required": false,
+      "repeatable": false,
+      "motion": {
+        "pattern": "fadeUpOnScroll",
+        "reducedMotionFallback": "static-no-animation"
+      },
+      "content": {
+        "eyebrow": "Templates",
+        "heading": "Every Specialist template made yours",
+        "body": "Configure once, reuse every session.",
+        "cta": {
+          "label": "Browse templates",
+          "href": "/en-gb/templates"
+        },
+        "cards": [
+          {
+            "title": "Response to referral letter",
+            "visual": {
+              "assetRole": "editorial-thumbnail",
+              "alt": "Response to referral letter template card"
+            }
+          },
+          {
+            "title": "High Risk Anaesthesia Clinic",
+            "visual": {
+              "assetRole": "editorial-thumbnail",
+              "alt": "High Risk Anaesthesia Clinic template card"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "section": "solutions.testimonials",
+      "required": true,
+      "repeatable": false,
+      "motion": {
+        "pattern": "fadeUpOnScroll",
+        "reducedMotionFallback": "static-no-animation"
+      },
+      "content": {
+        "heading": "Hear from Specialists already using Heidi",
+        "link": {
+          "label": "Read customer stories",
+          "href": "https://www.heidihealth.com/customers"
+        },
+        "items": [
+          {
+            "quote": "Heidi has quietly raised the floor of what my documentation looks like on my busiest days. On a busy day, that floor matters more than the ceiling.",
+            "name": "Alex Hwong-Ruey Leow",
+            "role": "Consultant Gastroenterologist and Hepatologist"
+          },
+          {
+            "quote": "I can't believe we ever lived without Heidi Health. It's been a huge time-saver and a far more detailed way of keeping track of progress through therapy.",
+            "name": "Romy Cohen",
+            "role": "The Forbury Clinic"
+          }
+        ]
+      }
+    },
+    {
+      "section": "solutions.faq",
+      "required": true,
+      "repeatable": false,
+      "motion": {
+        "pattern": "fadeUpOnScroll",
+        "reducedMotionFallback": "static-no-animation"
+      },
+      "content": {
+        "heading": "FAQs for Specialists",
+        "items": [
+          {
+            "q": "Is Heidi worth it?",
+            "a": "If you're looking to save time on documentation and streamline your clinical workflows, Heidi could be a great investment for your specialty practice."
+          },
+          {
+            "q": "Can I cancel my Heidi subscription at any time?",
+            "a": "Yes, you can cancel at any time. You will retain access to your current plan's features until the end of the current billing cycle."
+          },
+          {
+            "q": "Does Heidi work offline?",
+            "a": "Heidi Remote captures notes offline in private rooms or low-connectivity settings and syncs automatically once you're back online."
+          }
+        ]
+      }
+    },
+    {
+      "section": "solutions.cta-band",
+      "required": true,
+      "repeatable": false,
+      "motion": {
+        "pattern": "fadeUpOnScroll",
+        "reducedMotionFallback": "static-no-animation"
+      },
+      "content": {
+        "heading": "Clear the list, starting with patients",
+        "buttons": [
+          {
+            "label": "Get Heidi free",
+            "href": "https://scribe.heidihealth.com/onboarding"
+          }
+        ]
+      }
+    }
+  ]
+}

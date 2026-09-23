@@ -1,0 +1,68 @@
+{
+  "id": "pricing.tiers",
+  "category": "conversion",
+  "purpose": "Plan tier cards, several price headings each under a tier name.",
+  "measuredFrom": "src/components/sections/index.jsx classifySection() pricing branch; src/lib/classify.js:28",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 5,
+        "items": {
+          "type": "object",
+          "properties": {
+            "plan": {
+              "type": "string",
+              "maxWords": 4
+            },
+            "price": {
+              "type": "string",
+              "maxWords": 4
+            },
+            "features": {
+              "type": "object",
+              "properties": {
+                "title": {
+                  "type": "string",
+                  "maxWords": 8
+                },
+                "body": {
+                  "type": "string",
+                  "maxWords": 0
+                }
+              },
+              "required": [
+                "title"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "plan",
+            "price"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "heading",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "onePerPage": true
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

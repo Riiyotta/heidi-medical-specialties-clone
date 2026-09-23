@@ -1,0 +1,819 @@
+{
+ "slug": "solutions-medical-trainees",
+ "path": "/solutions/medical-trainees",
+ "url": "/en-gb/solutions/medical-trainees",
+ "title": "Trainees",
+ "status": 200,
+ "meta": {
+  "title": "Best AI Scribe for Medical Trainees & Junior Doctors | Heidi",
+  "desc": "Capture every detail using Heidi's AI scribe, trusted by medical trainees globally. Try the best AI resident scribe for free today. - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 385,
+   "innerH": 225,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "You are the future of care. Heidi is here to back you.",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Full access to the Heidi Clinician plan. Free for students and trainees in medicine, nursing and allied health.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Claim your free Clinician Plan",
+     "href": "https://www.heidihealth.com/trainee/sign-up",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 794
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 890,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/02ee1782cd5d9b8a99386fabd126f183a04b9439-2086x1174.png",
+     "alt": "a handover note for a patient named robert p. 59m",
+     "w": 1184,
+     "h": 666
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 232,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/488397936e8d436d3540873203df5365d495cfe3-156x60.svg",
+     "alt": "CHCP",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1f43f96cab92bd4da43fb88a84cfef4253d5eb1d-156x60.svg",
+     "alt": "modality",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/646c496c43663ad1caf4504e43ffe855f3fb6323-156x60.svg",
+     "alt": "NHS Dudley",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0a867e58696837ae56e5c5c7ce465ce2f1bc5f8a-156x60.svg",
+     "alt": "NHS Hertfordshire Teaching Hospitals",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a6d91356d1e2a4636a9944c5bb4b3aef33ab59c6-156x60.svg",
+     "alt": "NHS Walsall Healthcare",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3668a7d36d109ac4a7f64f8404e854ab2e35f0b7-156x60.svg",
+     "alt": "NHS WWL Teaching Hospitals",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ef01b7ef252f4473c9978ffef8ee6e95075a1012-156x60.svg",
+     "alt": "onecare",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/706ae589492e1b9414d839af34b9109c06d83b6c-156x60.svg",
+     "alt": "Portman dentex",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c2dc6db7862e825a42fcf778ea5dd199181d7d6b-156x60.svg",
+     "alt": "Sue Ryder",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/235ee2b2f2956e6ae897e7aa9f957e518961f916-156x60.svg",
+     "alt": "Swiss Medical Network",
+     "w": 187,
+     "h": 72
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 282,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "You chose medicine, not admin",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Efficient documentation, better habits",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/4e8ce6317e8937cd0f1a3a48de610de9b5ad473d-1226x920.png",
+     "alt": "a soap note with subjective , objective , assessment , and plan .",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "The same tool consultants trust, yours free",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c3cb3b90abce3294dba4cfddb1803c659e5e4ac0-1227x920.png",
+     "alt": "a phone with a microphone and a soap note on it .",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 640,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Make care sustainable",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/7daefd914519b971345f4e8f3226f4ab0bd1cea7-1229x920.png",
+     "alt": "a referral letter , patient explainer , soap , transcript , and assessments are shown in a diagram .",
+     "w": 570,
+     "h": 456
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(185, 207, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 580
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 676,
+   "innerH": 452,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Clinician tools, trainee-ready",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Chart like a consultant",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Master hands-free documentation across wards and clinics while others are still typing.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Turn every note into a lesson",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Trainee templates don’t just structure notes. They highlight what experienced clinicians look for, teaching as you work.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "See the whole patient picture",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Pull in labs, imaging, and notes into a single view. Learn to see the whole picture, not fragments.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-16 max-w-container-lg w-full",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 821,
+   "innerH": 661,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Tomorrow’s leaders are already using Heidi",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "a",
+     "t": "Read case studies",
+     "href": "/en-gb/customers",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "p",
+     "t": "“Allows me to get home earlier!”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Heidi found me at a time when I was feeling that noting was interfering with my desire to be fully present for clients. It truly captures the work I do with clients and allows me to get home earlier while meeting professional noting standards.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3b14048b14c0c714682ec7bdd980a38e03924e17-192x193.png",
+     "alt": "Lisa Terwillinger",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Lisa Terwilliger",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Therapist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“It has completely changed my workflow for the better.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "I'm an audiologist and have been using Heidi for writing chart notes for about 3 weeks. I can spend more time listening to my patients without using my energy trying to write down or remember every detail as I go. I am still working on getting the perfect templates for me, but it's been a really helpful and fun addition to my workday.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/84255dc1f755f5bbb0f7236c81244fdedd180da8-512x768.png",
+     "alt": "Smiling woman with long, wavy brown-blonde hair wearing a yellow sweater against a yellow background.",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Amanda Levy",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Audiologist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“Excellent Support & Great Value!”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "During a demo, I requested a template be created for use with my facility so that I could test the strength and validity of the software. Within a few minutes, the template was fully functional and performed flawlessly. Heidi Health is now my go to AI Medical Scribe software. Great product and phenomenal support!",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/47c6b24132afaf6ef38322b5184ed1b3370d8186-320x320.jpg",
+     "alt": "A smiling man with a beard wearing a dark suit and white shirt.",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Christopher Rodriguez",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Family Nurse Practitioner",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“It is intuitive and does not take a huge learning curve”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "I'm always seeking ways to be more effective and more efficient so that my patients can get \"all of me\" during a visit. Heidi is the biggest move in this direction I have made and wholeheartedly recommend it. It is intuitive and does not take a huge learning curve. It allows me to be present and engaged and helps makes my notes better without any concern of replacing the human element. You still have to ask good questions and have solid medical knowledge and I don't feel like it steps on my toes at all.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/2c402ff6f683196e30663e031d734084c42bc60e-270x270.jpg",
+     "alt": "Smiling blonde woman in a white lab coat.",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Corey Dickinson",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "“I cannot praise Heidi enough!”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "I have tried several transcription systems because I always wrote long notes and spent hours after work doing it. It is the best and most affordable software and a game-changing tool.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/430205d4650e649d3d903297cd9b9ed13310d163-200x267.jpg",
+     "alt": "Smiling woman with short blonde hair wearing a white shirt.",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Daniela Vanousova",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Dermatologist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“This has COMPLETELY changed my workflow.”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "I do clinic notes, telephone notes, operative notes. I also use it for inpatient consultations and inpatient rounding. Custom templates change the game. UI/Ux is great. I'm in love.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a197b3426d901319935cf3a98f4563a1471f25b0-400x400.jpg",
+     "alt": "Article placeholder image",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "David Canes",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Urologist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“I am keeping Heidi as my go to for my office clinical notes”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "As a surgeon, I need products that work. The rest out there are toys.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5ceae8bb8397075ba09cb3d7d5e3e86648245970-1317x1317.webp",
+     "alt": "Headshot of a smiling man with glasses, wearing a blue shirt and black blazer.",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Dr. Lawrence Kosova, DPM",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Podiatrist at Family Podiatry Center",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“I am impressed by the accuracy and efficiency”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "As a very busy Family Physician with plenty of notes to write, Heidi has been a Game Changer. It has literally replaced human beings by doing what they were doing at a fraction of the price and with greater precision!",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d0ec245e56c2cb35603e686bd064af46e64d5f49-308x300.png",
+     "alt": "Article placeholder image",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Kalaki Clarke",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Family Physician",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "“This has revolutionized my practice”",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Stunned at how this has revolutionized my practice. Charting is efficient, patients feel more engaged since I’m not always turning to the computer.",
+     "fs": 16,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/eb31f8d25a2e81b23d1c14f7a0687f776b2bf919-400x400.jpg",
+     "alt": "Menaka Pai",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Menaka Pai",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Hematologist",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Previous slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Next slide",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(117, 87, 96)",
+     "r": "3.35544e+07px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "DIV",
+   "id": null,
+   "cls": "gap-section-md max-w-container-lg w-full flex flex-col md:grid md:grid-cols-2",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1058,
+   "innerH": 898,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "AI Scribe for Medical Trainees",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "What is an AI scribe for medical trainees?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "clinical notes",
+     "href": "/en-gb/blog/clinical-notes-template-with-example",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "referral letters",
+     "href": "/en-gb/blog/medical-referral-letter-template-with-examples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "medical reports",
+     "href": "/en-gb/blog/medical-report-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "meeting minutes",
+     "href": "/en-gb/blog/medical-meeting-minutes-template",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "patient history",
+     "href": "/en-gb/blog/medical-history-template-with-exmaples",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(64, 118, 72)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How does Heidi work as an AI medical scribe for junior doctors?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Why is Heidi the best AI scribe for medical trainees?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "How accurate is Heidi’s AI for trainee doctors?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Is it easy for residents and registrars to use Heidi as an AI medical scribe?",
+     "fs": 16,
+     "ff": "inter",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Showing 5 of 7 questions",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Show more",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 481
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 577,
+   "innerH": 225,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "We’re investing in you, so you can invest in your patients",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Reclaim your time. Protect your energy. Grow into the doctor you set out to be.",
+     "fs": 16,
+     "c": "rgb(249, 244, 241)"
+    }
+   ]
+  }
+ ]
+}

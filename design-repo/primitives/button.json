@@ -1,0 +1,12 @@
+{
+  "id": "button",
+  "category": "primitive",
+  "purpose": "Clickable CTA button in one of three real variants (primary-yellow, dark, outline).",
+  "measuredFrom": "src/components/bands/index.jsx:43-67 (Button); src/data/buttons.json:1-22",
+  "props": {
+    "label": { "type": "string", "maxWords": 6 },
+    "href": { "type": "string" },
+    "variant": { "type": "string", "enum": ["primary-yellow", "dark", "outline"] },
+    "icon": { "type": "boolean" }
+  }
+}

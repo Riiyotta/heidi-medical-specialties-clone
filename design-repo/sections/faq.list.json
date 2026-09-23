@@ -1,0 +1,51 @@
+{
+  "id": "faq.list",
+  "category": "content",
+  "purpose": "Accordion FAQ list; questions from real recon, answers from src/data/faq-answers.json.",
+  "measuredFrom": "src/components/sections/index.jsx:383-502 (FaqList, Faq)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "heading": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "items": {
+        "type": "array",
+        "minItems": 3,
+        "maxItems": 20,
+        "items": {
+          "type": "object",
+          "properties": {
+            "q": {
+              "type": "string",
+              "maxWords": 20
+            },
+            "a": {
+              "type": "string",
+              "maxWords": 120
+            }
+          },
+          "required": [
+            "q",
+            "a"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "heading",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

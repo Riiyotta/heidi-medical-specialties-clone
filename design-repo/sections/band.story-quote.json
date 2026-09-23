@@ -1,0 +1,62 @@
+{
+  "id": "band.story-quote",
+  "category": "proof",
+  "purpose": "Named customer-story pull-quote with role and CTA.",
+  "measuredFrom": "src/components/bands/index.jsx:1107-1131 (StoryQuote)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "eyebrow": {
+        "type": "string",
+        "maxWords": 6
+      },
+      "quote": {
+        "type": "string",
+        "maxWords": 50
+      },
+      "name": {
+        "type": "string",
+        "maxWords": 6
+      },
+      "role": {
+        "type": "string",
+        "maxWords": 10
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "eyebrow",
+      "quote",
+      "name",
+      "role",
+      "cta"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 2
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [
+    "customer-photo"
+  ]
+}

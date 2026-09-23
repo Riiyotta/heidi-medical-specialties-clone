@@ -1,0 +1,74 @@
+{
+  "id": "band.stats-panel",
+  "category": "proof",
+  "purpose": "Stat panel with heading/lead and a stat-card array.",
+  "measuredFrom": "src/components/bands/index.jsx:1222-1247 (StatsPanel)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "lead": {
+        "type": "string",
+        "maxWords": 30
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "stats": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 6,
+        "items": {
+          "type": "object",
+          "properties": {
+            "value": {
+              "type": "string",
+              "maxWords": 4
+            },
+            "caption": {
+              "type": "string",
+              "maxWords": 12
+            }
+          },
+          "required": [
+            "value",
+            "caption"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "title",
+      "lead",
+      "cta",
+      "stats"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": []
+}

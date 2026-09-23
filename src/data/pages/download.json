@@ -1,0 +1,218 @@
+{
+ "slug": "download",
+ "path": "/download",
+ "url": "/en-gb/download",
+ "title": "Download Heidi",
+ "status": 200,
+ "meta": {
+  "title": "Heidi App - Free Download for Mobile & Desktop",
+  "desc": "Download the Heidi App for free on iOS, Android, Mac & Windows. Heidi works wherever you practice, in the language you practice. Try it… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 1,
+   "tag": "SECTION",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1262,
+   "innerH": 1262,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Download Heidi for MacOS",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Use Heidi with telehealth and headsets",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Apple Silicon",
+     "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/dmg-aarch64?channel=uk",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Intel Chip",
+     "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/dmg-x86_64?channel=uk",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/78b50c26b3e3b120220a28e8375ced5076c69537-1188x952.jpg",
+     "alt": "Heidi on MacOS",
+     "w": 600,
+     "h": 480
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Try Heidi everywhere",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Your phone on the ward round. Your laptop in the clinic. Your tablet at the bedside. Wherever the day takes you, Heidi is on the same device you already are. One account, one login.",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/c6ef2c63abeab1112629ff249e0a1e621e0d7954-1188x952.jpg",
+     "alt": "Heidi on Android",
+     "w": 341,
+     "h": 256
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Android",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Heidi lets you set up templates that sound just like you—start from blank, provide an example, or use AI to describe what you need.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get it on Google Play",
+     "href": "https://play.google.com/store/apps/details?id=com.heidihealth.scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/62a1b62aa9eb1be1dde5639f4ca5da71a9001198-1188x952.jpg",
+     "alt": "Heidi on iOS",
+     "w": 341,
+     "h": 256
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "iOS",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Commit your preferences, your corrections, and your macros to Heidi’s memory of your distinct style",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Get it on the App Store",
+     "href": "https://apps.apple.com/app/heidi-ai-clinical-scribe/id6504471106",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/7d59b8311167443c701fd83682ef35d1e818da44-1188x952.jpg",
+     "alt": "Heidi on Windows",
+     "w": 341,
+     "h": 256
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Windows",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "Version 2.12.0 · Released 17 Sept 2026",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": ".EXE",
+     "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/nsis-x86_64?channel=uk",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": ".MSI",
+     "href": "https://cdn.crabnebula.app/download/heidi-scribe/scribe/latest/platform/wix-x86_64?channel=uk",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "SECTION",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row-reverse gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h": 338,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Connect with Heidi",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi integrates with leading EHRs, practice management systems, and clinical platforms worldwide. See what connects with your workflow.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore integrations",
+     "href": "/en-gb/integrations",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/ce17bfca7a57aa1fa5f28fa16ae6d1e557c1236b-1230x580.svg",
+     "alt": "Integrations illustration",
+     "w": 570,
+     "h": 321
+    }
+   ]
+  }
+ ]
+}

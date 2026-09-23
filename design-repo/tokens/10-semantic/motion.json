@@ -1,0 +1,10 @@
+{
+  "$description": "Semantic motion roles resolving to 00-foundation/motion.json durations/easings.",
+  "roles": {
+    "hover.colorSwap": { "duration": "base", "easing": "out" },
+    "hover.elevate": { "duration": "base", "easing": "out" },
+    "reveal.fadeIn": { "duration": "slow", "easing": "out" },
+    "reveal.staggerChild": { "duration": "base", "easing": "out" },
+    "carousel.translate": { "duration": "slower", "easing": "out" }
+  }
+}

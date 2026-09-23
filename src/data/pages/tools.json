@@ -1,0 +1,812 @@
+{
+ "slug": "tools",
+ "path": "/tools",
+ "url": "/en-gb/tools",
+ "title": "AI Tools",
+ "status": 200,
+ "meta": {
+  "title": "Free Clinical AI Tools: Generators, Calculators, and More",
+  "desc": "Explore Heidi's free clinical AI tools: note and referral generators, medical calculators, and more. Built for clinicians, free to use,… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1186,
+   "innerH": 1026,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Heidi Tools",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Free AI for Family Medicine Specialists",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Use tool",
+     "href": "/en-gb/tools/ai-for-family-medicine-specialists",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "AI for Emergency Medicine Specialists",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Use tool",
+     "href": "/en-gb/tools/ai-for-emergency-medicine-specialists",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "AI in Neurology",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Use tool",
+     "href": "/en-gb/tools/ai-in-neurology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "AI in Obstetrics and Gynecology",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Use tool",
+     "href": "/en-gb/tools/ai-in-obstetrics-and-gynecology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "AI for Pediatricians",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Use tool",
+     "href": "/en-gb/tools/ai-for-pediatricians",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "AI for Cardiologists",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Use tool",
+     "href": "/en-gb/tools/ai-for-cardiologists",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "AI for Orthopedic Surgeons",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Use tool",
+     "href": "/en-gb/tools/ai-for-orthopedic-surgeons",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "NIHSS Score Calculator",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Use tool",
+     "href": "/en-gb/tools/nihss-score-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Ideal Body Weight Calculator",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "a",
+     "t": "Use tool",
+     "href": "/en-gb/tools/ideal-body-weight-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Load more tools",
+     "href": null,
+     "bg": "rgb(249, 244, 241)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free AI for Family Medicine Specialists",
+     "href": "/en-gb/tools/ai-for-family-medicine-specialists",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI for Emergency Medicine Specialists",
+     "href": "/en-gb/tools/ai-for-emergency-medicine-specialists",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI in Neurology",
+     "href": "/en-gb/tools/ai-in-neurology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI in Obstetrics and Gynecology",
+     "href": "/en-gb/tools/ai-in-obstetrics-and-gynecology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI for Pediatricians",
+     "href": "/en-gb/tools/ai-for-pediatricians",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI for Cardiologists",
+     "href": "/en-gb/tools/ai-for-cardiologists",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI for Orthopedic Surgeons",
+     "href": "/en-gb/tools/ai-for-orthopedic-surgeons",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "NIHSS Score Calculator",
+     "href": "/en-gb/tools/nihss-score-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Ideal Body Weight Calculator",
+     "href": "/en-gb/tools/ideal-body-weight-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "BMI Calculator",
+     "href": "/en-gb/tools/bmi-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI in Urology",
+     "href": "/en-gb/tools/ai-in-urology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI for Veterinarians",
+     "href": "/en-gb/tools/ai-for-veterinarians",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI for Gastroenterologists",
+     "href": "/en-gb/tools/ai-for-gastroenterologists",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI in Rheumatology",
+     "href": "/en-gb/tools/ai-in-rheumatology",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI for Psychologists",
+     "href": "/en-gb/tools/ai-for-psychologists",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free AI in Internal Medicine",
+     "href": "/en-gb/tools/ai-in-internal-medicine",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI for General Practitioners",
+     "href": "/en-gb/tools/ai-for-general-practitioners",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "eGFR Score Calculator",
+     "href": "/en-gb/tools/egfr-score-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "GCS Score Calculator",
+     "href": "/en-gb/tools/gcs-score-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free PCP Referral Generator",
+     "href": "/en-gb/tools/pcp-referral-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Referral Letter From Clinic to Hospital Generator",
+     "href": "/en-gb/tools/referral-letter-from-clinic-to-hospital-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Allied Health Referral Generator",
+     "href": "/en-gb/tools/mental-health-referral-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free ABA Note Generator",
+     "href": "/en-gb/tools/free-aba-note-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Dental Referral Letter Generator",
+     "href": "/en-gb/tools/dental-referral-letter-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Doctor Referral Letter Generator",
+     "href": "/en-gb/tools/doctor-referral-letter-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Case Note Generator",
+     "href": "/en-gb/tools/dap-note-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Case Note Generator",
+     "href": "/en-gb/tools/case-note-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Progress Note Generator",
+     "href": "/en-gb/tools/progress-note-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free AI Note Taker for Doctors",
+     "href": "/en-gb/tools/ai-note-taker-for-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Allied Health Referral Generator",
+     "href": "/en-gb/tools/allied-health-referral-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Nursing Note Generator",
+     "href": "/en-gb/tools/nursing-note-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "GAD-7 Calculator",
+     "href": "/en-gb/tools/gad-7-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "CHA₂DS₂-VASc Score Calculator",
+     "href": "/en-gb/tools/cha2ds2-vasc-score-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "PHQ-9 Calculator",
+     "href": "/en-gb/tools/phq-9-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "CrCl Calculator",
+     "href": "/en-gb/tools/crcl-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "HAS-BLED Score Calculator",
+     "href": "/en-gb/tools/has-bled-score-calculator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Specialist Referral Letter Generator",
+     "href": "/en-gb/tools/specialist-referral-letter-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free GP Referral Letter to Hospital Generator",
+     "href": "/en-gb/tools/gp-referral-letter-to-hospital-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free Referral Letter from GP to Specialist Generator",
+     "href": "/en-gb/tools/referral-letter-from-gp-to-specialist-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free BIRP Note Generator",
+     "href": "/en-gb/tools/birp-note-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free AI Note Summarizer for Doctors",
+     "href": "/en-gb/tools/ai-note-summarizer-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free AI Therapy Note Generator",
+     "href": "/en-gb/tools/therapy-note-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free AI Letter Generator for Doctors",
+     "href": "/en-gb/tools/ai-letter-generator-for-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "AI Letter Generator for Doctors",
+     "href": "/en-gb/tools/ai-letter-generator-for-doctors",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Free SOAP Note Generator",
+     "href": "/en-gb/tools/soap-note-generator",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "TESTING",
+     "href": "/en-gb/tools/testing",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(240, 223, 209)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 283,
+     "h": 743
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 1651,
+   "innerH": 1299,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi tools, built from your AI Care Partner",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Heidi is by your side before, during and after the visit. One connected platform for the clinical day.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/4d757f8c165571e32c450683ee54ee4e870a8ad2-1188x952.png",
+     "alt": "heidi tools scribe",
+     "w": 533,
+     "h": 300
+    },
+    {
+     "k": "p",
+     "t": "Heidi Scribe",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Scribe turns the visit into notes in your style and structure. It also drafts the letters and summaries that usually come after.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Scribe",
+     "href": "/en-gb/scribe",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/86a874c1759b25f0f790c7da50cc76ae6315f680-902x722.png",
+     "alt": "heidi tools dictate",
+     "w": 533,
+     "h": 300
+    },
+    {
+     "k": "p",
+     "t": "Heidi Dictate",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Dictate turns speech into text wherever your cursor lands: your EHR, emails, etc. No more typing them up once the patient leaves.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Dictate",
+     "href": "/en-gb/product/dictate",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1d27179530428187e30b0efd144f015d2cfda6c5-1200x960.jpg",
+     "alt": "heidi tools evidence",
+     "w": 533,
+     "h": 300
+    },
+    {
+     "k": "p",
+     "t": "Heidi Evidence",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Evidence answers clinical questions from trusted sources right when you need them, saving you from having to search elsewhere.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Evidence",
+     "href": "/en-gb/evidence",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/e72f4d06e9bbda404776fbf4bd112e6e2a4fdb60-1200x960.png",
+     "alt": "heidi tools remote",
+     "w": 533,
+     "h": 300
+    },
+    {
+     "k": "p",
+     "t": "Heidi Remote",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Remote picks up every session on the go, hands-free and offline. It lets care happen anywhere without changing how you work.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Explore Remote",
+     "href": "/en-gb/hardware",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": null,
+    "image": "https://www.heidihealth.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffq1n4a7f%2Fproduction%2F265f1ad543fb0fce20a211fa00ec6df362238f2f-600x480.jpg%3Ffit%3Dmax%26auto%3Dformat&w=1920&q=75",
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 504
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 600,
+   "innerH": 166,
+   "blocks": [
+    {
+     "k": "img",
+     "src": "/assets/pages/265f1ad543fb0fce20a211fa00ec6df362238f2f-600x480.jpg",
+     "alt": "blurred field background image",
+     "w": 1344,
+     "h": 504
+    },
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Your AI Care Partner, free to start",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Try Heidi across every part of the visit and see the difference for yourself.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  }
+ ]
+}

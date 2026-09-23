@@ -1,0 +1,8 @@
+{
+  "id": "card-base",
+  "category": "component",
+  "purpose": "Generic white/bordered card shell composing an optional visual, title and body -- the base every cards.grid / template-grid / case-study item builds on.",
+  "measuredFrom": "src/components/sections/index.jsx:503-654 (Cards); tokens/20-component/card.json",
+  "composes": ["primitives/badge-verified.json"],
+  "props": { "title": { "type": "string", "maxWords": 14 }, "body": { "type": "string", "maxWords": 30 }, "visual": { "assetRole": "editorial-thumbnail" } }
+}

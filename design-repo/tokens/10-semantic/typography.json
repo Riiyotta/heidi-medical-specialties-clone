@@ -1,0 +1,19 @@
+{
+  "$description": "Semantic typography roles resolving to 00-foundation/typography.json scale entries.",
+  "roles": {
+    "heading.hero": { "resolvesTo": "h1-desktop", "mobileResolvesTo": "h1-mobile" },
+    "heading.section": { "resolvesTo": "h2-desktop", "mobileResolvesTo": "h2-mobile" },
+    "heading.sectionLarge": { "resolvesTo": "h2-lg-desktop", "mobileResolvesTo": "h2-mobile" },
+    "heading.card": { "resolvesTo": "h3-desktop" },
+    "heading.faqQuestion": { "resolvesTo": "h3-faq" },
+    "heading.quote": { "resolvesTo": "h6-quote" },
+    "body.default": { "resolvesTo": "body" },
+    "nav.link": { "resolvesTo": "nav-link" },
+    "nav.small": { "resolvesTo": "nav-small" },
+    "button.outline": { "resolvesTo": "btn-outline" },
+    "button.pill": { "resolvesTo": "btn-pill" },
+    "meta.caption": { "resolvesTo": "caption" },
+    "card.title": { "resolvesTo": "card-title" },
+    "card.author": { "resolvesTo": "card-author" }
+  }
+}

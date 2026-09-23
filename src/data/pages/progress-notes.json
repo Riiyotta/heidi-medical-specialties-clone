@@ -1,0 +1,587 @@
+{
+ "slug": "progress-notes",
+ "path": "/progress-notes",
+ "url": "/en-gb/progress-notes",
+ "title": "Progress notes",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Progress Notes | Global",
+  "desc": "Stay updated with the latest improvements in Heidi Progress Notes. Learn about product updates and new features for clinicians around… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col gap-section-md w-full max-w-container-lg",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 839
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 839,
+   "innerH": 551,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Progress Notes",
+     "fs": 72,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b67e356fc8cee23a11cef66d0ea59f2a2302038c-1160x840.png",
+     "alt": "Progress Notes interface with Sessions, Context and Patients tabs, plus an August button.",
+     "w": 616,
+     "h": 347
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes Heidi Team 7 September 2026 • 7 min read Read full article",
+     "href": "/en-gb/progress-notes/august-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Heidi Progress Notes",
+     "fs": 32,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0ff1a7418688909fed89f90d11032271ded4dc92-122x121.png",
+     "alt": "Heidi Logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Heidi Team",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "7 September 2026 • 7 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Read full article",
+     "href": null,
+     "bg": "rgb(25, 75, 34)",
+     "c": "rgb(249, 244, 241)",
+     "r": "12px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex w-full max-w-container-lg flex-col items-center justify-center gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 1644,
+   "innerH": 1484,
+   "blocks": [
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes Heidi Team 5 August 2026 • 6 min read • Listen Read full article",
+     "href": "/en-gb/progress-notes/july-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/da872a233789f5781d851273d2839e37c7c4b180-1160x840.png",
+     "alt": "Progress notes",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "p",
+     "t": "5 August 2026 • 6 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "• Listen",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes Heidi Team 1 July 2026 • 8 min read • Listen Read full article",
+     "href": "/en-gb/progress-notes/june-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/fedcc6e3f6ca0aeb33653344d6dcd912414d4a2e-1160x840.png",
+     "alt": "Header for the image reading that this is the June change log with the topics of Evidence, Comms, Custom Consent, and updates to PDF Export ",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "p",
+     "t": "1 July 2026 • 8 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes Heidi Team 3 June 2026 • 5 min read • Listen Read full article",
+     "href": "/en-gb/progress-notes/may-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/2ad2cf3dde70a0c068b7902d2b4d7b4798c22ff1-1160x840.png",
+     "alt": "Header for the image reading that this is the May change log with the topics of Evidence, Comms, Custom Consent, and updates to PDF Export ",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "p",
+     "t": "3 June 2026 • 5 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes: Version history, flexibility with Forms and shared Sessions Heidi Team 30 April 2026 • 10 min read • Listen Read full article",
+     "href": "/en-gb/progress-notes/april-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/481b377d914e044a511ad03e78bbff50e20eacbb-1160x840.png",
+     "alt": "Header for the image reading that this is the April change log with the topics of Evidence, Comms, Custom Consent, and updates to PDF Export ",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Heidi Progress Notes: Version history, flexibility with Forms and shared Sessions",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "30 April 2026 • 10 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes: Heidi Remote, Integrations and Team Collaboration Heidi Team 31 March 2026 • 6 min read • Listen Read full article",
+     "href": "/en-gb/progress-notes/heidi-updates-march-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/bfb9772f119c82210475c8af39f0272406a330d1-1160x840.png",
+     "alt": "Header for the image reading that this is the April change log with the topics of Evidence, Comms, Custom Consent, and updates to PDF Export ",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Heidi Progress Notes: Heidi Remote, Integrations and Team Collaboration",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "31 March 2026 • 6 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes - Evidence, Comms, and more customisations Heidi Team 25 February 2026 • 6 min read • Listen Read full article",
+     "href": "/en-gb/progress-notes/heidi-updates-evidence-comms-and-more-customisations",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/8fd848a1999389d8d2c9c2f9243efa2ce28a98be-580x420.png",
+     "alt": "Header for the image reading that this is the February change log with the topics of Evidence, Comms, Custom Consent, and updates to PDF Export ",
+     "w": 356,
+     "h": 200
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "Heidi Progress Notes - Evidence, Comms, and more customisations",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "25 February 2026 • 6 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Load more articles",
+     "href": null,
+     "bg": "rgb(249, 244, 241)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes",
+     "href": "/en-gb/progress-notes/august-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes",
+     "href": "/en-gb/progress-notes/july-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes",
+     "href": "/en-gb/progress-notes/june-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes",
+     "href": "/en-gb/progress-notes/may-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes: Version history, flexibility with Forms and shared Sessions",
+     "href": "/en-gb/progress-notes/april-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes: Heidi Remote, Integrations and Team Collaboration",
+     "href": "/en-gb/progress-notes/heidi-updates-march-2026",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes - Evidence, Comms, and more customisations",
+     "href": "/en-gb/progress-notes/heidi-updates-evidence-comms-and-more-customisations",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Progress Notes: Android, templates, and smarter context",
+     "href": "/en-gb/progress-notes/heidi-updates-android-templates-and-smarter-context",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Chronic Care Plans for Australian GPs and Product Improvements",
+     "href": "/en-gb/progress-notes/december-updates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Create Documents from Tasks, 100’s of New Templates and New Billing Codes",
+     "href": "/en-gb/progress-notes/november-2025-updates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "September 2025 updates",
+     "href": "/en-gb/progress-notes/september-2025-updates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "August 2025 updates",
+     "href": "/en-gb/progress-notes/august-2025-updates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "July 2025 updates",
+     "href": "/en-gb/progress-notes/july-2025-updates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Tasks and past sessions as Context",
+     "href": "/en-gb/progress-notes/tasks-and-past-sessions-as-context",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Cursor-guided dictation and better voice control",
+     "href": "/en-gb/progress-notes/cursor-guided-dictation-and-better-voice-control",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "ICD-10 coding and more intelligent Context",
+     "href": "/en-gb/progress-notes/icd-10-coding-and-more-intelligent-context",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "New Assistant role",
+     "href": "/en-gb/progress-notes/new-assistant-role",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Improved text editor",
+     "href": "/en-gb/progress-notes/improved-text-editor",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Context upgrades and SNOMED coding",
+     "href": "/en-gb/progress-notes/context-upgrades-and-snomed-coding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Better team management and new default templates",
+     "href": "/en-gb/progress-notes/better-team-management-and-new-default-templates",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Notifications and a cleaner sessions list",
+     "href": "/en-gb/progress-notes/notifications-and-a-cleaner-sessions-list",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Desktop app and patient name preferences",
+     "href": "/en-gb/progress-notes/desktop-app-and-patient-name-preferences",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Link, split, start, tidy sessions simply",
+     "href": "/en-gb/progress-notes/link-split-start-tidy-sessions",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Mobile app, multilingual and snippets",
+     "href": "/en-gb/progress-notes/mobile-app-multilingual-snippets",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Memory",
+     "href": "/en-gb/progress-notes/memory",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Template Community",
+     "href": "/en-gb/progress-notes/template-community",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Introducing the Heidi App",
+     "href": "/en-gb/progress-notes/introducing-the-heidi-app",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Single-patient team collaboration",
+     "href": "/en-gb/progress-notes/single-patient-team-collaboration",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Introducing Teams",
+     "href": "/en-gb/progress-notes/introducing-teams",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 486
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 582,
+   "innerH": 230,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Say hello to your AI Care Partner",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Care is better with Heidi",
+     "fs": 20,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "a",
+     "t": "Get Heidi free",
+     "href": "https://scribe.heidihealth.com/onboarding",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}

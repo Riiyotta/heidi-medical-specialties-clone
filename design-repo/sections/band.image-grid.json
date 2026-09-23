@@ -1,0 +1,95 @@
+{
+  "id": "band.image-grid",
+  "category": "content",
+  "purpose": "Grid of imaged items with shared heading/lead/cta.",
+  "measuredFrom": "src/components/bands/index.jsx:1333-1361 (ImageGrid)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "maxWords": 14
+      },
+      "lead": {
+        "type": "string",
+        "maxWords": 30
+      },
+      "cta": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "maxWords": 6
+          },
+          "href": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "label",
+          "href"
+        ],
+        "additionalProperties": false
+      },
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 12,
+        "items": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string",
+              "maxWords": 10
+            },
+            "visual": {
+              "type": "object",
+              "properties": {
+                "assetRole": {
+                  "const": "editorial-thumbnail"
+                },
+                "alt": {
+                  "type": "string",
+                  "maxWords": 20
+                }
+              },
+              "required": [
+                "assetRole",
+                "alt"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "title",
+            "visual"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "title",
+      "lead",
+      "cta",
+      "items"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "maxPerPage": 1
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [
+    "editorial-thumbnail"
+  ],
+  "responsive": {
+    "mobile": "1 column",
+    "tablet": "2 columns (>=768px)",
+    "desktop": "3+ columns (>=1024px)",
+    "measuredFrom": "CLONE_SPEC.md:101-108 (breakpoint table); tokens/30-layout/grid.json"
+  }
+}

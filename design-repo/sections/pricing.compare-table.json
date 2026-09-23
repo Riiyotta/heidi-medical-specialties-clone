@@ -1,0 +1,46 @@
+{
+  "id": "pricing.compare-table",
+  "category": "conversion",
+  "purpose": "Full plan-comparison feature table, audience-filterable.",
+  "measuredFrom": "src/pages/PricingPage.jsx:236-330 (sections, Cell, CompareTable)",
+  "content": {
+    "type": "object",
+    "properties": {
+      "rows": {
+        "type": "array",
+        "minItems": 5,
+        "maxItems": 60,
+        "items": {
+          "type": "object",
+          "properties": {
+            "feature": {
+              "type": "string",
+              "maxWords": 10
+            }
+          },
+          "required": [
+            "feature"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "rows"
+    ],
+    "additionalProperties": false
+  },
+  "constraints": {
+    "onePerPage": true
+  },
+  "motion": {
+    "pattern": "fadeUpOnScroll",
+    "reducedMotionFallback": "static-no-animation"
+  },
+  "assetRoles": [],
+  "responsive": {
+    "mobile": "horizontally scrollable table",
+    "desktop": "full-width table (>=1024px)",
+    "measuredFrom": "CLONE_SPEC.md:101-108 (breakpoint table); tokens/30-layout/grid.json"
+  }
+}

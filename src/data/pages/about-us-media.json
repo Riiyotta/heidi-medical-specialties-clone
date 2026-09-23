@@ -1,0 +1,918 @@
+{
+ "slug": "about-us-media",
+ "path": "/about-us/media",
+ "url": "/en-gb/about-us/media",
+ "title": "Media",
+ "status": 200,
+ "meta": {
+  "title": "Heidi Media Room: Press Releases and Latest News",
+  "desc": "Explore the Heidi Media Room for the latest press releases, company news, and media inquiries. Access everything you need to know about… - United Kingdom"
+ },
+ "sections": [
+  {
+   "i": 0,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex items-center w-full max-w-container-lg flex-col lg:flex-row gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(249, 244, 241)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 832
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 832,
+   "innerH": 480,
+   "blocks": [
+    {
+     "k": "p",
+     "t": "About Heidi",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 1,
+     "t": "Heidi Media Room",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "left"
+    },
+    {
+     "k": "p",
+     "t": "Heidi is building an AI Care Partner, with a mission to double the world’s healthcare capacity by supporting every stage of care delivery. In addition to its popular AI scribe, Heidi has introduced Evidence – giving clinicians access to trusted medical research to support clinical decisions at the point of care. Together, these capabilities support various aspects of the clinical workflow, enabling clinicians to focus on providing quality patient care.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "Heidi supports more than 2.5 million consults each week in 110 languages from 190 countries. Founded in Melbourne, Australia, Heidi has raised $96.6M USD from global investors including Point72 Private Investments, Blackbird, Headline, Phoenix Court's growth fund - Latitude, Possible Ventures, and Archangel. Heidi adheres to international standards including the NHS, HIPAA, GDPR, and Australian Privacy Principles, and has obtained enterprise-grade security certifications such as SOC2 and ISO27001.",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/22561630014243d2ad372cdb7b0b34d1d652fb3d-1104x882.png",
+     "alt": "Heidi logo on a bark coloured background",
+     "w": 600,
+     "h": 480
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 566,
+   "innerH": 342,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Heidi's impact",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "2.5 million",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "patient sessions supported each week",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "USD 96.6m",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "raised to date",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "190 countries",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "where Heidi is being used",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 3,
+     "t": "400+ employees",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "around the world",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 413,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Our investors",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0ebd3868040f1e366de26a8a0988cfff9a01c282-400x400.png",
+     "alt": "Point72 Logo",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/74d3999581ab963a046234ed9f6db2015806c4c4-400x400.png",
+     "alt": "Anthropic Logo",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/98653d29ce412adc47a699f6bd37010d7e023e81-400x400.png",
+     "alt": "Menlo Ventures Logo",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/7bc9eb1918d0af55cc0e3e8068f2aa9f97d32724-400x400.png",
+     "alt": "LocalGlobe Logo",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a256d2e82193996c1e091de7f2c8ff785ce8e567-400x400.png",
+     "alt": "Headline Logo",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/eb9b5ee7e7bc1994e6bb44683a9e36a9294b4ea0-414x400.png",
+     "alt": "Possible Ventures Logo",
+     "w": 124,
+     "h": 120
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/e2e0da4b413b55de42c0bb42944aa8decd904492-400x400.png",
+     "alt": "Blackbird Logo",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/543a1d7f2e2c968302aeca72ef7644fdfbdead2a-400x400.png",
+     "alt": "Archangel Logo",
+     "w": 120,
+     "h": 120
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1b956270fa704c309581e7fdd979f81b01da891b-400x400.png",
+     "alt": "Hesta Logo",
+     "w": 120,
+     "h": 120
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 964,
+   "innerH": 740,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Our founders",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/image",
+     "alt": "Dr. Tom Kelly",
+     "w": 405,
+     "h": 507
+    },
+    {
+     "k": "p",
+     "t": "Dr. Tom Kelly",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "CEO & Co-Founder",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Bio",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2Fa7573dd96a10cb2271f79408b274d8cd25eb0fb9.pdf",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Photo",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2Fbc95e646dc734a10ca1ec0c5f261647b1e5e599e.jpg",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/image",
+     "alt": "Smiling man in glasses and a grey blazer over a black shirt.",
+     "w": 405,
+     "h": 507
+    },
+    {
+     "k": "p",
+     "t": "Waleed Mussa",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "CFO & Co-Founder",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Bio",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2Fdedc4d5dcf9bb304c5c7cf0a99d7016e573f236c.pdf",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Photo",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2F963243a98f9ff19436dc6733ccfbb50eafbcceba.jpg",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/image",
+     "alt": "A young East Asian man in glasses and a dark sweater smiles subtly.",
+     "w": 405,
+     "h": 507
+    },
+    {
+     "k": "p",
+     "t": "Yu Liu",
+     "fs": 20,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "CTO & Co-Founder",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Bio",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2Fa653ddc726ce6e39d15f87ccf6f961a73e5527f5.pdf",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Photo",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2F45a9c340fa1dbce0c3007f081c4fddf7158f09c2.jpg",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "DIV",
+   "id": null,
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 365,
+   "innerH": null,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "You might have seen us in",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/3d16dc36c9b85a6e0969404af0af7f6936113f93-218x84.svg",
+     "alt": "Bloomberg",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1f3f2158b240b1110f5144878c63b49c1e84ba99-218x84.svg",
+     "alt": "TechCrunch",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/eb89bfecc1a233fb09955445f8db29866911269c-218x84.svg",
+     "alt": "Business Insider",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d4b0867a2a49b59e786ed5ce5c67098cfef7cf71-218x84.svg",
+     "alt": "BBC",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5f808a2b97c3cda2250df8657125ed9ca2d836db-218x84.svg",
+     "alt": "The Australian",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/463b5dc469e4483a67e91b6d2ba700149a62521f-218x84.svg",
+     "alt": "Financial Review",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/304505877275e0a0d6841bb2ee6db3cc9393b427-218x84.svg",
+     "alt": "Digital Health",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/5be07555e69aefa75c1e75c4c7c22c24d0935a90-218x84.svg",
+     "alt": "Sky news",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1933e3d0c874145b63d07f13278c3dc87ee019ea-325x84.svg",
+     "alt": "Forbes",
+     "w": 279,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/09e0f125a3309859f98dba8a1870337adccc5719-218x84.svg",
+     "alt": "Sky news au",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/d2de54df5c2dadb00665d0a6a9e286b241d28366-218x84.svg",
+     "alt": "Financial Post",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/10eb9b334a269da0261b23dfaf5986652fa30ff0-218x84.svg",
+     "alt": "Smart Company",
+     "w": 187,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/340dda18fcbd0d38f5b7801c4d68ed6586b9999a-218x84.svg",
+     "alt": "South China Morning Post",
+     "w": 180,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/433d654b774305f4481179c6bc73f082f05741cb-218x84.svg",
+     "alt": "NZ Doctor",
+     "w": 180,
+     "h": 72
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/afef580cfcbc14bb6cfe498a712a72d5b9ececf2-218x84.svg",
+     "alt": "Capital Brief",
+     "w": 180,
+     "h": 72
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(255, 255, 255)",
+    "image": null,
+    "svg": null,
+    "radius": "0px",
+    "inset": {
+     "x": 0,
+     "w": 1440,
+     "h": 1414
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 1414,
+   "innerH": 1254,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Latest Content",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "a",
+     "t": "Media Heidi rolls out across Metro South Health: Our largest public health partnership in Australia Heidi Team 31 August 2026 • 3 min read Read full article",
+     "href": "/en-gb/blog/heidi-rolls-out-across-metro-south-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/03b86df56bbac31972c3d747bc9afed0b5ba1105-1200x675.png",
+     "alt": "Heidi Metro South Partnership",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "p",
+     "t": "Media",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Heidi rolls out across Metro South Health: Our largest public health partnership in Australia",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0ff1a7418688909fed89f90d11032271ded4dc92-122x121.png",
+     "alt": "Heidi Logo",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Heidi Team",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "31 August 2026 • 3 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Read full article",
+     "href": null,
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "16px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Media Heidi and QHR Technologies integrate AI documentation into Accuro EMR to help return time to Canadian clinicians Heidi Team 16 June 2026 • 5 min read • Listen Read full article",
+     "href": "/en-gb/blog/qhr-technologies-integrate",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/a276e1fbcf4d893d37db164d9d12ea0455e2934f-1366x768.png",
+     "alt": "Accuro and Heidi",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Heidi and QHR Technologies integrate AI documentation into Accuro EMR to help return time to Canadian clinicians",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "16 June 2026 • 5 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "p",
+     "t": "• Listen",
+     "fs": 16,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Media The Royal Children’s Hospital deploys Heidi so paediatricians can focus on patients, not paperwork Heidi Team 3 June 2026 • 6 min read • Listen Read full article",
+     "href": "/en-gb/blog/the-royal-childrens-hospital-deploys-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/0b08a09e5a54b11223bd84987e4154b98f0683a2-1000x571.png",
+     "alt": "The Royal Children's Hospital",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "The Royal Children’s Hospital deploys Heidi so paediatricians can focus on patients, not paperwork",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "3 June 2026 • 6 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Media Building the AI Care Partner for Every Clinician Dr. Thomas Kelly MD 31 October 2025 • 3 min read Read full article",
+     "href": "/en-gb/blog/ai-care-partner-for-every-clinician",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1133d085a90f1e66b1b69658f614a752a390ccff-2400x1350.jpg",
+     "alt": "A smiling man with dark hair in a blue cardigan and white t-shirt.",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Building the AI Care Partner for Every Clinician",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/1244533a03bb4b59547840e880d0c9af21de7020-801x1000.png",
+     "alt": "Dr. Tom Kelly from Heidi AI",
+     "w": 48,
+     "h": 48
+    },
+    {
+     "k": "p",
+     "t": "Dr. Thomas Kelly MD",
+     "fs": 14,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "p",
+     "t": "31 October 2025 • 3 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Media Vim and Heidi Health Partner to Accelerate Innovation at the Point of Care Heidi Team 15 October 2025 • 5 min read Read full article",
+     "href": "/en-gb/blog/vim-and-heidi-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/b40e3922afce0b2c276c931e6647aa6c7e0fe246-1200x675.jpg",
+     "alt": "Heidi logo next to Vim logo.",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Vim and Heidi Health Partner to Accelerate Innovation at the Point of Care",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "15 October 2025 • 5 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Media Heidi Secures $65 Million USD in Series B Funding to Accelerate Building an AI Care Partner for Every Clinician Heidi Team 5 October 2025 • 6 min read • Listen Read full article",
+     "href": "/en-gb/blog/heidi-series-b",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "24px",
+     "bd": null
+    },
+    {
+     "k": "img",
+     "src": "/assets/pages/823a78a81c3ec7a84e8dd27283c61941ce2034d6-1920x1080.png",
+     "alt": "an advertisement for $ 65m series b by heidi",
+     "w": 405,
+     "h": 228
+    },
+    {
+     "k": "h",
+     "lvl": 6,
+     "t": "Heidi Secures $65 Million USD in Series B Funding to Accelerate Building an AI Care Partner for Every Clinician",
+     "fs": 24,
+     "ff": "exposure",
+     "ta": "start"
+    },
+    {
+     "k": "p",
+     "t": "5 October 2025 • 6 min read",
+     "fs": 14,
+     "c": "rgb(117, 87, 96)"
+    },
+    {
+     "k": "a",
+     "t": "Load more articles",
+     "href": null,
+     "bg": "rgb(249, 244, 241)",
+     "c": "rgb(40, 3, 15)",
+     "r": "12px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi rolls out across Metro South Health: Our largest public health partnership in Australia",
+     "href": "/en-gb/blog/heidi-rolls-out-across-metro-south-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi and QHR Technologies integrate AI documentation into Accuro EMR to help return time to Canadian clinicians",
+     "href": "/en-gb/blog/qhr-technologies-integrate",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "The Royal Children’s Hospital deploys Heidi so paediatricians can focus on patients, not paperwork",
+     "href": "/en-gb/blog/the-royal-childrens-hospital-deploys-heidi",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Building the AI Care Partner for Every Clinician",
+     "href": "/en-gb/blog/ai-care-partner-for-every-clinician",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Vim and Heidi Health Partner to Accelerate Innovation at the Point of Care",
+     "href": "/en-gb/blog/vim-and-heidi-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Secures $65 Million USD in Series B Funding to Accelerate Building an AI Care Partner for Every Clinician",
+     "href": "/en-gb/blog/heidi-series-b",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "OneCare Vermont and Heidi Health Partner to Reduce Administrative Burden for Primary Care Practices Across Vermont",
+     "href": "/en-gb/blog/onecare-vermont-and-heidi-health",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "DIV",
+   "id": null,
+   "cls": "flex flex-col justify-center items-center w-full max-w-container-lg gap-section-md",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": null,
+   "ink": "rgb(40, 3, 15)",
+   "h": 513,
+   "innerH": 289,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Brand assets",
+     "fs": 48,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "Looking for our logo, official colors, or boilerplate? Look no further.",
+     "fs": 18,
+     "c": "rgb(40, 3, 15)"
+    },
+    {
+     "k": "a",
+     "t": "Heidi Logo Kit A handy zip file with Heidi logos in different colours and sizes.",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2F19e2426ad299873a8e3a4e94a9683578a60ffd58.zip&filename=Heidi_logo-kit.zip",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Colour Guide No more painful colour-match searching - find all the Heidi colour codes here.",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2F8e0f1f5831d5480f3d2a3533a37a3a6f478414bb.pdf&filename=Heidi_simple-style-guide.pdf",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    },
+    {
+     "k": "a",
+     "t": "Heidi Boilerplate A brief summary of Heidi for your press release or article.",
+     "href": "/api/download?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2Ffq1n4a7f%2Fproduction%2Faa14023377745b61dcdf40764c6507ad1b7c8333.pdf&filename=Heidi_boilerplate.pdf",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "DIV",
+   "id": null,
+   "cls": "relative z-10 flex flex-col justify-center self-center w-full max-w-container-lg items-center",
+   "bg": "rgba(0, 0, 0, 0)",
+   "layer": {
+    "color": "rgb(25, 75, 34)",
+    "image": null,
+    "svg": null,
+    "radius": "36px",
+    "inset": {
+     "x": 48,
+     "w": 1344,
+     "h": 425
+    }
+   },
+   "ink": "rgb(40, 3, 15)",
+   "h": 521,
+   "innerH": 169,
+   "blocks": [
+    {
+     "k": "h",
+     "lvl": 2,
+     "t": "Want to get in touch?",
+     "fs": 56,
+     "ff": "exposure",
+     "ta": "center"
+    },
+    {
+     "k": "p",
+     "t": "We love to collaborate to share inspiring, creative, and compelling stories.",
+     "fs": 16,
+     "c": "rgb(249, 244, 241)"
+    },
+    {
+     "k": "a",
+     "t": "Contact us",
+     "href": "mailto:media@heidihealth.com",
+     "bg": "rgba(0, 0, 0, 0)",
+     "c": "rgb(40, 3, 15)",
+     "r": "0px",
+     "bd": null
+    }
+   ]
+  }
+ ]
+}
