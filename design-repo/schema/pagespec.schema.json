@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://heidi-clone.design-repo/schema/pagespec.schema.json",
   "title": "Heidi Clone PageSpec",
-  "description": "Machine contract for a generated PageSpec instance. `basedOnTemplate` is a closed enum of the 26 real page shapes in templates/templates.json; `nodes[].section` is a closed enum of the 80 real section contracts in sections/. Each node's `content` is validated against that exact section's own independent content schema via an if/then branch keyed on `section` (draft-07 additionalProperties:false trap avoided: every branch's content schema is fully independent, not a shared-base patch). Structural cross-referencing of a PageSpec's nodes[] against its declared template's real node list happens in schema/semantic_validate.py, not here -- JSON Schema alone cannot express that.",
+  "description": "Machine contract for a generated PageSpec instance. `basedOnTemplate` is a closed enum of the 27 real page shapes in templates/templates.json; `nodes[].section` is a closed enum of the 80 real section contracts in sections/. Each node's `content` is validated against that exact section's own independent content schema via an if/then branch keyed on `section` (draft-07 additionalProperties:false trap avoided: every branch's content schema is fully independent, not a shared-base patch). Structural cross-referencing of a PageSpec's nodes[] against its declared template's real node list happens in schema/semantic_validate.py, not here -- JSON Schema alone cannot express that.",
   "type": "object",
   "required": [
     "specVersion",
@@ -37,6 +37,7 @@
         "solutions-medical-trainees",
         "solutions-shared",
         "content-index",
+        "customer-index",
         "resource-split",
         "faq-simple",
         "integration-detail",

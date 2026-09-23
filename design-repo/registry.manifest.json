@@ -10,14 +10,16 @@
     "note": "A React 18.3.1 + Vite 5.4 + Tailwind 3.4 + react-router-dom 6.30 clone of the real, live commercial site heidihealth.com. The ORIGINAL live site runs Next.js (App Router) -- this clone deliberately rebuilds in Vite, it does not use Next.js. See CLONE_SPEC.md line 5 for the original framework observation and package.json for this project's real stack."
   },
   "defaultTheme": "light",
-  "schemaValidatedThemes": ["light"],
+  "schemaValidatedThemes": [
+    "light"
+  ],
   "allowlistVersion": "1.0.0",
   "counts": {
     "tokens": 18,
     "primitives": 7,
     "components": 6,
     "sections": 80,
-    "templates": 26,
+    "templates": 27,
     "routes": 40
   },
   "countsNote": "Recomputed from disk by extraction/verify_all.py's check_manifest_counts() on every run -- not hand-bumped. A scratch-copy test that injects a wrong count here is included in this build's verification pass.",

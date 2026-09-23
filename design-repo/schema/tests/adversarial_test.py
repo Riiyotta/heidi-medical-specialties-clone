@@ -213,6 +213,24 @@ foreign = {
 m["nodes"].insert(1, foreign)
 expect_semantic_rejects("node section not part of declared template's own node list", m)
 
+# content-index/customer-index split: prose.block wrongly present on
+# content-index (real: neither /blog nor /progress-notes has one)
+content_index_tpl = TEMPLATES["content-index"]
+m = build_minimal_instance(content_index_tpl)
+prose_node = {
+    "section": "prose.block", "required": False, "repeatable": False,
+    "motion": motion_for("prose.block"),
+    "content": minimal_content_for("prose.block"),
+}
+m["nodes"].insert(1, prose_node)
+expect_semantic_rejects("prose.block smuggled onto content-index (real: blog/progress-notes have no prose section)", m)
+
+# customer-index missing its required prose.block (real: /customers has one)
+customer_index_tpl = TEMPLATES["customer-index"]
+m = build_minimal_instance(customer_index_tpl)
+m["nodes"] = [n for n in m["nodes"] if n["section"] != "prose.block"]
+expect_semantic_rejects("removed mandatory prose.block from customer-index (template cross-reference)", m)
+
 print("\n=== RUNTIME MUTATIONS (must be rejected by semantic validator) ===")
 
 m = copy.deepcopy(EXAMPLE)

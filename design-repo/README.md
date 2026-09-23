@@ -20,7 +20,7 @@ existed for this project before this build).
 | Primitives | 7 |
 | Components | 6 |
 | Sections (distinct content contracts) | 80 |
-| Templates (distinct real page shapes) | 26 |
+| Templates (distinct real page shapes) | 27 |
 | Routes mapped (1:1, no gaps, no double-assignment) | 40 |
 
 **Route count note:** the build brief this repo was built from stated 37
@@ -43,12 +43,16 @@ full evidence trail.
   `/solutions/<vertical>` route except `enterprise` and `medical-trainees`
   (both of which are hand-built, per `src/App.jsx`'s `BUILT` dict), driven by
   `SolutionsPage.jsx` and per-vertical content in `src/data/solutions.json`.
-- **16 generic-renderer templates** (21 routes) -- derived by running the
+- **17 generic-renderer templates** (21 routes) -- derived by running the
   real `classifyPage()` classifier from `src/lib/classify.js` against every
   route's `src/data/pages/<slug>.json` file and grouping identical resulting
-  section-type sequences into one template each (4 groups of 2-3 routes
-  share an identical sequence; 12 routes have a genuinely unique sequence and
-  keep their own template). `podcast` is the one hero-less template in this
+  section-type sequences into one template each (4 groups of 2 routes each
+  share an identical sequence; 13 routes have a genuinely unique sequence and
+  keep their own template). `customers` was split out of the `content-index`
+  group into its own template, `customer-index`, once `classifyPage()` showed
+  it produces a real, extra `prose` section between the hero and the card
+  grid that neither `blog` nor `progress-notes` (the two routes still sharing
+  `content-index`) has. `podcast` is the one hero-less template in this
   family (its live page promotes an `h2` to `h1` rather than rendering a
   dedicated hero section -- see `src/lib/classify.js`'s `ensureH1()`).
 

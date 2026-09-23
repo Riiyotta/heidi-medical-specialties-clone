@@ -1,5 +1,35 @@
 # Changelog
 
+## 1.1.0 -- split content-index into content-index + customer-index
+
+`classifyPage()` (`src/lib/classify.js`) was run directly against the real
+`src/data/pages/{blog,customers,progress-notes}.json` files: `/blog` and
+`/progress-notes` both produce `[hero, cards, cta]` (3 sections), but
+`/customers` produces `[hero, prose, cards, cta]` (4 sections) -- a real,
+extra `prose` section the shared `content-index` template didn't account
+for. Split `customers` into its own template, `customer-index`, with
+`prose.block` (an existing, already-catalogued section) as its second node.
+
+- `templates/templates.json`: `content-index` now covers only
+  `blog`/`progress-notes` (3 nodes); new `customer-index` covers `customers`
+  (4 nodes, `hero.generic` -> `prose.block` -> `cards.grid` -> `cta.band`).
+- `schema/pagespec.schema.json`: `basedOnTemplate` enum gained
+  `customer-index`; description's template count 26 -> 27.
+- `registry.manifest.json.counts.templates`: 26 -> 27 (verified against disk,
+  not hand-typed -- `extraction/verify_all.py`'s manifest-counts check
+  recomputes this from `templates/templates.json` directly).
+- `README.md`: template table (26 -> 27) and the generic-renderer breakdown
+  (16 -> 17 templates; "4 groups of 2-3 routes" -> "4 groups of 2 routes"
+  now that content-index dropped to 2; "12 unique" -> "13 unique").
+- `schema/tests/adversarial_test.py`: the existing per-template control loop
+  auto-synthesizes and validates both split templates with zero extra code.
+  Added 2 explicit mutations: `prose.block` smuggled onto `content-index`
+  (real: neither remaining route has one) and `prose.block` removed from
+  `customer-index` (real: `/customers` requires one) -- both correctly
+  rejected. Adversarial suite grew 45 -> 47 checks.
+- `extraction/verify_all.py` re-run clean: 9/9 checks, including route
+  coverage (40 routes, still 1:1, no gaps/double-assignment after the split).
+
 ## 1.0.0 -- 2026-09-23 -- Initial build (from scratch)
 
 First build of this design-repo (Situation A: no design-repo existed for this

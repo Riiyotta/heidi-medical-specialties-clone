@@ -547,15 +547,44 @@
     {
       "id": "content-index",
       "family": "generic",
-      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for blog, customers, progress-notes",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for blog, progress-notes (customers split out to its own template, customer-index -- classifyPage() produces a real, extra 'prose' section between hero and cards for /customers that neither /blog nor /progress-notes has).",
       "routes": [
         "blog",
-        "customers",
         "progress-notes"
       ],
       "nodes": [
         {
           "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cards.grid",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "cta.band",
+          "required": true,
+          "repeatable": false
+        }
+      ]
+    },
+    {
+      "id": "customer-index",
+      "family": "generic",
+      "measuredFrom": "GeneratedPage.jsx + src/lib/classify.js, real classifyPage() output for customers -- verified directly: classifyPage(customers.json) produces [hero, prose, cards, cta], 4 sections, distinct from content-index's 3 (blog and progress-notes both produce [hero, cards, cta] with no prose section).",
+      "routes": [
+        "customers"
+      ],
+      "nodes": [
+        {
+          "section": "hero.generic",
+          "required": true,
+          "repeatable": false
+        },
+        {
+          "section": "prose.block",
           "required": true,
           "repeatable": false
         },
